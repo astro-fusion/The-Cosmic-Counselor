@@ -1,0 +1,57 @@
+# R and RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Quarto
+.quarto/
+_book/
+_site/
+site_libs/
+/.quarto/
+
+# Build outputs and cache
+*_cache/
+*_files/
+_main.rds
+_main.*
+*.html
+!CODE_OF_CONDUCT.md
+!plausible.html
+search_index.json
+libs/
+figures/
+tmp-pdfcrop-*
+
+# Data files (typically large)
+/data/seattle-library-checkouts.csv
+/data/seattle-library-checkouts.parquet
+/data/seattle-library-checkouts/
+*.csv
+*.parquet
+
+# Rendered outputs
+*.pdf
+*.epub
+*.docx
+*.md
+!README.md
+!CODE_OF_CONDUCT.md
+
+# Publishing and external
+oreilly/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
