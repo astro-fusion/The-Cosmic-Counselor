@@ -6,10 +6,21 @@ book:
   author: "Bishal Ghimire"
   date: "5/24/2025"
   chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    # Front Matter (consolidated in index.qmd)
+    - index.qmd              # Preface, Acknowledgments, etc. (required)
+    - foreword.qmd           # Foreword (if written by someone else)
+    - prologue.qmd           # Prologue (narrative bridge to main content)
+    - gratitude.qmd         # Gratitude (optional, for acknowledgments)
+    - preface.qmd           # Preface (optional, if not included in index.qmd)
+    # Main Content
+    - part: "Part I: Foundation"
+      chapters:
+        - intro.qmd          # Introduction
+        # Add your main chapters here
+    
+    # Back Matter
+    - summary.qmd            # Summary/Conclusion
+    - references.qmd         # References
 
 bibliography: references.bib
 
