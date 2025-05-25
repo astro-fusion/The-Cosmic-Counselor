@@ -1,23 +1,34 @@
-# The Cosmic Counselor {.unnumbered}
+# Welcome to The Cosmic Counselor {.unnumbered}
 
-## Foreword {.unnumbered}
-
-[Foreword content]
-
-## Preface {.unnumbered}
-
-[Preface content]
-
-## Acknowledgments {.unnumbered}
-
-[Gratitude content]
-
-## Prologue {.unnumbered}
-
-[Prologue content]
+A comprehensive guide for ethical spiritual practice in the modern world.
 
 ## About This Book {.unnumbered}
 
-This is a Quarto book about cosmic counseling...
+**The Cosmic Counselor** bridges ancient wisdom with modern ethical practices. Whether you read birth charts, tarot cards, palms, or numbers, this book provides universal principles for responsible spiritual counseling.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+### Who This Book Is For {.unnumbered}
+
+- Astrologers and tarot readers
+- Numerologists and palmists  
+- Spiritual counselors and advisors
+- Anyone seeking to practice divination ethically
+
+### What You'll Learn {.unnumbered}
+
+- Ethical guidelines for spiritual practice
+- Basic psychology for spiritual counselors
+- Building trust and active listening skills
+- When and how to refer clients to mental health professionals
+- Self-care and professional boundaries
+- Cultural sensitivity in spiritual practice
+
+### How to Use This Book {.unnumbered}
+
+Each chapter includes:
+- **Main Content**: Core concepts and principles
+- **Practice Exercises**: Hands-on activities and reflections
+- **Knowledge Checks**: Quizzes to test your understanding
+
+---
+
+*Begin your journey toward ethical spiritual counseling...*

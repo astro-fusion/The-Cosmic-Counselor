@@ -1,33 +1,47 @@
 project:
   type: book
+  output-dir: _book
 
 book:
   title: "The Cosmic Counselor"
+  subtitle: "Ethical Spiritual Guidance in Modern Times"
   author: "Bishal Ghimire"
-  date: "5/24/2025"
+  
   chapters:
-    # Front Matter (consolidated in index.qmd)
-    - index.qmd              # Preface, Acknowledgments, etc. (required)
-    - foreword.qmd           # Foreword (if written by someone else)
-    - prologue.qmd           # Prologue (narrative bridge to main content)
-    - gratitude.qmd         # Gratitude (optional, for acknowledgments)
-    - preface.qmd           # Preface (optional, if not included in index.qmd)
-    # Main Content
+    # Home page with all frontmatter
+    - index.qmd
+
+    # Frontmatter
+    - frontmatter/prologue.qmd
+    - frontmatter/foreword.qmd
+    - frontmatter/gratitude.qmd
+    - frontmatter/preface.qmd
+    
+    # Main chapters
     - part: "Part I: Foundation"
       chapters:
-        - intro.qmd          # Introduction
-        # Add your main chapters here
+        - chapters/chapter-01/index.qmd
+        - chapters/chapter-01/practice.qmd
+        - chapters/chapter-01/quiz.qmd
     
-    # Back Matter
-    - summary.qmd            # Summary/Conclusion
-    - references.qmd         # References
-
-bibliography: references.bib
+    # Backmatter
+    - backmatter/summary.qmd
+    - backmatter/references.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - styles/global.scss
+    css: 
+      - styles/chapter.scss
+      - styles/practice.scss
+      - styles/quiz.scss
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  
   pdf:
-    documentclass: scrreprt
-  epub:
-    cover-image: cover.png
+    documentclass: book
+    toc: true
+    number-sections: true

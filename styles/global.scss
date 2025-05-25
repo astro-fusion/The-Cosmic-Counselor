@@ -1,0 +1,130 @@
+/*-- scss:defaults --*/
+
+// Global Variables for The Cosmic Counselor
+$primary-color: #2c3e50;
+$secondary-color: #3498db;
+$accent-color: #e74c3c;
+$success-color: #27ae60;
+$warning-color: #f39c12;
+$light-bg: #f8f9fa;
+$border-color: #dee2e6;
+$text-color: #2c3e50;
+$light-text: #6c757d;
+
+// Typography
+$font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+$headings-font-family: 'Playfair Display', Georgia, serif;
+$font-size-base: 1.1rem;
+$line-height-base: 1.7;
+
+/*-- scss:mixins --*/
+
+// Common box styling mixin
+@mixin practice-box($border-color, $icon-color) {
+  background: white;
+  border: 2px solid $border-color;
+  border-radius: 12px;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+  .exercise-title,
+  .quiz-title,
+  .assessment-title,
+  .action-title,
+  .reflection-title {
+    color: $icon-color;
+    font-size: 1.3em;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid lighten($border-color, 20%);
+    padding-bottom: 0.5rem;
+  }
+}
+
+/*-- scss:rules --*/
+
+// Global typography
+body {
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  color: $text-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $headings-font-family;
+  color: $primary-color;
+}
+
+// Common elements
+.writing-space {
+  background: $light-bg;
+  border: 1px dashed $border-color;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  min-height: 80px;
+  
+  p {
+    margin: 0;
+    line-height: 1.8;
+    color: $light-text;
+  }
+}
+
+.example-box {
+  background: lighten($secondary-color, 45%);
+  border-left: 4px solid $secondary-color;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 0 8px 8px 0;
+  
+  strong {
+    color: $secondary-color;
+  }
+  
+  em {
+    font-style: italic;
+    color: $primary-color;
+  }
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  .exercise-box,
+  .quiz-box,
+  .assessment-box,
+  .action-box,
+  .reflection-box {
+    margin: 1rem 0;
+    padding: 1rem;
+  }
+  
+  .exercise-title,
+  .quiz-title,
+  .assessment-title,
+  .action-title,
+  .reflection-title {
+    font-size: 1.1em;
+  }
+}
+
+// Print styles
+@media print {
+  .exercise-box,
+  .quiz-box,
+  .assessment-box,
+  .action-box,
+  .reflection-box {
+    break-inside: avoid;
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+  
+  .writing-space {
+    background: white;
+    border: 1px solid #ccc;
+    min-height: 100px;
+  }
+}

@@ -1,0 +1,114 @@
+/*-- scss:rules --*/
+
+// Quiz-specific styles (using global variables and mixins)
+
+// Quiz box
+.quiz-box {
+  @include practice-box($secondary-color, $secondary-color);
+  
+  .quiz-content {
+    line-height: 1.6;
+    
+    p {
+      margin-bottom: 1rem;
+      font-weight: 500;
+    }
+    
+    // Style quiz options
+    p + p {
+      margin-left: 1rem;
+      margin-bottom: 0.3rem;
+      font-weight: normal;
+    }
+  }
+  
+  .quiz-answers {
+    background: lighten($secondary-color, 45%);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1.5rem;
+    font-weight: 600;
+    color: $secondary-color;
+  }
+}
+
+// Assessment box
+.assessment-box {
+  @include practice-box($warning-color, $warning-color);
+  
+  .assessment-content {
+    line-height: 1.6;
+    
+    strong {
+      color: $primary-color;
+      display: block;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    ul {
+      margin: 0.5rem 0 1rem 1rem;
+      
+      li {
+        margin-bottom: 0.3rem;
+      }
+    }
+  }
+  
+  .reflection-questions {
+    background: lighten($warning-color, 40%);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1.5rem;
+    
+    strong {
+      color: $warning-color;
+      margin-bottom: 1rem;
+    }
+    
+    ol {
+      margin: 1rem 0;
+      padding-left: 1.5rem;
+      
+      li {
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+}
+
+// Action box
+.action-box {
+  @include practice-box($accent-color, $accent-color);
+  
+  .action-content {
+    line-height: 1.6;
+  }
+  
+  .action-level {
+    background: lighten($accent-color, 45%);
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+    
+    strong {
+      color: $accent-color;
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+    
+    ul {
+      margin: 0.5rem 0;
+      list-style: none;
+      padding-left: 0;
+      
+      li {
+        margin-bottom: 0.5rem;
+        
+        input[type="checkbox"] {
+          margin-right: 0.5rem;
+        }
+      }
+    }
+  }
+}

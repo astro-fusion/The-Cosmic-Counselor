@@ -25,46 +25,30 @@ The Cosmic Counselor is a practical guide that bridges ancient wisdom with moder
 
 ## Repository Structure
 
-# The Cosmic Counselor
-
-<!-- badges: start -->
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/cosmic-counselor)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-<!-- badges: end -->
-
-This repository contains the source files for **The Cosmic Counselor: A Guide to Ethical Spiritual Practice**, a comprehensive guide for astrologers, tarot readers, and other spiritual counselors.
-
-The book is built using [Quarto](https://quarto.org/).
-
-## About the Book
-
-The Cosmic Counselor is a practical guide that bridges ancient wisdom with modern ethical practices. Whether you read birth charts, tarot cards, palms, or numbers, this book provides universal principles for responsible spiritual counseling.
-
-**Target Audience:** Astrologers, tarot readers, numerologists, palmists, and other spiritual counselors worldwide.
-
-**Key Topics:**
-- Ethical guidelines for spiritual practice
-- Basic psychology for spiritual counselors
-- Building trust and active listening skills
-- When and how to refer clients to mental health professionals
-- Self-care and professional boundaries
-- Cultural sensitivity in spiritual practice
-
-## Repository Structure
+```
 the-cosmic-counselor/
-├── _quarto.yml # Quarto configuration
-├── index.qmd # Book homepage
-├── prologue.qmd # Cosmic Prelude
-├── gratitude.qmd # Gratitude Constellation
-├── preface.qmd # Astral Insights
-├── chapters/ # Main book chapters
-│ ├── 01-introduction.qmd
-│ ├── 02-ethics.qmd
-│ ├── 03-psychology.qmd
-│ └── ...
-├── images/ # Book diagrams and illustrations
-├── references.bib # Bibliography
-└── README.md # This file
+├── _quarto.yml          # Quarto configuration
+├── index.qmd            # Book homepage
+├── prologue.qmd         # Cosmic Prelude
+├── gratitude.qmd        # Gratitude Constellation
+├── preface.qmd          # Astral Insights
+├── chapters/            # Main book chapters
+│   ├── 01-introduction.qmd
+│   ├── 02-ethics.qmd
+│   ├── 03-psychology.qmd
+│   ├── 04-techniques.qmd
+│   ├── 05-practice.qmd
+│   └── 06-conclusion.qmd
+├── images/              # Book diagrams and illustrations
+│   ├── cover-art.png
+│   ├── diagrams/
+│   └── charts/
+├── data/                # Example datasets (if any)
+├── references.bib       # Bibliography
+├── _book/               # Generated book output (ignored by git)
+├── .gitignore          # Git ignore patterns
+└── README.md           # This file
+```
 
 ## Building the Book
 

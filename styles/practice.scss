@@ -1,0 +1,66 @@
+/*-- scss:rules --*/
+
+// Practice-specific styles (using global variables and mixins)
+
+// Practice header
+.practice-header {
+  text-align: center;
+  color: $primary-color;
+  border-bottom: 3px solid $secondary-color;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+}
+
+// Exercise box
+.exercise-box {
+  @include practice-box($success-color, $success-color);
+  
+  .exercise-meta {
+    background: lighten($success-color, 45%);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+    
+    strong {
+      color: $success-color;
+    }
+  }
+  
+  .exercise-content {
+    line-height: 1.6;
+    
+    h4, strong {
+      color: $primary-color;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    ul {
+      margin: 1rem 0;
+      padding-left: 1.5rem;
+      
+      li {
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+}
+
+// Reflection box
+.reflection-box {
+  @include practice-box(#9b59b6, #9b59b6);
+  
+  .reflection-content {
+    line-height: 1.6;
+    
+    ol {
+      margin: 1rem 0;
+      padding-left: 1.5rem;
+      
+      li {
+        margin-bottom: 0.5rem;
+        font-weight: 500;
+      }
+    }
+  }
+}

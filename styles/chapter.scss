@@ -1,0 +1,122 @@
+/*-- scss:defaults --*/
+
+// Chapter-specific variables
+$chapter-accent: #8e44ad;
+$chapter-highlight: #f1c40f;
+
+/*-- scss:rules --*/
+
+// Chapter header styling
+.chapter-header {
+  background: linear-gradient(135deg, $primary-color, $secondary-color);
+  color: white;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  
+  h1 {
+    color: white;
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+  }
+  
+  .chapter-subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    font-style: italic;
+  }
+}
+
+// Chapter introduction
+.chapter-intro {
+  background: lighten($chapter-accent, 45%);
+  border-left: 4px solid $chapter-accent;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  font-size: 1.1rem;
+  
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Chapter sections
+.chapter-section {
+  margin: 2rem 0;
+  
+  h2 {
+    color: $primary-color;
+    border-bottom: 2px solid $secondary-color;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  h3 {
+    color: $chapter-accent;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+}
+
+// Key concepts highlighting
+.key-concept {
+  background: lighten($chapter-highlight, 30%);
+  border: 1px solid $chapter-highlight;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  
+  strong {
+    color: darken($chapter-highlight, 30%);
+  }
+}
+
+// Chapter navigation
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid $border-color;
+  
+  a {
+    color: $secondary-color;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid $secondary-color;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background: $secondary-color;
+      color: white;
+    }
+  }
+}
+
+// Responsive chapter styles
+@media (max-width: 768px) {
+  .chapter-header {
+    padding: 1.5rem;
+    
+    h1 {
+      font-size: 2rem;
+    }
+    
+    .chapter-subtitle {
+      font-size: 1rem;
+    }
+  }
+  
+  .chapter-nav {
+    flex-direction: column;
+    gap: 1rem;
+    
+    a {
+      text-align: center;
+    }
+  }
+}
