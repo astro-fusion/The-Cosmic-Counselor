@@ -1,12 +1,18 @@
-name: Publish Quarto Book to GitHub Pages
+name: Publish Quarto Book
 
 on:
   push:
     branches: [main]
+    paths:
+      - '*.qmd'
+      - '**/*.qmd'
+      - '_quarto.yml'
+      - 'styles/**'
+      - 'scripts/**'
   workflow_dispatch:
 
 jobs:
-  build-deploy:
+  build-html:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -20,8 +26,8 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render Quarto Project
-        uses: quarto-dev/quarto-actions/render@v2
+      - name: Render HTML
+        run: quarto render --to html
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -34,3 +40,48 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  build-formats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Render PDF and EPUB
+        run: |
+          quarto render --to pdf
+          quarto render --to epub
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        id: create_release
+        uses: ncipollo/release-action@v1
+        with:
+          tag: release-${{ steps.date.outputs.date }}
+          name: Book Release ${{ steps.date.outputs.date }}
+          body: |
+            📚 **The Cosmic Counselor** - Latest Build
+            
+            **Available Formats:**
+            - 🌐 **HTML**: [View Online](https://astro-fusion.github.io/the-cosmic-counselor)
+            - 📄 **PDF**: Download below
+            - 📱 **EPUB**: Download below
+            
+            Generated on: ${{ steps.date.outputs.date }}
+          artifacts: |
+            ./_book/The-Cosmic-Counselor.pdf
+            ./_book/The-Cosmic-Counselor.epub
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
