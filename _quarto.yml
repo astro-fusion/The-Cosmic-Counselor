@@ -46,3 +46,17 @@ format:
     documentclass: book
     toc: true
     number-sections: true
+    keep-tex: true
+    
+  epub:
+    toc: true
+    number-sections: true
+
+# GitHub Pages configuration
+website:
+  site-url: "https://astro-fusion.github.io/the-cosmic-counselor"
+  repo-url: "https://github.com/astro-fusion/The-Cosmic-Counselor"
+
+publish:
+  - provider: gh-pages
+    url: "https://astro-fusion.github.io/the-cosmic-counselor"
