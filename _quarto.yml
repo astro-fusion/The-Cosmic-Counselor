@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _book
+  resources:
+    - scripts/
 
 book:
   title: "The Cosmic Counselor"
@@ -18,11 +20,9 @@ book:
     - frontmatter/preface.qmd
     
     # Main chapters
-    - part: "Part I: Foundation"
+    - part: "Chapters"
       chapters:
-        - chapters/chapter-01/index.qmd
-        - chapters/chapter-01/practice.qmd
-        - chapters/chapter-01/quiz.qmd
+        - chapters/chapter-01.qmd
     
     # Backmatter
     - backmatter/summary.qmd
@@ -32,11 +32,12 @@ format:
   html:
     theme: 
       - cosmo
-      - styles/global.scss
-    css: 
+    css:
+      - styles/global.scss 
       - styles/chapter.scss
       - styles/practice.scss
       - styles/quiz.scss
+
     toc: true
     toc-depth: 3
     number-sections: true

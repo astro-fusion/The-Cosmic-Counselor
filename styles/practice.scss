@@ -1,66 +1,175 @@
 /*-- scss:rules --*/
 
-// Practice-specific styles (using global variables and mixins)
-
 // Practice header
 .practice-header {
   text-align: center;
-  color: $primary-color;
-  border-bottom: 3px solid $secondary-color;
+  color: #2c3e50;
+  border-bottom: 3px solid #27ae60;
   padding-bottom: 1rem;
   margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 600;
 }
 
-// Exercise box
+// Exercise box - Similar to quiz box design
 .exercise-box {
-  @include practice-box($success-color, $success-color);
+  background: #f0fff4;
+  border: 2px solid #27ae60;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+// Exercise title
+.exercise-title {
+  color: #27ae60;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+// Exercise meta information
+.exercise-meta {
+  background: #e8f5e8;
+  border-left: 4px solid #27ae60;
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 1.5rem;
+  
+  strong {
+    color: #27ae60;
+    font-weight: 600;
+  }
+}
+
+// Exercise content
+.exercise-content {
+  line-height: 1.7;
+  
+  h4, strong {
+    color: #2c3e50;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.8rem;
+    font-size: 1.1rem;
+  }
+  
+  ul, ol {
+    margin: 1rem 0;
+    padding-left: 1.5rem;
+    
+    li {
+      margin-bottom: 0.7rem;
+      line-height: 1.6;
+    }
+  }
+  
+  // Style step headers
+  strong:contains("Step") {
+    background: linear-gradient(135deg, #27ae60, #2ecc71);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    display: inline-block;
+    margin: 1.5rem 0 1rem 0;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+}
+
+// Values selection area - styled like quiz options
+.values-selection {
+  background: #f8f9fa;
+  border: 2px solid #27ae60;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  
+  strong {
+    color: #27ae60;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    display: block;
+  }
+}
+
+// Interactive elements styling
+.exercise-content input[type="text"] {
+  border: 2px solid #bdc3c7;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  width: 100%;
+  max-width: 300px;
+  
+  &:focus {
+    outline: none;
+    border-color: #27ae60;
+    box-shadow: 0 0 0 3px rgba(39, 174, 96, 0.1);
+  }
+}
+
+// Checkboxes and interactive lists
+.exercise-content li:has(input[type="checkbox"]) {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 6px;
+  
+  input[type="checkbox"] {
+    transform: scale(1.2);
+    accent-color: #27ae60;
+  }
+}
+
+// Practice assessment box - visual only, no interactions
+.practice-assessment-box {
+  background: #fff8e1;
+  border: 2px solid #ffa726;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+  // Style category headings
+  strong {
+    color: #ffa726;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 2rem 0 1rem 0;
+    border-bottom: 2px solid #ffcc80;
+    padding-bottom: 0.5rem;
+    display: block;
+  }
+  
+  // Regular paragraphs - no interactions
+  p {
+    margin: 1rem 0;
+    padding: 0.5rem 0;
+    line-height: 1.6;
+  }
+}
+
+// Mobile responsive
+@media (max-width: 768px) {
+  .exercise-box {
+    margin: 1rem 0;
+    padding: 1.5rem;
+  }
+  
+  .exercise-title {
+    font-size: 1.2rem;
+  }
   
   .exercise-meta {
-    background: lighten($success-color, 45%);
     padding: 1rem;
-    border-radius: 8px;
-    margin-bottom: 1.5rem;
-    
-    strong {
-      color: $success-color;
-    }
-  }
-  
-  .exercise-content {
-    line-height: 1.6;
-    
-    h4, strong {
-      color: $primary-color;
-      margin-top: 1.5rem;
-      margin-bottom: 0.5rem;
-    }
-    
-    ul {
-      margin: 1rem 0;
-      padding-left: 1.5rem;
-      
-      li {
-        margin-bottom: 0.5rem;
-      }
-    }
-  }
-}
-
-// Reflection box
-.reflection-box {
-  @include practice-box(#9b59b6, #9b59b6);
-  
-  .reflection-content {
-    line-height: 1.6;
-    
-    ol {
-      margin: 1rem 0;
-      padding-left: 1.5rem;
-      
-      li {
-        margin-bottom: 0.5rem;
-        font-weight: 500;
-      }
-    }
   }
 }

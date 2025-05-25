@@ -7,7 +7,7 @@
 
 This repository contains the source files for **The Cosmic Counselor: A Guide to Ethical Spiritual Practice**, a comprehensive guide for astrologers, tarot readers, and other spiritual counselors.
 
-The book is built using [Quarto](https://quarto.org/).
+The book is built using [Quarto](https://quarto.org/) and features an interactive learning format with main content, practice exercises, and knowledge checks for each chapter.
 
 ## About the Book
 
@@ -27,50 +27,125 @@ The Cosmic Counselor is a practical guide that bridges ancient wisdom with moder
 
 ```
 the-cosmic-counselor/
-├── _quarto.yml          # Quarto configuration
-├── index.qmd            # Book homepage
-├── prologue.qmd         # Cosmic Prelude
-├── gratitude.qmd        # Gratitude Constellation
-├── preface.qmd          # Astral Insights
-├── chapters/            # Main book chapters
-│   ├── 01-introduction.qmd
-│   ├── 02-ethics.qmd
-│   ├── 03-psychology.qmd
-│   ├── 04-techniques.qmd
-│   ├── 05-practice.qmd
-│   └── 06-conclusion.qmd
-├── images/              # Book diagrams and illustrations
-│   ├── cover-art.png
-│   ├── diagrams/
-│   └── charts/
-├── data/                # Example datasets (if any)
-├── references.bib       # Bibliography
-├── _book/               # Generated book output (ignored by git)
-├── .gitignore          # Git ignore patterns
-└── README.md           # This file
+├── _quarto.yml              # Quarto configuration
+├── index.qmd                # Book homepage & overview
+├── frontmatter/             # Pre-chapter content
+│   ├── prologue.qmd         # Cosmic Prelude
+│   ├── foreword.qmd         # Foreword by guest author
+│   ├── gratitude.qmd        # Gratitude Constellation
+│   └── preface.qmd          # Astral Insights
+├── chapters/                # Main chapters (1-10)
+│   ├── chapter-01/
+│   │   ├── index.qmd        # Main chapter content
+│   │   ├── practice.qmd     # Practice exercises & reflections
+│   │   └── quiz.qmd         # Knowledge check & assessment
+│   ├── chapter-02/          # Following same pattern
+│   │   ├── index.qmd
+│   │   ├── practice.qmd
+│   │   └── quiz.qmd
+│   └── ...                  # Chapters 3-10 (planned)
+├── backmatter/              # Post-chapter content
+│   ├── summary.qmd          # Book summary & key takeaways
+│   └── references.qmd       # Bibliography & resources
+├── styles/                  # Custom styling (planned)
+│   ├── global.scss          # Global book styles
+│   ├── chapter.scss         # Chapter content styles
+│   ├── practice.scss        # Practice section styles
+│   └── quiz.scss           # Quiz section styles
+├── images/                  # Book diagrams and illustrations
+│   ├── chapter-01/          # Chapter-specific images
+│   ├── global/              # Shared images
+│   └── covers/              # Cover art
+├── data/                    # Example datasets (if any)
+├── _book/                   # Generated book output (ignored by git)
+├── .gitignore              # Git ignore patterns
+└── README.md               # This file
 ```
+
+## Chapter Structure
+
+Each chapter follows a consistent three-part structure:
+
+### 📖 Main Content (`index.qmd`)
+- Core concepts and principles
+- Real-world examples and case studies
+- Theoretical foundation
+
+### 🎯 Practice Exercises (`practice.qmd`)
+- Hands-on activities and reflections
+- Role-playing scenarios
+- Self-assessment tools
+- Journaling prompts
+
+### ✅ Knowledge Check (`quiz.qmd`)
+- Multiple choice questions
+- Scenario-based assessments
+- Critical thinking exercises
+- Progress validation
 
 ## Building the Book
 
 To build the book locally:
 
-1. Install [Quarto](https://quarto.org/docs/get-started/)
-2. Clone this repository
-3. Run `quarto render` in the project directory
+1. **Install Quarto**
+   ```bash
+   # macOS (with Homebrew)
+   brew install quarto
+   
+   # Or download from https://quarto.org/docs/get-started/
+   ```
+
+2. **Clone this repository**
+   ```bash
+   git clone https://github.com/astro-fusion/the-cosmic-counselor.git
+   cd the-cosmic-counselor
+   ```
+
+3. **Render the book**
+   ```bash
+   # Full book
+   quarto render
+   
+   # Preview while developing
+   quarto preview
+   
+   # Single chapter
+   quarto preview chapters/chapter-01/index.qmd
+   ```
 
 The book will be generated in the `_book/` directory.
 
+## Development Workflow
+
+### Adding New Chapters
+1. Create new chapter folder: `chapters/chapter-XX/`
+2. Add three files: `index.qmd`, `practice.qmd`, `quiz.qmd`
+3. Update `_quarto.yml` to include the new chapter
+4. Add chapter-specific images to `images/chapter-XX/`
+
+### Styling and Themes
+- Global styles: Edit `styles/global.scss`
+- Section-specific styles: Edit respective `.scss` files
+- Chapter-specific styling: Add custom CSS in chapter folders
+
 ## Images and Diagrams
 
-### Illustrations
-- Use simple, culturally neutral graphics
-- Export as 300 dpi PNG files
-- Maintain consistent style throughout
+### Guidelines
+- **Format**: Export as 300 dpi PNG files
+- **Style**: Simple, culturally neutral graphics
+- **Accessibility**: Include alt text for all images
+- **Organization**: Store in appropriate chapter folders
 
-### Screenshots
-- Use light themes for better readability
-- Ensure text is clearly visible
-- Include alt text for accessibility
+### File Naming Convention
+```
+images/
+├── chapter-01/
+│   ├── ethics-framework.png
+│   └── boundary-diagram.png
+├── global/
+│   ├── cosmic-logo.png
+│   └── spiritual-symbols.png
+```
 
 ## Contributing
 
@@ -82,12 +157,13 @@ We welcome contributions to improve this book! Here's how you can help:
 - **Translations**: Help translate the book into other languages
 - **Proofreading**: Help fix typos and improve clarity
 - **Cultural Perspectives**: Add insights from different spiritual traditions
+- **Practice Exercises**: Suggest new activities and assessments
 
 ### How to Contribute
 1. Fork this repository
 2. Create a feature branch (`git checkout -b feature/your-improvement`)
 3. Make your changes
-4. Ensure the book still builds correctly
+4. Test the build: `quarto render`
 5. Submit a pull request with a clear description
 
 ### Guidelines
@@ -95,6 +171,7 @@ We welcome contributions to improve this book! Here's how you can help:
 - Keep language simple and accessible
 - Respect cultural sensitivity
 - Include proper citations for any referenced material
+- Follow the established chapter structure (main/practice/quiz)
 
 ## Cultural Sensitivity
 
@@ -103,6 +180,15 @@ This book aims to be inclusive of all spiritual traditions and cultural backgrou
 - Respect different cultural approaches to spiritual counseling
 - Use inclusive language
 - Consider global perspectives
+- Acknowledge diverse spiritual frameworks
+
+## Current Status
+
+- ✅ Project structure established
+- ✅ Chapter 1 drafted (Understanding Ethical Boundaries)
+- 🔄 Frontmatter content in development
+- 📋 Chapters 2-10 planned
+- 📋 Custom styling system planned
 
 ## License
 
@@ -118,11 +204,11 @@ Under these conditions:
 
 ## Contact
 
-**Author:** [Bishal Ghimire]
-**Email:** [astrofusion369@gmail.com]
-**Website:** [astro-fusion.com]
+**Author:** Bishal Ghimire  
+**Email:** astrofusion369@gmail.com  
+**Website:** [astro-fusion.com](https://astro-fusion.com)
 
-For questions about the book content or suggestions for improvement, please [open an issue](https://github.com/yourusername/cosmic-counselor/issues).
+For questions about the book content or suggestions for improvement, please [open an issue](https://github.com/astro-fusion/the-cosmic-counselor/issues).
 
 ## Acknowledgments
 

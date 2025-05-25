@@ -1,7 +1,6 @@
-::: {.quiz-box}
-### 📝 Knowledge Check Quiz {.quiz-title}
+## 📝 Knowledge Check Quiz {.quiz-title}
 
-::: {.quiz-content}
+::: {.quiz-box}
 **1. What's the main problem with traditional spiritual counseling education?**
 
 A) It teaches too much theory  
@@ -37,96 +36,83 @@ B) Making accurate predictions
 C) Listening with compassion and speaking with wisdom  
 D) Having expensive tools and materials
 
-::: {.quiz-answers}
-**Answers:** 1-B, 2-C, 3-C, 4-C, 5-C
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-B, 2-C, 3-C, 4-C, 5-C
 :::
 :::
-:::
+
+---
 
 ::: {.assessment-box}
-### 📊 Self-Assessment: Where Am I Now? {.assessment-title}
+### 📊 Self-Assessment: Where Am I Now?
 
-::: {.assessment-content}
-**Rate yourself honestly on each area (1 = Need lots of work, 5 = Very confident):**
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
 
 **Technical Skills:**
-- Understanding my spiritual practice (astrology/tarot/etc.): ___/5
-- Interpreting readings accurately: ___/5
-- Explaining complex concepts simply: ___/5
+
+Understanding my spiritual practice
+
+Interpreting readings accurately
+
+Explaining complex concepts simply
 
 **People Skills:**
-- Listening without interrupting: ___/5
-- Responding with compassion: ___/5
-- Staying calm when clients are upset: ___/5
-- Asking helpful questions: ___/5
 
-**Professional Skills:**
-- Setting appropriate boundaries: ___/5
-- Recognizing when to refer to other professionals: ___/5
-- Keeping client information private: ___/5
-- Managing my own emotions during sessions: ___/5
+Listening without interrupting
 
-**Ethical Awareness:**
-- Understanding the impact of my words: ___/5
-- Prioritizing client well-being over being "right": ___/5
-- Practicing cultural sensitivity: ___/5
-- Continuing to learn and improve: ___/5
+Responding with compassion
 
-::: {.reflection-questions}
+Staying calm when clients are upset
+
+Asking helpful questions
+
+**Boundary Skills:**
+
+Knowing when to refer clients
+
+Maintaining appropriate relationships
+
+Managing my emotions during sessions
+
 **Reflection Questions:**
 
 1. Which area scored lowest? This is your priority for growth.
 2. Which area scored highest? This is your strength to build on.
 3. What specific step will you take this week to improve?
-:::
-:::
-:::
-
-::: {.action-box}
-### 🎯 Action Steps for This Week {.action-title}
-
-::: {.action-content}
-Choose ONE action to focus on this week:
-
-::: {.action-level}
-**For Beginners:**
-- [ ] Write and post your Sacred Promise where you'll see it daily
-- [ ] Practice active listening with family or friends
-- [ ] Read one article about counseling skills
-:::
-
-::: {.action-level}
-**For Experienced Practitioners:**
-- [ ] Review your last 5 client sessions - what could you have done better?
-- [ ] Ask a trusted friend to give you honest feedback about your communication style
-- [ ] Research local mental health professionals for referrals
-:::
-
-::: {.action-level}
-**For Everyone:**
-- [ ] Start a practice journal to track your growth
-- [ ] Join an online community of ethical spiritual counselors
-- [ ] Schedule time for self-care and reflection
-:::
-:::
-:::
-
-::: {.reflection-box}
-### 💭 Chapter Reflection {.reflection-title}
-
-::: {.reflection-content}
-Before moving to the next chapter, spend 5 minutes thinking about:
-
-1. **What surprised me most in this chapter?**
-2. **What challenged my current way of practicing?**
-3. **What am I most excited to work on?**
-4. **How will I remember to apply what I learned?**
 
 ::: {.writing-space}
-Write your thoughts here:  
-_________________________________  
-_________________________________  
-_________________________________
+*Space for your reflections...*
 :::
+
 :::
+---
+
+::: {.action-box}
+### 🎯 Action Steps for This Week
+
+**Beginner Level:**
+
+- [ ] Write your personal code of ethics (3-5 sentences)
+- [ ] Practice active listening with one person today
+- [ ] Research one mental health resource in your area
+
+**Intermediate Level:**
+
+- [ ] Role-play difficult client scenarios with a friend
+- [ ] Create a referral list of mental health professionals
+- [ ] Practice giving empowering responses instead of predictions
+
+**Advanced Level:**
+
+- [ ] Develop a client intake form with ethical guidelines
+- [ ] Create boundary scripts for challenging situations
+- [ ] Schedule monthly self-care and supervision practices
 :::
+
+<script src="../scripts/quiz-interactions.js"></script>

@@ -1,114 +1,198 @@
 /*-- scss:rules --*/
 
-// Quiz-specific styles (using global variables and mixins)
-
-// Quiz box
+/* Quiz box styling */
 .quiz-box {
-  @include practice-box($secondary-color, $secondary-color);
-  
-  .quiz-content {
-    line-height: 1.6;
-    
-    p {
-      margin-bottom: 1rem;
-      font-weight: 500;
-    }
-    
-    // Style quiz options
-    p + p {
-      margin-left: 1rem;
-      margin-bottom: 0.3rem;
-      font-weight: normal;
-    }
-  }
-  
-  .quiz-answers {
-    background: lighten($secondary-color, 45%);
-    padding: 1rem;
-    border-radius: 8px;
-    margin-top: 1.5rem;
-    font-weight: 600;
-    color: $secondary-color;
-  }
+  background: #f8f9fa;
+  border: 2px solid #3498db;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-// Assessment box
+/* Style questions that start with numbers */
+.quiz-box p:has(strong) {
+  background: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.quiz-box p:has(strong) strong {
+  color: #2c3e50;
+  font-size: 1.1em;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+/* Assessment box */
 .assessment-box {
-  @include practice-box($warning-color, $warning-color);
-  
-  .assessment-content {
-    line-height: 1.6;
-    
-    strong {
-      color: $primary-color;
-      display: block;
-      margin-top: 1.5rem;
-      margin-bottom: 0.5rem;
-    }
-    
-    ul {
-      margin: 0.5rem 0 1rem 1rem;
-      
-      li {
-        margin-bottom: 0.3rem;
-      }
-    }
-  }
-  
-  .reflection-questions {
-    background: lighten($warning-color, 40%);
-    padding: 1rem;
-    border-radius: 8px;
-    margin-top: 1.5rem;
-    
-    strong {
-      color: $warning-color;
-      margin-bottom: 1rem;
-    }
-    
-    ol {
-      margin: 1rem 0;
-      padding-left: 1.5rem;
-      
-      li {
-        margin-bottom: 0.5rem;
-      }
-    }
-  }
+  background: #fff8e1;
+  border: 2px solid #ffa726;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-// Action box
+.rating-scale {
+  background: #e3f2fd;
+  border-left: 4px solid #3498db;
+  padding: 1rem;
+  margin: 1rem 0 2rem 0;
+  border-radius: 0 8px 8px 0;
+  font-weight: 600;
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* AUTO-RATING SYSTEM - More specific targeting */
+.assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em)) {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1rem 0;
+  padding: 0.5rem 0;
+  min-height: 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em)):hover {
+  background-color: #f0f8ff;
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+.assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em))::after {
+  content: "○ 1    ○ 2    ○ 3    ○ 4    ○ 5";
+  font-size: 1rem;
+  color: #ffa726;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-left: auto;
+  min-width: 220px;
+  text-align: right;
+  flex-shrink: 0;
+  user-select: none;
+}
+
+/* Enhanced hover effects */
+.assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em)):hover::after {
+  color: #27ae60;
+  transform: scale(1.1);
+  text-shadow: 0 2px 4px rgba(39, 174, 96, 0.3);
+}
+
+/* Active/pressed effect */
+.assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em)):active::after {
+  transform: scale(0.95);
+  color: #2ecc71;
+}
+
+/* Clicked/selected state */
+.assessment-box p.selected {
+  background-color: #e8f5e8 !important;
+  border-left: 4px solid #27ae60 !important;
+  border-radius: 4px !important;
+  padding: 0.5rem !important;
+}
+
+/* Exclude numbered lists and other elements from auto-rating */
+.assessment-box ol p,
+.assessment-box ol li,
+.assessment-box ul p,
+.assessment-box ul li,
+.assessment-box .writing-space,
+.assessment-box .writing-space p {
+  position: static !important;
+}
+
+.assessment-box ol p::after,
+.assessment-box ol li::after,
+.assessment-box ul p::after,
+.assessment-box ul li::after,
+.assessment-box .writing-space::after,
+.assessment-box .writing-space p::after {
+  display: none !important;
+}
+
+/* Style category headings (bold text only) */
+.assessment-box p:has(strong:only-child) {
+  color: #ffa726;
+  font-size: 1.2em;
+  font-weight: 700;
+  margin: 2rem 0 1rem 0;
+  border-bottom: 2px solid #ffcc80;
+  padding-bottom: 0.5rem;
+}
+
+/* Show answers button */
+.show-answers-btn {
+  background: #3498db;
+  color: white;
+  border: none;
+  padding: 0.8rem 2rem;
+  border-radius: 25px;
+  font-weight: 600;
+  cursor: pointer;
+  margin: 1rem 0;
+  transition: all 0.3s ease;
+}
+
+.show-answers-btn:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.answers-content {
+  background: #e8f5e8;
+  border: 2px solid #27ae60;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  text-align: left;
+}
+
+/* Action box */
 .action-box {
-  @include practice-box($accent-color, $accent-color);
-  
-  .action-content {
-    line-height: 1.6;
+  background: #f3e5f5;
+  border: 2px solid #9c27b0;
+  border-radius: 12px;
+  padding: 2rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Writing space */
+.writing-space {
+  background: #f8f9fa;
+  border: 1px dashed #dee2e6;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  min-height: 80px;
+  font-style: italic;
+  color: #6c757d;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em)) {
+    flex-direction: column;
+    align-items: flex-start;
   }
   
-  .action-level {
-    background: lighten($accent-color, 45%);
-    padding: 1rem;
-    border-radius: 8px;
-    margin: 1rem 0;
-    
-    strong {
-      color: $accent-color;
-      display: block;
-      margin-bottom: 0.5rem;
-    }
-    
-    ul {
-      margin: 0.5rem 0;
-      list-style: none;
-      padding-left: 0;
-      
-      li {
-        margin-bottom: 0.5rem;
-        
-        input[type="checkbox"] {
-          margin-right: 0.5rem;
-        }
-      }
-    }
+  .assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em))::after {
+    margin-left: 0;
+    margin-top: 0.5rem;
+    text-align: left;
+    content: "○ 1  ○ 2  ○ 3  ○ 4  ○ 5";
+    font-size: 0.9rem;
   }
 }

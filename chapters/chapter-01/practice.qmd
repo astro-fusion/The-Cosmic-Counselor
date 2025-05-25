@@ -1,4 +1,4 @@
-## Chapter 1 Practice Sections {.practice-header}
+## 📝 Practice Sections {.practice-header}
 
 ::: {.exercise-box}
 ### 🌟 Exercise: Your Sacred Promise {.exercise-title}
@@ -18,23 +18,51 @@
 
 **Step 2: Identify Your Growth Areas**
 
-From this chapter, which skills do you most need to develop? Circle all that apply:
+From this chapter, which skills do you most need to develop? Check all that apply:
 
-- Deep listening
-- Compassionate communication
-- Setting healthy boundaries
-- Recognizing when to refer clients elsewhere
-- Managing my own emotions during sessions
-- Cultural sensitivity
-- Other: _______________
+::: {.practice-assessment-box}
+**Technical Skills:**
+
+Understanding my spiritual practice
+
+Interpreting readings accurately
+
+Explaining complex concepts simply
+
+**People Skills:**
+
+Deep listening
+
+Compassionate communication
+
+Setting healthy boundaries
+
+Recognizing when to refer clients elsewhere
+
+Managing my own emotions during sessions
+
+Cultural sensitivity
+
+**Other Areas:**
+
+Creating safe spaces for clients
+
+Building trust and rapport
+
+Professional development and learning
+:::
 
 **Step 3: Choose Your Core Values**
 
-Select 3-5 words that represent how you want to practice. Examples:
+Select 3-5 words that represent how you want to practice:
 
-*Compassionate, Honest, Empowering, Respectful, Humble, Wise, Healing, Non-judgmental, Supportive, Ethical*
+::: {.values-selection}
+**Available Values:** *Compassionate, Honest, Empowering, Respectful, Humble, Wise, Healing, Non-judgmental, Supportive, Ethical, Patient, Intuitive, Grounded, Authentic, Trustworthy*
 
-Your chosen values: _______________
+::: {.writing-space}
+**Your chosen values:** _______________
+:::
+:::
 
 **Step 4: Write Your Sacred Promise**
 
@@ -49,9 +77,7 @@ Complete this statement in your own words:
 **Your Sacred Promise:**
 
 ::: {.writing-space}
-_________________________________  
-_________________________________  
-_________________________________
+*Write your personal promise here...*
 :::
 
 **Step 5: Make It Real**
@@ -61,3 +87,111 @@ _________________________________
 - Review and update it as you grow
 :::
 :::
+
+---
+
+::: {.exercise-box}
+### 🎯 Practice Exercise: Ethical Scenarios {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Test your ethical decision-making skills with realistic scenarios.
+
+**Time needed:** 10-15 minutes
+:::
+
+::: {.exercise-content}
+**Instructions:** Read each scenario and choose the most ethical response. Consider your Sacred Promise as you decide.
+
+::: {.quiz-box}
+**Scenario 1:** A client asks you to predict exactly when they'll get married.
+
+A) Give them a specific date based on your reading  
+B) Explain that you can't predict exact timing, but explore what marriage means to them  
+C) Refuse to discuss relationships at all  
+D) Make up a vague timeline to satisfy them  
+
+**Scenario 2:** A client wants you to curse their ex-partner.
+
+A) Agree because the client is paying you  
+B) Decline firmly and explain why this goes against ethical practice  
+C) Do a "pretend" curse to make them feel better  
+D) Refer them to someone else who might do it  
+
+**Scenario 3:** A client shares they're having suicidal thoughts.
+
+A) Give them a spiritual reading to cheer them up  
+B) Tell them everything will be fine  
+C) Immediately refer them to mental health professionals  
+D) Share your own similar experiences  
+:::
+
+::: {.writing-space}
+**Your Reflections:** How did your Sacred Promise guide your decisions? What did you learn about your ethical boundaries?
+:::
+:::
+:::
+
+---
+
+::: {.action-box}
+### 📋 Weekly Practice Checklist
+
+**This Week's Goals:**
+
+**Beginner Level:**
+
+- [ ] Write your Sacred Promise and place it somewhere visible
+- [ ] Practice active listening with one person each day
+- [ ] Research one mental health resource in your area
+- [ ] Reflect on a time when spiritual guidance helped you
+
+**Intermediate Level:**
+
+- [ ] Role-play the ethical scenarios with a trusted friend
+- [ ] Create a personal referral list of mental health professionals
+- [ ] Practice giving empowering responses instead of predictions
+- [ ] Identify your top 3 growth areas from the assessment
+
+**Advanced Level:**
+
+- [ ] Develop a client intake form with ethical guidelines
+- [ ] Create boundary scripts for challenging situations
+- [ ] Schedule monthly self-care and supervision practices
+- [ ] Review and refine your Sacred Promise based on new insights
+:::
+
+---
+
+::: {.practice-assessment-box}
+### 📊 Weekly Self-Check: How Am I Growing?
+
+**Rate your progress this week (1 = Need more work, 5 = Excellent progress):**
+
+::: {.rating-scale .no-rating}
+**1** = Need more work | **2** = Some progress | **3** = Good progress | **4** = Strong progress | **5** = Excellent progress
+:::
+
+**Practice Areas:**
+
+Following my Sacred Promise
+
+Setting healthy boundaries with others
+
+Listening without trying to "fix" everything
+
+Recognizing when to seek help or refer someone
+
+Managing my emotions during difficult conversations
+
+**Reflection Questions:**
+
+1. Which practice felt most natural to you this week?
+2. What challenged you the most?
+3. How will you continue growing next week?
+
+::: {.writing-space}
+*Space for your weekly reflections...*
+:::
+:::
+
+<script src="../scripts/quiz-interactions.js"></script>
