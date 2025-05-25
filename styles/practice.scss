@@ -1,175 +1,308 @@
 /*-- scss:rules --*/
 
-// Practice header
+/* Practice header - Override any parent styling */
 .practice-header {
-  text-align: center;
-  color: #2c3e50;
+  text-align: left !important;
+  color: #2c3e50 !important;
   border-bottom: 3px solid #27ae60;
   padding-bottom: 1rem;
   margin-bottom: 2rem;
-  font-size: 2rem;
-  font-weight: 600;
+  font-size: 1.5rem !important;  /* Smaller and more specific */
+  font-weight: 600 !important;
+  line-height: 1.3 !important;
 }
 
-// Exercise box - Similar to quiz box design
+/* Exercise box - Override any parent styling */
 .exercise-box {
   background: #f0fff4;
   border: 2px solid #27ae60;
   border-radius: 12px;
-  padding: 2rem;
-  margin: 2rem 0;
+  padding: 1.5rem !important;  /* Reduced padding */
+  margin: 1.5rem 0 !important;  /* Reduced margin */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-size: 1rem !important;  /* Set base font size */
 }
 
-// Exercise title
+/* Exercise title - Override any parent styling */
 .exercise-title {
-  color: #27ae60;
-  font-size: 1.4rem;
-  font-weight: 700;
-  margin-bottom: 1.5rem;
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
+  color: #27ae60 !important;
+  font-size: 1.3rem !important;  /* Smaller than before */
+  font-weight: 600 !important;  /* Reduced weight */
+  margin-bottom: 1rem !important;
+  text-align: left !important;
+  display: block !important;
+  clear: both;
+  line-height: 1.4 !important;
 }
 
-// Exercise meta information
+/* Exercise meta information */
 .exercise-meta {
   background: #e8f5e8;
   border-left: 4px solid #27ae60;
-  padding: 1rem 1.5rem;
+  padding: 0.8rem 1rem !important;  /* Reduced padding */
   border-radius: 0 8px 8px 0;
-  margin-bottom: 1.5rem;
-  
-  strong {
-    color: #27ae60;
-    font-weight: 600;
-  }
+  margin: 1rem 0 1.5rem 0 !important;  /* Reduced margin */
+  display: block;
+  clear: both;
+  font-size: 0.9rem !important;  /* Smaller font */
 }
 
-// Exercise content
+.exercise-meta strong {
+  color: #27ae60 !important;
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+}
+
+/* Exercise content - Reset all styling */
 .exercise-content {
-  line-height: 1.7;
-  
-  h4, strong {
-    color: #2c3e50;
-    font-weight: 600;
-    margin-top: 1.5rem;
-    margin-bottom: 0.8rem;
-    font-size: 1.1rem;
-  }
-  
-  ul, ol {
-    margin: 1rem 0;
-    padding-left: 1.5rem;
-    
-    li {
-      margin-bottom: 0.7rem;
-      line-height: 1.6;
-    }
-  }
-  
-  // Style step headers
-  strong:contains("Step") {
-    background: linear-gradient(135deg, #27ae60, #2ecc71);
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
-    display: inline-block;
-    margin: 1.5rem 0 1rem 0;
-    font-size: 1rem;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-  }
+  line-height: 1.5 !important;
+  display: block;
+  clear: both;
+  text-align: left !important;
+  font-size: 1rem !important;
+  font-weight: normal !important;
 }
 
-// Values selection area - styled like quiz options
+/* Fix bold text - only specific elements should be bold */
+.exercise-content h4, 
+.exercise-content > strong {
+  color: #2c3e50 !important;
+  font-weight: 600 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 0.5rem !important;
+  font-size: 1rem !important;  /* Same as body text */
+}
+
+/* Force ALL content to be normal weight unless specifically styled */
+.exercise-content p,
+.exercise-content li,
+.exercise-content ul,
+.exercise-content ol,
+.exercise-content div {
+  font-weight: normal !important;
+  text-align: left !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+}
+
+.exercise-content ul, 
+.exercise-content ol {
+  margin: 0.8rem 0 !important;
+  padding-left: 1.2rem !important;
+  text-align: left !important;
+}
+
+.exercise-content ul li, 
+.exercise-content ol li {
+  margin-bottom: 0.4rem !important;
+  line-height: 1.5 !important;
+  font-weight: normal !important;
+  text-align: left !important;
+  font-size: 1rem !important;
+}
+
+/* Values selection area */
 .values-selection {
   background: #f8f9fa;
   border: 2px solid #27ae60;
   border-radius: 12px;
-  padding: 1.5rem;
-  margin: 1rem 0;
-  
-  strong {
-    color: #27ae60;
-    font-weight: 600;
-    margin-bottom: 1rem;
-    display: block;
-  }
+  padding: 1rem !important;  /* Reduced padding */
+  margin: 0.8rem 0 !important;
+  font-size: 1rem !important;
 }
 
-// Interactive elements styling
-.exercise-content input[type="text"] {
-  border: 2px solid #bdc3c7;
-  border-radius: 6px;
-  padding: 0.5rem 1rem;
-  font-size: 1rem;
-  transition: all 0.3s ease;
-  width: 100%;
-  max-width: 300px;
-  
-  &:focus {
-    outline: none;
-    border-color: #27ae60;
-    box-shadow: 0 0 0 3px rgba(39, 174, 96, 0.1);
-  }
+.values-selection strong {
+  color: #27ae60 !important;
+  font-weight: 600 !important;
+  margin-bottom: 0.8rem !important;
+  display: block;
+  font-size: 1rem !important;
 }
 
-// Checkboxes and interactive lists
-.exercise-content li:has(input[type="checkbox"]) {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  cursor: pointer;
-  padding: 0.5rem;
-  border-radius: 6px;
-  
-  input[type="checkbox"] {
-    transform: scale(1.2);
-    accent-color: #27ae60;
-  }
-}
-
-// Practice assessment box - visual only, no interactions
+/* Practice assessment box */
 .practice-assessment-box {
   background: #fff8e1;
   border: 2px solid #ffa726;
   border-radius: 12px;
-  padding: 2rem;
-  margin: 2rem 0;
+  padding: 1.2rem !important;  /* Reduced padding */
+  margin: 1rem 0 !important;  /* Reduced margin */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  
-  // Style category headings
-  strong {
-    color: #ffa726;
-    font-size: 1.2em;
-    font-weight: 700;
-    margin: 2rem 0 1rem 0;
-    border-bottom: 2px solid #ffcc80;
-    padding-bottom: 0.5rem;
-    display: block;
-  }
-  
-  // Regular paragraphs - no interactions
-  p {
-    margin: 1rem 0;
-    padding: 0.5rem 0;
-    line-height: 1.6;
-  }
+  text-align: left !important;
+  font-size: 1rem !important;
 }
 
-// Mobile responsive
+/* Force assessment box content to normal styling */
+.practice-assessment-box p,
+.practice-assessment-box li {
+  font-weight: normal !important;
+  text-align: left !important;
+  margin: 0.6rem 0 !important;
+  padding: 0.2rem 0 !important;
+  line-height: 1.5 !important;
+  font-size: 1rem !important;
+}
+
+/* Step box styling - Force smaller size */
+.step-box {
+  background: #f8fff8;
+  border: 2px solid #81c784;
+  border-radius: 12px;
+  padding: 1.2rem !important;  /* Reduced padding */
+  margin: 1rem 0 !important;  /* Reduced margin */
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.08);
+  position: relative;
+  display: block;
+  clear: both;
+  width: 100%;
+  text-align: left !important;
+  font-size: 1rem !important;
+}
+
+/* Step header styling - Make much smaller */
+.step-box > strong:first-child,
+.step-box > p:first-child strong {
+  background: linear-gradient(135deg, #27ae60, #2ecc71) !important;
+  color: white !important;
+  padding: 0.5rem 0.8rem !important;  /* Much smaller padding */
+  border-radius: 20px !important;
+  display: inline-block !important;
+  margin: 0 0 0.8rem 0 !important;  /* Reduced margins */
+  font-size: 0.85rem !important;  /* Much smaller font */
+  text-transform: uppercase !important;
+  letter-spacing: 0.05rem !important;
+  font-weight: 600 !important;
+  box-shadow: 0 2px 4px rgba(39, 174, 96, 0.3);
+  position: relative;
+  clear: both;
+  line-height: 1.2 !important;
+}
+
+/* Force step box content to be small and normal */
+.step-box p,
+.step-box li,
+.step-box ul,
+.step-box ol,
+.step-box div {
+  font-weight: normal !important;
+  text-align: left !important;
+  color: #2c3e50 !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+  margin: 0.5rem 0 !important;
+}
+
+/* Content within step boxes */
+.step-box ul, 
+.step-box ol {
+  margin: 0.8rem 0 !important;
+  padding-left: 1rem !important;
+}
+
+.step-box ul li, 
+.step-box ol li {
+  margin-bottom: 0.4rem !important;
+  line-height: 1.5 !important;
+  color: #2c3e50 !important;
+  font-weight: normal !important;
+  font-size: 1rem !important;
+}
+
+/* Example box styling - Smaller */
+.example-box {
+  background: #e3f2fd;
+  border: 1px solid #90caf9;
+  border-left: 4px solid #2196f3;
+  border-radius: 8px;
+  padding: 1rem !important;  /* Reduced padding */
+  margin: 0.8rem 0 !important;
+  text-align: left !important;
+  font-size: 1rem !important;
+}
+
+.example-box strong {
+  color: #1976d2 !important;
+  font-weight: 600 !important;
+  margin-bottom: 0.4rem !important;
+  display: block;
+  font-size: 1rem !important;
+}
+
+.example-box em {
+  color: #424242 !important;
+  font-style: italic !important;
+  line-height: 1.5 !important;
+  font-weight: normal !important;
+  font-size: 1rem !important;
+}
+
+/* Writing space - Smaller */
+.writing-space {
+  background: #f8f9fa;
+  border: 1px dashed #dee2e6;
+  padding: 0.8rem !important;  /* Reduced padding */
+  margin: 0.8rem 0 !important;
+  border-radius: 8px;
+  min-height: 60px !important;  /* Reduced height */
+  font-style: italic !important;
+  color: #6c757d !important;
+  text-align: left !important;
+  font-weight: normal !important;
+  font-size: 0.9rem !important;  /* Smaller font */
+}
+
+/* Action box - Smaller */
+.action-box {
+  background: #f3e5f5;
+  border: 2px solid #9c27b0;
+  border-radius: 12px;
+  padding: 1.2rem !important;  /* Reduced padding */
+  margin: 1rem 0 !important;  /* Reduced margin */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: left !important;
+  font-size: 1rem !important;
+}
+
+/* Force action box content to normal */
+.action-box p,
+.action-box li,
+.action-box ul,
+.action-box h3,
+.action-box strong {
+  font-weight: normal !important;
+  text-align: left !important;
+  font-size: 1rem !important;
+  line-height: 1.5 !important;
+}
+
+/* Override any global heading styles that might be too large */
+.exercise-content h1,
+.exercise-content h2,
+.exercise-content h3,
+.exercise-content h4,
+.exercise-content h5,
+.exercise-content h6 {
+  font-size: 1.1rem !important;
+  font-weight: 600 !important;
+  margin: 1rem 0 0.5rem 0 !important;
+  line-height: 1.3 !important;
+}
+
+/* Mobile responsive */
 @media (max-width: 768px) {
   .exercise-box {
-    margin: 1rem 0;
-    padding: 1.5rem;
+    margin: 0.8rem 0 !important;
+    padding: 1rem !important;
   }
   
-  .exercise-title {
-    font-size: 1.2rem;
+  .step-box {
+    margin: 0.8rem 0 !important;
+    padding: 1rem !important;
   }
   
-  .exercise-meta {
-    padding: 1rem;
+  .step-box > strong:first-child,
+  .step-box > p:first-child strong {
+    font-size: 0.8rem !important;
+    padding: 0.4rem 0.6rem !important;
+    margin: 0 0 0.6rem 0 !important;
   }
 }

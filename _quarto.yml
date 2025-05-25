@@ -35,8 +35,8 @@ format:
     css:
       - styles/global.scss 
       - styles/chapter.scss
-      - styles/practice.scss
       - styles/quiz.scss
+      - styles/practice.scss
 
     toc: true
     toc-depth: 3

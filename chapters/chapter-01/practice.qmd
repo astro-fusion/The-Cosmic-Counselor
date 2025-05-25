@@ -10,48 +10,31 @@
 :::
 
 ::: {.exercise-content}
+::: {.step-box}
 **Step 1: Reflect on Your Journey**
 
 - What originally drew you to spiritual counseling?
 - Think of a time when someone's guidance really helped you. What made it special?
 - What kind of spiritual counselor do you want to become?
+:::
 
+::: {.step-box}
 **Step 2: Identify Your Growth Areas**
 
 From this chapter, which skills do you most need to develop? Check all that apply:
 
 ::: {.practice-assessment-box}
-**Technical Skills:**
-
-Understanding my spiritual practice
-
-Interpreting readings accurately
-
-Explaining complex concepts simply
-
-**People Skills:**
-
-Deep listening
-
-Compassionate communication
-
-Setting healthy boundaries
-
-Recognizing when to refer clients elsewhere
-
-Managing my own emotions during sessions
-
-Cultural sensitivity
-
-**Other Areas:**
-
-Creating safe spaces for clients
-
-Building trust and rapport
-
-Professional development and learning
+- Deep listening
+- Compassionate communication
+- Setting healthy boundaries
+- Recognizing when to refer clients elsewhere
+- Managing my own emotions during sessions
+- Cultural sensitivity
+- Other: _______________
+:::
 :::
 
+::: {.step-box}
 **Step 3: Choose Your Core Values**
 
 Select 3-5 words that represent how you want to practice:
@@ -63,7 +46,9 @@ Select 3-5 words that represent how you want to practice:
 **Your chosen values:** _______________
 :::
 :::
+:::
 
+::: {.step-box}
 **Step 4: Write Your Sacred Promise**
 
 Complete this statement in your own words:
@@ -79,12 +64,15 @@ Complete this statement in your own words:
 ::: {.writing-space}
 *Write your personal promise here...*
 :::
+:::
 
+::: {.step-box}
 **Step 5: Make It Real**
 
 - Write your promise on a card and keep it where you'll see it daily
 - Read it before each client session
 - Review and update it as you grow
+:::
 :::
 :::
 

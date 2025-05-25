@@ -2,28 +2,29 @@
 
 /* Quiz box styling */
 .quiz-box {
-  background: #f8f9fa;
-  border: 2px solid #3498db;
-  border-radius: 12px;
-  padding: 2rem;
-  margin: 2rem 0;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: #f8f9fa;        /* Light gray background */
+  border: 2px solid #3498db;  /* Blue border */
+  border-radius: 12px;        /* Rounded corners */
+  padding: 2rem;              /* Inner spacing */
+  margin: 2rem 0;             /* Outer spacing */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
 
 /* Style questions that start with numbers */
 .quiz-box p:has(strong) {
-  background: #e3f2fd;
-  border: 1px solid #90caf9;
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin: 1.5rem 0;
+  background: #e3f2fd;        /* Light blue background */
+  border: 1px solid #90caf9;  /* Lighter blue border */
+  border-radius: 8px;         /* Rounded corners */
+  padding: 1.0rem;            /* Inner spacing */
+  margin: 1.0rem 0;           /* Spacing between questions */
 }
 
 .quiz-box p:has(strong) strong {
-  color: #2c3e50;
-  font-size: 1.1em;
-  margin-bottom: 1rem;
-  display: block;
+  color: #2c3e50;     /* Dark blue-gray text */
+  font-size: 1.1em;   /* Slightly larger text */
+  margin-bottom: 0;   /* Remove bottom margin */
+  margin-right: 0.5rem; /* Add small space after the colon */
+  display: inline;      /* Forces line break after title */
 }
 
 /* Assessment box */
