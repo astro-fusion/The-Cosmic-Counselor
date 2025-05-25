@@ -1,229 +1,90 @@
 # The Cosmic Counselor {.unnumbered}
-*Ethical Spiritual Guidance in Modern Times*
+
+**Ethical Spiritual Guidance in Modern Times**
 
 Welcome to your comprehensive guide for becoming an ethical and effective spiritual counselor. This book bridges ancient wisdom with modern psychology, teaching you to guide others with compassion, integrity, and professional boundaries.
 
-## 🌟 What You'll Learn
+---
 
-::: {.grid-2}
-::: {.nav-card}
-::: {.card-icon}
-⚖️
-:::
-::: {.card-title}
-Foundational Ethics
-:::
-::: {.card-description}
-Core principles for responsible spiritual guidance that protect both you and your clients
-:::
-:::
+## What You'll Learn
 
-::: {.nav-card}
-::: {.card-icon}
-💬
-:::
-::: {.card-title}
-Communication Skills
-:::
-::: {.card-description}
-How to listen deeply and respond wisely with compassion and clarity
-:::
-:::
+**⚖️ Foundational Ethics**  
+Core principles for responsible spiritual guidance that protect both you and your clients.
 
-::: {.nav-card}
-::: {.card-icon}
-🛡️
-:::
-::: {.card-title}
-Boundary Setting
-:::
-::: {.card-description}
-Professional limits that maintain healthy relationships and prevent burnout
-:::
-:::
+**💬 Communication Skills**  
+Master the art of listening deeply and responding with compassion and clarity.
 
-::: {.nav-card}
-::: {.card-icon}
-🔧
-:::
-::: {.card-title}
-Practical Techniques
-:::
-::: {.card-description}
-Real-world applications across different spiritual traditions and practices
-:::
-:::
+**🛡️ Boundary Setting**  
+Professional limits that maintain healthy relationships and prevent burnout.
 
-::: {.nav-card}
-::: {.card-icon}
-💼
-:::
-::: {.card-title}
-Business Guidance
-:::
-::: {.card-description}
-Ethical ways to build and maintain your spiritual counseling practice
-:::
-:::
+**🔧 Practical Techniques**  
+Real-world applications across different spiritual traditions.
 
-::: {.nav-card}
-::: {.card-icon}
-🎯
-:::
-::: {.card-title}
-Professional Growth
-:::
-::: {.card-description}
-Continuous learning strategies and supervision practices for excellence
-:::
-:::
-:::
+**💼 Business Guidance**  
+Ethical strategies to build and maintain your spiritual counseling practice.
 
-## 📚 How to Use This Book
+**🎯 Professional Growth**  
+Continuous learning strategies and pathways to excellence.
 
-::: {.example-box}
+---
+
+## How to Use This Book
+
 Each chapter includes:
 
-- **📖 Core concepts** with real-world examples and case studies
-- **🏃‍♀️ Practice exercises** to develop your skills through hands-on activities  
-- **📊 Self-assessments** to track your progress and identify growth areas
-- **✅ Action steps** for immediate implementation in your daily practice
-:::
+- **Core Concepts** - In-depth exploration with real-world examples
+- **Practice Exercises** - Hands-on activities to develop your skills
+- **Self-Assessments** - Tools to track your progress
+- **Action Steps** - Concrete strategies for immediate application
+- **Reflection Prompts** - Questions to enhance self-awareness
 
-## 🚀 Your Learning Journey
+> **Study Tip:** Work through one chapter completely before moving to the next. Take time to practice the exercises and reflect on how each concept applies to your practice.
 
-::: {.grid-3}
-::: {.nav-card}
-::: {.card-icon}
-1️⃣
-:::
-::: {.card-title}
-Foundation Building
-:::
-::: {.card-description}
-Start with ethics, boundaries, and core communication skills
-:::
-:::
+---
 
-::: {.nav-card}
-::: {.card-icon}
-2️⃣
-:::
-::: {.card-title}
-Skill Development
-:::
-::: {.card-description}
-Practice techniques through exercises and real-world scenarios
-:::
-:::
+## Your Learning Journey
 
-::: {.nav-card}
-::: {.card-icon}
-3️⃣
-:::
-::: {.card-title}
-Professional Practice
-:::
-::: {.card-description}
-Apply your knowledge in ethical, sustainable counseling practice
-:::
-:::
-:::
+### Phase 1: Foundation Building *(Chapters 1-3)*
+Establish your ethical framework, learn essential boundaries, and master core communication skills.
+
+### Phase 2: Skill Development *(Chapters 4-7)*
+Practice advanced techniques and develop your unique counseling approach.
+
+### Phase 3: Professional Practice *(Chapters 8-10)*
+Integrate your knowledge into a sustainable, ethical practice.
+
+---
+
+## Setting Your Intention
+
+Before you begin, take a moment to reflect on these questions:
+
+- What draws you to spiritual counseling?
+- What do you hope to achieve through this book?
+- How do you envision serving others through your practice?
+- What ethical principles are most important to you?
 
 ::: {.writing-space}
-**📝 Your Intention:** Before you begin, take a moment to write down why you're drawn to spiritual counseling and what you hope to achieve through this book...
+*Use this space or your journal to capture your thoughts...*
 :::
 
-Ready to begin your journey as an ethical spiritual counselor? Let's start with the foundations in Chapter 1.
+---
 
-<script>
-// Global Quiz Interactions for The Cosmic Counselor
-console.log('Loading global quiz interactions...');
+## Community & Support
 
-// Toggle answers functionality
-function toggleAnswers() {
-  console.log('toggleAnswers called');
-  
-  const answersContent = document.querySelector('.answers-content');
-  const button = document.querySelector('.show-answers-btn');
-  
-  if (!answersContent || !button) {
-    console.warn('Show answers elements not found');
-    return;
-  }
-  
-  if (answersContent.style.display === 'none' || !answersContent.style.display) {
-    answersContent.style.display = 'block';
-    button.textContent = 'Hide Answers';
-    button.style.background = '#e74c3c';
-  } else {
-    answersContent.style.display = 'none';
-    button.textContent = 'Show Answers';
-    button.style.background = '#3498db';
-  }
-}
+**💬 Join Our Discussions**  
+Connect with fellow spiritual counselors in our [GitHub Discussions](https://github.com/astro-fusion/The-Cosmic-Counselor/discussions) community.
 
-// Assessment box click interactions
-function initializeAssessmentInteractions() {
-  console.log('Initializing assessment interactions');
-  
-  const assessmentParagraphs = document.querySelectorAll('.assessment-box p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em))');
-  
-  console.log('Found assessment paragraphs:', assessmentParagraphs.length);
-  
-  for (const p of assessmentParagraphs) {
-    p.addEventListener('click', function(e) {
-      console.log('Assessment paragraph clicked');
-      
-      // Remove previous selections in this assessment box
-      const parentBox = this.closest('.assessment-box');
-      if (parentBox) {
-        const allItems = parentBox.querySelectorAll('p:not(:has(strong)):not(.rating-scale):not(.no-rating):not(:has(em))');
-        
-        for (const item of allItems) {
-          item.classList.remove('selected');
-          item.style.backgroundColor = '';
-          item.style.borderLeft = '';
-          item.style.borderRadius = '';
-          item.style.padding = '';
-        }
-      }
-      
-      // Add selection to clicked item
-      this.classList.add('selected');
-      this.style.backgroundColor = '#e8f5e8';
-      this.style.borderLeft = '4px solid #27ae60';
-      this.style.borderRadius = '4px';
-      this.style.padding = '0.5rem';
-    });
-  }
-}
+**📚 Share Your Insights**  
+Contribute your experiences and learn from others on the same path.
 
-// Robust initialization for Quarto books
-function initializeQuizInteractions() {
-  console.log('Initializing all quiz interactions');
-  
-  // Use setTimeout to ensure DOM is fully rendered
-  setTimeout(() => {
-    initializeAssessmentInteractions();
-  }, 100);
-}
+**🤝 Get Support**  
+Ask questions, seek guidance, and offer support to create a thriving community.
 
-// Multiple initialization strategies
-document.addEventListener('DOMContentLoaded', initializeQuizInteractions);
-window.addEventListener('load', initializeQuizInteractions);
+---
 
-// Quarto-specific initialization
-if (window.Quarto) {
-  window.Quarto.on('ready', initializeQuizInteractions);
-}
+## Ready to Begin?
 
-// Re-initialize when navigating between pages in Quarto books
-document.addEventListener('quarto-navigate', initializeQuizInteractions);
+Your journey as an ethical spiritual counselor starts now. Each page you turn brings you closer to becoming the compassionate, skilled practitioner the world needs.
 
-// Make functions globally available
-window.toggleAnswers = toggleAnswers;
-window.initializeQuizInteractions = initializeQuizInteractions;
-
-console.log('Global quiz interactions loaded successfully');
-</script>
+**[Start with Chapter 1: Understanding Ethical Boundaries →](chapters/chapter-01.qmd)**

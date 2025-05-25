@@ -1,219 +1,232 @@
 # The Cosmic Counselor
 
 <!-- badges: start -->
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/astro-fusion/the-cosmic-counselor)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Build Status](https://github.com/astro-fusion/The-Cosmic-Counselor/actions/workflows/publish.yml/badge.svg)](https://github.com/astro-fusion/The-Cosmic-Counselor/actions)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://astro-fusion.github.io/The-Cosmic-Counselor)
+[![License](https://img.shields.io/badge/license-CC--BY--SA--4.0-blue.svg)](LICENSE)
+[![GitHub Discussions](https://img.shields.io/github/discussions/astro-fusion/The-Cosmic-Counselor)](https://github.com/astro-fusion/The-Cosmic-Counselor/discussions)
 <!-- badges: end -->
 
-This repository contains the source files for **The Cosmic Counselor: A Guide to Ethical Spiritual Practice**, a comprehensive guide for astrologers, tarot readers, and other spiritual counselors.
+This repository contains the source files for **The Cosmic Counselor: Ethical Spiritual Guidance in Modern Times**, a comprehensive guide for astrologers, tarot readers, and other spiritual counselors seeking to practice with integrity and compassion.
 
-The book is built using [Quarto](https://quarto.org/) and features an interactive learning format with main content, practice exercises, and knowledge checks for each chapter.
+## 📖 Read the Book
 
-## About the Book
+- **🌐 Online Version**: [astro-fusion.github.io/The-Cosmic-Counselor](https://astro-fusion.github.io/The-Cosmic-Counselor)
+- **📄 PDF Download**: Available in [latest releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases)
+- **📱 EPUB Version**: Available in [latest releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases)
 
-The Cosmic Counselor is a practical guide that bridges ancient wisdom with modern ethical practices. Whether you read birth charts, tarot cards, palms, or numbers, this book provides universal principles for responsible spiritual counseling.
+## 🌟 About the Book
 
-**Target Audience:** Astrologers, tarot readers, numerologists, palmists, and other spiritual counselors worldwide.
+The Cosmic Counselor bridges ancient wisdom with modern ethical practices, providing universal principles for responsible spiritual counseling. Whether you read birth charts, tarot cards, palms, or numbers, this book offers essential guidance for ethical practice.
+
+**Target Audience:** Astrologers, tarot readers, numerologists, palmists, and spiritual counselors worldwide seeking ethical guidance.
 
 **Key Topics:**
-- Ethical guidelines for spiritual practice
-- Basic psychology for spiritual counselors
-- Building trust and active listening skills
-- When and how to refer clients to mental health professionals
-- Self-care and professional boundaries
-- Cultural sensitivity in spiritual practice
+- ✨ Ethical guidelines for spiritual practice
+- 🧠 Basic psychology for spiritual counselors  
+- 🤝 Building trust and active listening skills
+- 🔄 When and how to refer clients to mental health professionals
+- 🛡️ Self-care and professional boundaries
+- 🌍 Cultural sensitivity in spiritual practice
+- 💫 Building a sustainable spiritual practice
 
-## Repository Structure
+## 🏗️ Repository Structure
 
 ```
-the-cosmic-counselor/
-├── _quarto.yml              # Quarto configuration
+The-Cosmic-Counselor/
+├── _quarto.yml              # Quarto book configuration
 ├── index.qmd                # Book homepage & overview
 ├── frontmatter/             # Pre-chapter content
 │   ├── prologue.qmd         # Cosmic Prelude
 │   ├── foreword.qmd         # Foreword by guest author
-│   ├── gratitude.qmd        # Gratitude Constellation
-│   └── preface.qmd          # Astral Insights
-├── chapters/                # Main chapters (1-10)
-│   ├── chapter-01/
-│   │   ├── index.qmd        # Main chapter content
-│   │   ├── practice.qmd     # Practice exercises & reflections
-│   │   └── quiz.qmd         # Knowledge check & assessment
-│   ├── chapter-02/          # Following same pattern
-│   │   ├── index.qmd
-│   │   ├── practice.qmd
-│   │   └── quiz.qmd
-│   └── ...                  # Chapters 3-10 (planned)
+│   ├── gratitude.qmd        # Gratitude Constellation  
+│   └── preface.qmd          # Author's preface
+├── chapters/                # Main book chapters
+│   └── chapter-01.qmd       # Understanding Ethical Boundaries
 ├── backmatter/              # Post-chapter content
 │   ├── summary.qmd          # Book summary & key takeaways
 │   └── references.qmd       # Bibliography & resources
-├── styles/                  # Custom styling (planned)
+├── styles/                  # Custom SCSS styling
 │   ├── global.scss          # Global book styles
 │   ├── chapter.scss         # Chapter content styles
 │   ├── practice.scss        # Practice section styles
 │   └── quiz.scss           # Quiz section styles
-├── images/                  # Book diagrams and illustrations
-│   ├── chapter-01/          # Chapter-specific images
-│   ├── global/              # Shared images
-│   └── covers/              # Cover art
-├── data/                    # Example datasets (if any)
-├── _book/                   # Generated book output (ignored by git)
-├── .gitignore              # Git ignore patterns
+├── scripts/                 # Build and automation scripts
+├── .github/workflows/       # GitHub Actions for publishing
+│   └── publish.yml          # Auto-build and deploy
+├── _book/                   # Generated book output (auto-generated)
 └── README.md               # This file
 ```
 
-## Chapter Structure
+## 🚀 Automated Publishing
 
-Each chapter follows a consistent three-part structure:
+This project uses GitHub Actions to automatically:
 
-### 📖 Main Content (`index.qmd`)
-- Core concepts and principles
-- Real-world examples and case studies
-- Theoretical foundation
+- **📝 Build HTML version** and deploy to GitHub Pages
+- **📄 Generate PDF and EPUB** formats  
+- **🚀 Create releases** with downloadable files
+- **🔄 Update on every push** to the main branch
 
-### 🎯 Practice Exercises (`practice.qmd`)
-- Hands-on activities and reflections
-- Role-playing scenarios
-- Self-assessment tools
-- Journaling prompts
+### Available Formats
 
-### ✅ Knowledge Check (`quiz.qmd`)
-- Multiple choice questions
-- Scenario-based assessments
-- Critical thinking exercises
-- Progress validation
+| Format | Access | Updates |
+|--------|--------|---------|
+| 🌐 **HTML** | [Live Website](https://astro-fusion.github.io/The-Cosmic-Counselor) | Automatic |
+| 📄 **PDF** | [Download from Releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | On new commits |
+| 📱 **EPUB** | [Download from Releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | On new commits |
 
-## Building the Book
+## 🛠️ Local Development
 
-To build the book locally:
+### Prerequisites
+- [Quarto CLI](https://quarto.org/docs/get-started/) installed
+- Git for version control
 
-1. **Install Quarto**
-   ```bash
-   # macOS (with Homebrew)
-   brew install quarto
-   
-   # Or download from https://quarto.org/docs/get-started/
-   ```
+### Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/astro-fusion/The-Cosmic-Counselor.git
+cd The-Cosmic-Counselor
 
-2. **Clone this repository**
-   ```bash
-   git clone https://github.com/astro-fusion/the-cosmic-counselor.git
-   cd the-cosmic-counselor
-   ```
+# Preview the book (auto-refreshes on changes)
+quarto preview
 
-3. **Render the book**
-   ```bash
-   # Full book
-   quarto render
-   
-   # Preview while developing
-   quarto preview
-   
-   # Single chapter
-   quarto preview chapters/chapter-01/index.qmd
-   ```
+# Build all formats
+quarto render
 
-The book will be generated in the `_book/` directory.
-
-## Development Workflow
-
-### Adding New Chapters
-1. Create new chapter folder: `chapters/chapter-XX/`
-2. Add three files: `index.qmd`, `practice.qmd`, `quiz.qmd`
-3. Update `_quarto.yml` to include the new chapter
-4. Add chapter-specific images to `images/chapter-XX/`
-
-### Styling and Themes
-- Global styles: Edit `styles/global.scss`
-- Section-specific styles: Edit respective `.scss` files
-- Chapter-specific styling: Add custom CSS in chapter folders
-
-## Images and Diagrams
-
-### Guidelines
-- **Format**: Export as 300 dpi PNG files
-- **Style**: Simple, culturally neutral graphics
-- **Accessibility**: Include alt text for all images
-- **Organization**: Store in appropriate chapter folders
-
-### File Naming Convention
-```
-images/
-├── chapter-01/
-│   ├── ethics-framework.png
-│   └── boundary-diagram.png
-├── global/
-│   ├── cosmic-logo.png
-│   └── spiritual-symbols.png
+# Build specific format
+quarto render --to html
+quarto render --to pdf    # Requires TinyTeX
+quarto render --to epub
 ```
 
-## Contributing
+### Development Commands
+```bash
+# Preview single chapter
+quarto preview chapters/chapter-01.qmd
 
-We welcome contributions to improve this book! Here's how you can help:
+# Render without opening browser
+quarto render --quiet
 
-### Ways to Contribute
-- **Content**: Suggest improvements to existing chapters
-- **Examples**: Share anonymized case studies (with proper consent)
-- **Translations**: Help translate the book into other languages
-- **Proofreading**: Help fix typos and improve clarity
-- **Cultural Perspectives**: Add insights from different spiritual traditions
-- **Practice Exercises**: Suggest new activities and assessments
+# Check for issues
+quarto check
+```
 
-### How to Contribute
-1. Fork this repository
-2. Create a feature branch (`git checkout -b feature/your-improvement`)
-3. Make your changes
-4. Test the build: `quarto render`
-5. Submit a pull request with a clear description
+## 🤝 Community & Discussions
 
-### Guidelines
-- Maintain the book's ethical focus
-- Keep language simple and accessible
-- Respect cultural sensitivity
-- Include proper citations for any referenced material
-- Follow the established chapter structure (main/practice/quiz)
+Join our growing community of ethical spiritual practitioners!
 
-## Cultural Sensitivity
+**💬 [GitHub Discussions](https://github.com/astro-fusion/The-Cosmic-Counselor/discussions)**
+- 💡 **Ideas & Suggestions** - Propose improvements
+- ❓ **Q&A** - Ask questions about spiritual counseling  
+- 📖 **Book Discussion** - Chapter-by-chapter conversations
+- 🌟 **Success Stories** - Share your growth and achievements
+- 🔧 **Resources & Tools** - Share helpful materials
+- 🤝 **Introductions** - Welcome new community members
 
-This book aims to be inclusive of all spiritual traditions and cultural backgrounds. When contributing:
-- Avoid favoritism toward any single spiritual practice
-- Respect different cultural approaches to spiritual counseling
-- Use inclusive language
-- Consider global perspectives
-- Acknowledge diverse spiritual frameworks
+### 🌈 Community Values
+- 💝 Compassionate communication in all interactions
+- 🌍 Respect for diverse spiritual paths and traditions  
+- 🔒 Confidentiality when discussing sensitive topics
+- ⚖️ Ethical boundaries in all guidance and advice
+- 📚 Continuous learning and humility in practice
 
-## Current Status
+## 🎯 Contributing
 
-- ✅ Project structure established
-- ✅ Chapter 1 drafted (Understanding Ethical Boundaries)
-- 🔄 Frontmatter content in development
-- 📋 Chapters 2-10 planned
-- 📋 Custom styling system planned
+We welcome contributions from spiritual practitioners worldwide! Here's how you can help:
 
-## License
+### 📝 Content Contributions
+- **Chapter improvements** - Enhance existing content
+- **Case studies** - Share anonymized examples (with consent)
+- **Practice exercises** - Suggest new activities and assessments
+- **Cultural perspectives** - Add insights from different traditions
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+### 🔧 Technical Contributions  
+- **Proofreading** - Fix typos and improve clarity
+- **Translations** - Help translate into other languages
+- **Styling** - Improve book design and accessibility
+- **Documentation** - Enhance setup and usage instructions
 
-You are free to:
-- Share and adapt the material
-- Use for commercial purposes
+### 🚀 How to Contribute
+1. **Fork** this repository
+2. **Create** a feature branch (`git checkout -b feature/your-improvement`)
+3. **Make** your changes following our guidelines
+4. **Test** the build: `quarto render`
+5. **Submit** a pull request with clear description
 
-Under these conditions:
-- Provide appropriate attribution
-- Share adaptations under the same license
+### 📋 Contribution Guidelines
+- ✅ Maintain the book's ethical focus
+- ✅ Use inclusive, accessible language  
+- ✅ Respect cultural sensitivity
+- ✅ Include proper citations for referenced material
+- ✅ Test all changes before submitting
 
-## Contact
+## 🔄 Current Status & Roadmap
 
-**Author:** Bishal Ghimire  
-**Email:** astrofusion369@gmail.com  
-**Website:** [astro-fusion.com](https://astro-fusion.com)
+### ✅ Completed
+- [x] Project structure and automation
+- [x] Chapter 1: Understanding Ethical Boundaries
+- [x] Automated publishing workflow
+- [x] Community discussions setup
+- [x] Multi-format output (HTML, PDF, EPUB)
 
-For questions about the book content or suggestions for improvement, please [open an issue](https://github.com/astro-fusion/the-cosmic-counselor/issues).
+### 🔄 In Progress  
+- [ ] Frontmatter content development
+- [ ] Chapter 2: Building Trust and Rapport
+- [ ] Custom styling system enhancement
+- [ ] Community contribution guidelines
 
-## Acknowledgments
+### 📋 Planned
+- [ ] Chapters 3-10 development
+- [ ] Interactive exercises and assessments
+- [ ] Multi-language translations
+- [ ] Audio/video companion content
+- [ ] Mobile app version
 
-This book exists thanks to the wisdom shared by spiritual teachers, the trust of countless clients, and the support of family and friends. Special gratitude to all contributors who help make this resource better for the spiritual community.
+## 📜 License
 
-## Code of Conduct
+This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Please note that The Cosmic Counselor project follows a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms. We are committed to providing a welcoming and harassment-free experience for everyone, regardless of spiritual practice, cultural background, or experience level.
+**You are free to:**
+- ✅ **Share** - copy and redistribute in any medium or format
+- ✅ **Adapt** - remix, transform, and build upon the material
+- ✅ **Commercial use** - use for commercial purposes
+
+**Under these conditions:**
+- 📝 **Attribution** - Give appropriate credit with link to license
+- 🔄 **ShareAlike** - Distribute adaptations under the same license
+- 🚫 **No additional restrictions** - No legal/technological measures that legally restrict others
+
+## 👤 Author & Contact
+
+**Bishal Ghimire**  
+*Spiritual Counselor & Ethical Practice Advocate*
+
+- 📧 **Email**: astrofusion369@gmail.com  
+- 🌐 **Website**: [astro-fusion.com](https://astro-fusion.com)
+- 💬 **Discussions**: [Book Community](https://github.com/astro-fusion/The-Cosmic-Counselor/discussions)
+- 🐛 **Issues**: [Report Problems](https://github.com/astro-fusion/The-Cosmic-Counselor/issues)
+
+## 🙏 Acknowledgments
+
+This book exists thanks to:
+- 🌟 Wisdom shared by spiritual teachers across traditions
+- 🤝 Trust of countless clients who shaped these insights  
+- 👥 Support of family, friends, and the spiritual community
+- 💝 All contributors who help make this resource better
+
+Special gratitude to everyone working to elevate ethical standards in spiritual practice.
+
+## 📋 Code of Conduct
+
+The Cosmic Counselor project follows a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to create a welcoming, harassment-free experience for everyone, regardless of:
+
+- 🌍 Spiritual practice or tradition
+- 🏛️ Cultural background  
+- 📚 Experience level
+- 🆔 Personal identity
+
+We are committed to building an inclusive community focused on ethical spiritual growth.
+
+---
+
+*May your practice bring healing to yourself and others* 🙏✨

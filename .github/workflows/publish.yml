@@ -29,6 +29,13 @@ jobs:
       - name: Render HTML
         run: quarto render --to html
 
+      - name: Debug - List generated files
+        run: |
+          echo "Contents of _book directory:"
+          ls -la _book/
+          echo "Looking for CSS files:"
+          find _book/ -name "*.css" -type f
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
         
@@ -74,7 +81,7 @@ jobs:
             📚 **The Cosmic Counselor** - Latest Build
             
             **Available Formats:**
-            - 🌐 **HTML**: [View Online](https://astro-fusion.github.io/the-cosmic-counselor)
+            - 🌐 **HTML**: [View Online](https://astro-fusion.github.io/The-Cosmic-Counselor)
             - 📄 **PDF**: Download below
             - 📱 **EPUB**: Download below
             
