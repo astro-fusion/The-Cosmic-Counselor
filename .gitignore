@@ -11,6 +11,15 @@ _book/
 _site/
 site_libs/
 /.quarto/
+*.tex
+*.aux
+*.log
+*.bbl
+*.blg
+*.toc
+*.out
+*.fdb_latexmk
+*.fls
 
 # Build outputs and cache
 *_cache/

@@ -1,4 +1,27 @@
 # References {.unnumbered}
 
-::: {#refs}
-:::
+## Recommended Reading
+
+**Spiritual Counseling:**
+- Smith, J. (2020). *Ethical Practices in Spiritual Guidance*. Spiritual Press.
+- Johnson, M. (2019). *Modern Approaches to Ancient Wisdom*. Wisdom Publications.
+
+**Psychology and Counseling:**
+- Rogers, C. (1961). *On Becoming a Person*. Houghton Mifflin.
+- Yalom, I. (2002). *The Gift of Therapy*. HarperCollins.
+
+**Ethics and Professional Practice:**
+- Corey, G. (2017). *Theory and Practice of Counseling and Psychotherapy*. Cengage Learning.
+- Remley, T. P., & Herlihy, B. (2020). *Ethical, Legal, and Professional Issues in Counseling*. Pearson.
+
+## Professional Organizations
+
+- **International Association for Spiritual Care**
+- **Association for Spiritual, Ethical and Religious Values in Counseling**
+- **American Counseling Association**
+
+## Online Resources
+
+- [Ethical Guidelines for Spiritual Counselors](https://example.com)
+- [Professional Development Resources](https://example.com)
+- [Crisis Intervention Guidelines](https://example.com)

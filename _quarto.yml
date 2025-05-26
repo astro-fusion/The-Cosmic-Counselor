@@ -3,6 +3,7 @@ project:
   output-dir: _book
   resources:
     - scripts/
+    - styles/
 
 book:
   title: "The Cosmic Counselor"
@@ -30,27 +31,49 @@ book:
 
 format:
   html:
-    theme: 
-      - cosmo
+    theme: cosmo
     css:
       - styles/global.scss 
       - styles/chapter.scss
       - styles/quiz.scss
       - styles/practice.scss
-
     toc: true
     toc-depth: 3
     number-sections: true
-  
+    
   pdf:
     documentclass: book
     toc: true
     number-sections: true
-    keep-tex: true
+    keep-tex: false  # Set to false to avoid .tex files in root
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.2in
+      - right=1in
+    fontsize: 11pt
+    linestretch: 1.2
+    # Only include bibliography settings if you're using citations
+    bibliography: references.bib
+    csl: https://www.zotero.org/styles/apa  # Use online CSL
+    cite-method: natbib
+    biblio-style: apalike
+    
+    # LaTeX packages to include
+    include-in-header:
+      - text: |
+          \usepackage{enumitem}
+          \usepackage{amsmath}
+          \usepackage{amsfonts}
+          \usepackage{amssymb}
     
   epub:
     toc: true
     number-sections: true
+
+# Bibliography settings (if you have references)
+bibliography: references.bib  # Only if you have this file
+csl: apa.csl  # Only if you have this file
 
 # GitHub Pages configuration  
 website:

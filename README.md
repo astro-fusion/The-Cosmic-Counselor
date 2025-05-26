@@ -111,6 +111,77 @@ quarto render --quiet
 quarto check
 ```
 
+## 📚 Building Different Formats
+
+### Generate All Formats Locally
+
+```bash
+# Build all formats (HTML, PDF, EPUB)
+quarto render
+
+# Build specific formats
+quarto render --to html    # Web version with interactive features
+quarto render --to pdf     # Print-ready PDF with static content
+quarto render --to epub    # E-reader compatible format
+```
+
+### Format-Specific Features
+
+| Feature | HTML | PDF | EPUB |
+|---------|------|-----|------|
+| 🖱️ **Interactive Elements** | ✅ Buttons, collapsible content | ❌ Static only | ❌ Static only |
+| 📱 **Navigation** | ✅ Dynamic TOC, search | ✅ Static TOC | ✅ Chapter navigation |
+| 🎨 **Styling** | ✅ Full CSS, animations | ✅ Print-optimized | ✅ E-reader adapted |
+| 📖 **Reading Experience** | ✅ Web-based | ✅ Print-ready | ✅ E-reader optimized |
+
+### Content Adaptation
+
+The book automatically adapts content for different formats:
+
+- **🌐 HTML Version**: Interactive quizzes, collapsible answers, dynamic styling
+- **📄 PDF Version**: Static quiz questions with answer keys, print-optimized layout
+- **📱 EPUB Version**: E-reader friendly formatting with embedded answers
+
+### Local Development Workflow
+
+```bash
+# 1. Preview while writing (auto-refresh)
+quarto preview
+
+# 2. Test specific format
+quarto render --to pdf
+
+# 3. Check all formats before publishing
+quarto render --clean  # Clean build
+quarto render          # Build all formats
+
+# 4. Verify output
+ls -la _book/
+```
+
+### Troubleshooting Local Builds
+
+**PDF Issues:**
+```bash
+# Install/update TinyTeX
+quarto install tinytex
+
+# Check TinyTeX installation
+quarto check
+```
+
+**Missing Styles:**
+```bash
+# Verify SCSS compilation
+quarto render --to html --quiet
+find _book/ -name "*.css"
+```
+
+**EPUB Issues:**
+```bash
+# Check EPUB structure
+unzip -l _book/The-Cosmic-Counselor.epub
+```
 ## 🤝 Community & Discussions
 
 Join our growing community of ethical spiritual practitioners!
