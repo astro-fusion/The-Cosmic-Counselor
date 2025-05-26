@@ -45,8 +45,9 @@ D) Having expensive tools and materials
 
 ---
 
+## 📊 Self-Assessment: Where Am I Now?
+
 ::: {.assessment-box}
-### 📊 Self-Assessment: Where Am I Now?
 
 **Rate yourself honestly (1 = Need work, 5 = Very confident):**
 
@@ -93,8 +94,9 @@ Managing my emotions during sessions
 :::
 ---
 
+## 🎯 Action Steps for This Week
+
 ::: {.action-box}
-### 🎯 Action Steps for This Week
 
 **Beginner Level:**
 
@@ -114,5 +116,8 @@ Managing my emotions during sessions
 - [ ] Create boundary scripts for challenging situations
 - [ ] Schedule monthly self-care and supervision practices
 :::
+
+## **Chapter Reflection**
+*Before moving to the next chapter, take a moment to think about your own spiritual practice. What drew you to this path? How do you currently handle the responsibility of guiding others? What areas do you feel you need to strengthen?*
 
 <script src="../scripts/quiz-interactions.js"></script>

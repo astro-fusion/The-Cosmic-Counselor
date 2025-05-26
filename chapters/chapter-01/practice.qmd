@@ -78,8 +78,9 @@ Complete this statement in your own words:
 
 ---
 
-::: {.exercise-box}
 ### 🎯 Practice Exercise: Ethical Scenarios {.exercise-title}
+
+::: {.exercise-box}
 
 ::: {.exercise-meta}
 **Purpose:** Test your ethical decision-making skills with realistic scenarios.
@@ -121,8 +122,9 @@ D) Share your own similar experiences
 
 ---
 
-::: {.action-box}
 ### 📋 Weekly Practice Checklist
+
+::: {.action-box}
 
 **This Week's Goals:**
 
@@ -150,8 +152,9 @@ D) Share your own similar experiences
 
 ---
 
-::: {.practice-assessment-box}
 ### 📊 Weekly Self-Check: How Am I Growing?
+
+::: {.practice-assessment-box}
 
 **Rate your progress this week (1 = Need more work, 5 = Excellent progress):**
 

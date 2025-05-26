@@ -45,7 +45,7 @@ format:
     documentclass: book
     toc: true
     number-sections: true
-    keep-tex: false  # Set to false to avoid .tex files in root
+    keep-tex: false
     geometry:
       - top=1in
       - bottom=1in
@@ -53,7 +53,7 @@ format:
       - right=1in
     fontsize: 11pt
     linestretch: 1.2
-    # Only include bibliography settings if you're using citations
+    # Bibliography settings
     bibliography: references.bib
     csl: https://www.zotero.org/styles/apa  # Use online CSL
     cite-method: natbib
@@ -71,9 +71,8 @@ format:
     toc: true
     number-sections: true
 
-# Bibliography settings (if you have references)
-bibliography: references.bib  # Only if you have this file
-csl: apa.csl  # Only if you have this file
+# Global bibliography settings (remove the duplicate local reference)
+bibliography: references.bib
 
 # GitHub Pages configuration  
 website:
