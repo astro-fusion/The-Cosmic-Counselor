@@ -1,0 +1,10 @@
+## Psychological Well-Being
+
+<!-- ## Main Content -->
+{{< include chapter-06/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-06/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-06/quiz.qmd >}}

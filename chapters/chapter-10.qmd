@@ -1,0 +1,10 @@
+## Beyond the Consultation
+
+<!-- ## Main Content -->
+{{< include chapter-10/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-10/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-10/quiz.qmd >}}

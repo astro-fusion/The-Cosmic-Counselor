@@ -1,0 +1,10 @@
+## Ethical Navigation
+
+<!-- ## Main Content -->
+{{< include chapter-05/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-05/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-05/quiz.qmd >}}

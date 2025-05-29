@@ -1,0 +1,10 @@
+## Skepticism to Stars
+
+<!-- ## Main Content -->
+{{< include chapter-02/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-02/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-02/quiz.qmd >}}
