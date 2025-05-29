@@ -15,10 +15,12 @@ book:
     - index.qmd
 
     # Frontmatter
-    - frontmatter/prologue.qmd
-    - frontmatter/foreword.qmd
-    - frontmatter/gratitude.qmd
-    - frontmatter/preface.qmd
+    - part: "Front Matter"
+      chapters:
+        - frontmatter/prologue.qmd
+        - frontmatter/foreword.qmd
+        - frontmatter/gratitude.qmd
+        - frontmatter/preface.qmd
     
     # Main chapters
     - part: "Chapters"
@@ -37,8 +39,10 @@ book:
         - chapters/chapter-12.qmd
     
     # Backmatter
-    - backmatter/summary.qmd
-    - backmatter/references.qmd
+    - part: "Backmatter Matter"
+      chapters:
+        - backmatter/summary.qmd
+        - backmatter/references.qmd
 
 format:
   html:
