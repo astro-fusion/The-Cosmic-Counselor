@@ -1,6 +1,5 @@
 ## 📝 Practice Sections {.practice-header}
 
-::: {.exercise-box}
 ### 🌟 Exercise: Your Sacred Promise {.exercise-title}
 
 ::: {.exercise-meta}
@@ -8,6 +7,8 @@
 
 **Time needed:** 15-20 minutes
 :::
+
+::: {.exercise-box}
 
 ::: {.exercise-content}
 ::: {.step-box}
@@ -80,13 +81,13 @@ Complete this statement in your own words:
 
 ### 🎯 Practice Exercise: Ethical Scenarios {.exercise-title}
 
-::: {.exercise-box}
-
 ::: {.exercise-meta}
 **Purpose:** Test your ethical decision-making skills with realistic scenarios.
 
 **Time needed:** 10-15 minutes
 :::
+
+::: {.exercise-box}
 
 ::: {.exercise-content}
 **Instructions:** Read each scenario and choose the most ethical response. Consider your Sacred Promise as you decide.
@@ -122,9 +123,9 @@ D) Share your own similar experiences
 
 ---
 
-### 📋 Weekly Practice Checklist
+### 📋 Weekly Practice Checklist {.exercise-title}
 
-::: {.action-box}
+::: {.practice-action-box}
 
 **This Week's Goals:**
 
@@ -152,7 +153,7 @@ D) Share your own similar experiences
 
 ---
 
-### 📊 Weekly Self-Check: How Am I Growing?
+### 📊 Weekly Self-Check: How Am I Growing? {.exercise-title}
 
 ::: {.practice-assessment-box}
 

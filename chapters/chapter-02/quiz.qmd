@@ -1,1 +1,148 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+**1. Which of the following is a common reason people are skeptical about astrology?**
+
+A) Lack of scientific evidence  
+B) Negative experiences with unethical astrologers  
+C) Misunderstanding of how astrology works  
+D) All of the above
+
+**2. A client asks you to predict their financial future precisely. How should you respond to maintain ethical standards?**
+
+A) Provide a detailed financial forecast  
+B) Offer general guidance on financial tendencies and advise caution  
+C) Refuse to answer and explain that astrology cannot predict exact outcomes  
+D) Ask for more context about their financial situation before answering
+
+**3. What was the main problem with the author's early astrological practice?**
+
+A) Lack of technical knowledge  
+B) Focus on being right rather than being helpful  
+C) Not charging enough for readings  
+D) Working with too many clients
+
+**4. The "YouTube Generation Challenge" refers to astrologers who:**
+
+A) Only practice online  
+B) Learn quickly through modern methods but miss emotional skills  
+C) Are too young to practice astrology  
+D) Don't understand traditional techniques
+
+**5. When sharing potentially difficult predictions, an ethical astrologer should:**
+
+A) Be direct and blunt to show confidence  
+B) Avoid mentioning challenges completely  
+C) Focus on empowerment and guidance rather than doom  
+D) Only share positive predictions
+
+**6. Scenario: A skeptical client says "Astrology is just superstition." How should you respond?**
+
+A) Argue with them about astrology's validity  
+B) Share scientific studies that prove astrology  
+C) Acknowledge their perspective and focus on self-discovery benefits  
+D) Refuse to work with skeptical clients
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-D, 2-C, 3-B, 4-B, 5-C, 6-C
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Your Ethical Development
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Handling Skepticism:**
+
+How confident are you in addressing skepticism about astrology professionally? 
+
+Can you explain astrology's benefits without making unrealistic claims? 
+
+Do you remain calm when clients question astrology's validity? 
+
+**Ethical Practice:**
+
+How well do you understand ethical guidelines for astrologers? 
+
+Do you prioritize client welfare over impressive predictions? 
+
+Can you recognize when you're in over your head? 
+
+**Self-Awareness:**
+
+How often do you apply ethical guidelines with skeptical clients? 
+
+Do you acknowledge the limitations of astrological predictions? 
+
+Can you separate your ego from your practice? 
+
+**Personal Growth:**
+
+How well do you handle your own doubts about astrology? 
+
+Do you continue learning about psychology and counseling? 
+
+Can you admit when you don't know something? 
+
+**Reflection Questions:**
+
+1. Which area scored lowest? This shows where you need the most growth.
+2. How has your approach to skeptical clients changed after reading this chapter?
+3. What's one specific way you can improve your ethical practice this week?
+
+::: {.writing-space}
+*Your reflections on turning skepticism into ethical practice...*
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Write down three common skeptical questions and practice ethical responses
+- [ ] Reflect on a time you gave a prediction you now regret—what would you do differently?
+- [ ] Practice saying "I don't know" when you genuinely don't have an answer
+
+**Intermediate Level:**
+
+- [ ] Role-play with a friend: one person plays a skeptical client, practice ethical responses
+- [ ] Create a list of astrology's limitations to share with overconfident clients
+- [ ] Develop three ways to shift prediction-seekers toward self-discovery
+
+**Advanced Level:**
+
+- [ ] Design an ethical intake process for new clients that addresses skepticism
+- [ ] Create scripts for redirecting clients from "fortune telling" to "counseling"
+- [ ] Establish a monthly self-reflection practice to review your ethical development
+:::
+
+## **Chapter Reflection**
+
+*Think about your own journey from skepticism to belief. How can your experience help you connect with skeptical clients? What ethical boundaries do you need to strengthen in your practice? How will you balance confidence in astrology with humility about its limitations?*
+
+## **Key Takeaways to Remember:**
+
+::: {.takeaway-box}
+- **Skepticism is healthy** - it leads to better, more ethical practice
+- **Predictions without compassion can harm** - focus on guidance, not fortune-telling  
+- **Your emotional well-being matters** - you can't help others if you're depleted
+- **Ethics aren't optional** - they're the foundation of trustworthy practice
+- **Continuous learning is essential** - both astrological and psychological knowledge matter
+:::
+
+<script src="../scripts/quiz-interactions.js"></script>
