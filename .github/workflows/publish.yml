@@ -64,9 +64,8 @@ jobs:
 
       - name: Render PDF and EPUB
         run: |
-          quarto render --to pdf
-          quarto render --to epub
-
+          # This will render all formats defined in _quarto.yml
+          quarto render --profile formats
       - name: Get current date
         id: date
         run: echo "date=$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
@@ -87,8 +86,8 @@ jobs:
             
             Generated on: ${{ steps.date.outputs.date }}
           artifacts: |
-            ./_book/The-Cosmic-Counselor.pdf
-            ./_book/The-Cosmic-Counselor.epub
+            _book/The-Cosmic-Counselor.pdf
+            _book/The-Cosmic-Counselor.epub
           draft: false
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
