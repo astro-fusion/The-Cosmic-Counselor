@@ -1,1 +1,260 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-intro}
+Test your understanding of ethical principles in spiritual counseling. Choose the best answer for each question, then reflect on your current practice.
+:::
+
+---
+
+### 🎯 Multiple Choice Questions {.quiz-section}
+
+::: {.quiz-box}
+**Question 1:** Which of the following is NOT an ethical principle typically emphasized in astrological practice?
+
+::: {.quiz-options}
+A) Confidentiality  
+B) Honesty  
+C) Predicting exact future events  
+D) Non-judgmental attitude  
+:::
+
+::: {.quiz-explanation .hidden}
+**Correct Answer: C**
+
+Predicting exact future events goes against ethical astrological practice because it promotes determinism and removes client agency. Ethical astrology focuses on potential patterns and empowering clients to make informed choices, not on making definitive predictions about what will happen.
+:::
+:::
+
+::: {.quiz-box}
+**Question 2:** A client asks you to definitively predict when they'll get married. What's the most ethical response?
+
+::: {.quiz-options}
+A) Give them a specific date based on transits  
+B) Explain you can't predict exact timing, but explore relationship patterns in their chart  
+C) Refuse to discuss relationships at all  
+D) Make a vague prediction to satisfy them  
+:::
+
+::: {.quiz-explanation .hidden}
+**Correct Answer: B**
+
+The ethical approach acknowledges the client's desire for information while redirecting toward empowering insights. This maintains honesty about astrology's limitations while still providing valuable guidance about relationship patterns and tendencies.
+:::
+:::
+
+::: {.quiz-box}
+**Question 3:** A long-term client asks you to share details of another client's chart because they believe it may contain information relevant to their own situation. How should you respond?
+
+::: {.quiz-options}
+A) Share only the relevant parts of the other client's chart  
+B) Politely refuse and explain the importance of confidentiality  
+C) Ask the other client for permission to share their chart details  
+D) Ignore the request and change the subject  
+:::
+
+::: {.quiz-explanation .hidden}
+**Correct Answer: B**
+
+Confidentiality is absolute in ethical practice. Even with permission from another client, sharing chart details violates professional boundaries. The ethical response is to clearly explain why confidentiality matters and suggest the client focus on their own chart for insights.
+:::
+:::
+
+::: {.quiz-box}
+**Question 4:** Which approach best demonstrates cultural sensitivity in spiritual counseling?
+
+::: {.quiz-options}
+A) Treating all clients exactly the same regardless of background  
+B) Making assumptions about clients based on their ethnicity  
+C) Asking clients about their cultural background and adapting your approach accordingly  
+D) Avoiding any mention of cultural differences  
+:::
+
+::: {.quiz-explanation .hidden}
+**Correct Answer: C**
+
+Cultural sensitivity requires actively learning about and adapting to each client's unique background. This shows respect for their values and worldview while ensuring your guidance is relevant and appropriate to their context.
+:::
+:::
+
+::: {.quiz-box}
+**Question 5:** When should you refer a client to another professional?
+
+::: {.quiz-options}
+A) Only when they specifically ask for a referral  
+B) When they mention any emotional difficulties  
+C) When they present issues requiring medical, legal, or therapeutic expertise  
+D) Never - you should handle all spiritual concerns yourself  
+:::
+
+::: {.quiz-explanation .hidden}
+**Correct Answer: C**
+
+Ethical practice requires recognizing the limits of your expertise. While spiritual counselors can address many life concerns, issues requiring specialized medical, legal, or therapeutic intervention should be referred to qualified professionals.
+:::
+:::
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-C, 2-B, 3-B, 4-C, 5-C
+:::
+
+---
+
+## 📊 Self-Assessment: Where Am I Now?
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale .no-rating}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Ethical Practice Skills:**
+
+Maintaining client confidentiality in my practice
+
+Ensuring honest and transparent communication with clients
+
+Practicing a non-judgmental approach in interpretations
+
+Avoiding harmful stereotypes in my readings
+
+Empowering clients rather than creating dependency
+
+Recognizing when to refer clients to other professionals
+
+**Cultural Sensitivity:**
+
+Adapting my approach to different cultural backgrounds
+
+Asking respectfully about clients' values and beliefs
+
+Avoiding assumptions based on appearance or accent
+
+**Professional Boundaries:**
+
+Keeping sessions focused on spiritual guidance
+
+Maintaining appropriate relationships with clients
+
+Managing my own emotions during difficult sessions
+
+**Reflection Questions:**
+
+1. Which area scored lowest? This is your priority for growth.
+2. Which area scored highest? This is your strength to build on.
+3. What specific step will you take this week to improve your ethical practice?
+
+::: {.writing-space}
+*Space for your reflections...*
+:::
+
+:::
+
+---
+
+### 🎭 Scenario Analysis {.quiz-section}
+
+::: {.scenario-practice}
+**Practice Scenario:** A client says, "My Scorpio ex was so manipulative and secretive. I'm never dating another Scorpio again. Can you tell me what signs I should avoid?"
+
+::: {.scenario-response}
+**What's problematic about this request?**
+
+::: {.writing-space}
+*Your analysis:*
+:::
+
+**How would you respond ethically?**
+
+::: {.writing-space}
+*Your response:*
+:::
+
+**What does this teach about stereotypes?**
+
+::: {.writing-space}
+*Your insights:*
+:::
+:::
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Complete the stereotype-challenging exercise for one zodiac sign
+- [ ] Write down your top 3 professional boundaries
+- [ ] Research one local mental health professional for referrals
+- [ ] Practice one empowering response to a deterministic statement
+
+**Intermediate Level:**
+
+- [ ] Complete all four exercises in the practice section
+- [ ] Role-play challenging scenarios with a friend or colleague
+- [ ] Draft your professional boundaries statement
+- [ ] Create a referral resource list for your area
+
+**Advanced Level:**
+
+- [ ] Develop scripts for difficult boundary conversations
+- [ ] Create an intake form that sets ethical expectations
+- [ ] Practice cultural sensitivity with diverse practice partners
+- [ ] Schedule regular supervision or peer consultation sessions
+:::
+
+---
+
+### 📈 Your Ethical Growth Plan {.quiz-section}
+
+::: {.growth-plan-box}
+Based on your quiz results and self-assessment:
+
+::: {.plan-section}
+**Areas where I'm strongest:**
+
+::: {.writing-space}
+:::
+:::
+
+::: {.plan-section}
+**Areas needing improvement:**
+
+::: {.writing-space}
+:::
+:::
+
+::: {.plan-section}
+**Specific actions I'll take this month:**
+
+::: {.action-list}
+1. _______________
+2. _______________
+3. _______________
+:::
+:::
+
+::: {.plan-section}
+**Resources I need (training, books, mentorship):**
+
+::: {.writing-space}
+:::
+:::
+:::
+
+---
+
+## **Chapter Reflection**
+*Before moving to the next chapter, reflect on your current ethical practice. What ethical principles do you already follow well? Where do you feel uncertain? How will you commit to growing in integrity as you serve others?*
+
+::: {.quiz-footer}
+**Remember:** Ethical practice is a journey, not a destination. Regular self-assessment and commitment to growth are what make us trustworthy spiritual counselors.
+:::
+
+<script src="../scripts/quiz-interactions.js"></script>

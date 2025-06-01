@@ -1,1 +1,340 @@
 ## 📝 Practice Sections {.practice-header}
+
+### 🌟 Exercise 1: Case Study Analysis {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Learn to identify when someone needs more than spiritual guidance and practice making compassionate referrals.
+
+**Time needed:** 20-25 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+**Instructions:** Read each client scenario carefully. Look for both everyday stress AND potential warning signs of serious mental health issues.
+
+For each case, decide:
+- Would you continue the reading as normal?
+- Shift the focus gently?
+- Suggest a mental health referral?
+
+**Write your reasoning for each decision.**
+:::
+
+::: {.case-study-box}
+**Client A - Maya, 28:** 
+*"I'm so stressed about this job interview next week. I haven't been sleeping well at all - maybe 2-3 hours a night for the past month. Everything feels overwhelming right now. My boyfriend says I'm being dramatic, but I just can't stop worrying about everything. Yesterday I cried for like 3 hours straight over nothing. I feel like such a failure at everything I try."*
+
+::: {.analysis-space}
+**Warning signs you notice:**
+
+**Your decision (continue/shift/refer):**
+
+**Your reasoning:**
+:::
+:::
+
+::: {.case-study-box}
+**Client B - David, 35:**
+*"Things have been weird lately. I know someone's been following me - probably from my old job. They're definitely watching my apartment. I can hear them talking about me through the walls sometimes. My family thinks I'm paranoid, but I know what I'm experiencing. I haven't left my place much in the past few weeks because it's not safe. Can you see in my chart who's doing this to me?"*
+
+::: {.analysis-space}
+**Warning signs you notice:**
+
+**Your decision (continue/shift/refer):**
+
+**Your reasoning:**
+:::
+:::
+
+::: {.case-study-box}
+**Client C - Sarah, 42:**
+*"I've been going through a divorce, and it's been really hard. Some days I feel completely hopeless, like nothing will ever get better. I've been drinking wine every night to sleep, and my appetite is gone - I've lost about 15 pounds without trying. My kids are staying with their dad for now because I just... I can't handle taking care of anyone right now. Sometimes I wonder if they'd be better off without me."*
+
+::: {.analysis-space}
+**Warning signs you notice:**
+
+**Your decision (continue/shift/refer):**
+
+**Your reasoning:**
+:::
+:::
+
+::: {.case-study-box}
+**Client D - Alex, 24:**
+*"I need to know if Mercury retrograde is causing all this chaos in my life. Everything's been amazing lately - I haven't needed much sleep, maybe 3 hours a night, but I feel incredible! I've started three new businesses this month and I know they're all going to make me rich. My friends are being so negative about my ideas, but they just don't understand my vision. I can see connections between everything now - the universe is definitely speaking to me directly."*
+
+::: {.analysis-space}
+**Warning signs you notice:**
+
+**Your decision (continue/shift/refer):**
+
+**Your reasoning:**
+:::
+:::
+
+::: {.case-study-box}
+**Client E - Jordan, 30:**
+*"I've been feeling really anxious about social situations lately. It started a few months ago when I had a panic attack at work. Now I'm constantly worried it will happen again. I've started avoiding meetings and social events because my heart races and I can't breathe properly. I keep checking my pulse and googling heart attack symptoms. My doctor says my heart is fine, but what if they missed something?"*
+
+::: {.analysis-space}
+**Warning signs you notice:**
+
+**Your decision (continue/shift/refer):**
+
+**Your reasoning:**
+:::
+:::
+:::
+:::
+
+---
+
+### 🎯 Exercise 2: Referral Roleplay {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Practice making compassionate referrals in realistic scenarios.
+
+**Time needed:** 15-20 minutes per scenario
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+**Setup:** Find a practice partner (another spiritual counselor, friend, or even practice alone using a mirror).
+
+**Instructions:** Take turns playing client and counselor. Use the scenarios below or create your own.
+:::
+
+::: {.roleplay-scenarios}
+**Scenario 1: The Overwhelmed Client**
+*Client role:* You're experiencing severe anxiety that's affecting your work and relationships. You mention not being able to leave the house some days and having panic attacks.
+
+*Counselor role:* Practice expressing concern and suggesting professional help without making the client feel judged or dismissed.
+
+**Scenario 2: The Crisis Client**
+*Client role:* You're going through a difficult time and mention feeling like "it might be better if I wasn't here anymore."
+
+*Counselor role:* This requires immediate referral. Practice staying calm while prioritizing safety.
+
+**Scenario 3: The Resistant Client**
+*Client role:* You show signs of needing help but resist suggestions about therapy, saying "I just want to know what my chart says."
+
+*Counselor role:* Practice gentle persistence while respecting boundaries.
+:::
+
+::: {.referral-scripts}
+**Practice these compassionate referral phrases:**
+
+::: {.script-box}
+**Expressing Concern:**
+- "I can see you're really struggling with this..."
+- "What you're describing sounds incredibly difficult..."
+- "I'm concerned about how much this is affecting your daily life..."
+:::
+
+::: {.script-box}
+**Suggesting Help:**
+- "While I can offer spiritual guidance, what you're experiencing might benefit from professional counseling as well..."
+- "Have you considered talking to someone who specializes in..."
+- "It sounds like you could use some additional support beyond what I can offer..."
+:::
+
+::: {.script-box}
+**Normalizing Mental Health Care:**
+- "Many people find therapy helpful during challenging times..."
+- "It's actually a sign of strength to reach out for professional support..."
+- "Think of it like any other health issue - you'd see a doctor for a physical problem..."
+:::
+:::
+
+::: {.reflection-space}
+**After each roleplay, discuss:**
+
+1. What felt natural and what felt awkward?
+2. How did the "client" receive the referral suggestion?
+3. What would you do differently next time?
+
+**Your reflections:**
+:::
+:::
+:::
+
+---
+
+### 📋 Exercise 3: Self-Check on Sensitive Topics {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Identify your personal triggers and prepare professional responses.
+
+**Time needed:** 15-20 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+**Step 1: Identify Your Triggers**
+
+Write down 2-3 topics that would make you deeply uncomfortable due to lack of expertise or personal unease:
+
+::: {.common-triggers}
+**Common trigger topics:**
+- Detailed death predictions
+- Graphic descriptions of trauma
+- Requests for medical diagnosis
+- Severe mental health crises
+- Requests to harm others
+- Explicit sexual content
+- Extreme religious conflicts
+:::
+
+::: {.writing-space}
+**Your personal trigger topics:**
+
+1. _______________
+2. _______________
+3. _______________
+:::
+:::
+
+::: {.step-box}
+**Step 2: Create Your Response Plans**
+
+For each trigger topic, prepare two approaches:
+
+**Example Topic:** *Detailed death predictions*
+
+::: {.plan-comparison}
+**Plan A - Gentle Redirection:**
+*"I understand you're concerned about timing, but I focus on helping people understand life patterns rather than predicting specific events. Let's look at what your chart suggests about your life purpose and growth opportunities instead."*
+
+**Plan B - Professional Referral:**
+*"Questions about mortality often come from deeper concerns about purpose and meaning. While I can offer spiritual insights, these existential questions might be beautifully explored with a counselor who specializes in life transitions and meaning-making."*
+:::
+:::
+
+::: {.your-plans}
+**Your Topic 1:** _______________
+
+::: {.plan-box}
+**Plan A - Gentle Redirection:**
+
+**Plan B - Professional Referral:**
+:::
+
+**Your Topic 2:** _______________
+
+::: {.plan-box}
+**Plan A - Gentle Redirection:**
+
+**Plan B - Professional Referral:**
+:::
+
+**Your Topic 3:** _______________
+
+::: {.plan-box}
+**Plan A - Gentle Redirection:**
+
+**Plan B - Professional Referral:**
+:::
+:::
+:::
+:::
+
+---
+
+### 📊 Weekly Practice Checklist {.exercise-title}
+
+::: {.practice-action-box}
+
+**This Week's Goals:**
+
+**Beginner Level:**
+
+- [ ] Complete all case study analyses
+- [ ] Research 3 mental health resources in your area
+- [ ] Practice one referral script out loud
+- [ ] Identify your personal trigger topics
+
+**Intermediate Level:**
+
+- [ ] Practice roleplay scenarios with a partner
+- [ ] Create a referral resource list with contact information
+- [ ] Develop your personal response scripts for sensitive topics
+- [ ] Discuss challenging scenarios with a mentor or peer group
+
+**Advanced Level:**
+
+- [ ] Create intake forms that screen for mental health concerns
+- [ ] Establish relationships with local mental health professionals
+- [ ] Develop a crisis intervention protocol for your practice
+- [ ] Train others in compassionate referral techniques
+:::
+
+---
+
+### 🎯 Crisis Resource Quick Reference {.exercise-title}
+
+::: {.crisis-resources}
+**Keep these numbers handy:**
+
+::: {.emergency-box}
+**Immediate Crisis:**
+- **Emergency Services:** 911
+- **Crisis Text Line:** Text HOME to 741741
+- **National Suicide Prevention Lifeline:** 988
+:::
+
+::: {.local-resources}
+**Your Local Resources:**
+
+**Mental Health Crisis Center:** _______________
+
+**Local Therapist Referrals:** _______________
+
+**Psychiatric Emergency Services:** _______________
+
+**Community Mental Health Center:** _______________
+:::
+:::
+
+---
+
+### 📈 Weekly Self-Check: Referral Readiness {.exercise-title}
+
+::: {.practice-assessment-box}
+
+**Rate your confidence this week (1 = Need more work, 5 = Very confident):**
+
+::: {.rating-scale .no-rating}
+**1** = Need more work | **2** = Some confidence | **3** = Moderate confidence | **4** = Good confidence | **5** = Very confident
+:::
+
+**Assessment Areas:**
+
+Recognizing signs of serious mental health issues
+
+Making compassionate referrals without judgment
+
+Handling my own discomfort with sensitive topics
+
+Knowing when to prioritize safety over continuing a reading
+
+Having appropriate resources readily available
+
+**Reflection Questions:**
+
+1. Which type of mental health concern feels most challenging for you to identify?
+2. What made the referral roleplay easy or difficult?
+3. How will you continue building your confidence in this area?
+
+::: {.writing-space}
+*Space for your weekly reflections...*
+:::
+:::
+
+<script src="../scripts/quiz-interactions.js"></script>
+

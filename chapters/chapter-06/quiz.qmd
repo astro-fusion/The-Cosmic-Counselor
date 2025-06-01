@@ -1,1 +1,243 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+**1. Which of the following signs might indicate that a client should be referred to a mental health professional?**
+
+A) Persistent feelings of hopelessness  
+B) A desire to understand their astrological chart better  
+C) Occasional stress about work  
+D) Curiosity about how astrology can help their relationship
+
+**2. According to the BioPsychoSocial model, mental health is influenced by:**
+
+A) Only brain chemistry  
+B) Only psychological factors  
+C) Biological, psychological, and social factors working together  
+D) Only social circumstances
+
+**3. When someone mentions having thoughts of suicide during a session, you should:**
+
+A) Continue the reading to distract them  
+B) Give them astrological advice about better times ahead  
+C) Immediately refer them to mental health professionals  
+D) Schedule them for a follow-up reading next week
+
+**4. The difference between normal sadness and clinical depression is:**
+
+A) Depression lasts longer and significantly impacts daily functioning  
+B) Depression only affects women  
+C) Sadness is always temporary  
+D) There is no real difference
+
+**5. Scenario: During a consultation, a client reveals they have been experiencing severe depression and have had thoughts of self-harm. How should you respond?**
+
+A) Offer astrological guidance to help them feel better  
+B) Provide general support and recommend they seek help from a mental health professional immediately  
+C) Assure them that their chart shows things will improve soon  
+D) Avoid discussing their feelings and focus on the astrological reading
+
+**6. Which of these is NOT a sign of a manic episode?**
+
+A) Decreased need for sleep (2-3 hours feeling rested)  
+B) Racing thoughts and rapid speech  
+C) Persistent sadness and withdrawal  
+D) Grandiose beliefs about abilities
+
+**7. A client describes hearing voices that others can't hear. This is an example of:**
+
+A) Normal stress response  
+B) Hallucination requiring immediate professional help  
+C) Spiritual awakening  
+D) Temporary anxiety
+
+**8. The most compassionate way to make a mental health referral is to:**
+
+A) Tell them they're too sick for spiritual guidance  
+B) Express concern and explain how professional help can work alongside spiritual guidance  
+C) Refuse to continue any sessions  
+D) Give them a business card and end the session
+
+**9. Generalized Anxiety Disorder is characterized by:**
+
+A) Fear of specific objects only  
+B) Occasional worry about normal life events  
+C) Excessive, uncontrollable worry about many things that impairs daily life  
+D) Only physical symptoms like headaches
+
+**10. As a spiritual counselor, your role when encountering mental health issues is to:**
+
+A) Diagnose and treat the condition yourself  
+B) Ignore mental health signs and focus only on spiritual guidance  
+C) Recognize signs and compassionately refer to appropriate professionals  
+D) Tell clients to just think positively
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 
+
+1. **A** - Persistent feelings of hopelessness (This is a key sign of depression requiring professional help)
+2. **C** - Biological, psychological, and social factors working together
+3. **C** - Immediately refer them to mental health professionals (Safety is always the priority)
+4. **A** - Depression lasts longer and significantly impacts daily functioning
+5. **B** - Provide general support and recommend they seek help from a mental health professional immediately
+6. **C** - Persistent sadness and withdrawal (This is a sign of depression, not mania)
+7. **B** - Hallucination requiring immediate professional help
+8. **B** - Express concern and explain how professional help can work alongside spiritual guidance
+9. **C** - Excessive, uncontrollable worry about many things that impairs daily life
+10. **C** - Recognize signs and compassionately refer to appropriate professionals
+
+**If you missed more than 2 questions:** Review the chapter sections on warning signs and referral guidelines.
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Mental Health Awareness
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some knowledge | **3** = Adequate understanding | **4** = Good awareness | **5** = Very confident
+:::
+
+**Recognition Skills:**
+
+How confident are you in recognizing when a client's issues may be beyond the scope of astrology and require professional mental health support?
+
+How well can you distinguish between normal stress and serious mental health concerns?
+
+How comfortable are you identifying signs of depression, anxiety, or psychotic symptoms?
+
+**Referral Skills:**
+
+How comfortable are you with referring clients to mental health professionals when necessary?
+
+How confident are you in making referrals without clients feeling rejected or judged?
+
+How well can you maintain your therapeutic relationship while encouraging professional help?
+
+**Resource Knowledge:**
+
+How well do you understand the mental health resources available for referral in your community?
+
+How prepared are you to handle crisis situations (suicidal thoughts, severe symptoms)?
+
+How knowledgeable are you about different types of mental health professionals and their specialties?
+
+**Professional Boundaries:**
+
+How clear are you about what you can and cannot address as a spiritual counselor?
+
+How comfortable are you with saying "This is beyond my expertise"?
+
+How well do you balance spiritual guidance with mental health awareness?
+
+::: {.scoring-guide}
+**Your Score Guide:**
+
+- **48-60:** Excellent mental health awareness
+- **36-47:** Good foundation, some areas to strengthen  
+- **24-35:** Adequate knowledge, focus on weak areas
+- **12-23:** Significant learning needed
+- **Below 12:** Prioritize mental health education immediately
+
+:::
+
+**Reflection Questions:**
+
+1. Which area scored lowest? This needs immediate attention for client safety.
+2. What specific mental health topic do you need to learn more about?
+3. What will you do this week to improve your mental health awareness?
+
+::: {.writing-space}
+*Space for your reflections...*
+:::
+:::
+
+---
+
+## 🎯 Action Steps Based on Your Assessment
+
+::: {.action-box}
+
+**If you scored 12-23 (Immediate Priority):**
+
+- [ ] Take a Mental Health First Aid course
+- [ ] Shadow a mental health professional or counselor
+- [ ] Create a crisis intervention plan for your practice
+- [ ] Build a comprehensive referral network immediately
+
+**If you scored 24-35 (Focus Areas):**
+
+- [ ] Study the specific mental health topics you missed in the quiz
+- [ ] Practice referral conversations with a mentor
+- [ ] Research local mental health resources and create contact list
+- [ ] Attend workshops on trauma-informed care
+
+**If you scored 36-47 (Strengthen Skills):**
+
+- [ ] Role-play challenging referral scenarios
+- [ ] Develop intake forms that screen for mental health concerns
+- [ ] Create boundary scripts for different situations
+- [ ] Establish professional relationships with therapists
+
+**If you scored 48-60 (Maintain Excellence):**
+
+- [ ] Mentor other spiritual counselors in mental health awareness
+- [ ] Stay updated on mental health research and best practices
+- [ ] Develop training materials for your community
+- [ ] Consider becoming a Mental Health First Aid instructor
+:::
+
+---
+
+## 🚨 Emergency Resource Checklist
+
+::: {.crisis-resources}
+**Print this out and keep it accessible during all sessions:**
+
+::: {.emergency-box}
+**Crisis Situations - Call Immediately:**
+- **Emergency Services:** 911
+- **Crisis Text Line:** Text HOME to 741741
+- **National Suicide Prevention Lifeline:** 988
+- **Crisis Chat:** suicidepreventionlifeline.org/chat
+:::
+
+::: {.warning-signs-box}
+**Immediate Referral Required When Client Shows:**
+- [ ] Thoughts of suicide or self-harm
+- [ ] Plans to hurt others
+- [ ] Severe hallucinations or delusions
+- [ ] Complete break from reality
+- [ ] Inability to care for basic needs
+- [ ] Substance abuse with mental health symptoms
+:::
+
+::: {.local-resources}
+**Your Local Resources (Fill in now):**
+
+**Mental Health Crisis Center:** _______________
+
+**24-Hour Crisis Hotline:** _______________
+
+**Local Hospital Emergency Room:** _______________
+
+**Community Mental Health Center:** _______________
+
+**Trusted Therapist Referrals:** 
+
+1. _______________
+2. _______________
+3. _______________
+:::
+:::
+
+## **Chapter Reflection**
+
+*Think about a time when you or someone you know needed mental health support. How did it feel to ask for help? How can this experience inform how you approach referrals with your clients? Remember: referring someone for mental health support is an act of love, not failure.*
+
+<script src="../scripts/quiz-interactions.js"></script>
