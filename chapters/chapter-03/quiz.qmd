@@ -1,1 +1,190 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+**1. Which of the following is a core principle of ethical astrology?**
+
+A) Predicting future events with absolute certainty  
+B) Ensuring client confidentiality and privacy  
+C) Charging exorbitant fees for exclusive insights  
+D) Providing clients with guaranteed positive outcomes
+
+**2. A client is facing a major life decision and asks you to predict the outcome of two different paths. How should you respond ethically?**
+
+A) Predict the exact outcome of each path based on their chart  
+B) Explain the potential influences and encourage them to make an informed decision  
+C) Tell them which path to take based on your intuition  
+D) Refuse to provide any guidance and suggest they seek advice elsewhere
+
+**3. Your client asks you to analyze their ex-partner's chart without that person's consent. What should you do?**
+
+A) Agree since it might help your client heal  
+B) Decline and explain why consent matters  
+C) Do it but don't tell anyone  
+D) Charge extra for the additional chart reading
+
+**4. A client shows you aspects in their chart related to health and asks for medical predictions. Your best response is:**
+
+A) Give detailed health predictions based on the aspects  
+B) Explain that you're not medically trained and suggest they consult healthcare professionals  
+C) Avoid the topic completely  
+D) Research medical astrology before responding
+
+**5. The phrase "Do no harm, do good" in astrology means:**
+
+A) Never share challenging information  
+B) Only give positive predictions  
+C) Present information in empowering, growth-oriented ways  
+D) Avoid difficult clients
+
+**6. When a client desperately asks "Will my marriage definitely get better?", an ethical astrologer should:**
+
+A) Give them hope by saying "yes, definitely"  
+B) Be honest and say "no, it won't"  
+C) Explore relationship patterns and empower them with tools for growth  
+D) Refer them to a marriage counselor immediately
+
+**7. Cultural sensitivity in astrology includes:**
+
+A) Using the same approach with all clients  
+B) Avoiding clients from different cultures  
+C) Adapting your communication style to respect cultural differences  
+D) Only reading charts from your own cultural background
+
+**8. Scenario: During a reading, your client breaks down crying about family trauma. What's your most ethical response?**
+
+A) Continue with the astrological reading as planned  
+B) Offer psychological advice based on your astrology training  
+C) Listen compassionately and gently suggest professional counseling support  
+D) End the session immediately
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-B, 2-B, 3-B, 4-B, 5-C, 6-C, 7-C, 8-C
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Your Ethical Foundation
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Confidentiality & Privacy:**
+
+How confident are you in maintaining client confidentiality? 
+
+Do you have secure systems for protecting client data? 
+
+Can you resist sharing "anonymous" client stories on social media? 
+
+**Honesty & Transparency:**
+
+How comfortable are you admitting your limitations? 
+
+Do you focus on interpretations rather than absolute predictions? 
+
+Can you acknowledge your personal biases in readings? 
+
+**Do No Harm Principle:**
+
+How well do you deliver challenging information compassionately? 
+
+Can you recognize when clients are emotionally vulnerable? 
+
+Do you empower rather than create dependency? 
+
+**Respect for Autonomy:**
+
+How consistently do you honor clients' free will? 
+
+Do you avoid making decisions for your clients? 
+
+Can you see beyond the birth chart to the whole person? 
+
+**Cultural Sensitivity:**
+
+How aware are you of your cultural assumptions? 
+
+Can you adapt your approach for different backgrounds? 
+
+Do you avoid harmful astrological stereotypes? 
+
+**Professional Boundaries:**
+
+How clear are your ethical boundaries? 
+
+Do you know when to refer clients to other professionals? 
+
+Can you maintain appropriate relationships with clients? 
+
+**Reflection Questions:**
+
+1. Which pillar of ethics needs the most attention in your practice?
+2. What specific ethical boundary do you need to establish this week?
+3. How will you continue developing your ethical foundation?
+
+::: {.writing-space}
+*Your reflections on building ethical practice...*
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Create your "absolutely not" list of topics you won't discuss
+- [ ] Practice reframing one "negative" aspect in an empowering way
+- [ ] Audit your current confidentiality practices using the chapter checklist
+- [ ] Write down three ways to recognize client vulnerability
+
+**Intermediate Level:**
+
+- [ ] Role-play the ethical scenarios from the practice section with a colleague
+- [ ] Develop template responses for common boundary situations
+- [ ] Create a cultural sensitivity checklist for diverse clients
+- [ ] Establish secure storage systems for client information
+
+**Advanced Level:**
+
+- [ ] Design a comprehensive ethical intake process for new clients
+- [ ] Create written policies for handling ethical dilemmas
+- [ ] Develop a monthly ethical reflection practice
+- [ ] Mentor another astrologer in ethical decision-making
+:::
+
+## **Chapter Reflection**
+
+*Ethics isn't about perfection—it's about consciousness and continuous growth. Consider: What ethical blind spots might you have? How has this chapter changed your perspective on your responsibilities as an astrologer? What one ethical practice will you implement immediately to better serve your clients?*
+
+## **Key Ethical Reminders:**
+
+::: {.takeaway-box}
+- **Confidentiality is sacred** - What happens in readings stays in readings
+- **Honesty builds trust** - Be transparent about your qualifications and limitations
+- **Empowerment over dependency** - Help clients find their own answers
+- **Free will is paramount** - The stars suggest, they don't command
+- **Cultural humility matters** - Respect diverse perspectives and experiences
+- **Continuous learning is essential** - Ethics evolve with experience and wisdom
+:::
+
+## **Your Ethical Compass Check:**
+
+*Before making any ethical decision, ask yourself:*
+- Will this empower or diminish my client?
+- Am I respecting their autonomy and dignity?
+- Would I want someone to treat my loved one this way?
+- Am I acting from love or from ego?
+
+<script src="../scripts/quiz-interactions.js"></script>

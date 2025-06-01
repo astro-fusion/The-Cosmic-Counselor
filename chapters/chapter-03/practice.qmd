@@ -1,1 +1,409 @@
 ## 📝 Practice Sections {.practice-header}
+
+### **Ethics in action—not just in theory.** {.exercise-title}
+
+These exercises will challenge you to apply ethical principles in real situations. There are no perfect answers, only more conscious choices. Be honest with yourself as you work through these scenarios.
+
+---
+
+### **Exercise 1: Exploring the Shades of Gray** {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Practice making nuanced ethical decisions where there's no single "right" answer.
+
+**Time needed:** 20-25 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+**Real situations require complex thinking. For each scenario below, there are multiple ethical considerations at play.**
+
+::: {.step-box}
+**Scenario A: The Desperate Relationship Question**
+
+A client is in a troubled marriage and desperately asks: *"Will my relationship definitely get better? I need to know if I should keep trying or give up."*
+
+**Ethical tensions:**
+- Honesty vs. Compassion
+- Avoiding false hope vs. Avoiding despair
+- Respecting autonomy vs. Providing guidance
+:::
+
+::: {.step-box}
+**Scenario B: The Health Chart Inquiry**
+
+A regular client points to aspects in their chart and asks: *"This looks like it could be related to my ongoing health issues. What do you see medically?"*
+
+**Ethical tensions:**
+- Staying within your expertise vs. Client expectations
+- Being helpful vs. Potential harm from medical speculation
+- Client trust vs. Professional boundaries
+:::
+
+::: {.step-box}
+**Scenario C: The Ex-Partner Chart Request**
+
+A client asks: *"Can you look at my ex's chart? I have their birth info and I need to understand why they treated me so badly."*
+
+**Ethical tensions:**
+- Consent and privacy vs. Client's healing needs
+- Professional service vs. Potential manipulation
+- Understanding vs. Stalking behavior
+:::
+
+**Your Task:**
+
+For EACH scenario, write 2-3 potential responses. Rank them from most ethical to least ethical. Explain your reasoning.
+
+::: {.writing-space}
+**Scenario A - Your Responses:**
+
+**Response 1 (Most Ethical):**
+_________________________________________________
+
+**Response 2 (Moderately Ethical):**
+_________________________________________________
+
+**Response 3 (Least Ethical):**
+_________________________________________________
+
+**Your Reasoning:**
+_________________________________________________
+
+---
+
+**Scenario B - Your Responses:**
+
+**Response 1 (Most Ethical):**
+_________________________________________________
+
+**Response 2 (Moderately Ethical):**
+_________________________________________________
+
+**Response 3 (Least Ethical):**
+_________________________________________________
+
+**Your Reasoning:**
+_________________________________________________
+
+---
+
+**Scenario C - Your Responses:**
+
+**Response 1 (Most Ethical):**
+_________________________________________________
+
+**Response 2 (Moderately Ethical):**
+_________________________________________________
+
+**Response 3 (Least Ethical):**
+_________________________________________________
+
+**Your Reasoning:**
+_________________________________________________
+:::
+:::
+:::
+
+---
+
+### **Exercise 2: Charting Your Own Ethical Boundaries** {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Establish clear personal limits before challenging situations arise.
+
+**Time needed:** 15-20 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+**Creating boundaries ahead of time protects both you and your clients from uncomfortable or harmful situations.**
+
+::: {.step-box}
+**Step 1: Your "Absolutely Not" List**
+
+List 3-5 topics you are absolutely unwilling to discuss during readings. For each, explain WHY you have this boundary.
+
+::: {.boundary-grid}
+**Topic 1:** _________________________________
+
+**Why this boundary exists:**
+_____________________________________________
+
+**Topic 2:** _________________________________
+
+**Why this boundary exists:**
+_____________________________________________
+
+**Topic 3:** _________________________________
+
+**Why this boundary exists:**
+_____________________________________________
+
+**Topic 4:** _________________________________
+
+**Why this boundary exists:**
+_____________________________________________
+
+**Topic 5:** _________________________________
+
+**Why this boundary exists:**
+_____________________________________________
+:::
+:::
+
+::: {.step-box}
+**Step 2: Your "Gray Zone" Areas**
+
+List topics you'd handle with extra caution, or only with certain clients. What red flags would make a reading inadvisable?
+
+::: {.writing-space}
+**Sensitive topics I might discuss carefully:**
+_____________________________________________
+
+**Red flags that would stop me:**
+- Client seems emotionally unstable
+- Client is seeking to harm someone else
+- Client wants me to make major life decisions for them
+- Add your own: ____________________________
+:::
+:::
+
+::: {.step-box}
+**Step 3: Pre-Client Screening Questions**
+
+Create 5 questions to ask yourself BEFORE accepting a new client to screen for ethical issues:
+
+1. ___________________________________________
+2. ___________________________________________
+3. ___________________________________________
+4. ___________________________________________
+5. ___________________________________________
+:::
+:::
+:::
+
+---
+
+### **Exercise 3: The "Reframing" Challenge** {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Practice presenting challenging information with empathy and empowerment focus.
+
+**Time needed:** 15-20 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+**Every "difficult" astrological aspect contains seeds of growth. Your job is to help clients see the potential, not just the problems.**
+
+::: {.step-box}
+**Choose a Challenging Aspect**
+
+Pick one traditionally difficult astrological aspect from your own chart or a common one:
+
+::: {.aspect-examples}
+**Examples:**
+- Saturn square Sun
+- Mars opposite Venus  
+- Pluto conjunct Moon
+- Chiron square Mercury
+- Neptune square Mars
+
+**Your chosen aspect:** ____________________________
+:::
+:::
+
+::: {.step-box}
+**The Shadow Work**
+
+List 3 potential negative ways this aspect could manifest:
+
+1. ___________________________________________
+2. ___________________________________________
+3. ___________________________________________
+:::
+
+::: {.step-box}
+**The Reframing Magic**
+
+For EACH negative manifestation above, brainstorm 2-3 ways it could be reframed as potential for growth or positive transformation:
+
+::: {.reframe-grid}
+**Negative #1:** ______________________________
+
+**Growth Potential:**
+- ________________________________________
+- ________________________________________
+- ________________________________________
+
+**Negative #2:** ______________________________
+
+**Growth Potential:**
+- ________________________________________
+- ________________________________________
+- ________________________________________
+
+**Negative #3:** ______________________________
+
+**Growth Potential:**
+- ________________________________________
+- ________________________________________
+- ________________________________________
+:::
+:::
+
+::: {.step-box}
+**Personal Integration Bonus**
+
+If you used an aspect from your own chart, reflect:
+
+**How has this aspect actually manifested in your life?**
+_____________________________________________
+
+**What growth have you experienced through its challenges?**
+_____________________________________________
+
+**How can sharing your experience (appropriately) help clients?**
+_____________________________________________
+:::
+:::
+:::
+
+---
+
+### **Exercise 4: The Client Confidentiality Audit** {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Assess and improve your privacy protection practices.
+
+**Time needed:** 10-15 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+**Honest assessment of your current confidentiality practices:**
+
+::: {.audit-checklist}
+**Digital Security Check:**
+
+- [ ] I use encrypted storage for client birth data
+- [ ] I have strong, unique passwords for astrology files
+- [ ] I never discuss clients on social media
+- [ ] I don't share "anonymous" client stories online
+- [ ] I secure email communications about clients
+- [ ] I delete client communications after appropriate time
+
+**Physical Security Check:**
+
+- [ ] I lock physical files containing client information
+- [ ] I don't leave client charts visible in my workspace
+- [ ] I shred old client paperwork securely
+- [ ] I don't discuss clients with family/friends
+- [ ] I'm careful about client privacy in shared spaces
+
+**Professional Boundaries Check:**
+
+- [ ] I have clear policies about what I share/don't share
+- [ ] I explain confidentiality to new clients
+- [ ] I know when I must break confidentiality (safety issues)
+- [ ] I have secure methods for storing session notes
+:::
+
+**Your biggest privacy vulnerability:** ________________________
+
+**Action you'll take this week to improve:** ___________________
+:::
+:::
+
+---
+
+### **Exercise 5: Creating Your Ethical Decision Tree** {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Develop a personal framework for making ethical decisions under pressure.
+
+**Time needed:** 10-15 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+**When faced with an ethical dilemma during a session, use this decision tree:**
+
+::: {.decision-tree}
+**Question 1:** Will this action empower or diminish my client?
+- If diminish → Don't do it
+- If empower → Continue to Question 2
+
+**Question 2:** Am I staying within my expertise and qualifications?
+- If no → Refer to appropriate professional
+- If yes → Continue to Question 3
+
+**Question 3:** Does this respect my client's autonomy and dignity?
+- If no → Reconsider approach
+- If yes → Continue to Question 4
+
+**Question 4:** Would I want someone to treat my loved one this way?
+- If no → Find better approach
+- If yes → Proceed thoughtfully
+
+**Question 5:** Am I acting from love/service or from ego/fear?
+- If ego/fear → Pause and reflect
+- If love/service → Move forward
+:::
+
+**Practice applying this tree to one of the scenarios from Exercise 1:**
+
+**Scenario chosen:** _____________________________________
+
+**Question 1 result:** ___________________________________
+
+**Question 2 result:** ___________________________________
+
+**Question 3 result:** ___________________________________
+
+**Question 4 result:** ___________________________________
+
+**Question 5 result:** ___________________________________
+
+**Final decision:** _____________________________________
+:::
+:::
+
+---
+
+### **📋 Weekly Ethical Practice Goals** {.exercise-title}
+
+::: {.practice-action-box}
+
+**This Week's Ethical Commitments:**
+
+**Beginner Level:**
+- [ ] Complete your personal boundaries list (Exercise 2)
+- [ ] Practice one reframing technique daily in conversations
+- [ ] Audit your current confidentiality practices
+- [ ] Share your ethical boundaries with one trusted colleague
+
+**Intermediate Level:**
+- [ ] Role-play the gray area scenarios with a mentor
+- [ ] Create your client screening questions
+- [ ] Implement one new privacy protection measure
+- [ ] Practice using the ethical decision tree in daily decisions
+
+**Advanced Level:**
+- [ ] Develop written policies for ethical situations
+- [ ] Create template responses for common boundary situations
+- [ ] Schedule monthly ethical reflection sessions
+- [ ] Mentor someone else in ethical practice
+:::
+
+---
+
+**Remember:** Ethics isn't about perfection—it's about consciousness. The goal is to become more aware of the impact of your choices and more intentional about making decisions that truly serve your clients' highest good.
+
+**Discussion Invitation:** If possible, discuss your responses to the gray area scenarios with a study group, mentor, or trusted colleague. Different perspectives will deepen your ethical understanding.
