@@ -185,5 +185,3 @@ Managing my emotions during difficult conversations
 *Space for your weekly reflections...*
 :::
 :::
-
-<script src="../scripts/quiz-interactions.js"></script>

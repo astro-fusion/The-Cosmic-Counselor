@@ -51,9 +51,9 @@ format:
       light: cosmo
       dark: darkly
     css:
-      - styles/global.scss 
+      - styles/global.css
     toc: true
-    toc-depth: 3
+    toc-depth: 2
     number-sections: true
     
   pdf:
