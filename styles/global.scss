@@ -677,3 +677,101 @@ h1, h2, h3, h4, h5, h6 {
     border: 1px solid #ccc;
   }
 }
+
+.references-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  line-height: 1.6;
+  
+  // Add smooth scroll behavior for long reference lists
+  scroll-behavior: smooth;
+  
+  // Improve readability with better line spacing
+  h3 + h4 {
+    margin-top: 1.5rem; // Reduce gap after chapter heading
+  }
+  
+  // Add hover effect for better UX
+  li:hover {
+    background-color: rgba(52, 152, 219, 0.05);
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+}
+
+.references-container h3 {
+  color: #2c3e50;
+  font-size: 1.4rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 0.5rem;
+}
+
+.references-container h4 {
+  color: #34495e;
+  font-size: 1.1rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.references-container ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 1.5rem;
+}
+
+.references-container li {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+  position: relative;
+  font-size: 0.95rem;
+}
+
+.references-container li::before {
+  content: "•";
+  color: #7f8c8d;
+  position: absolute;
+  left: 0;
+  font-weight: bold;
+}
+
+.references-container a {
+  color: #3498db;
+  text-decoration: none;
+  word-break: break-word;
+}
+
+.references-container a:hover {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+.references-container em {
+  font-style: italic;
+  color: #2c3e50;
+}
+
+/* Dark mode support for references (if not already covered) */
+[data-bs-theme="dark"] {
+  .references-container {
+    h3 {
+      color: #f8f9fa;
+      border-bottom-color: #495057;
+    }
+    
+    h4 {
+      color: #e9ecef;
+    }
+    
+    li::before {
+      color: #adb5bd;
+    }
+    
+    em {
+      color: #f8f9fa;
+    }
+  }
+}

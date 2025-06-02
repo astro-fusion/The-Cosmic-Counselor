@@ -3,8 +3,5 @@
 <!-- ## Main Content -->
 {{< include chapter-12/index.qmd >}}
 
-<!-- ## Practice Exercises -->
-{{< include chapter-12/practice.qmd >}}
-
 <!-- ## Knowledge Check   -->
 {{< include chapter-12/quiz.qmd >}}
