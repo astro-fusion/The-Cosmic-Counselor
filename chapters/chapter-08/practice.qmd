@@ -51,25 +51,25 @@ List 3-5 ways to improve your space (even on a small budget):
 
 ::: {.writing-space}
 
-**Improvement 1:** _______________
-**Estimated cost:** _______________
-**Timeline:** _______________
+- **Improvement 1:** _______________
+- **Estimated cost:** _______________
+- **Timeline:** _______________
 
-**Improvement 2:** _______________
-**Estimated cost:** _______________
-**Timeline:** _______________
+- **Improvement 2:** _______________
+- **Estimated cost:** _______________
+- **Timeline:** _______________
 
-**Improvement 3:** _______________
-**Estimated cost:** _______________
-**Timeline:** _______________
+- **Improvement 3:** _______________
+- **Estimated cost:** _______________
+- **Timeline:** _______________
 
-**Improvement 4:** _______________
-**Estimated cost:** _______________
-**Timeline:** _______________
+- **Improvement 4:** _______________
+- **Estimated cost:** _______________
+- **Timeline:** _______________
 
-**Improvement 5:** _______________
-**Estimated cost:** _______________
-**Timeline:** _______________
+- **Improvement 5:** _______________
+- **Estimated cost:** _______________
+- **Timeline:** _______________
 
 :::
 :::
@@ -109,16 +109,13 @@ What stands between you and your ideal space?
 
 ::: {.writing-space}
 
-**Obstacle 1:** _______________
-**Potential solution:** _______________
-
-**Obstacle 2:** _______________
-**Potential solution:** _______________
-
-**Obstacle 3:** _______________
-**Potential solution:** _______________
-
-**Most achievable first step:** _______________
+- **Obstacle 1:** _______________
+- **Potential solution:** _______________
+- **Obstacle 2:** _______________
+- **Potential solution:** _______________
+- **Obstacle 3:** _______________
+- **Potential solution:** _______________
+- **Most achievable first step:** _______________
 
 :::
 :::
@@ -175,6 +172,7 @@ Watch/listen to your recording and evaluate:
 ::: {.quiz-box}
 
 **Body Language Assessment:**
+
 - [ ] Relaxed posture
 - [ ] Open gestures
 - [ ] Tension visible (shoulders, hands, face)
@@ -182,6 +180,7 @@ Watch/listen to your recording and evaluate:
 - [ ] Fidgeting or nervous habits
 
 **Voice Quality:**
+
 - [ ] Clear pronunciation
 - [ ] Appropriate pace
 - [ ] Warm, welcoming tone
@@ -189,6 +188,7 @@ Watch/listen to your recording and evaluate:
 - [ ] Monotone delivery
 
 **Eye Contact (if video):**
+
 - [ ] Good camera engagement
 - [ ] Looking away frequently
 - [ ] Seems focused and present

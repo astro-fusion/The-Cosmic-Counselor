@@ -1,1 +1,142 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+
+**1. Which of the following is essential for masterful communication in astrological sessions?**
+
+A) Dominating the conversation to show expertise  
+B) Listening actively and empathetically to the client  
+C) Using complex astrological jargon exclusively  
+D) Focusing solely on giving predictions
+
+**2. In the SOLAR technique, what does the "O" stand for?**
+
+A) Observe carefully  
+B) Open posture  
+C) Offer solutions  
+D) Organize thoughts
+
+**3. The "suggest and fade" technique is designed to:**
+
+A) Make clients dependent on your interpretations  
+B) Avoid giving any astrological insights  
+C) Empower clients to explore their own resonance with insights  
+D) Speed up the session
+
+**4. Scenario: During a session, a client becomes visibly upset while discussing a sensitive topic. How should you handle the situation to ensure effective and compassionate communication?**
+
+A) Quickly change the subject to something less emotional  
+B) Acknowledge their feelings and provide a safe space for them to express themselves  
+C) Continue with the session as planned, ignoring their emotional state  
+D) Offer solutions immediately without fully understanding their concerns
+
+**5. Which type of question is most effective for encouraging client exploration?**
+
+A) "Don't you think your Saturn return is causing this?"  
+B) "How did that experience feel for you?"  
+C) "Isn't it obvious that you should leave your job?"  
+D) "Why didn't you listen to the signs?"
+
+**6. The most important reason to keep client focus (rather than self-disclosure) is:**
+
+A) Clients don't care about your experiences  
+B) It saves time in sessions  
+C) Every client's relationship to their chart is unique  
+D) Self-disclosure is always inappropriate
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-B, 2-B, 3-C, 4-B, 5-B, 6-C
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Communication Mastery
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Listening Skills:**
+
+How effectively do you listen to your clients without interrupting or making assumptions?
+
+How well do you use silence as a tool for deeper exploration?
+
+How consistently do you focus fully on the client rather than planning your next response?
+
+**Empathy and Connection:**
+
+How well do you demonstrate empathy and understanding in your communication with clients?
+
+How effectively do you create emotional safety for vulnerable sharing?
+
+How naturally do you pick up on nonverbal cues and emotional undertones?
+
+**Communication Clarity:**
+
+How consistently do you use clear and simple language to explain complex astrological concepts?
+
+How well do you check for understanding before moving to new topics?
+
+How effectively do you avoid overwhelming clients with too much information?
+
+**Professional Presence:**
+
+How naturally do you maintain good SOLAR technique (posture, eye contact, etc.)?
+
+How well do you balance warmth with appropriate professional boundaries?
+
+How effectively do you "suggest and fade" rather than imposing interpretations?
+
+**Reflection Questions:**
+
+1. Which communication skill needs the most development in your practice?
+2. How has your awareness of nonverbal communication changed after this chapter?
+3. What would it feel like to master the "suggest and fade" technique?
+
+::: {.writing-space}
+*Space for your reflections...*
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Practice SOLAR technique in all conversations this week
+- [ ] Ask at least three open-ended questions daily
+- [ ] Record yourself explaining one astrological concept clearly
+- [ ] Practice active listening without offering advice in one conversation
+
+**Intermediate Level:**
+
+- [ ] Complete all practice exercises from this chapter
+- [ ] Practice "suggest and fade" technique in casual conversations
+- [ ] Implement empathy levels (sympathetic → empathetic → cosmic perspective)
+- [ ] Develop personal scripts for common session situations
+
+**Advanced Level:**
+
+- [ ] Create a communication skills self-assessment checklist
+- [ ] Practice difficult scenario conversations with permission-seeking language
+- [ ] Mentor someone else in developing their communication skills
+- [ ] Establish regular peer feedback sessions for communication practice
+:::
+
+## **Chapter Reflection**
+
+*Think about the last time someone really listened to you—not to respond, but to understand. How did that feel? What did their presence do for you? This is the gift you can offer every client through masterful communication. Remember: the stars may hold the wisdom, but your communication skills are what make that wisdom accessible and transformative.*
+
+<script src="../scripts/quiz-interactions.js"></script>
