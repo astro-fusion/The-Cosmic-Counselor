@@ -1,1 +1,515 @@
 ## 📝 Practice Sections {.practice-header}
+
+### 🏛️ Exercise: Your Sanctuary Audit {.exercise-title}
+
+::: {.exercise-meta}
+
+**Purpose:** Evaluate and optimize your counseling space for client comfort and professional effectiveness.
+
+**Time needed:** 25-30 minutes
+
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+
+**Step 1: Current Space Assessment**
+
+If you currently offer readings, evaluate your space:
+
+::: {.writing-space}
+
+**Location Analysis:**
+
+
+**Pros of my current space:**
+
+1. _______________
+2. _______________
+3. _______________
+
+**Cons of my current space:**
+
+1. _______________
+2. _______________
+3. _______________
+
+**Privacy level (1-10):** _______________
+**Comfort level (1-10):** _______________
+**Distraction-free rating (1-10):** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 2: Improvement Planning**
+
+List 3-5 ways to improve your space (even on a small budget):
+
+::: {.writing-space}
+
+**Improvement 1:** _______________
+**Estimated cost:** _______________
+**Timeline:** _______________
+
+**Improvement 2:** _______________
+**Estimated cost:** _______________
+**Timeline:** _______________
+
+**Improvement 3:** _______________
+**Estimated cost:** _______________
+**Timeline:** _______________
+
+**Improvement 4:** _______________
+**Estimated cost:** _______________
+**Timeline:** _______________
+
+**Improvement 5:** _______________
+**Estimated cost:** _______________
+**Timeline:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 3: Dream Space Design**
+
+If you don't yet have a dedicated space, design your ideal:
+
+::: {.practice-assessment-box}
+
+**Sketch or describe your ideal counseling space:**
+
+Consider these elements:
+- Room size and layout
+- Seating arrangements
+- Lighting options
+- Color scheme
+- Sacred objects or symbols
+- Storage for materials
+- Privacy features
+- Natural elements
+
+::: {.writing-space}
+
+**My ideal space description:** _______________
+:::
+:::
+:::
+
+::: {.step-box}
+
+**Step 4: Obstacle Analysis**
+
+What stands between you and your ideal space?
+
+::: {.writing-space}
+
+**Obstacle 1:** _______________
+**Potential solution:** _______________
+
+**Obstacle 2:** _______________
+**Potential solution:** _______________
+
+**Obstacle 3:** _______________
+**Potential solution:** _______________
+
+**Most achievable first step:** _______________
+
+:::
+:::
+:::
+:::
+
+---
+
+### 🎭 Exercise: Presence & Non-Verbals {.exercise-title}
+
+::: {.exercise-meta}
+
+**Purpose:** Develop awareness of your communication style and improve your professional presence.
+
+**Time needed:** 20-25 minutes
+
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+
+::: {.step-box}
+
+**Step 1: Record Yourself**
+
+Use your phone to record yourself explaining a simple astrological concept:
+
+::: {.example-box}
+
+**Suggested topics:**
+
+- The meaning of the 4th house
+- How Mercury retrograde affects communication
+- The difference between sun and rising signs
+- What a Saturn return represents
+
+:::
+
+::: {.writing-space}
+
+**Topic I chose:** _______________
+**Recording length:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 2: Self-Analysis**
+
+Watch/listen to your recording and evaluate:
+
+::: {.quiz-box}
+
+**Body Language Assessment:**
+- [ ] Relaxed posture
+- [ ] Open gestures
+- [ ] Tension visible (shoulders, hands, face)
+- [ ] Natural movement
+- [ ] Fidgeting or nervous habits
+
+**Voice Quality:**
+- [ ] Clear pronunciation
+- [ ] Appropriate pace
+- [ ] Warm, welcoming tone
+- [ ] Frequent "um," "like," "you know"
+- [ ] Monotone delivery
+
+**Eye Contact (if video):**
+- [ ] Good camera engagement
+- [ ] Looking away frequently
+- [ ] Seems focused and present
+- [ ] Distracted appearance
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 3: Targeted Improvement**
+
+Choose 2-3 areas to work on:
+
+::: {.writing-space}
+
+**Area 1 to improve:** _______________
+**Specific goal:** _______________
+
+**Area 2 to improve:** _______________
+**Specific goal:** _______________
+
+**Area 3 to improve:** _______________
+**Specific goal:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 4: Practice Round Two**
+
+Record yourself again with the same topic, focusing on improvements:
+
+::: {.writing-space}
+
+**What felt different this time?** _______________
+
+**What improved?** _______________
+
+**What still needs work?** _______________
+
+**Next practice goal:** _______________
+:::
+:::
+:::
+:::
+
+---
+
+### 🔍 Exercise: Reflecting on the Cautionary Tale {.exercise-title}
+
+::: {.exercise-meta}
+
+**Purpose:** Analyze professional communication and develop safer practice strategies.
+
+**Time needed:** 15-20 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+
+::: {.step-box}
+
+**Step 1: Communication Analysis**
+
+Consider Pandit Mishra's choices in the story:
+
+::: {.writing-space}
+
+**Where did his communication go wrong?**
+_______________
+
+**How could he have phrased things differently while staying true to the chart?**
+_______________
+
+**What specific words or phrases created the problem?**
+_______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 2: Client Responsibility**
+
+Reflect on the balance between astrologer caution and client responsibility:
+
+::: {.practice-assessment-box}
+
+**Consider these questions:**
+
+1. Should astrologers be extra cautious in sensitive areas like marriage?
+2. How much responsibility does the client bear for how they interpret information?
+3. What role should context and client emotional state play in how we communicate?
+
+::: {.writing-space}
+
+**Your thoughts on astrologer vs. client responsibility:**
+_______________
+:::
+:::
+:::
+
+::: {.step-box}
+
+**Step 3: Prevention Strategies**
+
+If you were advising someone about working with astrologers:
+
+::: {.writing-space}
+
+**Advice for future clients:**
+
+1. _______________
+2. _______________
+3. _______________
+
+
+**Safeguards I'll implement in my practice:**
+
+1. _______________
+2. _______________
+3. _______________
+:::
+:::
+
+::: {.step-box}
+
+**Step 4: Alternative Approaches**
+
+Rewrite how the astrologer could have approached the sensitive information:
+
+::: {.example-box}
+
+**Original problematic phrasing:** *"Your husband might have tendencies toward keeping secrets"*
+:::
+
+::: {.writing-space}
+
+**Better approach:** _______________
+:::
+:::
+:::
+:::
+
+---
+
+### 🎪 Exercise: Boundaries Role-Play {.exercise-title}
+
+::: {.exercise-meta}
+
+**Purpose:** Practice handling challenging boundary situations with confidence and professionalism.
+
+**Time needed:** 20-30 minutes (best with a partner)
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+
+**Step 1: Scenario Practice**
+
+Practice your responses to these situations:
+
+::: {.skills-grid}
+::: {.skill-box}
+
+**Scenario 1: Emotional Overflow**
+Client starts crying during reading and you feel emotionally drained.
+
+**Your response:** _______________
+
+:::
+
+::: {.skill-box}
+
+**Scenario 2: After-Hours Crisis**
+
+Client calls outside session hours, upset about something you said, wanting to talk NOW.
+
+**Your response:** _______________
+
+:::
+:::
+
+::: {.skills-grid}
+
+::: {.skill-box}
+
+**Scenario 3: Inappropriate Gifts**
+
+Client brings you a gift at next session. It feels uncomfortable to accept.
+
+**Your response:** _______________
+
+:::
+
+::: {.skill-box}
+
+**Scenario 4: Boundary Testing**
+
+Client asks increasingly personal questions about your life and relationships.
+
+**Your response:** _______________
+
+:::
+:::
+:::
+
+::: {.step-box}
+
+**Step 2: Script Development**
+
+Write out specific phrases for boundary situations:
+
+::: {.writing-space}
+
+**For ending sessions on time:**
+"_______________"
+
+**For declining inappropriate requests:**
+"_______________"
+
+**For redirecting personal questions:**
+"_______________"
+
+**For referring to other professionals:**
+"_______________"
+:::
+:::
+
+::: {.step-box}
+
+**Step 3: Practice Partner Feedback**
+
+If working with a partner, have them note:
+
+::: {.writing-space}
+
+**What felt confident and clear?** _______________
+
+**What needs more practice?** _______________
+
+**Body language observations:** _______________
+
+**Suggested improvements:** _______________
+
+:::
+:::
+:::
+:::
+
+---
+
+### 📊 Weekly Practice Checklist {.exercise-title}
+
+::: {.practice-action-box}
+
+**This Week's Goals:**
+
+**Beginner Level:**
+
+- [ ] Complete the Sanctuary Audit exercise
+- [ ] Record yourself explaining one astrological concept
+- [ ] Write down 3 professional boundaries for your practice
+- [ ] Identify one counseling skill to develop this month
+
+**Intermediate Level:**
+
+- [ ] Implement 2-3 physical improvements to your space
+- [ ] Practice the recording exercise with multiple topics
+- [ ] Role-play boundary scenarios with a friend or colleague
+- [ ] Research basic counseling skills resources (books/courses)
+
+**Advanced Level:**
+
+- [ ] Create a comprehensive space improvement plan with timeline
+- [ ] Develop a library of professional response scripts
+- [ ] Practice challenging scenarios with multiple approaches
+- [ ] Establish regular peer supervision or practice groups
+:::
+
+---
+
+### 🌟 Weekly Self-Check: Sacred Space & Professional Presence {.exercise-title}
+
+::: {.practice-assessment-box}
+
+**Rate your progress this week (1 = Need more work, 5 = Excellent progress):**
+
+::: {.rating-scale .no-rating}
+
+**1** = Need more work | **2** = Some progress | **3** = Good progress | **4** = Strong progress | **5** = Excellent progress
+:::
+
+**Practice Areas:**
+
+Creating a welcoming, professional environment
+
+Communicating with clear, calm presence
+
+Maintaining appropriate boundaries with clients
+
+Handling sensitive information responsibly
+
+Developing core counseling skills
+
+**Reflection Questions:**
+
+1. Which aspect of creating sacred space feels most natural to you?
+2. What boundary situations feel most challenging?
+3. How has working on your presence changed your confidence?
+
+::: {.writing-space}
+
+*Space for your weekly reflections...*
+:::
+:::
+
+<script src="../scripts/quiz-interactions.js"></script>
+
