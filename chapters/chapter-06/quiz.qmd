@@ -1,6 +1,7 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
 
 ::: {.quiz-box}
+
 **1. Which of the following signs might indicate that a client should be referred to a mental health professional?**
 
 A) Persistent feelings of hopelessness  
@@ -74,6 +75,7 @@ D) Tell clients to just think positively
 <button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
 
 ::: {.answers-content style="display: none;"}
+
 **Answer Key:** 
 
 1. **A** - Persistent feelings of hopelessness (This is a key sign of depression requiring professional help)
@@ -88,6 +90,7 @@ D) Tell clients to just think positively
 10. **C** - Recognize signs and compassionately refer to appropriate professionals
 
 **If you missed more than 2 questions:** Review the chapter sections on warning signs and referral guidelines.
+
 :::
 :::
 
@@ -136,6 +139,7 @@ How comfortable are you with saying "This is beyond my expertise"?
 How well do you balance spiritual guidance with mental health awareness?
 
 ::: {.scoring-guide}
+
 **Your Score Guide:**
 
 - **48-60:** Excellent mental health awareness
@@ -153,7 +157,9 @@ How well do you balance spiritual guidance with mental health awareness?
 3. What will you do this week to improve your mental health awareness?
 
 ::: {.writing-space}
+
 *Space for your reflections...*
+
 :::
 :::
 
@@ -197,10 +203,13 @@ How well do you balance spiritual guidance with mental health awareness?
 ## 🚨 Emergency Resource Checklist
 
 ::: {.crisis-resources}
+
 **Print this out and keep it accessible during all sessions:**
 
 ::: {.emergency-box}
+
 **Crisis Situations - Call Immediately:**
+
 - **Emergency Services:** 911
 - **Crisis Text Line:** Text HOME to 741741
 - **National Suicide Prevention Lifeline:** 988
@@ -208,16 +217,20 @@ How well do you balance spiritual guidance with mental health awareness?
 :::
 
 ::: {.warning-signs-box}
+
 **Immediate Referral Required When Client Shows:**
+
 - [ ] Thoughts of suicide or self-harm
 - [ ] Plans to hurt others
 - [ ] Severe hallucinations or delusions
 - [ ] Complete break from reality
 - [ ] Inability to care for basic needs
 - [ ] Substance abuse with mental health symptoms
+
 :::
 
 ::: {.local-resources}
+
 **Your Local Resources (Fill in now):**
 
 **Mental Health Crisis Center:** _______________
@@ -233,6 +246,7 @@ How well do you balance spiritual guidance with mental health awareness?
 1. _______________
 2. _______________
 3. _______________
+
 :::
 :::
 

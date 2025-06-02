@@ -12,6 +12,7 @@
 
 ::: {.exercise-content}
 ::: {.step-box}
+
 **Instructions:** Read each client scenario carefully. Look for both everyday stress AND potential warning signs of serious mental health issues.
 
 For each case, decide:
@@ -23,49 +24,62 @@ For each case, decide:
 :::
 
 ::: {.case-study-box}
+
 **Client A - Maya, 28:** 
+
 *"I'm so stressed about this job interview next week. I haven't been sleeping well at all - maybe 2-3 hours a night for the past month. Everything feels overwhelming right now. My boyfriend says I'm being dramatic, but I just can't stop worrying about everything. Yesterday I cried for like 3 hours straight over nothing. I feel like such a failure at everything I try."*
 
 ::: {.analysis-space}
+
 **Warning signs you notice:**
 
 **Your decision (continue/shift/refer):**
 
 **Your reasoning:**
+
 :::
 :::
 
 ::: {.case-study-box}
+
 **Client B - David, 35:**
 *"Things have been weird lately. I know someone's been following me - probably from my old job. They're definitely watching my apartment. I can hear them talking about me through the walls sometimes. My family thinks I'm paranoid, but I know what I'm experiencing. I haven't left my place much in the past few weeks because it's not safe. Can you see in my chart who's doing this to me?"*
 
 ::: {.analysis-space}
+
 **Warning signs you notice:**
 
 **Your decision (continue/shift/refer):**
 
 **Your reasoning:**
+
 :::
 :::
 
 ::: {.case-study-box}
+
 **Client C - Sarah, 42:**
 *"I've been going through a divorce, and it's been really hard. Some days I feel completely hopeless, like nothing will ever get better. I've been drinking wine every night to sleep, and my appetite is gone - I've lost about 15 pounds without trying. My kids are staying with their dad for now because I just... I can't handle taking care of anyone right now. Sometimes I wonder if they'd be better off without me."*
 
 ::: {.analysis-space}
+
 **Warning signs you notice:**
 
 **Your decision (continue/shift/refer):**
 
 **Your reasoning:**
+
 :::
 :::
 
 ::: {.case-study-box}
+
 **Client D - Alex, 24:**
+
 *"I need to know if Mercury retrograde is causing all this chaos in my life. Everything's been amazing lately - I haven't needed much sleep, maybe 3 hours a night, but I feel incredible! I've started three new businesses this month and I know they're all going to make me rich. My friends are being so negative about my ideas, but they just don't understand my vision. I can see connections between everything now - the universe is definitely speaking to me directly."*
 
 ::: {.analysis-space}
+
 **Warning signs you notice:**
 
 **Your decision (continue/shift/refer):**
@@ -75,10 +89,12 @@ For each case, decide:
 :::
 
 ::: {.case-study-box}
+
 **Client E - Jordan, 30:**
 *"I've been feeling really anxious about social situations lately. It started a few months ago when I had a panic attack at work. Now I'm constantly worried it will happen again. I've started avoiding meetings and social events because my heart races and I can't breathe properly. I keep checking my pulse and googling heart attack symptoms. My doctor says my heart is fine, but what if they missed something?"*
 
 ::: {.analysis-space}
+
 **Warning signs you notice:**
 
 **Your decision (continue/shift/refer):**
@@ -94,9 +110,11 @@ For each case, decide:
 ### 🎯 Exercise 2: Referral Roleplay {.exercise-title}
 
 ::: {.exercise-meta}
+
 **Purpose:** Practice making compassionate referrals in realistic scenarios.
 
 **Time needed:** 15-20 minutes per scenario
+
 :::
 
 ::: {.exercise-box}
@@ -181,7 +199,9 @@ For each case, decide:
 Write down 2-3 topics that would make you deeply uncomfortable due to lack of expertise or personal unease:
 
 ::: {.common-triggers}
+
 **Common trigger topics:**
+
 - Detailed death predictions
 - Graphic descriptions of trauma
 - Requests for medical diagnosis
@@ -189,18 +209,22 @@ Write down 2-3 topics that would make you deeply uncomfortable due to lack of ex
 - Requests to harm others
 - Explicit sexual content
 - Extreme religious conflicts
+
 :::
 
 ::: {.writing-space}
+
 **Your personal trigger topics:**
 
 1. _______________
 2. _______________
 3. _______________
+
 :::
 :::
 
 ::: {.step-box}
+
 **Step 2: Create Your Response Plans**
 
 For each trigger topic, prepare two approaches:
@@ -208,15 +232,20 @@ For each trigger topic, prepare two approaches:
 **Example Topic:** *Detailed death predictions*
 
 ::: {.plan-comparison}
+
 **Plan A - Gentle Redirection:**
+
 *"I understand you're concerned about timing, but I focus on helping people understand life patterns rather than predicting specific events. Let's look at what your chart suggests about your life purpose and growth opportunities instead."*
 
 **Plan B - Professional Referral:**
+
 *"Questions about mortality often come from deeper concerns about purpose and meaning. While I can offer spiritual insights, these existential questions might be beautifully explored with a counselor who specializes in life transitions and meaning-making."*
+
 :::
 :::
 
 ::: {.your-plans}
+
 **Your Topic 1:** _______________
 
 ::: {.plan-box}
@@ -239,6 +268,7 @@ For each trigger topic, prepare two approaches:
 **Plan A - Gentle Redirection:**
 
 **Plan B - Professional Referral:**
+
 :::
 :::
 :::
@@ -279,9 +309,11 @@ For each trigger topic, prepare two approaches:
 ### 🎯 Crisis Resource Quick Reference {.exercise-title}
 
 ::: {.crisis-resources}
+
 **Keep these numbers handy:**
 
 ::: {.emergency-box}
+
 **Immediate Crisis:**
 - **Emergency Services:** 911
 - **Crisis Text Line:** Text HOME to 741741
@@ -289,6 +321,7 @@ For each trigger topic, prepare two approaches:
 :::
 
 ::: {.local-resources}
+
 **Your Local Resources:**
 
 **Mental Health Crisis Center:** _______________
@@ -332,7 +365,9 @@ Having appropriate resources readily available
 3. How will you continue building your confidence in this area?
 
 ::: {.writing-space}
+
 *Space for your weekly reflections...*
+
 :::
 :::
 

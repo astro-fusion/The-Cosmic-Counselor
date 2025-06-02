@@ -1,1 +1,400 @@
 ## 📝 Practice Sections {.practice-header}
+
+### 🔒 Exercise: Privacy Audit {.exercise-title}
+
+::: {.exercise-meta}
+**Purpose:** Evaluate and strengthen your client data protection practices.
+
+**Time needed:** 20-25 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+
+**Step 1: Current Setup Assessment**
+
+Document your current data storage methods:
+
+::: {.writing-space}
+
+**Physical Storage:**
+
+- Where do you keep paper files? _______________
+- What security measures are in place? _______________
+
+**Digital Storage:**
+
+- What software/apps do you use? _______________
+- Are files password protected? _______________
+- Do you use cloud storage? _______________
+:::
+:::
+
+::: {.step-box}
+**Step 2: Sensitivity Evaluation**
+
+::: {.practice-assessment-box}
+**Consider the information you collect:**
+
+- Birth data (date, time, location)
+- Personal relationship details
+- Career and financial information
+- Health concerns
+- Family dynamics
+- Spiritual beliefs and practices
+
+**Question:** What's the most sensitive information you collect? Does it all need to be written down?
+
+::: {.writing-space}
+
+**Your thoughts:** _______________
+:::
+:::
+:::
+
+::: {.step-box}
+**Step 3: Risk Assessment**
+
+Identify vulnerabilities in your current system:
+
+::: {.quiz-box}
+
+**Check all that apply to your practice:**
+
+- [ ] Notes left visible on desk
+- [ ] Unencrypted digital files
+- [ ] Shared computer access
+- [ ] No backup system
+- [ ] Client files stored indefinitely
+- [ ] No clear data destruction policy
+- [ ] Files accessible to family/roommates
+- [ ] Using free cloud services without encryption
+:::
+
+::: {.writing-space}
+
+**Biggest vulnerability:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 4: Legal Compliance Check**
+
+Research basic data protection laws in your area:
+
+::: {.writing-space}
+
+**Key requirements I found:**
+
+1. _______________
+2. _______________
+3. _______________
+
+**Am I currently compliant?** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 5: Improvement Action Plan**
+
+Write 2-3 concrete steps you can take immediately:
+
+::: {.writing-space}
+
+**Action 1:** _______________
+**Target date:** _______________
+
+**Action 2:** _______________
+**Target date:** _______________
+
+**Action 3:** _______________
+**Target date:** _______________
+
+:::
+:::
+:::
+:::
+
+---
+
+### 🎯 Exercise: DART for Astrology {.exercise-title}
+
+::: {.exercise-meta}
+
+**Purpose:** Practice the DART framework with a common client scenario.
+
+**Time needed:** 25-30 minutes
+
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+
+**Step 1: Choose Your Focus Area**
+
+Select one common client issue:
+
+::: {.values-selection}
+
+**Available Issues:** *Relationship troubles, Career uncertainty, Feeling stuck in life, Family conflicts, Money worries, Creative blocks, Life transitions, Self-worth issues*
+
+::: {.writing-space}
+
+**Your chosen focus:** _______________
+
+:::
+:::
+:::
+
+::: {.step-box}
+
+**Step 2: Description Phase**
+
+How might a client describe this problem?
+
+::: {.example-box}
+
+**Example for "Feeling Stuck":** *"I feel like I'm going in circles. Nothing I try works out, and I don't know what direction to take next. I'm frustrated and losing hope."*
+
+:::
+
+::: {.writing-space}
+
+**Client's likely words:** _______________
+
+**Additional questions you'd ask:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 3: Assessment Phase**
+
+What astrological factors might contribute to this issue?
+
+::: {.writing-space}
+
+**Potential planetary influences:** _______________
+
+**Houses to examine:** _______________
+
+**Transits to consider:** _______________
+
+**Birth chart patterns:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 4: Response Phase**
+
+How would you explain the astrological influences compassionately?
+
+::: {.example-box}
+
+**Example:** *"Your chart shows Saturn transiting your 10th house, which often brings career restructuring. This isn't punishment—it's the universe asking you to build something more authentic and lasting."*
+
+:::
+
+::: {.writing-space}
+
+**Your empowering explanation:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 5: Treatment Plan**
+
+Suggest 2-3 specific remedies:
+
+::: {.writing-space}
+
+**Remedy 1 (Timing):** _______________
+
+**Remedy 2 (Ritual/Practice):** _______________
+
+**Remedy 3 (Mindset/Mantra):** _______________
+
+:::
+:::
+:::
+:::
+
+---
+
+### 📋 Exercise: Crafting Intake Forms {.exercise-title}
+
+::: {.exercise-meta}
+
+**Purpose:** Design intake forms that reflect your practice style and legal needs.
+
+**Time needed:** 20-25 minutes
+
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+
+::: {.step-box}
+
+**Step 1: Essential Sections**
+
+List 3-5 sections you want in your intake form:
+
+::: {.writing-space}
+
+**Section 1:** _______________
+**Why important:** _______________
+
+**Section 2:** _______________
+**Why important:** _______________
+
+**Section 3:** _______________
+**Why important:** _______________
+
+**Section 4:** _______________
+**Why important:** _______________
+
+**Section 5:** _______________
+**Why important:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 2: Tone Practice**
+
+Choose ONE section and write it in different tones:
+
+::: {.writing-space}
+**Formal version:** _______________
+
+**Casual version:** _______________
+
+**Warm/personal version:** _______________
+
+**Which feels most authentic to you?** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 3: Client Privacy Statement**
+
+Draft a simple privacy statement for your forms:
+
+::: {.example-box}
+
+**Example:** *"Your personal information is kept strictly confidential. I store data securely and only use it to provide your reading. You may request to see or delete your information at any time."*
+:::
+
+::: {.writing-space}
+
+**Your privacy statement:** _______________
+
+:::
+:::
+
+::: {.step-box}
+
+**Step 4: Comparison & Reflection**
+
+If working with others, compare approaches:
+
+::: {.writing-space}
+
+**What differences do you notice in emphasis?** _______________
+
+**What does this reveal about different practice styles?** _______________
+
+**What ideas can you borrow or adapt?** _______________
+
+:::
+:::
+:::
+:::
+
+---
+
+### 📊 Weekly Practice Checklist {.exercise-title}
+
+::: {.practice-action-box}
+
+**This Week's Goals:**
+
+**Beginner Level:**
+
+- [ ] Complete the Privacy Audit exercise
+- [ ] Research basic data protection laws in your area
+- [ ] Create a simple client information storage system
+- [ ] Practice the DART framework with one scenario
+
+**Intermediate Level:**
+
+- [ ] Design a draft intake form with essential sections
+- [ ] Implement 2-3 immediate privacy improvements
+- [ ] Practice DART with multiple client scenarios
+- [ ] Create a client data retention/destruction policy
+
+**Advanced Level:**
+
+- [ ] Consult with a privacy attorney if handling sensitive data
+- [ ] Develop comprehensive intake forms for different service types
+- [ ] Create client privacy statements and consent forms
+- [ ] Establish regular privacy audit schedule (quarterly/yearly)
+:::
+
+---
+
+### 🔒 Weekly Self-Check: Professional Standards {.exercise-title}
+
+::: {.practice-assessment-box}
+
+**Rate your progress this week (1 = Need more work, 5 = Excellent progress):**
+
+::: {.rating-scale .no-rating}
+**1** = Need more work | **2** = Some progress | **3** = Good progress | **4** = Strong progress | **5** = Excellent progress
+:::
+
+**Practice Areas:**
+
+Protecting client privacy and data
+
+Using structured approaches like DART
+
+Creating professional intake processes
+
+Maintaining appropriate documentation
+
+Following legal and ethical guidelines
+
+**Reflection Questions:**
+
+1. Which aspect of professional practice feels most challenging?
+2. How has structuring your approach changed your confidence?
+3. What privacy improvements will you prioritize next?
+
+::: {.writing-space}
+
+*Space for your weekly reflections...*
+
+:::
+:::
+
+<script src="../scripts/quiz-interactions.js"></script>
+

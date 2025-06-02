@@ -1,1 +1,139 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+
+**1. Which of the following is NOT a recommended practice for efficient record keeping in astrology?**
+
+A) Documenting each session's key points and insights  
+B) Using secure and organized digital storage systems  
+C) Sharing client records with other astrologers without permission  
+D) Regularly backing up digital records
+
+**2. What is the primary purpose of the DART framework in spiritual counseling?**
+
+A) To make sessions longer and more complex  
+B) To provide a structured approach that ensures comprehensive client care  
+C) To replace intuitive guidance completely  
+D) To standardize all spiritual practices
+
+**3. When designing intake forms, the most important consideration is:**
+
+A) Making them as long and detailed as possible  
+B) Copying forms from other practitioners exactly  
+C) Balancing necessary information with client comfort and privacy  
+D) Avoiding any legal or privacy considerations
+
+**4. Scenario: You realize that your current system for storing client records is becoming disorganized, making it difficult to retrieve information quickly. What steps should you take?**
+
+A) Ignore the disorganization and continue using the current system  
+B) Implement a new, more organized digital record-keeping system  
+C) Delegate the task to an assistant without reviewing the system  
+D) Only focus on organizing records for new clients moving forward
+
+**5. Which element of the DART framework comes first?**
+
+A) Assessment of astrological factors  
+B) Response with guidance  
+C) Treatment plan development  
+D) Description of the client's concern
+
+**6. The most secure way to store sensitive client data digitally is:**
+
+A) In plain text files on your desktop  
+B) In password-protected, encrypted storage  
+C) On social media platforms  
+D) In shared cloud folders without passwords
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+
+**Answer Key:** 1-C, 2-B, 3-C, 4-B, 5-D, 6-B
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Professional Practice Skills
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Record-Keeping Skills:**
+
+How effective is your current record-keeping system in allowing you to quickly access client information?
+
+How consistent are you in documenting and updating client records after each session?
+
+How secure are your client records against unauthorized access or data loss?
+
+**Professional Structure:**
+
+Using frameworks like DART to organize sessions
+
+Creating professional intake processes
+
+Maintaining appropriate documentation standards
+
+**Privacy and Ethics:**
+
+Understanding legal requirements for data protection
+
+Implementing security measures for client information
+
+Maintaining confidentiality in all aspects of practice
+
+**Reflection Questions:**
+
+1. Which area scored lowest? This is your priority for improvement.
+2. What immediate steps can you take to strengthen your weakest area?
+3. How will better organization benefit both you and your clients?
+
+::: {.writing-space}
+
+*Space for your reflections...*
+
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Assess your current record-keeping system using the Privacy Audit
+- [ ] Research basic data protection laws in your area
+- [ ] Practice the DART framework with one client scenario
+- [ ] Create a simple, secure storage system for client information
+
+**Intermediate Level:**
+
+- [ ] Design and test a new intake form for your practice
+- [ ] Implement at least 2 security improvements for client data
+- [ ] Practice DART with multiple different client concerns
+- [ ] Establish a regular backup routine for digital records
+
+**Advanced Level:**
+
+- [ ] Develop comprehensive privacy policies and client agreements
+- [ ] Create different intake forms for various service types
+- [ ] Establish quarterly reviews of your professional systems
+- [ ] Consider consulting with a privacy attorney about compliance
+:::
+
+## **Chapter Reflection**
+
+*Think about your current professional practices. Are your systems serving both you and your clients well? What would it feel like to have complete confidence in your organizational and privacy systems? How might better structure actually enhance rather than limit your intuitive work?*
+
+<script src="../scripts/quiz-interactions.js"></script>
+
