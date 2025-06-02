@@ -43,9 +43,23 @@ B) Client confidentiality requirements
 C) Confirmation bias and seeing only what we want to see  
 D) Opposition from the scientific community
 
-<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
-
-::: {.answers-content style="display: none;"}
+<button
+  onclick="toggleAnswers()"
+  class="show-answers-btn"
+  aria-expanded="false"
+  aria-controls="chapter10-answers"
+>
+  Show answers
+</button>
+ ...
+::: {.answers-content style="display: none;" #chapter10-answers}
+  aria-expanded="false"
+  aria-controls="chapter10-answers"
+>
+  Show answers
+</button>
+ ...
+::: {.answers-content style="display: none;" #chapter10-answers}
 **Answer Key:** 1-B, 2-C, 3-C, 4-B, 5-B, 6-C
 :::
 :::
