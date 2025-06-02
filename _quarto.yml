@@ -41,8 +41,9 @@ book:
     # Backmatter
     - part: "Backmatter Matter"
       chapters:
-        - backmatter/summary.qmd
         - backmatter/references.qmd
+        - backmatter/author.qmd
+        - backmatter/summary.qmd
 
 format:
   html:
@@ -51,9 +52,6 @@ format:
       dark: darkly
     css:
       - styles/global.scss 
-      - styles/chapter.scss
-      - styles/quiz.scss
-      - styles/practice.scss
     toc: true
     toc-depth: 3
     number-sections: true

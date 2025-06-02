@@ -13,6 +13,7 @@ When someone sits across from you, birth chart in hand, they're not just sharing
 Astrology carries profound influence. The words we speak can shift someone's entire life perspective. A careless prediction about career or love can echo in their mind for years, shaping decisions they never should have had to make based on our interpretations.
 
 ::: {.key-insight}
+
 **The truth is:** With great cosmic knowledge comes great earthly responsibility.
 :::
 
@@ -23,7 +24,9 @@ Astrology carries profound influence. The words we speak can shift someone's ent
 Your reading room is a sacred space, much like a confessional or therapist's office. What happens there must stay there.
 
 ::: {.highlight-box}
+
 **Sacred Information Includes:**
+
 - Birth details and personal data
 - Family secrets and relationship struggles  
 - Career fears and financial worries
@@ -33,7 +36,9 @@ Your reading room is a sacred space, much like a confessional or therapist's off
 In our social media age, the temptation to share "anonymous" client stories is strong. But even without names, details can identify someone. A client's trust, once broken, can never be fully repaired.
 
 ::: {.warning-box}
+
 **Digital Age Dangers:**
+
 - Screenshots of birth charts shared online
 - "Funny client story" social media posts
 - Unsecured digital files and cloud storage
@@ -41,6 +46,7 @@ In our social media age, the temptation to share "anonymous" client stories is s
 :::
 
 **Building Digital Fortress:**
+
 - Use encrypted storage for all client data
 - Implement strong password protection
 - Never discuss clients on social platforms
@@ -54,6 +60,7 @@ Don't claim to be a "master astrologer" after a weekend workshop. Be honest abou
 
 ::: {.comparison-box}
 **Instead of saying:**
+
 "I'm a certified professional astrologer"
 
 **Try:**
@@ -64,13 +71,16 @@ Don't claim to be a "master astrologer" after a weekend workshop. Be honest abou
 
 The future isn't written in stone. Astrology shows possibilities, trends, and potential—not certainties.
 
-::: {.client-questions}
+::: {.example-box}
+
 **When clients ask:**
+
 - "When will I get married?"
 - "Will I get this job?"
 - "Should I invest in this business?"
 
 **Respond with empowerment:**
+
 - "Your chart suggests favorable periods for partnerships..."
 - "I see potential for career advancement, but your actions matter most..."
 - "The stars indicate opportunity, but due diligence is essential..."
@@ -81,7 +91,9 @@ The future isn't written in stone. Astrology shows possibilities, trends, and po
 We all have personal experiences that color our interpretations. A divorced astrologer might see relationship challenges everywhere. Someone struggling financially might emphasize money concerns in every chart.
 
 ::: {.key-insight}
+
 **Self-Awareness Questions:**
+
 - What personal experiences might influence my readings?
 - Am I projecting my fears or hopes onto this chart?
 - Would another astrologer interpret this differently?
@@ -93,24 +105,29 @@ We all have personal experiences that color our interpretations. A divorced astr
 
 Sometimes charts reveal challenging periods or difficult personality traits. How you deliver this information can make the difference between empowerment and devastation.
 
-::: {.warning-box}
+::: {.comparison-box}
 **Harmful Approach:**
+
 "You have a very difficult marriage aspect. Your relationships are doomed to fail."
 
 **Healing Approach:**
+
 "I see some relationship challenges in your chart, which actually means you have opportunities to develop stronger communication skills and deeper understanding of partnership."
 :::
 
 **Recognize Vulnerabilities**
 
 People often seek astrological guidance during their most vulnerable moments:
+
 - After breakups or divorces
 - During health scares
 - When facing career uncertainty
 - While grieving losses
 
 ::: {.highlight-box}
+
 **Signs of Vulnerability:**
+
 - Urgent need for answers
 - Emotional distress during the session
 - Desperation for specific outcomes
@@ -123,22 +140,29 @@ Every reading should leave clients feeling more capable, not more dependent on y
 
 ::: {.skills-grid}
 ::: {.skill-box}
+
 **Instead of Dependency**
+
 "You must wait for this transit to pass"
 
 **Offer Agency**
+
 "During this transit, you can focus on..."
 :::
 
 ::: {.skill-box}
+
 **Instead of Fear**
+
 "This is a very dangerous time"
 
 **Provide Tools**
+
 "This period requires extra awareness of..."
 :::
 
 ::: {.skill-box}
+
 **Instead of Fatalism**
 "This is your destiny"
 
@@ -162,6 +186,7 @@ Astrology illuminates patterns and possibilities, but humans have the power to c
 **Beyond the Birth Chart**
 
 A person is far more than their astrological signature. They have:
+
 - Cultural backgrounds that shape their values
 - Life experiences that create resilience
 - Personal choices that define their character
@@ -178,6 +203,7 @@ A person is far more than their astrological signature. They have:
 Astrology exists in every culture, but with different interpretations, values, and taboos. What's considered empowering guidance in one culture might be deeply offensive in another.
 
 ::: {.comparison-box}
+
 **Western Approach:**
 Individual fulfillment and personal choice
 
@@ -191,7 +217,9 @@ Connection to land and ancestral wisdom
 ### **Avoiding Harmful Stereotypes**
 
 ::: {.warning-box}
+
 **Dangerous Generalizations:**
+
 - "Scorpios are always secretive and vengeful"
 - "Virgos are obsessed with cleanliness"
 - "Geminis can never be trusted"
@@ -202,53 +230,73 @@ These stereotypes can become self-fulfilling prophecies, limiting how people see
 
 ### **Adapting Your Approach**
 
+::: {.grid-3}
+::: {.content-box}
 **For Conservative Clients:**
+
 - Focus on character development over romantic predictions
 - Emphasize family and community connections
 - Respect traditional gender roles if that's their framework
+:::
 
+::: {.content-box}
 **For Progressive Clients:**
+
 - Explore non-traditional relationship models
 - Discuss career and personal independence
 - Address social justice and activism themes
+:::
 
+::: {.content-box}
 **For Religious Clients:**
+
 - Frame astrology as self-understanding, not divination
 - Respect their spiritual framework
 - Avoid conflicting theological discussions
+:::
+:::
 
 ## **The Ethics Gap in Modern Learning**
 
 ::: {.highlight-box}
+
 **The YouTube Generation Challenge:**
 
 Traditional astrological education included mentorship, where experienced practitioners modeled ethical behavior alongside technical skills. Today's fast-track learning often skips this crucial component.
 :::
 
+::: {.comparison-box}
 **What Online Courses Teach:**
+
 - How to calculate planetary positions
 - Interpretation techniques and meanings
 - Software and technology tools
 
 **What They Often Miss:**
+
 - How to handle emotional breakdowns during sessions
 - When to refer clients to mental health professionals
 - How to maintain boundaries with desperate clients
 - Cultural sensitivity across diverse populations
+:::
 
 ## **Building Your Ethical Foundation**
 
 ### **Daily Practices for Ethical Astrologers**
 
 ::: {.skills-grid}
+
 ::: {.skill-box}
+
 **Before Each Session**
+
 - Review ethical guidelines
 - Check your emotional state
 - Set intention for client's highest good
 :::
 
 ::: {.skill-box}
+
 **During Sessions**
 - Listen more than you speak
 - Ask permission before difficult topics
@@ -256,6 +304,7 @@ Traditional astrological education included mentorship, where experienced practi
 :::
 
 ::: {.skill-box}
+
 **After Sessions**
 - Reflect on the interaction
 - Note any concerns or red flags
@@ -278,11 +327,17 @@ Ethics isn't a one-time lesson—it's a lifelong practice. As you grow in experi
 
 Every astrologer needs an internal compass that points toward the highest good. When you're unsure about an ethical decision, ask yourself:
 
-::: {.question-box}
+::: {.key-insight}
+**Ethical Decision Questions:**
+
 - Will this empower or diminish my client?
 - Am I respecting their autonomy and dignity?
 - Would I want someone to treat my loved one this way?
 - Am I acting from love or from ego?
+:::
+
+::: {.writing-space}
+**Personal Reflection:** Take a moment to write about your own ethical compass. What values guide your practice? What situations make you feel uncertain about the right approach?
 :::
 
 The stars may guide us, but ethics guide our practice. In the next chapter, we'll explore how to apply these principles when communicating difficult information—because how we say something is often more important than what we say.
