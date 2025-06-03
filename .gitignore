@@ -45,7 +45,6 @@ tmp-pdfcrop-*
 *.pdf
 *.epub
 *.docx
-*.md
 !README.md
 !CODE_OF_CONDUCT.md
 
