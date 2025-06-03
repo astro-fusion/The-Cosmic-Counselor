@@ -7,6 +7,8 @@
 [![GitHub Discussions](https://img.shields.io/github/discussions/astro-fusion/The-Cosmic-Counselor)](https://github.com/astro-fusion/The-Cosmic-Counselor/discussions)
 <!-- badges: end -->
 
+![The Cosmic Counselor - Multi-Format Publishing](images/showcase-project-presentation.jpg)
+
 This repository contains the source files for **The Cosmic Counselor: Ethical Spiritual Guidance in Modern Times**, a comprehensive guide for astrologers, tarot readers, and other spiritual counselors seeking to practice with integrity and compassion.
 
 ## 📖 Read the Book
@@ -22,6 +24,7 @@ The Cosmic Counselor bridges ancient wisdom with modern ethical practices, provi
 **Target Audience:** Astrologers, tarot readers, numerologists, palmists, and spiritual counselors worldwide seeking ethical guidance.
 
 **Key Topics:**
+
 - ✨ Ethical guidelines for spiritual practice
 - 🧠 Basic psychology for spiritual counselors  
 - 🤝 Building trust and active listening skills
@@ -29,6 +32,30 @@ The Cosmic Counselor bridges ancient wisdom with modern ethical practices, provi
 - 🛡️ Self-care and professional boundaries
 - 🌍 Cultural sensitivity in spiritual practice
 - 💫 Building a sustainable spiritual practice
+
+## 🚀 Cross-Platform Publishing
+
+**QMD-powered publishing with CSS styling. Auto-generates PDF, EPUB, HTML via GitHub Actions. Interactive dark-mode website with instant PDF export.**
+
+### 📱 Multiple Format Support
+
+| Format | Features | Access |
+|--------|----------|--------|
+| 🌐 **HTML** | Interactive elements, dark mode, responsive design | [Live Website](https://astro-fusion.github.io/The-Cosmic-Counselor) |
+| 📄 **PDF** | Print-optimized, professional layout, one-click export | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) |
+| 📱 **EPUB** | E-reader compatible, mobile-friendly | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) |
+| 📝 **QMD** | Source format for easy editing and collaboration | [View Source](https://github.com/astro-fusion/The-Cosmic-Counselor) |
+
+### 🎨 Publishing Features
+
+**Automated Workflow:**
+
+- ✅ GitHub Actions integration for seamless publishing
+- ✅ CSS styling system for consistent design
+- ✅ Multi-format output from single source
+- ✅ Interactive web features with dark mode support
+- ✅ One-click PDF export functionality
+- ✅ Mobile-responsive design across all formats
 
 ## 🏗️ Repository Structure
 
@@ -41,17 +68,34 @@ The-Cosmic-Counselor/
 │   ├── foreword.qmd         # Foreword by guest author
 │   ├── gratitude.qmd        # Gratitude Constellation  
 │   └── preface.qmd          # Author's preface
-├── chapters/                # Main book chapters
-│   └── chapter-01.qmd       # Understanding Ethical Boundaries
+├── chapters/                # Main book chapters (12 chapters)
+│   ├── chapter-01.qmd       # Cosmic Calling
+│   ├── chapter-02.qmd       # Skepticism to Stars
+│   ├── chapter-03.qmd       # Ethics in Action
+│   ├── chapter-04.qmd       # Ethical Navigation
+│   ├── chapter-05.qmd       # Ethical Navigation
+│   ├── chapter-06.qmd       # Knowing When to Refer
+│   ├── chapter-07.qmd       # Session to System
+│   ├── chapter-08.qmd       # Setting the Stage
+│   ├── chapter-09.qmd       # Masterful Communication
+│   ├── chapter-10.qmd       # Beyond the Consultation
+│   ├── chapter-11.qmd       # Astrologer's Reflection
+│   ├── chapter-12.qmd       # Your Legacy
+│   └── chapter-XX/          # Chapter subdirectories with:
+│       ├── index.qmd        # Main chapter content
+│       ├── practice.qmd     # Interactive exercises
+│       └── quiz.qmd         # Knowledge assessments
 ├── backmatter/              # Post-chapter content
-│   ├── summary.qmd          # Book summary & key takeaways
-│   └── references.qmd       # Bibliography & resources
-├── styles/                  # Custom SCSS styling
-│   ├── global.scss          # Global book styles
-│   ├── chapter.scss         # Chapter content styles
-│   ├── practice.scss        # Practice section styles
-│   └── quiz.scss           # Quiz section styles
-├── scripts/                 # Build and automation scripts
+│   ├── author.qmd           # About the author
+│   ├── references.qmd       # Bibliography & resources
+│   └── summary.qmd          # Book summary & key takeaways
+├── images/                  # Visual assets
+│   └── cover.png            # Book cover image
+├── styles/                  # Custom styling
+│   └── global.css           # Unified book styles
+├── scripts/                 # Interactive features
+│   ├── include-scripts.html # Script includes
+│   └── quiz-interactions.js # Quiz functionality
 ├── .github/workflows/       # GitHub Actions for publishing
 │   └── publish.yml          # Auto-build and deploy
 ├── _book/                   # Generated book output (auto-generated)
@@ -142,6 +186,22 @@ The book automatically adapts content for different formats:
 - **📄 PDF Version**: Static quiz questions with answer keys, print-optimized layout
 - **📱 EPUB Version**: E-reader friendly formatting with embedded answers
 
+### Chapter Structure
+
+Each chapter follows a consistent three-part structure:
+
+```bash
+chapters/chapter-XX/
+├── index.qmd        # Main chapter content and concepts
+├── practice.qmd     # Hands-on exercises and assessments
+└── quiz.qmd         # Knowledge checks and self-evaluation
+```
+
+This modular approach allows for:
+- **Focused learning** - Theory, practice, and assessment separated
+- **Easy maintenance** - Update content without affecting structure
+- **Format flexibility** - Combine or separate sections as needed
+
 ### Local Development Workflow
 
 ```bash
@@ -172,7 +232,7 @@ quarto check
 
 **Missing Styles:**
 ```bash
-# Verify SCSS compilation
+# Verify CSS compilation
 quarto render --to html --quiet
 find _book/ -name "*.css"
 ```
@@ -182,11 +242,20 @@ find _book/ -name "*.css"
 # Check EPUB structure
 unzip -l _book/The-Cosmic-Counselor.epub
 ```
+
+**Interactive Features:**
+```bash
+# Test JavaScript functionality
+python -m http.server 8000 -d _book/
+# Open http://localhost:8000 to test interactive elements
+```
+
 ## 🤝 Community & Discussions
 
 Join our growing community of ethical spiritual practitioners!
 
 **💬 [GitHub Discussions](https://github.com/astro-fusion/The-Cosmic-Counselor/discussions)**
+
 - 💡 **Ideas & Suggestions** - Propose improvements
 - ❓ **Q&A** - Ask questions about spiritual counseling  
 - 📖 **Book Discussion** - Chapter-by-chapter conversations
@@ -235,34 +304,36 @@ We welcome contributions from spiritual practitioners worldwide! Here's how you 
 
 ### ✅ Completed
 - [x] Project structure and automation
-- [x] Chapter 1: Understanding Ethical Boundaries
+- [x] All 12 chapters with structured content (index/practice/quiz)
 - [x] Automated publishing workflow
 - [x] Community discussions setup
 - [x] Multi-format output (HTML, PDF, EPUB)
+- [x] Interactive features and styling system
 
 ### 🔄 In Progress  
-- [ ] Frontmatter content development
-- [ ] Chapter 2: Building Trust and Rapport
-- [ ] Custom styling system enhancement
+- [ ] Content refinement and editing
+- [ ] Additional practice exercises
+- [ ] Enhanced interactive features
 - [ ] Community contribution guidelines
 
 ### 📋 Planned
-- [ ] Chapters 3-10 development
-- [ ] Interactive exercises and assessments
 - [ ] Multi-language translations
 - [ ] Audio/video companion content
 - [ ] Mobile app version
+- [ ] Advanced assessment tools
 
 ## 📜 License
 
 This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
 
 **You are free to:**
+
 - ✅ **Share** - copy and redistribute in any medium or format
 - ✅ **Adapt** - remix, transform, and build upon the material
 - ✅ **Commercial use** - use for commercial purposes
 
 **Under these conditions:**
+
 - 📝 **Attribution** - Give appropriate credit with link to license
 - 🔄 **ShareAlike** - Distribute adaptations under the same license
 - 🚫 **No additional restrictions** - No legal/technological measures that legally restrict others
@@ -280,8 +351,9 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 ## 🙏 Acknowledgments
 
 This book exists thanks to:
+
 - 🌟 Wisdom shared by spiritual teachers across traditions
-- 🤝 Trust of countless clients who shaped these insights  
+- 🤝 Trust of countless clients who shaped these insights
 - 👥 Support of family, friends, and the spiritual community
 - 💝 All contributors who help make this resource better
 

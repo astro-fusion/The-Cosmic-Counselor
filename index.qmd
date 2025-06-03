@@ -1,90 +1,81 @@
-# The Cosmic Counselor {.unnumbered}
+# The Cosmic Counselor: Your Complete Guide to Ethical Spiritual Practice {.unnumbered}
 
-**Ethical Spiritual Guidance in Modern Times**
+**Transform Ancient Wisdom into Modern Healing Through Compassionate, Professional Spiritual Guidance**
+
+---
+
+## 🌟 Master the Art of Ethical Spiritual Counseling
+*Become the trusted guide your community needs while maintaining professional integrity and personal boundaries.*
 
 Welcome to your comprehensive guide for becoming an ethical and effective spiritual counselor. This book bridges ancient wisdom with modern psychology, teaching you to guide others with compassion, integrity, and professional boundaries.
 
----
-
-## What You'll Learn
-
-**⚖️ Foundational Ethics**  
-Core principles for responsible spiritual guidance that protect both you and your clients.
-
-**💬 Communication Skills**  
-Master the art of listening deeply and responding with compassion and clarity.
-
-**🛡️ Boundary Setting**  
-Professional limits that maintain healthy relationships and prevent burnout.
-
-**🔧 Practical Techniques**  
-Real-world applications across different spiritual traditions.
-
-**💼 Business Guidance**  
-Ethical strategies to build and maintain your spiritual counseling practice.
-
-**🎯 Professional Growth**  
-Continuous learning strategies and pathways to excellence.
+In a world hungry for authentic spiritual guidance, you have the opportunity to serve as a beacon of hope and healing. This guide will equip you with the tools, wisdom, and ethical framework necessary to hold sacred space for others while protecting your own spiritual well-being.
 
 ---
 
-## How to Use This Book
+## Multiple Format Support
 
-Each chapter includes:
+This comprehensive guide is available in multiple formats to suit your learning style:
 
-- **Core Concepts** - In-depth exploration with real-world examples
-- **Practice Exercises** - Hands-on activities to develop your skills
-- **Self-Assessments** - Tools to track your progress
-- **Action Steps** - Concrete strategies for immediate application
-- **Reflection Prompts** - Questions to enhance self-awareness
+### 📱 Digital Formats
+- **HTML** - Interactive web version with responsive design
+- **PDF** - Print-ready format for offline study and meditation
+- **EPUB** - Mobile-friendly ebook format for on-the-go learning
+- **Word** - Editable document for personal notes and reflections
 
-> **Study Tip:** Work through one chapter completely before moving to the next. Take time to practice the exercises and reflect on how each concept applies to your practice.
+### 🎨 Theme Variations
+Choose from professional themes that enhance your reading experience:
 
----
+::: {.panel-tabset}
 
-## Your Learning Journey
+## Light Theme
+```{=html}
+<div class="theme-preview light-theme">
+  <h4>Sacred Light</h4>
+  <p>Clean, bright design perfect for daytime reading and contemplative study.</p>
+</div>
+```
 
-### Phase 1: Foundation Building *(Chapters 1-3)*
-Establish your ethical framework, learn essential boundaries, and master core communication skills.
+## Dark Theme  
+```{=html}
+<div class="theme-preview dark-theme">
+  <h4>Meditation Night</h4>
+  <p>Gentle on the eyes for evening study and deep spiritual reflection.</p>
+</div>
+```
 
-### Phase 2: Skill Development *(Chapters 4-7)*
-Practice advanced techniques and develop your unique counseling approach.
+## Cosmic Theme
+```{=html}
+<div class="theme-preview cosmic-theme">
+  <h4>Cosmic Guidance</h4>
+  <p>Spiritually-inspired design with celestial elements and calming earth tones.</p>
+</div>
+```
 
-### Phase 3: Professional Practice *(Chapters 8-10)*
-Integrate your knowledge into a sustainable, ethical practice.
-
----
-
-## Setting Your Intention
-
-Before you begin, take a moment to reflect on these questions:
-
-- What draws you to spiritual counseling?
-- What do you hope to achieve through this book?
-- How do you envision serving others through your practice?
-- What ethical principles are most important to you?
-
-::: {.writing-space}
-*Use this space or your journal to capture your thoughts...*
 :::
 
+### 📊 Interactive Spiritual Learning Features
+
+**Dynamic Content:**
+- Sacred space self-assessments with instant guidance
+- Interactive spiritual reflection journals
+- Ethical dilemma scenario builders
+- Downloadable meditation guides and ritual templates
+
+**Multimedia Integration:**
+- Guided meditation audio tracks
+- Video demonstrations of counseling techniques
+- Interactive case studies from real spiritual practices
+- Downloadable resource libraries for different traditions
+
 ---
 
-## Community & Support
+## Cross-Platform Sacred Study
 
-**💬 Join Our Discussions**  
-Connect with fellow spiritual counselors in our [GitHub Discussions](https://github.com/astro-fusion/The-Cosmic-Counselor/discussions) community.
-
-**📚 Share Your Insights**  
-Contribute your experiences and learn from others on the same path.
-
-**🤝 Get Support**  
-Ask questions, seek guidance, and offer support to create a thriving community.
-
----
-
-## Ready to Begin?
-
-Your journey as an ethical spiritual counselor starts now. Each page you turn brings you closer to becoming the compassionate, skilled practitioner the world needs.
-
-**[Start with Chapter 1: Understanding Ethical Boundaries →](chapters/chapter-01.qmd)**
+````{.code-block}
+# Access your spiritual learning anywhere:
+- 💻 Desktop sanctuary (Chrome, Firefox, Safari, Edge)
+- 📱 Mobile temple (iOS, Android)
+- 📖 Digital altar (Kindle, Kobo)
+- 🖨️ Sacred texts (beautifully formatted print versions)
+````
