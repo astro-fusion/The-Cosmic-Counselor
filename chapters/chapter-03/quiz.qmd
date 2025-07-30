@@ -122,7 +122,7 @@ How clear are your ethical boundaries?
 
 Do you know when to refer clients to other professionals? 
 
-Can you maintain appropriate relationships with clients? 
+Can you maintain appropriate relationships with clients?
 
 **Reflection Questions:**
 
@@ -187,4 +187,4 @@ Can you maintain appropriate relationships with clients?
 - Would I want someone to treat my loved one this way?
 - Am I acting from love or from ego?
 
-<script src="../scripts/quiz-interactions.js"></script>
+<script src="../../scripts/quiz-interactions.js"></script>
