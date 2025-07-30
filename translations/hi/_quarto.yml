@@ -1,37 +1,23 @@
 project:
   type: book
-  output-dir: _book
+  output-dir: _book/hi
   resources:
-    - scripts/
-    - styles/
+    - ../../scripts/
+    - ../../styles/
 
-# Multilingual configuration
-lang: en
-languages:
-  en:
-    title: "The Cosmic Counselor"
-    subtitle: "Ethical Spiritual Guidance in Modern Times"
-    author: "Bishal Ghimire"
-  hi:
-    title: "द कॉस्मिक काउंसलर"
-    subtitle: "आधुनिक समय में नैतिक आध्यात्मिक मार्गदर्शन"
-    author: "बिशाल घिमिरे"
-  ne:
-    title: "द कस्मिक काउन्सेलर"
-    subtitle: "आधुनिक समयमा नैतिक आध्यात्मिक मार्गदर्शन"
-    author: "बिशाल घिमिरे"
-
+# Hindi configuration
+lang: hi
 book:
-  title: "The Cosmic Counselor"
-  subtitle: "Ethical Spiritual Guidance in Modern Times"
-  author: "Bishal Ghimire"
+  title: "द कॉस्मिक काउंसलर"
+  subtitle: "आधुनिक समय में नैतिक आध्यात्मिक मार्गदर्शन"
+  author: "बिशाल घिमिरे"
   
   chapters:
     # Home page with all frontmatter
     - index.qmd
 
     # Frontmatter
-    - part: "Front Matter"
+    - part: "प्रारंभिक सामग्री"
       chapters:
         - frontmatter/prologue.qmd
         - frontmatter/foreword.qmd
@@ -39,7 +25,7 @@ book:
         - frontmatter/preface.qmd
     
     # Main chapters
-    - part: "Chapters"
+    - part: "अध्याय"
       chapters:
         - chapters/chapter-01.qmd
         - chapters/chapter-02.qmd
@@ -55,7 +41,7 @@ book:
         - chapters/chapter-12.qmd
     
     # Backmatter
-    - part: "Backmatter"
+    - part: "परिशिष्ट"
       chapters:
         - backmatter/references.qmd
         - backmatter/author.qmd
@@ -67,10 +53,11 @@ format:
       light: cosmo
       dark: darkly
     css:
-      - styles/global.css
+      - ../../styles/global.css
     toc: true
     toc-depth: 2
     number-sections: true
+    lang: hi
     
   pdf:
     documentclass: book
@@ -84,44 +71,44 @@ format:
       - right=1in
     fontsize: 11pt
     linestretch: 1.2
-    # Bibliography settings
-    bibliography: references.bib
+    bibliography: ../../references.bib
     csl: https://www.zotero.org/styles/apa
     cite-method: natbib
     biblio-style: apalike
-    
-    # LaTeX packages to include
     include-in-header:
       - text: |
           \usepackage{enumitem}
           \usepackage{amsmath}
           \usepackage{amsfonts}
           \usepackage{amssymb}
+          \usepackage{polyglossia}
+          \setdefaultlanguage{hindi}
+          \setotherlanguage{english}
     
   epub:
     toc: true
     number-sections: true
+    lang: hi
 
-  # Add DOCX for better Scribus compatibility
   docx:
     toc: true
     number-sections: true
     highlight-style: github
 
 # Global bibliography settings
-bibliography: references.bib
+bibliography: ../../references.bib
 
 # GitHub Pages configuration  
 website:
-  site-url: "https://astro-fusion.github.io/The-Cosmic-Counselor"
+  site-url: "https://astro-fusion.github.io/The-Cosmic-Counselor/hi"
   repo-url: "https://github.com/astro-fusion/The-Cosmic-Counselor"
-  title: "The Cosmic Counselor"
+  title: "द कॉस्मिक काउंसलर"
   navbar:
-    title: "The Cosmic Counselor"
+    title: "द कॉस्मिक काउंसलर"
     right:
       - icon: github
         href: https://github.com/astro-fusion/The-Cosmic-Counselor
 
 publish:
   - provider: gh-pages
-    url: "https://astro-fusion.github.io/The-Cosmic-Counselor"
+    url: "https://astro-fusion.github.io/The-Cosmic-Counselor/hi" 

@@ -13,9 +13,25 @@ This repository contains the source files for **The Cosmic Counselor: Ethical Sp
 
 ## 📖 Read the Book
 
-- **🌐 Online Version**: [astro-fusion.github.io/The-Cosmic-Counselor](https://astro-fusion.github.io/The-Cosmic-Counselor)
-- **📄 PDF Download**: Available in [latest releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases)
-- **📱 EPUB Version**: Available in [latest releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases)
+### 🌍 Multilingual Versions
+
+| Language | Online Version | PDF | EPUB |
+|----------|----------------|-----|------|
+| 🇺🇸 **English** | [Live Website](https://astro-fusion.github.io/The-Cosmic-Counselor) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) |
+| 🇮🇳 **Hindi** | [हिंदी वर्जन](https://astro-fusion.github.io/The-Cosmic-Counselor/hi) | [डाउनलोड](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | [डाउनलोड](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) |
+| 🇳🇵 **Nepali** | [नेपाली वर्जन](https://astro-fusion.github.io/The-Cosmic-Counselor/ne) | [डाउनलोड](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | [डाउनलोड](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) |
+
+### 🚀 Quick Preview Commands
+```bash
+# English
+quarto preview
+
+# Hindi  
+quarto preview --project translations/hi/_quarto.yml
+
+# Nepali
+quarto preview --project translations/ne/_quarto.yml
+```
 
 ## 🌟 About the Book
 
@@ -41,10 +57,17 @@ The Cosmic Counselor bridges ancient wisdom with modern ethical practices, provi
 
 | Format | Features | Access |
 |--------|----------|--------|
-| 🌐 **HTML** | Interactive elements, dark mode, responsive design | [Live Website](https://astro-fusion.github.io/The-Cosmic-Counselor) |
+| 🌐 **HTML** | Interactive elements, dark mode, responsive design, language switcher | [Live Website](https://astro-fusion.github.io/The-Cosmic-Counselor) |
 | 📄 **PDF** | Print-optimized, professional layout, one-click export | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) |
 | 📱 **EPUB** | E-reader compatible, mobile-friendly | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) |
 | 📝 **QMD** | Source format for easy editing and collaboration | [View Source](https://github.com/astro-fusion/The-Cosmic-Counselor) |
+
+### 🌍 Multilingual Features
+
+- **Language Switcher**: Seamless switching between English, Hindi, and Nepali
+- **Separate URLs**: Each language has its own dedicated website
+- **Localized Content**: Full translation of all chapters, exercises, and navigation
+- **Script Support**: Proper Devanagari rendering for Hindi and Nepali
 
 ### 🎨 Publishing Features
 
@@ -61,7 +84,7 @@ The Cosmic Counselor bridges ancient wisdom with modern ethical practices, provi
 
 ```
 The-Cosmic-Counselor/
-├── _quarto.yml              # Quarto book configuration
+├── _quarto.yml              # Main English configuration
 ├── index.qmd                # Book homepage & overview
 ├── frontmatter/             # Pre-chapter content
 │   ├── prologue.qmd         # Cosmic Prelude
@@ -89,16 +112,35 @@ The-Cosmic-Counselor/
 │   ├── author.qmd           # About the author
 │   ├── references.qmd       # Bibliography & resources
 │   └── summary.qmd          # Book summary & key takeaways
-├── images/                  # Visual assets
+├── translations/            # 🌍 Multilingual translations
+│   ├── hi/                  # Hindi translations
+│   │   ├── _quarto.yml      # Hindi configuration
+│   │   ├── index.qmd        # Hindi homepage
+│   │   ├── chapters/        # Hindi chapter files
+│   │   ├── frontmatter/     # Hindi frontmatter
+│   │   └── backmatter/      # Hindi backmatter
+│   └── ne/                  # Nepali translations
+│       ├── _quarto.yml      # Nepali configuration
+│       ├── index.qmd        # Nepali homepage
+│       ├── chapters/        # Nepali chapter files
+│       ├── frontmatter/     # Nepali frontmatter
+│       └── backmatter/      # Nepali backmatter
+├── images/                  # Visual assets (shared)
 │   └── cover.png            # Book cover image
-├── styles/                  # Custom styling
-│   └── global.css           # Unified book styles
-├── scripts/                 # Interactive features
+├── styles/                  # Custom styling (shared)
+│   └── global.css           # Unified book styles + language switcher
+├── scripts/                 # Interactive features (shared)
+│   ├── language-switcher.js # Language switching component
 │   ├── include-scripts.html # Script includes
 │   └── quiz-interactions.js # Quiz functionality
+├── build-all.sh             # Build script for all languages
+├── MULTILINGUAL_SETUP.md    # Multilingual setup guide
 ├── .github/workflows/       # GitHub Actions for publishing
-│   └── publish.yml          # Auto-build and deploy
+│   └── publish.yml          # Auto-build and deploy all languages
 ├── _book/                   # Generated book output (auto-generated)
+│   ├── index.html           # English version
+│   ├── hi/                  # Hindi version
+│   └── ne/                  # Nepali version
 └── README.md               # This file
 ```
 
@@ -113,11 +155,11 @@ This project uses GitHub Actions to automatically:
 
 ### Available Formats
 
-| Format | Access | Updates |
-|--------|--------|---------|
-| 🌐 **HTML** | [Live Website](https://astro-fusion.github.io/The-Cosmic-Counselor) | Automatic |
-| 📄 **PDF** | [Download from Releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | On new commits |
-| 📱 **EPUB** | [Download from Releases](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | On new commits |
+| Language | HTML | PDF | EPUB | Updates |
+|----------|------|-----|------|---------|
+| 🇺🇸 **English** | [Live](https://astro-fusion.github.io/The-Cosmic-Counselor) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | Automatic |
+| 🇮🇳 **Hindi** | [Live](https://astro-fusion.github.io/The-Cosmic-Counselor/hi) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | Automatic |
+| 🇳🇵 **Nepali** | [Live](https://astro-fusion.github.io/The-Cosmic-Counselor/ne) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | [Download](https://github.com/astro-fusion/The-Cosmic-Counselor/releases) | Automatic |
 
 ## 🛠️ Local Development
 
@@ -131,16 +173,18 @@ This project uses GitHub Actions to automatically:
 git clone https://github.com/astro-fusion/The-Cosmic-Counselor.git
 cd The-Cosmic-Counselor
 
-# Preview the book (auto-refreshes on changes)
+# Preview English version (auto-refreshes on changes)
 quarto preview
 
-# Build all formats
-quarto render
+# Preview other languages
+quarto preview --project translations/hi/_quarto.yml  # Hindi
+quarto preview --project translations/ne/_quarto.yml  # Nepali
 
-# Build specific format
-quarto render --to html
-quarto render --to pdf    # Requires TinyTeX
-quarto render --to epub
+# Build all languages and formats
+./build-all.sh
+
+# Build specific language
+quarto render --project translations/hi/_quarto.yml --to html,pdf,epub
 ```
 
 ### Development Commands
@@ -148,11 +192,17 @@ quarto render --to epub
 # Preview single chapter
 quarto preview chapters/chapter-01.qmd
 
+# Preview translated chapters
+quarto preview translations/hi/chapters/chapter-01.qmd
+quarto preview translations/ne/chapters/chapter-01.qmd
+
 # Render without opening browser
 quarto render --quiet
 
 # Check for issues
 quarto check
+quarto check --project translations/hi/_quarto.yml
+quarto check --project translations/ne/_quarto.yml
 ```
 
 ## 📚 Building Different Formats
@@ -167,6 +217,43 @@ quarto render
 quarto render --to html    # Web version with interactive features
 quarto render --to pdf     # Print-ready PDF with static content
 quarto render --to epub    # E-reader compatible format
+```
+
+## 🌍 Multilingual Development
+
+### Build All Languages
+
+```bash
+# Build all languages and formats
+./build-all.sh
+
+# Build specific language
+quarto render --project translations/hi/_quarto.yml --to html,pdf,epub
+quarto render --project translations/ne/_quarto.yml --to html,pdf,epub
+```
+
+### Translation Workflow
+
+1. **Add content to English version first**
+2. **Create corresponding files in language directories**
+3. **Translate content while maintaining structure**
+4. **Test builds for each language**
+5. **Update build script if needed**
+
+### Language-Specific Commands
+
+```bash
+# Preview individual languages
+quarto preview --project translations/hi/_quarto.yml  # Hindi
+quarto preview --project translations/ne/_quarto.yml  # Nepali
+
+# Check language-specific configurations
+quarto check --project translations/hi/_quarto.yml
+quarto check --project translations/ne/_quarto.yml
+
+# Build specific language formats
+quarto render --project translations/hi/_quarto.yml --to html
+quarto render --project translations/ne/_quarto.yml --to pdf
 ```
 
 ### Format-Specific Features
@@ -279,12 +366,14 @@ We welcome contributions from spiritual practitioners worldwide! Here's how you 
 - **Case studies** - Share anonymized examples (with consent)
 - **Practice exercises** - Suggest new activities and assessments
 - **Cultural perspectives** - Add insights from different traditions
+- **🌍 Translations** - Help translate into additional languages
 
 ### 🔧 Technical Contributions  
 - **Proofreading** - Fix typos and improve clarity
-- **Translations** - Help translate into other languages
+- **Translation infrastructure** - Improve multilingual setup
 - **Styling** - Improve book design and accessibility
 - **Documentation** - Enhance setup and usage instructions
+- **Language switcher** - Enhance multilingual navigation
 
 ### 🚀 How to Contribute
 1. **Fork** this repository
@@ -309,6 +398,9 @@ We welcome contributions from spiritual practitioners worldwide! Here's how you 
 - [x] Community discussions setup
 - [x] Multi-format output (HTML, PDF, EPUB)
 - [x] Interactive features and styling system
+- [x] **Multilingual setup** (English, Hindi, Nepali)
+- [x] **Language switcher** component
+- [x] **Separate language builds** and deployments
 
 ### 🔄 In Progress  
 - [ ] Content refinement and editing
@@ -317,10 +409,11 @@ We welcome contributions from spiritual practitioners worldwide! Here's how you 
 - [ ] Community contribution guidelines
 
 ### 📋 Planned
-- [ ] Multi-language translations
+- [ ] Additional language translations (Spanish, French, etc.)
 - [ ] Audio/video companion content
 - [ ] Mobile app version
 - [ ] Advanced assessment tools
+- [ ] Translation management system
 
 ## 📜 License
 

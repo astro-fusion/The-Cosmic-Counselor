@@ -98,6 +98,118 @@ $box-shadow-inset: inset 0 1px 2px rgba($black, 0.075) !default;
   --bs-primary: #{$primary};
   --bs-secondary: #{$secondary};
   --bs-success: #{$success};
+
+/* Language Switcher Styles */
+.language-switcher {
+  position: relative;
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+.language-switcher-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--bs-light);
+  border: 1px solid var(--bs-border-color);
+  border-radius: $border-radius;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.language-switcher-toggle:hover {
+  background: var(--bs-gray-200);
+  border-color: var(--bs-primary);
+}
+
+.dropdown-arrow {
+  font-size: 0.8rem;
+  transition: transform 0.2s ease;
+}
+
+.language-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background: white;
+  border: 1px solid var(--bs-border-color);
+  border-radius: $border-radius;
+  box-shadow: $box-shadow-lg;
+  min-width: 150px;
+  z-index: 1000;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.2s ease;
+}
+
+.language-dropdown.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.language-option {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  color: var(--bs-body-color);
+  transition: background-color 0.2s ease;
+  border-bottom: 1px solid var(--bs-gray-200);
+}
+
+.language-option:last-child {
+  border-bottom: none;
+}
+
+.language-option:hover {
+  background: var(--bs-gray-100);
+  text-decoration: none;
+  color: var(--bs-primary);
+}
+
+.language-option.active {
+  background: var(--bs-primary);
+  color: white;
+}
+
+.language-option.active:hover {
+  background: var(--bs-primary);
+  color: white;
+}
+
+.lang-flag {
+  font-size: 1.2rem;
+}
+
+.lang-name {
+  font-weight: 500;
+}
+
+/* Responsive language switcher */
+@media (max-width: 768px) {
+  .language-switcher {
+    margin-left: 0.5rem;
+  }
+  
+  .language-switcher-toggle {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+  }
+  
+  .language-dropdown {
+    min-width: 120px;
+  }
+  
+  .language-option {
+    padding: 0.6rem 0.8rem;
+  }
+}
   --bs-info: #{$info};
   --bs-warning: #{$warning};
   --bs-danger: #{$danger};

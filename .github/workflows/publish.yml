@@ -1,4 +1,4 @@
-name: Publish Quarto Book
+name: Publish Multilingual Quarto Book
 
 on:
   push:
@@ -7,12 +7,13 @@ on:
       - '*.qmd'
       - '**/*.qmd'
       - '_quarto.yml'
+      - 'translations/**'
       - 'styles/**'
       - 'scripts/**'
   workflow_dispatch:
 
 jobs:
-  build-html:
+  build-multilingual-html:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -26,15 +27,23 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render HTML
+      - name: Build English version
         run: quarto render --to html
+
+      - name: Build Hindi version
+        run: quarto render --project translations/hi/_quarto.yml --to html
+
+      - name: Build Nepali version
+        run: quarto render --project translations/ne/_quarto.yml --to html
 
       - name: Debug - List generated files
         run: |
           echo "Contents of _book directory:"
           ls -la _book/
-          echo "Looking for CSS files:"
-          find _book/ -name "*.css" -type f
+          echo "Contents of _book/hi directory:"
+          ls -la _book/hi/ || echo "Hindi directory not found"
+          echo "Contents of _book/ne directory:"
+          ls -la _book/ne/ || echo "Nepali directory not found"
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -48,7 +57,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-  build-formats:
+  build-multilingual-formats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -62,10 +71,18 @@ jobs:
         with:
           tinytex: true
 
-      - name: Render PDF and EPUB
+      - name: Build English formats
         run: |
-          # This will render all formats defined in _quarto.yml
-          quarto render --profile formats
+          quarto render --to pdf,epub
+
+      - name: Build Hindi formats
+        run: |
+          quarto render --project translations/hi/_quarto.yml --to pdf,epub
+
+      - name: Build Nepali formats
+        run: |
+          quarto render --project translations/ne/_quarto.yml --to pdf,epub
+
       - name: Get current date
         id: date
         run: echo "date=$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_OUTPUT
@@ -75,19 +92,35 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           tag: release-${{ steps.date.outputs.date }}
-          name: Book Release ${{ steps.date.outputs.date }}
+          name: Multilingual Book Release ${{ steps.date.outputs.date }}
           body: |
-            📚 **The Cosmic Counselor** - Latest Build
+            📚 **The Cosmic Counselor** - Multilingual Release
             
-            **Available Formats:**
-            - 🌐 **HTML**: [View Online](https://astro-fusion.github.io/The-Cosmic-Counselor)
-            - 📄 **PDF**: Download below
-            - 📱 **EPUB**: Download below
+            **🌍 Available Languages:**
+            
+            🇺🇸 **English**
+            - 🌐 [HTML Version](https://astro-fusion.github.io/The-Cosmic-Counselor)
+            - 📄 PDF: Download below
+            - 📱 EPUB: Download below
+            
+            🇮🇳 **Hindi (हिंदी)**
+            - 🌐 [HTML Version](https://astro-fusion.github.io/The-Cosmic-Counselor/hi)
+            - 📄 PDF: Download below
+            - 📱 EPUB: Download below
+            
+            🇳🇵 **Nepali (नेपाली)**
+            - 🌐 [HTML Version](https://astro-fusion.github.io/The-Cosmic-Counselor/ne)
+            - 📄 PDF: Download below
+            - 📱 EPUB: Download below
             
             Generated on: ${{ steps.date.outputs.date }}
           artifacts: |
             _book/The-Cosmic-Counselor.pdf
             _book/The-Cosmic-Counselor.epub
+            _book/hi/The-Cosmic-Counselor.pdf
+            _book/hi/The-Cosmic-Counselor.epub
+            _book/ne/The-Cosmic-Counselor.pdf
+            _book/ne/The-Cosmic-Counselor.epub
           draft: false
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
