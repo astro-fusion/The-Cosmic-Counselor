@@ -1,0 +1,10 @@
+## Session to System
+
+<!-- ## Main Content -->
+{{< include chapter-07/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-07/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-07/quiz.qmd >}}

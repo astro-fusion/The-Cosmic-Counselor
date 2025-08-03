@@ -1,0 +1,7 @@
+## Your Legacy
+
+<!-- ## Main Content -->
+{{< include chapter-12/index.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-12/quiz.qmd >}}

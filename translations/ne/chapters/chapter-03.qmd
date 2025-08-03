@@ -1,10 +1,10 @@
-## नैतिकताको कार्यान्वयन
+## Ethics in Action
 
-<!-- ## मुख्य सामग्री -->
+<!-- ## Main Content -->
 {{< include chapter-03/index.qmd >}}
 
-<!-- ## अभ्यास अभ्यासहरू -->
+<!-- ## Practice Exercises -->
 {{< include chapter-03/practice.qmd >}}
 
-<!-- ## ज्ञान जाँच -->
-{{< include chapter-03/quiz.qmd >}} 
+<!-- ## Knowledge Check   -->
+{{< include chapter-03/quiz.qmd >}}
