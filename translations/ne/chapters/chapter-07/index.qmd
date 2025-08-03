@@ -1,861 +1,861 @@
-## Session to System: Efficient Record Keeping
+## सत्रदेखि प्रणालीसम्म: प्रभावकारी अभिलेख राख्ने प्रणाली
 
 ::: {.pull-quote}
 
-"By prioritizing client privacy and demonstrating your commitment to responsible data handling, you will build trust and confidence in your astrological services."
+"ग्राहक गोपनीयतालाई प्राथमिकता दिँदै जिम्मेवार डेटा ह्यान्डलिङप्रति तपाईंको प्रतिबद्धता प्रदर्शन गरेर, तपाईं आफ्नो ज्योतिषीय सेवामा विश्वास र आत्मविश्वास निर्माण गर्नुहुनेछ।"
 
-— Data Protection Best Practices
+— डेटा संरक्षणका उत्कृष्ट अभ्यासहरू
 :::
 
-Picture this: You've just finished a powerful reading with a client who shared deeply personal information. They trusted you with their birth details, health concerns, relationship struggles, and financial worries. Three months later, they call asking about something you discussed, but you can't remember the details. Or worse—their information gets lost, stolen, or accidentally shared.
+कल्पना गर्नुहोस्: तपाईंले भर्खरै एक शक्तिशाली परामर्श समाप्त गर्नुभयो जहाँ ग्राहकले गहिरो व्यक्तिगत जानकारी साझा गरे। उनले आफ्नो जन्म विवरण, स्वास्थ्य समस्याहरू, सम्बन्ध संघर्षहरू, र वित्तीय चिन्ताहरू तपाईंलाई विश्वास गरे। तीन महिनापछि, उनीहरूले तपाईंलाई केही कुरा सोध्न फोन गर्छन् जुन तपाईंले छलफल गर्नुभयो, तर तपाईंलाई विवरण सम्झना छैन। वा झन् खराब—तिनीहरूको जानकारी हरायो, चोरी भयो, वा गल्तीले साझा भयो।
 
-This is why proper record keeping isn't just about organization—it's about **honoring the sacred trust** your clients place in you.
+यही कारणले गर्दा उचित अभिलेख राख्ने प्रणाली केवल संगठनको बारेमा मात्र होइन—यो तपाईंका ग्राहकहरूले तपाईंमा राखेको **पवित्र विश्वासको सम्मान गर्ने** बारे हो।
 
-## **The Weight of What We Hold**
+## **हामीले राख्ने भार**
 
-As spiritual counselors, we're entrusted with some of the most sensitive information in people's lives:
+आध्यात्मिक परामर्शदाताहरूको रूपमा, हामीलाई मानिसहरूको जीवनका केही सबैभन्दा संवेदनशील जानकारीहरूमा विश्वास गरिन्छ:
 
 ::: {.sensitive-data-box}
-**Personal Identifiers:**
+**व्यक्तिगत पहिचानकर्ता:**
 
-- Full names and birth details
-- Addresses and contact information
-- Family relationships and dynamics
+- पूरा नाम र जन्म विवरण
+- ठेगाना र सम्पर्क जानकारी
+- पारिवारिक सम्बन्ध र गतिको विवरण
 
-**Health Information:**
+**स्वास्थ्य जानकारी:**
 
-- Medical conditions and concerns
-- Mental health struggles
-- Fertility and pregnancy details
+- चिकित्सा अवस्थाहरू र चिन्ताहरू
+- मानसिक स्वास्थ्य समस्याहरू
+- प्रजनन र गर्भावस्थाको विवरण
 
-**Financial Details:**
+**वित्तीय विवरण:**
 
-- Income and debt situations
-- Career challenges and goals
-- Investment and business decisions
+- आय र ऋण अवस्थाहरू
+- करियर चुनौतीहरू र लक्ष्यहरू
+- लगानी र व्यापार निर्णयहरू
 
-**Intimate Relationships:**
+**निजी सम्बन्धहरू:**
 
-- Marriage and divorce details
-- Affair and infidelity concerns
-- Family conflicts and abuse
+- विवाह र सम्बन्ध विच्छेद विवरण
+- अफेयर र बेवफाईका चिन्ताहरू
+- पारिवारिक विवाद र दुर्व्यवहार
 :::
 
-**Every piece of this information deserves protection.**
+**यी सबै जानकारीको संरक्षणको हकदार छ।**
 
-## **Understanding Protected Health Information (PHI)**
+## **संरक्षित स्वास्थ्य जानकारी (PHI) को समझ**
 
-While astrologers aren't typically covered by HIPAA (Health Insurance Portability and Accountability Act), the concept of Protected Health Information is crucial to understand.
+ज्योतिषीहरू सामान्यतया HIPAA (स्वास्थ्य बीमा पोर्टेबिलिटी र उत्तरदायित्व ऐन) द्वारा समेटिएका छैनन्, तर संरक्षित स्वास्थ्य जानकारीको अवधारणा बुझ्न महत्त्वपूर्ण छ।
 
-### **What Counts as PHI in Your Practice:**
+### **तपाईंको अभ्यासमा PHI के हो:**
 
 ::: {.phi-examples}
-**Definitely PHI:**
+**निश्चित रूपमा PHI:**
 
-- Birth dates combined with health concerns
-- Notes about medical conditions or treatments
-- Mental health discussions
-- Fertility or pregnancy information
+- स्वास्थ्य समस्याहरूको साथ जन्म मिति
+- चिकित्सा अवस्थाहरू वा उपचारहरूको नोट्स
+- मानसिक स्वास्थ्य छलफलहरू
+- प्रजनन वा गर्भावस्थाको जानकारी
 
-**Potentially PHI:**
+**संभावित रूपमा PHI:**
 
-- Emotional states tied to health issues
-- Stress-related physical symptoms
-- Family medical history discussions
-- Substance use or addiction concerns
+- स्वास्थ्य समस्याहरूमा जोडिएका भावनात्मक अवस्थाहरू
+- तनावसँग सम्बन्धित शारीरिक लक्षणहरू
+- पारिवारिक चिकित्सा इतिहास छलफलहरू
+- पदार्थ प्रयोग वा लतका चिन्ताहरू
 :::
 
 ::: {.important-note}
-**Key Point:** Even if you're not legally required to follow HIPAA, treating sensitive client information with the same level of care demonstrates professionalism and builds trust.
+**महत्त्वपूर्ण बिन्दु:** तपाईंलाई कानुनी रूपमा HIPAA पालना गर्न आवश्यक नभए पनि, संवेदनशील ग्राहक जानकारीलाई समान स्तरको हेरचाहले व्यवहार गर्नुले व्यावसायिकता प्रदर्शन गर्दछ र विश्वास निर्माण गर्दछ।
 :::
 
-## **Global Data Protection: Know Your Laws**
+## **वैश्विक डेटा संरक्षण: तपाईंका कानूनहरू जान्नुहोस्**
 
-Privacy laws vary by location, but the principles remain consistent worldwide:
+गोपनीयता कानूनहरू स्थान अनुसार फरक हुन्छन्, तर सिद्धान्तहरू विश्वव्यापी रूपमा समान छन्:
 
 ::: {.global-standards}
 
-**United States:** HIPAA, state privacy laws
-**European Union:** GDPR (General Data Protection Regulation)
-**Canada:** PIPEDA (Personal Information Protection and Electronic Documents Act)
-**Australia:** Privacy Act
-**Other Countries:** Most have similar data protection frameworks
+**संयुक्त राज्य अमेरिका:** HIPAA, राज्य गोपनीयता कानूनहरू
+**युरोपेली संघ:** GDPR (सामान्य डेटा संरक्षण नियम)
+**क्यानडा:** PIPEDA (व्यक्तिगत जानकारी संरक्षण र इलेक्ट्रोनिक कागजात ऐन)
+**अष्ट्रेलिया:** गोपनीयता ऐन
+**अन्य देशहरू:** अधिकांशसँग समान डेटा संरक्षण ढाँचा छन्
 :::
 
-### **Universal Principles:**
+### **सार्वभौमिक सिद्धान्तहरू:**
 
 ::: {.universal-principles}
 
-1. **Consent:** Get clear permission before collecting information
-2. **Purpose:** Only collect what you need for the service
-3. **Security:** Protect data with appropriate safeguards
-4. **Access:** Allow clients to see and correct their information
-5. **Retention:** Keep data only as long as necessary
-6. **Deletion:** Securely dispose of data when no longer needed
+1. **सहमति:** जानकारी सङ्कलन गर्नु अघि स्पष्ट अनुमति प्राप्त गर्नुहोस्
+2. **उद्देश्य:** सेवाको लागि आवश्यक मात्र जानकारी सङ्कलन गर्नुहोस्
+3. **सुरक्षा:** उपयुक्त सुरक्षा उपायहरूसँग डेटा सुरक्षित गर्नुहोस्
+4. **पहुँच:** ग्राहकहरूलाई उनीहरूको जानकारी हेर्न र सुधार गर्न अनुमति दिनुहोस्
+5. **राख्ने:** डेटा आवश्यक भएको समयसम्म मात्र राख्नुहोस्
+6. **मेटाउने:** डेटा आवश्यक नभएपछि सुरक्षित रूपमा नष्ट गर्नुहोस्
 :::
 
-## **Best Practices for Data Protection**
+## **डेटा संरक्षणका उत्कृष्ट अभ्यासहरू**
 
-### **Transparency with Clients**
+### **ग्राहकहरूसँग पारदर्शिता**
 
-Before your first session, share your privacy practices clearly:
+तपाईंको पहिलो सत्र अघि, तपाईंका गोपनीयता अभ्यासहरू स्पष्ट रूपमा साझा गर्नुहोस्:
 
 ::: {.privacy-statement-example}
 
-**Sample Privacy Statement:**
+**नमूना गोपनीयता वक्तव्य:**
 
-*"I collect your birth information to create accurate astrological charts and provide meaningful guidance. Your personal information is stored securely and never shared with third parties without your explicit consent. I retain session notes for [timeframe] to provide continuity in our work together. You may request to see, update, or delete your information at any time."*
+*"म तपाईंको जन्म जानकारी सङ्कलन गर्दछु ताकि म सटीक ज्योतिषीय चार्टहरू सिर्जना गर्न र अर्थपूर्ण मार्गदर्शन प्रदान गर्न सकूँ। तपाईंको व्यक्तिगत जानकारी सुरक्षित रूपमा भण्डारण गरिन्छ र तपाईंको स्पष्ट सहमति बिना तेस्रो पक्षहरूसँग कहिल्यै साझा गरिँदैन। म सत्र नोटहरू [समयावधि] को लागि राख्छु ताकि हाम्रो काममा निरन्तरता प्रदान गर्न सकूँ। तपाईं कुनै पनि समयमा आफ्नो जानकारी हेर्न, अद्यावधिक गर्न, वा मेटाउन अनुरोध गर्न सक्नुहुन्छ।"*
 :::
 
-### **Physical Security Measures**
+### **भौतिक सुरक्षा उपायहरू**
 
 ::: {.physical-security}
 
-**For Paper Records:**
+**कागजी अभिलेखहरूको लागि:**
 
-- Store in locked filing cabinets
-- Keep office/workspace locked when unattended
-- Use shredding services for disposal
-- Limit who has access to your workspace
+- लक गरिएको फाइलिङ क्याबिनेटमा भण्डारण गर्नुहोस्
+- कार्यालय/कार्यस्थल अनुपस्थित हुँदा लक गर्नुहोस्
+- नष्ट गर्न श्रेडिङ सेवाहरू प्रयोग गर्नुहोस्
+- तपाईंको कार्यस्थलमा पहुँच गर्ने व्यक्तिहरूलाई सीमित गर्नुहोस्
 
-**General Workspace Security:**
+**सामान्य कार्यस्थल सुरक्षा:**
 
-- Position computer screens away from windows/waiting areas
-- Don't leave client files visible on desks
-- Use privacy screens if working in public spaces
-- Lock away materials when traveling
+- कम्प्युटर स्क्रिनहरू झ्यालहरू/प्रतीक्षा क्षेत्रहरूबाट टाढा राख्नुहोस्
+- डेस्कमा ग्राहक फाइलहरू देखिने अवस्थामा नराख्नुहोस्
+- सार्वजनिक स्थानहरूमा काम गर्दा गोपनीयता स्क्रिनहरू प्रयोग गर्नुहोस्
+- यात्रा गर्दा सामग्रीहरू लक गर्नुहोस्
 :::
 
-### **Digital Security Measures**
+### **डिजिटल सुरक्षा उपायहरू**
 
 ::: {.digital-security}
-**Password Protection:**
+**पासवर्ड सुरक्षा:**
 
-- Use strong, unique passwords for all accounts
-- Enable two-factor authentication when available
-- Use password managers to generate secure passwords
-- Change passwords regularly, especially after staff changes
+- सबै खाताहरूको लागि बलियो, अद्वितीय पासवर्डहरू प्रयोग गर्नुहोस्
+- उपलब्ध हुँदा दुई-कारक प्रमाणीकरण सक्षम गर्नुहोस्
+- पासवर्ड प्रबन्धकहरू प्रयोग गरेर सुरक्षित पासवर्डहरू सिर्जना गर्नुहोस्
+- विशेष गरी कर्मचारी परिवर्तन पछि पासवर्डहरू नियमित रूपमा परिवर्तन गर्नुहोस्
 
-**Data Encryption:**
+**डेटा इन्क्रिप्शन:**
 
-- Encrypt sensitive files and databases
-- Use secure cloud storage with encryption
-- Encrypt email communications containing client information
-- Consider encrypted messaging apps for client communication
+- संवेदनशील फाइलहरू र डाटाबेसहरू इन्क्रिप्ट गर्नुहोस्
+- इन्क्रिप्शनसहित सुरक्षित क्लाउड भण्डारण प्रयोग गर्नुहोस्
+- ग्राहक जानकारी समावेश गर्ने इमेल सञ्चार इन्क्रिप्ट गर्नुहोस्
+- ग्राहक सञ्चारका लागि इन्क्रिप्ट गरिएको सन्देश अनुप्रयोगहरू विचार गर्नुहोस्
 
-**Software Security:**
+**सफ्टवेयर सुरक्षा:**
 
-- Keep all software updated with security patches
-- Use reputable antivirus and firewall protection
-- Regularly backup data to secure locations
-- Use practice management software designed for confidentiality
+- सबै सफ्टवेयरलाई सुरक्षा प्याचहरूसँग अद्यावधिक राख्नुहोस्
+- प्रतिष्ठित एन्टिभाइरस र फायरवाल सुरक्षा प्रयोग गर्नुहोस्
+- सुरक्षित स्थानहरूमा डेटा नियमित रूपमा ब्याकअप गर्नुहोस्
+- गोपनीयताका लागि डिजाइन गरिएको अभ्यास व्यवस्थापन सफ्टवेयर प्रयोग गर्नुहोस्
 :::
 
-### **Access Control**
+### **पहुँच नियन्त्रण**
 
 ::: {.access-control}
 
-**Who Can Access Client Information:**
+**ग्राहक जानकारीमा को पहुँच गर्न सक्छ:**
 
-- Only you and directly authorized staff
-- Family members or assistants only with clear protocols
-- Never temporary workers or casual helpers
+- केवल तपाईं र प्रत्यक्ष रूपमा अधिकृत कर्मचारी
+- स्पष्ट प्रोटोकलहरूसँग मात्र परिवारका सदस्यहरू वा सहायकहरू
+- कहिल्यै अस्थायी कामदारहरू वा आकस्मिक सहयोगीहरू
 
-**Access Logging:**
+**पहुँच लगिङ:**
 
-- Track who accesses what information and when
-- Review access logs regularly for unusual activity
-- Maintain audit trails for sensitive information
+- को, कहिले, कुन जानकारीमा पहुँच गर्दछ ट्र्याक गर्नुहोस्
+- असामान्य गतिविधिका लागि पहुँच लगहरू नियमित रूपमा समीक्षा गर्नुहोस्
+- संवेदनशील जानकारीको लागि अडिट ट्रेलहरू कायम राख्नुहोस्
 :::
 
-## **Data Breach Response Plan**
+## **डेटा उल्लङ्घन प्रतिक्रिया योजना**
 
-Even with the best precautions, breaches can happen. Be prepared:
+सर्वोत्तम सावधानीका साथ पनि, उल्लङ्घनहरू हुन सक्छन्। तयार रहनुहोस्:
 
 ::: {.breach-response}
 
-**Immediate Response (within 24 hours):**
+**तत्काल प्रतिक्रिया (२४ घण्टाभित्र):**
 
-1. Contain the breach and stop further data exposure
-2. Assess what information was compromised
-3. Document everything about the incident
-4. Consult with legal counsel if needed
+1. उल्लङ्घनलाई समेट्नुहोस् र थप डेटा एक्सपोजर रोक्नुहोस्
+2. कुन जानकारी सम्झौता भयो मूल्याङ्कन गर्नुहोस्
+3. घटनाको बारेमा सबै कुरा दस्तावेज गर्नुहोस्
+4. आवश्यक परे कानूनी सल्लाहकारसँग परामर्श गर्नुहोस्
 
-**Client Notification (within 72 hours):**
+**ग्राहक सूचना (७२ घण्टाभित्र):**
 
-1. Contact affected clients directly
-2. Explain what happened and what information was involved
-3. Describe steps you're taking to address the situation
-4. Provide resources if identity theft is a concern
+1. प्रभावित ग्राहकहरूलाई प्रत्यक्ष रूपमा सम्पर्क गर्नुहोस्
+2. के भयो र कुन जानकारी समावेश थियो व्याख्या गर्नुहोस्
+3. स्थिति समाधान गर्न तपाईंले चालिरहेका कदमहरूको वर्णन गर्नुहोस्
+4. पहिचान चोरी चिन्ताको लागि स्रोतहरू प्रदान गर्नुहोस्
 
-**Follow-Up Actions:**
+**पछिको कार्यहरू:**
 
-1. Implement additional security measures
-2. Review and update privacy policies
-3. Provide staff training if human error was involved
-4. Consider credit monitoring services for severely affected clients
+1. थप सुरक्षा उपायहरू लागू गर्नुहोस्
+2. गोपनीयता नीतिहरू समीक्षा र अद्यावधिक गर्नुहोस्
+3. मानव त्रुटि संलग्न भएमा कर्मचारी तालिम प्रदान गर्नुहोस्
+4. गम्भीर रूपमा प्रभावित ग्राहकहरूका लागि क्रेडिट निगरानी सेवाहरू विचार गर्नुहोस्
 
 :::
 
-## **The DART Method for Astrological Counseling**
+## **ज्योतिषीय परामर्शको लागि DART विधि**
 
-Now that we've covered data protection, let's look at a structured approach to documenting and organizing your sessions. The DART method (Description, Assessment, Response, Treatment Plan) provides a client-centered framework for astrological practice.
+अब हामीले डेटा संरक्षणको बारेमा छलफल गरिसकेपछि, तपाईंका सत्रहरू दस्तावेजीकरण र व्यवस्थित गर्नको लागि संरचित दृष्टिकोणको बारेमा हेरौं। DART विधि (विवरण, मूल्याङ्कन, प्रतिक्रिया, उपचार योजना) ज्योतिषीय अभ्यासको लागि एक ग्राहक-केंद्रित ढाँचा प्रदान गर्दछ।
 
-### **1. Description: Gathering the Full Picture**
+### **१. विवरण: पूर्ण चित्र सङ्कलन गर्दै**
 
 ::: {.description-section}
 
-**Client Narrative:**
+**ग्राहक कथा:**
 
-- Current challenges and goals
-- What prompted them to seek consultation
-- Previous spiritual or therapeutic work
-- Specific questions or concerns
+- वर्तमान चुनौतीहरू र लक्ष्यहरू
+- परामर्शको लागि उनीहरूलाई के प्रेरित गर्यो
+- अघिल्लो आध्यात्मिक वा चिकित्सीय काम
+- विशेष प्रश्नहरू वा चिन्ताहरू
 
-**Astrological Chart Analysis:**
+**ज्योतिषीय चार्ट विश्लेषण:**
 
-- Key planetary placements and aspects
-- Relevant transits and progressions
-- Significant patterns or configurations
-- Divisional charts when appropriate (Navamsa, etc.)
+- प्रमुख ग्रह स्थिति र पक्षहरू
+- सम्बन्धित पारगमन र प्रगति
+- महत्त्वपूर्ण ढाँचाहरू वा कन्फिगरेसनहरू
+- जब उपयुक्त हो, विभाजन चार्टहरू (नवाम्सा, आदि)
 
-**Documentation Example:**
+**दस्तावेजीकरण उदाहरण:**
 
-*"Client seeks guidance on career transition. Currently working in finance but feels called to healing arts. Born with Sun in 6th house Virgo, Moon in Pisces 12th house, strong Neptune influence. Current Saturn transit to MC suggesting career restructuring opportunity."*
+*"ग्राहक करियर संक्रमणमा मार्गदर्शन खोज्दैछन्। हाल वित्तमा काम गर्दैछन् तर उपचारात्मक कलमा लाग्न चाहन्छन्। ६ औं घरको कन्या राशि मा सूर्य, मीन १२ औं घरमा चन्द्रमा, बलियो नेप्च्यून प्रभाव। MC मा वर्तमान शनि पारगमनले करियर पुनर्संरचना अवसरको संकेत गर्दछ।"*
 :::
 
-### **2. Assessment: Identifying Patterns**
+### **२. मूल्याङ्कन: ढाँचाहरू पहिचान गर्दै**
 
 ::: {.assessment-section}
 
-**Challenges and Strengths:**
+**चुनौतीहरू र बलियो पक्षहरू:**
 
-- Astrological factors contributing to current situation
-- Inherent strengths and potential obstacles
-- Timing considerations based on transits
+- वर्तमान स्थितिमा ज्योतिषीय कारकहरू
+- स्वाभाविक बल र सम्भावित अवरोधहरू
+- पारगमनहरूमा आधारित समय निर्धारण विचारहरू
 
-**Energetic Imbalances:**
+**ऊर्जात्मक असंतुलनहरू:**
 
-- Elemental imbalances (fire, earth, air, water)
-- Planetary emphasis or deficiencies
-- House emphasis and empty houses
+- तत्त्वीय असंतुलन (आगो, पृथ्वी, हावा, पानी)
+- ग्रहको जोड वा कमी
+- घरको जोड र खाली घरहरू
 
-**Documentation Example:**
+**दस्तावेजीकरण उदाहरण:**
 
-*"Strong water emphasis (Cancer rising, Pisces Moon, Neptune conjunct AC) suggests high sensitivity and intuitive abilities. Lack of fire may indicate difficulty with initiative and self-promotion. Current Jupiter transit to 10th house suggests expansion opportunities in career."*
+*"बलियो पानीको जोड (क्यान्सर उदीयमान, मीन चन्द्रमा, नेप्च्यून संगठित) उच्च संवेदनशीलता र अन्तर्ज्ञान क्षमताहरूको संकेत गर्दछ। आगोको कमीले पहिल्यैको पहल र आत्म-प्रवर्द्धनमा कठिनाइको संकेत गर्न सक्छ। वर्तमान बृहस्पति पारगमन १० औं घरमा करियरमा विस्तारको अवसरको संकेत गर्दछ।"*
 :::
 
-### **3. Response: Empowerment and Perspective**
+### **३. प्रतिक्रिया: सशक्तिकरण र दृष्टिकोण**
 
 ::: {.response-section}
 
-**Cosmic Perspective:**
+**कос्मिक दृष्टिकोण:**
 
-- Reframe challenges as growth opportunities
-- Emphasize free will and personal choice
-- Connect current experiences to larger cycles
+- चुनौतीहरूलाई विकासको अवसरको रूपमा पुनःफेरि गर्नुहोस्
+- स्वतन्त्र इच्छा र व्यक्तिगत विकल्पलाई जोड दिनुहोस्
+- वर्तमान अनुभवहरूलाई ठूलो चक्रहरूसँग जडान गर्नुहोस्
 
-**Guidance and Timing:**
+**मार्गदर्शन र समय निर्धारण:**
 
-- Windows of opportunity based on transits
-- Periods requiring extra care or patience
-- Long-term trends and development phases
+- पारगमनहरूमा आधारित अवसरका झ्यालहरू
+- अतिरिक्त हेरचाह वा धैर्यको आवश्यकता पर्ने अवधिहरू
+- दीर्घकालीन प्रवृत्तिहरू र विकासका चरणहरू
 
-**Documentation Example:**
+**दस्तावेजीकरण उदाहरण:**
 
-*"Explained that current career dissatisfaction reflects natural evolution toward more meaningful work aligned with strong 12th house/Pisces energy. Upcoming Venus trine Jupiter in May provides favorable timing for exploring healing arts training programs."*
+*"व्याख्या गरियो कि वर्तमान करियर असन्तोषले अधिक अर्थपूर्ण कामको तर्फको प्राकृतिक विकासलाई परावर्तित गर्दछ जुन बलियो १२ औं घर/मीन ऊर्जा संग मेल खाँदैन। मेमा भेनस त्राइन बृहस्पति आउँदै गर्दा उपचारात्मक कलाको तालिम कार्यक्रम अन्वेषण गर्नको लागि अनुकूल समयको रूपमा प्रदान गरियो।"*
 :::
 
-### **4. Treatment Plan: Practical Remedies**
+### **४. उपचार योजना: व्यावहारिक उपचारहरू**
 
 ::: {.treatment-plan}
 
-**Spiritual Practices:**
+**आध्यात्मिक अभ्यासहरू:**
 
-- Gemstones aligned with planetary needs
-- Mantras or affirmations for specific challenges
-- Meditation or prayer practices
-- Ritual work or ceremony suggestions
+- ग्रहको आवश्यकतासँग मेल खाने रत्नहरू
+- विशेष चुनौतीहरूको लागि मन्त्र वा पुष्टि
+- ध्यान वा प्रार्थना अभ्यासहरू
+- अनुष्ठान कार्य वा समारोहका सुझावहरू
 
-**Lifestyle Adjustments:**
+**जीवनशैली समायोजनहरू:**
 
-- Activities supporting beneficial planetary energies
-- Environmental changes (colors, directions, etc.)
-- Dietary suggestions based on elemental balance
-- Exercise or movement practices
+- लाभदायक ग्रह ऊर्जा समर्थन गर्ने गतिविधिहरू
+- वातावरणीय परिवर्तनहरू (रंग, दिशाहरू, आदि)
+- तत्त्वीय सन्तुलनमा आधारित आहारका सुझावहरू
+- व्यायाम वा गति अभ्यासहरू
 
-**Timing Recommendations:**
+**समय निर्धारण सिफारिसहरू:**
 
-- Favorable periods for important decisions
-- Times to avoid major changes
-- Regular check-in points based on transits
+- महत्त्वपूर्ण निर्णयहरूको लागि अनुकूल अवधिहरू
+- प्रमुख परिवर्तनहरूबाट टाढा रहनु पर्ने समय
+- पारगमनहरूमा आधारित नियमित चेक-इन बिन्दुहरू
 
-**Documentation Example:**
+**दस्तावेजीकरण उदाहरण:**
 
-*"Recommended: Blue sapphire for Saturn support during career transition. Daily meditation focusing on throat chakra (Mercury in Gemini in 3rd). Avoid major career moves during Mercury retrograde in August. Follow up session scheduled for September when Mars trine MC becomes exact."*
+*"सिफारिस गरियो: करियर संक्रमणको क्रममा शनि समर्थनको लागि नीलमणि। घाँटी चक्र (मर्क्युरी इन जेमिनी इन ३ आरड) मा ध्यान केन्द्रित गर्दै दैनिक ध्यान। अगस्टमा मर्क्युरी रेट्रोग्रेडको समयमा प्रमुख करियर चालहरूबाट टाढा रहनुहोस्। सेप्टेम्बरमा मङ्गल त्राइन MC सटीक हुँदा पछिल्लो सत्रको लागि अनुसूची बनाइयो।"*
 :::
 
-## **Documentation Templates and Tools**
+## **दस्तावेजीकरण टेम्पलेट र उपकरणहरू**
 
-### **Session Notes Template**
+### **सत्र नोट्स टेम्पलेट**
 
 ::: {.session-template}
 
-**Client:** _______________  **Date:** _______________
+**ग्राहक:** _______________  **मिति:** _______________
 
-**DESCRIPTION:**
+**विवरण:**
 
-- Current situation: _______________
-- Key concerns: _______________
-- Astrological highlights: _______________
+- वर्तमान स्थिति: _______________
+- प्रमुख चिन्ताहरू: _______________
+- ज्योतिषीय हाइलाइटहरू: _______________
 
-**ASSESSMENT:**
+**मूल्याङ्कन:**
 
-- Strengths identified: _______________
-- Challenges/patterns: _______________
-- Timing factors: _______________
+- पहिचान गरिएका बलियो पक्षहरू: _______________
+- चुनौतीहरू/ढाँचाहरू: _______________
+- समय निर्धारणका कारकहरू: _______________
 
-**RESPONSE:**
+**प्रतिक्रिया:**
 
-- Guidance provided: _______________
-- Perspective offered: _______________
-- Client reactions: _______________
+- प्रदान गरिएका मार्गदर्शनहरू: _______________
+- प्रस्तावित दृष्टिकोण: _______________
+- ग्राहकको प्रतिक्रियाहरू: _______________
 
-**TREATMENT PLAN:**
+**उपचार योजना:**
 
-- Recommended practices: _______________
-- Lifestyle suggestions: _______________
-- Follow-up timing: _______________
+- सिफारिस गरिएका अभ्यासहरू: _______________
+- जीवनशैलीका सुझावहरू: _______________
+- पछिको समय निर्धारण: _______________
 
-**Next Steps:** _______________
+**अगाडि बढ्ने कदमहरू:** _______________
 
 :::
 
-### **Digital Tools for Record Keeping**
+### **अभिलेख राख्नका लागि डिजिटल उपकरणहरू**
 
 ::: {.tools-comparison}
 
-**Practice Management Software:**
+**अभ्यास व्यवस्थापन सफ्टवेयर:**
 
-- SimplePractice (therapy-focused but adaptable)
-- TheraNest (HIPAA-compliant)
-- TherapyNotes (comprehensive documentation)
+- SimplePractice (चिकित्सा-केंद्रित तर अनुकूलनयोग्य)
+- TheraNest (HIPAA-पालना गर्ने)
+- TherapyNotes (व्यापक दस्तावेजीकरण)
 
-**General Organization Tools:**
+**सामान्य संगठन उपकरणहरू:**
 
-- Notion (customizable databases)
-- Airtable (relational databases)
-- Google Workspace (with proper security settings)
+- Notion (अनुकूलनयोग्य डाटाबेस)
+- Airtable (संबंधित डाटाबेस)
+- Google Workspace (सही सुरक्षा सेटिङहरूसँग)
 
-**Security-First Options:**
+**सुरक्षा-प्रथम विकल्पहरू:**
 
-- Proton Drive (encrypted cloud storage)
-- SpiderOak (zero-knowledge cloud backup)
-- Local encrypted drives with regular backups
+- Proton Drive (इन्क्रिप्टेड क्लाउड भण्डारण)
+- SpiderOak (शून्य-ज्ञान क्लाउड ब्याकअप)
+- नियमित ब्याकअपका साथ स्थानीय इन्क्रिप्टेड ड्राइभहरू
 
 :::
 
-## **Client Communication and Consent**
+## **ग्राहक संचार र सहमति**
 
-### **Initial Intake Forms**
+### **प्रारम्भिक इन्टेक फर्महरू**
 
 ::: {.intake-considerations}
 
-**Essential Information:**
+**आवश्यक जानकारी:**
 
-- Contact details and emergency contact
-- Birth information (date, time, location)
-- Current life situation overview
-- Specific areas for focus
-- Previous spiritual or therapeutic work
-- Consent for data storage and use
+- सम्पर्क विवरण र आपतकालीन सम्पर्क
+- जन्म जानकारी (मिति, समय, स्थान)
+- वर्तमान जीवन स्थिति अवलोकन
+- ध्यान केन्द्रित गर्नका लागि विशेष क्षेत्रहरू
+- अघिल्लो आध्यात्मिक वा चिकित्सीय काम
+- डेटा भण्डारण र प्रयोगका लागि सहमति
 
-**Optional Information:**
+**वैकल्पिक जानकारी:**
 
-- Health concerns (only if relevant to reading)
-- Relationship status and family dynamics
-- Financial situation (only if discussing career/money)
-- Trauma history (refer to mental health professionals)
+- स्वास्थ्य समस्याहरू (केवल यदि पढाइसँग सम्बन्धित)
+- सम्बन्ध स्थिति र पारिवारिक गतिको विवरण
+- वित्तीय स्थिति (केवल यदि करियर/पैसासँग सम्बन्धित)
+- आघात इतिहास (मानसिक स्वास्थ्य पेशेवरहरूलाई सन्दर्भ गर्नुहोस्)
 :::
 
-### **Ongoing Consent Management**
+### **नियमित सहमति व्यवस्थापन**
 
 ::: {.consent-management}
 
-**Regular Check-ins:**
+**नियमित जाँचहरू:**
 
-- Annual privacy policy updates
-- Consent renewal for long-term clients
-- Options to limit or delete stored information
-- Clear procedures for ending the counseling relationship
+- वार्षिक गोपनीयता नीति अपडेटहरू
+- दीर्घकालीन ग्राहकहरूको लागि सहमति नवीकरण
+- भण्डारण गरिएको जानकारी सीमित गर्न वा मेटाउन विकल्पहरू
+- परामर्श सम्बन्ध समाप्त गर्ने स्पष्ट प्रक्रिया
 
-**Communication Preferences:**
+**सञ्चार प्राथमिकताहरू:**
 
-- How client prefers to be contacted
-- What information can be left in voicemails/texts
-- Whether family members can access information
-- Preferred methods for appointment reminders
+- ग्राहकलाई सम्पर्क गर्नको लागि तपाईंको प्राथमिकता
+- के जानकारी भ्वाइसमेल/पाठमा छोड्न सकिन्छ
+- के परिवारका सदस्यहरूले जानकारी पहुँच गर्न सक्छन्
+- नियुक्ति सम्झाउने लागि प्राथमिक विधिहरू
 
 :::
 
-## **Ethical Considerations in Record Keeping**
+## **अभिलेख राख्नेमा नैतिक विचारहरू**
 
-### **What to Document vs. What to Keep Private**
+### **के दस्तावेजीकरण गर्नुपर्छ र के गोप्य राख्नुपर्छ**
 
 ::: {.documentation-ethics}
 
-**Always Document:**
+**सधैं दस्तावेज गर्नुहोस्:**
 
-- Astrological analysis and interpretation
-- Guidance and recommendations provided
-- Client's stated goals and concerns
-- Referrals made to other professionals
-- Any safety concerns or red flags
+- ज्योतिषीय विश्लेषण र व्याख्या
+- प्रदान गरिएका मार्गदर्शन र सिफारिसहरू
+- ग्राहकका भनाइमा आधारित लक्ष्य र चिन्ताहरू
+- अन्य पेशेवरहरूलाई गरिएका सन्दर्भहरू
+- कुनै पनि सुरक्षा चिन्ताहरू वा रेड फ्ल्यागहरू
 
-**Document Carefully:**
+**सावधानीपूर्वक दस्तावेज गर्नुहोस्:**
 
-- Health information (only if directly relevant)
-- Relationship details (focus on patterns, not gossip)
-- Financial information (general themes, not specific amounts)
-- Family dynamics (patterns affecting client, not family secrets)
+- स्वास्थ्य जानकारी (केवल यदि प्रत्यक्ष रूपमा सम्बन्धित)
+- सम्बन्धका विवरणहरू (गपशप होइन, तर ढाँचामा ध्यान केन्द्रित गर्दै)
+- वित्तीय जानकारी (सामान्य थिमहरू, विशेष रकम होइन)
+- पारिवारिक गतिको विवरण (ग्राहकलाई असर गर्ने ढाँचाहरू, तर पारिवारिक रहस्यहरू होइन)
 
-**Never Document:**
+**कसैलाई पनि दस्तावेज नगर्नुहोस्:**
 
-- Unsubstantiated suspicions about others
-- Information shared about third parties without consent
-- Personal opinions unrelated to astrological guidance
-- Gossip or information that doesn't serve the client
+- अरूको बारेमा आधारहीन शंका
+- तेस्रो पक्षहरूको बारेमा बिना सहमति साझा गरिएको जानकारी
+- ज्योतिषीय मार्गदर्शनसँग सम्बन्धित नभएका व्यक्तिगत विचारहरू
+- गपशप वा ग्राहकको सेवा नगर्ने जानकारी
 :::
 
-### **Retention and Disposal Policies**
+### **राख्ने र नष्ट गर्ने नीतिहरू**
 
 ::: {.retention-policy}
 
-**Recommended Retention Periods:**
+**सिफारिस गरिएका राख्ने अवधिहरू:**
 
-- Active clients: Duration of relationship plus 7 years
-- Inactive clients: 7 years from last session
-- Minors: Until age of majority plus 7 years
-- Deceased clients: 7 years from date of death
+- सक्रिय ग्राहकहरू: सम्बन्धको अवधि र ७ वर्ष
+- निष्क्रिय ग्राहकहरू: अन्तिम सत्रबाट ७ वर्ष
+- बालकहरू: वयस्कताको उमेरसम्म र ७ वर्ष
+- मृत ग्राहकहरू: मृ्त्युको मितिबाट ७ वर्ष
 
-**Secure Disposal Methods:**
+**सुरक्षित नष्ट गर्ने विधिहरू:**
 
-- Paper records: Professional shredding services
-- Digital files: DoD-standard wiping or physical drive destruction
-- Cloud storage: Verified deletion from all backup systems
-- Email records: Permanent deletion from all folders and trash
+- कागजी अभिलेखहरू: व्यावसायिक श्रेडिङ सेवाहरू
+- डिजिटल फाइलहरू: DoD-मानक मेटाउने वा भौतिक ड्राइभ नष्ट गर्ने
+- क्लाउड भण्डारण: सबै ब्याकअप प्रणालीहरूबाट प्रमाणित मेटाउने
+- इमेल अभिलेखहरू: सबै फोल्डर र फोहोरबाट स्थायी मेटाउने
 
 :::
 
-Record keeping isn't just administrative work—it's a sacred practice of honoring your clients' trust. When you protect their information with the same care you'd want for your own most private details, you're building the foundation for truly ethical spiritual counseling.
+अभिलेख राख्ने प्रणाली केवल प्रशासनिक काम होइन—यो तपाईंका ग्राहकहरूको विश्वासको सम्मान गर्ने एक पवित्र अभ्यास हो। जब तपाईं उनीहरूको जानकारीलाई तपाईंको आफ्नै सबैभन्दा निजी विवरणहरूको रूपमा जोगाउनुहुन्छ भने, तपाईं साँच्चै नै नैतिक आध्यात्मिक परामर्शको लागि आधार निर्माण गर्दै हुनुहुन्छ।
 
-## **Why Documentation Matters: Beyond Just Organization**
+## **कुनै पनि संगठनभन्दा पर: दस्तावेजीकरणको महत्त्व**
 
-Many spiritual counselors view documentation as paperwork that gets in the way of the "real work." But proper record keeping serves purposes that directly benefit both you and your clients.
+धेरै आध्यात्मिक परामर्शदाताहरूले दस्तावेजीकरणलाई "वास्तविक काम" बाट टाढा पर्ने कागजपत्रको रूपमा हेर्छन्। तर उचित अभिलेख राख्ने प्रणालीले तपाईं र तपाईंका ग्राहकहरूलाई प्रत्यक्ष रूपमा फाइदा गर्ने उद्देश्यहरू सेवा गर्दछ।
 
-### **Enhanced Client Understanding & Follow-Through**
+### **ग्राहकको बुझाइ र अनुगमनमा सुधार**
 
-Think about your last powerful reading. Your client left feeling inspired, with a head full of insights about planetary patterns, transits, and remedies. But three weeks later, when they call with questions, they've forgotten half of what you discussed.
+तपाईंको अन्तिम शक्तिशाली पढाइको बारेमा सोच्नुहोस्। तपाईंको ग्राहक प्रेरित भएर फर्किए, ग्रहको ढाँचाहरू, पारगमनहरू, र उपचारहरूको बारेमा धेरै कुरा सम्झिए। तर तीन हप्तापछि, जब उनीहरू प्रश्नहरूका साथ फोन गर्छन्, उनीहरूले तपाईंले छलफल गरेको आधा कुरा पनि बिर्सिए।
 
 ::: {.benefit-box}
 
-**Good documentation allows you to:**
-- Remind clients of specific guidance they received
-- Reference previous transits and their effects
-- Track which remedies worked and which didn't
-- Build on insights from past sessions rather than starting over
+**राम्रो दस्तावेजीकरणले तपाईंलाई अनुमति दिन्छ:**
+- ग्राहकलाई प्राप्त गरेको विशेष मार्गदर्शनको सम्झना गराउन
+- अघिल्लो पारगमन र तिनीहरूको प्रभावलाई सन्दर्भ गर्न
+- कुन उपचारले काम गर्यो र कुनले गरेन ट्र्याक गर्न
+- विगतका सत्रहरूबाट पुनः सुरु नगरीकन अन्तर्दृष्टिमा निर्माण गर्न
 :::
 
-### **Tracking Client Progress Over Time**
+### **समयको साथ ग्राहकको प्रगति ट्र्याक गर्दै**
 
 ::: {.progress-tracking}
 
-**With proper records, you can identify:**
+**सही रेकर्डहरूसँग, तपाईं पहिचान गर्न सक्नुहुन्छ:**
 
-- **Patterns of growth:** "Last year during your Saturn return, you struggled with confidence. Now you're asking for guidance on starting your own business—what a transformation!"
-- **Recurring themes:** "This is the third session where relationship boundaries have come up. Your Libra stellium is really asking for attention here."
-- **Remedy effectiveness:** "The moonstone you've been wearing seems to have helped with your emotional balance. Your sleep improved, and you mentioned feeling less reactive."
-- **Astrological correlations:** "Every time Mars transits your 6th house, you report health issues. Let's prepare for the next one."
+- **विकासका ढाँचाहरू:** "गत वर्ष तपाईंको शनि फिर्तीको समयमा, तपाईं आत्मविश्वासमा संघर्ष गर्नुभयो। अब तपाईं आफ्नो व्यवसाय सुरु गर्ने बारेमा मार्गदर्शनको लागि सोध्दै हुनुहुन्छ-के परिवर्तन!"
+- **पुनरावृत्ति गर्ने थिमहरू:** "यो तेस्रो सत्र हो जहाँ सम्बन्धका सीमाहरू उठेका छन्। तपाईंको तुला stellium यहाँ ध्यानाकर्षण गरिरहेको छ।"
+- **उपचारको प्रभावकारिता:** "तपाईंले लगाएको चन्द्रमणिले तपाईंको भावनात्मक सन्तुलनमा मद्दत गरेको जस्तो देखिन्छ। तपाईंको निद्रा सुधार भएको छ, र तपाईंले कम प्रतिक्रियाशील महसुस गर्नुभएको छ।"
+- **ज्योतिषीय सहसंबन्धहरू:** "हरेक पटक मङ्गलले तपाईंको ६ औं घरमा पारगमन गर्दा, तपाईं स्वास्थ्य समस्याहरू रिपोर्ट गर्नुहुन्छ। आउँदो एकको लागि तयारी गरौं।"
 
 :::
 
-### **Your Own Professional Development**
+### **तपाईंको आफ्नै व्यावसायिक विकास**
 
-Anonymous case notes (with all identifying information removed) become invaluable for your growth as a practitioner:
+गुमनाम केस नोटहरू (सभी पहिचान गर्ने जानकारी हटाइएको) तपाईंको व्यावसायिक विकासका लागि अमूल्य बनिन्छन्:
 
 ::: {.research-benefits}
-**Your records help you:**
-- Identify patterns between specific astrological configurations and real-life manifestations
-- Understand which remedies work best for different planetary challenges
-- Refine your interpretation skills by seeing long-term outcomes
-- Develop expertise in areas where you see recurring themes
-- Create teaching materials and case studies for other practitioners
+**तपाईंका रेकर्डहरूले तपाईंलाई मद्दत गर्छन्:**
+- विशेष ज्योतिषीय कन्फिगरेसनहरू र वास्तविक जीवनका अभिव्यक्तिहरू बीचका ढाँचाहरू पहिचान गर्न
+- विभिन्न ग्रह चुनौतीहरूको लागि कुन उपचारहरू सबैभन्दा राम्रो काम गर्छन् बुझ्न
+- दीर्घकालीन परिणामहरू देखेर तपाईंको व्याख्या क्षमताहरू परिष्कृत गर्न
+- जहाँ तपाईंले पुनरावृत्ति गर्ने थिमहरू देख्नुहुन्छ त्यहाँ विशेषज्ञता विकास गर्न
+- अन्य प्रPractitionersका लागि शिक्षण सामग्री र केस अध्ययन सिर्जना गर्न
 :::
 
-### **Legal Protection in Rare Cases**
+### **कानूनी सुरक्षा दुर्लभ अवस्थामा**
 
-While legal challenges to spiritual counselors are uncommon, they do happen. Thorough documentation demonstrates:
+हालाँकि आध्यात्मिक परामर्शदाताहरूलाई कानूनी चुनौतीहरू सामान्य छैनन्, तिनीहरू हुन्छन्। व्यापक दस्तावेजीकरणले प्रदर्शन गर्दछ:
 
 ::: {.legal-protection}
 
-- **Professional standards:** You take your practice seriously
-- **Ethical guidelines:** You followed proper procedures
-- **Scope of practice:** You stayed within astrological guidance and referred appropriately
-- **Due diligence:** You provided responsible consultations based on established methods
+- **व्यावसायिक मानकहरू:** तपाईंले आफ्नो अभ्यासलाई गम्भीरतासाथ लिन्छु
+- **नैतिक दिशानिर्देशहरू:** तपाईंले उचित प्रक्रियाहरू पालन गर्नुभयो
+- **व्यवसायको दायरा:** तपाईं ज्योतिषीय मार्गदर्शनमा रहनुभयो र उपयुक्त रूपमा सन्दर्भित गर्नुभयो
+- **सावधानी:** तपाईंले स्थापित विधिहरूमा आधारित जिम्मेवार परामर्श प्रदान गर्नुभयो
 
 :::
 
-## **Securing Sensitive Client Data: Your Sacred Responsibility**
+## **संवेदनशील ग्राहक डेटा सुरक्षित गर्दै: तपाईंको पवित्र जिम्मेवारी**
 
-### **Informed Consent: Setting the Foundation**
+### **जानकारीको सहमति: आधारभूत सेट गर्दै**
 
-Before collecting any information, clearly communicate your practices:
+कुनै पनि जानकारी सङ्कलन गर्नु अघि, तपाईंका अभ्यासहरू स्पष्ट रूपमा सञ्चार गर्नुहोस्:
 
 ::: {.consent-example}
 
-**Sample Consent Statement:**
+**नमूना सहमति वक्तव्य:**
 
-*"I keep brief notes from our sessions to provide continuity in our work together and to track your progress over time. These notes include astrological interpretations, guidance provided, and any remedies suggested. They are stored securely and never shared without your explicit permission. You may request to see your notes at any time and can ask for them to be deleted when our work together concludes."*
+*"म हाम्रो सँगैको काममा निरन्तरता प्रदान गर्न र तपाईंको प्रगति ट्र्याक गर्नको लागि हाम्रो सत्रहरूबाट संक्षिप्त नोटहरू राख्छु। यी नोटहरूमा ज्योतिषीय व्याख्याहरू, प्रदान गरिएका मार्गदर्शनहरू, र कुनै पनि सिफारिस गरिएका उपचारहरू समावेश छन्। तिनीहरू सुरक्षित रूपमा भण्डारण गरिन्छन् र तपाईंको स्पष्ट अनुमति बिना कहिल्यै साझा गरिँदैन। तपाईं कुनै पनि समयमा तपाईंका नोटहरू हेर्न अनुरोध गर्न सक्नुहुन्छ र हाम्रो काम समाप्त हुँदा तिनीहरू मेटाउन सक्नुहुन्छ।"*
 :::
 
-### **Secure Storage: Physical and Digital**
+### **सुरक्षित भण्डारण: भौतिक र डिजिटल**
 
 ::: {.storage-best-practices}
 
-**For Digital Records:**
+**डिजिटल रेकर्डहरूको लागि:**
 
-- Store on encrypted devices with strong passwords
-- Use cloud storage with end-to-end encryption
-- Regular backups to secure, separate locations
-- Two-factor authentication on all accounts
-- Regular software updates and security patches
+- इन्क्रिप्टेड उपकरणहरूमा बलियो पासवर्डहरूसँग भण्डारण गर्नुहोस्
+- अन्त-देखि-अन्त इन्क्रिप्शनसहितको क्लाउड भण्डारण प्रयोग गर्नुहोस्
+- सुरक्षित, अलग स्थानहरूमा नियमित ब्याकअप
+- सबै खाताहरूमा दुई-कारक प्रमाणीकरण
+- नियमित सफ्टवेयर अपडेट र सुरक्षा प्याचहरू
 
-**For Physical Notes:**
+**भौतिक नोटहरूको लागि:**
 
-- Locked filing cabinets in secure locations
-- Limited access (only you and essential staff)
-- Away from windows and public areas
-- Fireproof storage for irreplaceable information
+- सुरक्षित स्थानहरूमा लक गरिएको फाइलिङ क्याबिनेटमा
+- सीमित पहुँच (केवल तपाईं र आवश्यक कर्मचारी)
+- झ्यालहरू र सार्वजनिक क्षेत्रहरूबाट टाढा
+- पुनः प्राप्त गर्न नसकिने जानकारीको लागि आगो प्रतिरोधी भण्डारण
 :::
 
-### **Anonymization and Minimal Detail**
+### **गोप्यकरण र न्यूनतम विवरण**
 
-When documenting sessions, focus on astrologically relevant information:
+सत्रहरू दस्तावेज गर्दा, ज्योतिषीय रूपमा सान्दर्भिक जानकारीमा ध्यान केन्द्रित गर्नुहोस्:
 
 ::: {.documentation-focus}
 
-**Include:**
+**समावेश गर्नुहोस्:**
 
-- Planetary patterns and their manifestations
-- Transits and their timing
-- Remedies suggested and their effects
-- Client's astrological goals and progress
+- ग्रहको ढाँचाहरू र तिनीहरूको अभिव्यक्ति
+- पारगमन र तिनीहरूको समय
+- सिफारिस गरिएका उपचारहरू र तिनीहरूको प्रभाव
+- ग्राहकका ज्योतिषीय लक्ष्यहरू र प्रगति
 
-**Avoid:**
+**टाढा राख्नुहोस्:**
 
-- Excessive personal details about family members
-- Specific financial amounts or business details
-- Gossip or unverified information about others
-- Information not directly relevant to the astrological consultation
+- परिवारका सदस्यहरूको बारेमा अत्यधिक व्यक्तिगत विवरण
+- विशेष वित्तीय रकम वा व्यापार विवरणहरू
+- गपशप वा अरूको बारेमा प्रमाणित जानकारी
+- ज्योतिषीय परामर्शसँग प्रत्यक्ष रूपमा सम्बन्धित नभएको जानकारी
 
 :::
 
-### **Disposal Protocols: The Final Act of Care**
+### **नष्ट गर्ने प्रोटोकलहरू: हेरचाहको अन्तिम कार्य**
 
 ::: {.disposal-methods}
 
-**For Paper Records:**
+**कागजी अभिलेखहरूको लागि:**
 
-- Professional shredding services
-- Cross-cut shredding at minimum
-- Witness destruction for highly sensitive files
-- Certificate of destruction when available
+- व्यावसायिक श्रेडिङ सेवाहरू
+- कम्तीमा क्रस-कट श्रेडिङ
+- अत्यधिक संवेदनशील फाइलहरूको लागि नष्ट गर्ने गवाह
+- नष्ट गर्ने प्रमाणपत्र जब उपलब्ध
 
-**For Digital Files:**
+**डिजिटल फाइलहरूको लागि:**
 
-- Department of Defense (DoD) standard wiping
-- Physical destruction of hard drives when replacing
-- Verified deletion from cloud services and backups
-- Overwriting deleted files multiple times
+- विभागीय रक्षा (DoD) मानक मेटाउने
+- प्रतिस्थापन गर्दा हार्ड ड्राइभको भौतिक विनाश
+- क्लाउड सेवाहरू र ब्याकअपबाट प्रमाणित मेटाउने
+- मेटिएका फाइलहरूलाई धेरै पटक ओभरराइट गर्ने
 
 :::
 
-## **Adapting Professional Counseling Documentation**
+## **व्यावसायिक परामर्श दस्तावेजीकरणमा अनुकूलन**
 
-While astrology isn't therapy, we can learn from established counseling practices:
+ज्योतिष चिकित्सा होइन, तर हामी स्थापित परामर्श अभ्यासहरूबाट सिक्न सक्छौं:
 
-### **Focus on Goals and Progress**
+### **लक्ष्य र प्रगतिको लागि ध्यान केन्द्रित गर्नुहोस्**
 
 ::: {.goal-focused-notes}
 
-**Traditional Counseling Note:**
+**परम्परागत परामर्श नोट:**
 
-*"Client presented with anxiety about job performance. Discussed cognitive restructuring techniques. Homework: daily thought journal."*
+*"ग्राहकले कामको प्रदर्शनको बारेमा चिन्ता व्यक्त गरे। संज्ञानात्मक पुनर्संरचना प्रविधिहरूको छलफल गरियो। गृहकार्य: दैनिक विचार पत्रिका।"*
 
-**Astrological Adaptation:**
+**ज्योतिष अनुकूलन:**
 
-*"Client concerned about career instability during Saturn square natal Sun. Discussed Saturn's lessons in building solid foundations. Suggested: daily grounding meditation, carnelian stone for confidence. Follow-up when transit completes in 3 months."*
+*"ग्राहक शनि वर्ग जन्मकालीन सूर्यको समयमा करियर अस्थिरताबारे चिन्तित छन्। शनि द्वारा बलियो आधारहरू निर्माण गर्ने पाठहरू छलफल गरियो। सिफारिस गरियो: दैनिक ग्राउन्डिंग ध्यान, आत्मविश्वासको लागि कार्नेलियन पत्थर। पारगमन पूरा हुँदा ३ महिनामा पछिल्लो सत्रको लागि अनुगमन गर्नुहोस्।"*
 
 :::
 
-### **Objective, Professional Language**
+### **वस्तुगत, व्यावसायिक भाषा**
 
 ::: {.language-comparison}
 
-**Avoid Personal Judgments:**
+**व्यक्तिगत निर्णयहरू टाढा राख्नुहोस्:**
 
-- ❌ *"Client is obviously depressed and needs therapy"*
-- ✅ *"Client reports persistent sadness. Recommended professional counseling support alongside astrological guidance."*
+- ❌ *"ग्राहक स्पष्ट रूपमा डिप्रेस्ड छन् र उपचारको आवश्यकता छ"*
+- ✅ *"ग्राहकले निरन्तर उदासीको रिपोर्ट गर्छन्। ज्योतिषीय मार्गदर्शनसँगै व्यावसायिक परामर्श समर्थनको सिफारिस गरियो।"*
 
-**Focus on Astrological Factors:**
+**ज्योतिषीय कारकहरूमा ध्यान केन्द्रित गर्नुहोस्:**
 
-- ❌ *"Client's marriage is doomed"*
-- ✅ *"Venus-Saturn square in synastry suggests commitment challenges. Discussed timing and communication strategies during current Venus retrograde."*
+- ❌ *"ग्राहकको विवाह नाशको लागि तयार छ"*
+- ✅ *"शुक्र-शनि वर्गको साइनस्ट्रिमा प्रतिबद्धता चुनौतीहरूको संकेत गर्दछ। वर्तमान शुक्र रेट्रोग्रेडको समयमा समय र सञ्चार रणनीतिहरू छलफल गरियो।"*
 
 :::
 
-### **Concise and Purposeful**
+### **संक्षिप्त र उद्देश्यपूर्ण**
 
-Your notes should facilitate future consultations, not document every word spoken:
+तपाईंका नोटहरूले भविष्यका परामर्शहरूलाई सहज बनाउनुपर्छ, हरेक शब्दलाई बोल्नुपर्दैन:
 
 ::: {.concise-example}
 
-**Too Detailed:**
-*"Client talked for 15 minutes about their mother's criticism of their career choice, including specific conversations from last Christmas dinner, their mother's own career disappointments, and how this affects their relationship with their sister..."*
+**धेरै विस्तृत:**
+*"ग्राहकले क्रिसमस डिनरको समयमा आफ्नी आमाको करियर चयनको आलोचनाबारे १५ मिनेटसम्म कुरा गरे, विशेष गरी गत वर्षका विशेष संवादहरू, आमाको आफ्नै करियरको निराशा, र यसले उनकी बहिनीसँगको सम्बन्धमा कसरी असर गर्यो..."*
 
-**Just Right:**
-*"Client struggles with family approval regarding career transition. Discussed 4th house Saturn influence on family patterns and need for emotional independence during current Cancer north node transit."*
+**ठीक छ:**
+*"ग्राहक पारिवारिक स्वीकृतिका साथ करियर संक्रमणमा संघर्ष गर्दैछन्। ४ औं घरको शनि प्रभाव र वर्तमान क्यान्सर उत्तर नोड पारगमनको क्रममा भावनात्मक स्वतन्त्रताको आवश्यकताबारे छलफल गरियो।"*
 :::
 
-## **Creating Your Client Intake System**
+## **तपाईंको ग्राहक इन्टेक प्रणाली सिर्जना गर्दै**
 
-A well-designed intake form serves multiple purposes and sets the tone for professional practice.
+एक राम्रो डिजाइन गरिएको इन्टेक फर्मले धेरै उद्देश्यहरू सेवा गर्दछ र व्यावसायिक अभ्यासको लागि टोन सेट गर्दछ।
 
-### **Essential Sections for Your Intake Form**
+### **तपाईंको इन्टेक फर्मका लागि आवश्यक खण्डहरू**
 
 ::: {.intake-sections}
 
-**Basic Information:**
+**आधारभूत जानकारी:**
 
-- Full name and preferred name
-- Contact information (email, phone, mailing address)
-- Emergency contact (if doing intensive work)
-- Exact birth details (date, time, location)
+- पूरा नाम र प्राथमिक नाम
+- सम्पर्क जानकारी (इमेल, फोन, डाक ठेगाना)
+- आपतकालीन सम्पर्क (गहन काम गर्दा)
+- ठ्याक्कै जन्म विवरण (मिति, समय, स्थान)
 
-**Areas of Focus:**
+**ध्यान केन्द्रित गर्ने क्षेत्रहरू:**
 
-- Relationship and love life
-- Career and life purpose
-- Health and wellness
-- Spiritual development
-- Timing of important decisions
-- Family and home life
-- Financial matters
-- Other: _______________
+- सम्बन्ध र प्रेम जीवन
+- करियर र जीवन उद्देश्य
+- स्वास्थ्य र कल्याण
+- आध्यात्मिक विकास
+- महत्त्वपूर्ण निर्णयहरूको समय
+- परिवार र घरको जीवन
+- वित्तीय मामिला
+- अन्य: _______________
 
-**Background Information:**
+**पृष्ठभूमि जानकारी:**
 
-- Previous experience with astrology or spiritual counseling
-- Current life situation overview
-- Specific questions or concerns for the reading
-- What prompted them to seek astrological guidance now
+- ज्योतिष वा आध्यात्मिक परामर्शको साथ अघिल्लो अनुभव
+- वर्तमान जीवन स्थिति अवलोकन
+- पढाइको लागि विशेष प्रश्नहरू वा चिन्ताहरू
+- अहिले ज्योतिषीय मार्गदर्शनको खोजी गर्न प्रेरित गर्ने कुरा
 
 :::
 
-### **Setting Realistic Expectations**
+### **वास्तविक अपेक्षाहरू सेट गर्दै**
 
 ::: {.expectations-section}
 
-**Include a clear statement about your approach:**
+**तपाईंको दृष्टिकोणको बारेमा स्पष्ट बयान समावेश गर्नुहोस्:**
 
-*"I practice [Traditional/Vedic/Evolutionary/Psychological] astrology with a focus on empowerment and personal growth. My readings explore potential patterns, timing considerations, and spiritual insights rather than making definitive predictions. Astrology works best when combined with your own intuition, decision-making, and personal responsibility."*
+*"म [परम्परागत/वैदिक/विकासात्मक/मानसिक] ज्योतिष अभ्यास गर्छु जसले सशक्तिकरण र व्यक्तिगत विकासमा ध्यान केन्द्रित गर्दछ। मेरा पढाइहरूले निश्चित भविष्यवाणी गर्ने सट्टा सम्भावित ढाँचाहरू, समय निर्धारणका विचारहरू, र आध्यात्मिक दृष्टिकोण अन्वेषण गर्छन्। ज्योतिषले तपाईंको आफ्नै अन्तर्ज्ञान, निर्णय-निर्माण, र व्यक्तिगत जिम्मेवारीसँग मिलेर सबैभन्दा राम्रो काम गर्छ।"*
 
-**Clarify what astrology can and cannot do:**
+**ज्योतिषले के गर्न सक्छ र के गर्न सक्दैन स्पष्ट गर्नुहोस्:**
 
-- ✅ Illuminate patterns, timing, and potential
-- ✅ Provide spiritual perspective on life challenges
-- ✅ Suggest practices and remedies for growth
-- ❌ Predict exact future events
-- ❌ Make decisions for you
-- ❌ Replace medical or mental health care
+- ✅ ढाँचाहरू, समय, र सम्भावनाहरू उजागर गर्नुहोस्
+- ✅ जीवनका चुनौतीहरूमा आध्यात्मिक दृष्टिकोण प्रदान गर्नुहोस्
+- ✅ विकासका लागि अभ्यास र उपचारहरूको सिफारिस गर्नुहोस्
+- ❌ सटीक भविष्यवाणी गर्नुहोस्
+- ❌ तपाईंको लागि निर्णय गर्नुहोस्
+- ❌ चिकित्सा वा मानसिक स्वास्थ्य देखभालको विकल्पको रूपमा
 
 :::
 
-### **Practical Information**
+### **व्यावहारिक जानकारी**
 
 ::: {.practical-details}
 
-**Session Information:**
+**सत्र जानकारी:**
 
-- Available formats (in-person, phone, video)
-- Session length and pricing
-- Cancellation and rescheduling policies
-- Payment methods accepted
-- How to prepare for your session
+- उपलब्ध ढाँचा (व्यक्तिगत, फोन, भिडियो)
+- सत्रको लम्बाइ र मूल्य निर्धारण
+- रद्द गर्ने र पुनःतालिका बनाउने नीतिहरू
+- स्वीकृत भुक्तानी विधिहरू
+- तपाईंको सत्रको लागि कसरी तयारी गर्ने
 
-**Communication Preferences:**
+**सञ्चार प्राथमिकताहरू:**
 
-- How you prefer to be contacted
-- Response time expectations
-- Whether you offer follow-up support
-- Policies about contact between sessions
+- तपाईंलाई सम्पर्क गर्नको लागि तपाईंको प्राथमिकता
+- प्रतिक्रिया समयको अपेक्षाहरू
+- के तपाईं पछिको समर्थन प्रस्ताव गर्नुहुन्छ
+- सत्रहरू बीच सम्पर्कको बारेमा नीतिहरू
 
 :::
 
-### **Confidentiality and Consent**
+### **गोपनीयता र सहमति**
 
 ::: {.confidentiality-section}
 
-**Privacy Commitment:**
+**गोपनीयताको प्रतिबद्धता:**
 
-*"I am committed to maintaining the confidentiality of all information shared during our consultations. Your personal information is stored securely and never shared without your explicit consent, except in cases where law requires disclosure (such as imminent harm to self or others)."*
+*"म हाम्रा परामर्शहरूमा साझा गरिएको सबै जानकारीको गोपनीयता कायम राख्न प्रतिबद्ध छु। तपाईंको व्यक्तिगत जानकारी सुरक्षित रूपमा भण्डारण गरिन्छ र तपाईंको स्पष्ट सहमति बिना कहिल्यै साझा गरिँदैन, कानूनले खुलासा गर्नुपर्ने अवस्थामा (जस्तै, आत्म वा अरूको लागि तत्काल हानि) बाहेक।"*
 
-**Consent Checkboxes:**
+**सहमति चेकबक्सहरू:**
 
-- [ ] I consent to the collection and secure storage of my birth information for astrological consultation purposes
-- [ ] I understand that astrological guidance is for educational and spiritual purposes only
-- [ ] I acknowledge that I retain full responsibility for my life decisions
-- [ ] I agree to the session policies and fee structure outlined above
-- [ ] I consent to brief note-taking during sessions for continuity of care
+- [ ] म ज्योतिषीय परामर्शका लागि मेरो जन्म जानकारी सङ्कलन र सुरक्षित भण्डारण गर्न सहमत छु
+- [ ] म बुझ्छु कि ज्योतिषीय मार्गदर्शन केवल शैक्षिक र आध्यात्मिक उद्देश्यका लागि हो
+- [ ] म मेरो जीवन निर्णयहरूको पूर्ण जिम्मेवारी लिन्छु
+- [ ] म माथि उल्लिखित सत्र नीतिहरू र शुल्क संरचनामा सहमत छु
+- [ ] म निरन्तरताको लागि सत्रहरूमा संक्षिप्त नोट-टेकिङ गर्न सहमत छु
 
 :::
 
-## **Digital Tools and Templates**
+## **डिजिटल उपकरणहरू र टेम्पलेटहरू**
 
-### **Intake Form Platforms**
+### **इन्टेक फर्म प्लेटफर्महरू**
 
 ::: {.platform-options}
-**Free Options:**
+**निःशुल्क विकल्पहरू:**
 
-- Google Forms (with proper privacy settings)
-- Microsoft Forms (business accounts)
-- Typeform (basic plan)
-- JotForm (limited free version)
+- Google Forms (सही गोपनीयता सेटिङहरूसँग)
+- Microsoft Forms (व्यवसाय खाताहरू)
+- Typeform (मूल योजना)
+- JotForm (सीमित निःशुल्क संस्करण)
 
-**Professional Options:**
+**व्यावसायिक विकल्पहरू:**
 
-- SimplePractice (therapy-focused but adaptable)
-- Acuity Scheduling (with intake forms)
-- Calendly (premium plans)
-- Practice Better (holistic health focused)
+- SimplePractice (चिकित्सा-केंद्रित तर अनुकूलनयोग्य)
+- Acuity Scheduling (इन्टेक फर्महरूसँग)
+- Calendly (प्रिमियम योजनाहरू)
+- Practice Better (समग्र स्वास्थ्यमा केन्द्रित)
 
-**Security-First Options:**
+**सुरक्षा-प्रथम विकल्पहरू:**
 
-- Proton Forms (encrypted)
+- Proton Forms (इन्क्रिप्टेड)
 - SecureVideo forms
-- HIPAA-compliant platforms even if not required
+- HIPAA-पालना गर्ने प्लेटफर्महरू, आवश्यक नभए पनि
 
 :::
 
-### **Session Notes Template**
+### **सत्र नोट्स टेम्पलेट**
 
 ::: {.detailed-template}
 
-**Client:** _______________  **Date:** _______________  **Session #:** _____
+**ग्राहक:** _______________  **मिति:** _______________  **सत्र #:** _____
 
-**PRE-SESSION PREPARATION:**
+**पूर्व-सत्र तयारी:**
 
-- Chart reviewed: ☐ Yes ☐ No
-- Current transits noted: _______________
-- Areas of focus from intake: _______________
+- चार्ट समीक्षा गरियो: ☐ हो ☐ होइन
+- वर्तमान पारगमनहरू नोट गरियो: _______________
+- इन्टेकबाट ध्यान केन्द्रित गर्ने क्षेत्रहरू: _______________
 
-**SESSION NOTES:**
+**सत्र नोट्स:**
 
-**D - DESCRIPTION:**
+**D - विवरण:**
 
-- Client's current situation: _______________
-- Primary concerns/questions: _______________
-- Key chart factors discussed: _______________
+- ग्राहकको वर्तमान स्थिति: _______________
+- प्राथमिक चिन्ताहरू/प्रश्नहरू: _______________
+- प्रमुख चार्ट कारकहरू छलफल गरियो: _______________
 
-**A - ASSESSMENT:**
+**A - मूल्याङ्कन:**
 
-- Prominent planetary patterns: _______________
-- Current transit influences: _______________
-- Strengths identified: _______________
-- Challenges/growth areas: _______________
+- प्रमुख ग्रह ढाँचाहरू: _______________
+- वर्तमान पारगमन प्रभावहरू: _______________
+- पहिचान गरिएका बलियो पक्षहरू: _______________
+- चुनौतीहरू/विकासका क्षेत्रहरू: _______________
 
-**R - RESPONSE:**
+**R - प्रतिक्रिया:**
 
-- Guidance provided: _______________
-- Reframes/perspective shifts: _______________
-- Client insights/reactions: _______________
+- प्रदान गरिएका मार्गदर्शनहरू: _______________
+- पुनःफेरि/दृष्टिकोण परिवर्तनहरू: _______________
+- ग्राहकको अन्तर्दृष्टि/प्रतिक्रियाहरू: _______________
 
-**T - TREATMENT PLAN:**
+**T - उपचार योजना:**
 
-- Spiritual practices recommended: _______________
-- Lifestyle suggestions: _______________
-- Timing recommendations: _______________
-- Follow-up plan: _______________
+- आध्यात्मिक अभ्यासहरू सिफारिस गरियो: _______________
+- जीवनशैलीका सुझावहरू: _______________
+- समय निर्धारण सिफारिसहरू: _______________
+- पछिको योजना: _______________
 
-**POST-SESSION:**
+**पोस्ट-सत्र:**
 
-- Referrals made: _______________
-- Resources provided: _______________
-- Next session scheduled: _______________
-- Notes for next time: _______________
+- गरिएका सन्दर्भहरू: _______________
+- प्रदान गरिएका स्रोतहरू: _______________
+- अर्को सत्रको तालिका: _______________
+- अर्को पटकको लागि नोटहरू: _______________
 
 :::
 
-## **Legal and Ethical Considerations**
+## **कानूनी र नैतिक विचारहरू**
 
-### **Know Your Local Requirements**
+### **तपाईंका स्थानीय आवश्यकताहरू जान्नुहोस्**
 
 ::: {.legal-requirements}
-**Research your jurisdiction's requirements for:**
-- Data protection and privacy laws
-- Record retention requirements
-- Consent and disclosure obligations
-- Professional liability considerations
-- Business license and insurance requirements
+**तपाईंको अधिकार क्षेत्रका लागि आवश्यकताहरूको अनुसन्धान गर्नुहोस्:**
+- डेटा संरक्षण र गोपनीयता कानूनहरू
+- अभिलेख राख्ने आवश्यकताहरू
+- सहमति र खुलासा दायित्वहरू
+- व्यावसायिक दायित्व विचारहरू
+- व्यवसायको लाइसेन्स र बीमा आवश्यकताहरू
 
 :::
 
-### **Professional Boundaries in Documentation**
+### **दस्तावेजीकरणमा व्यावसायिक सीमाहरू**
 
 ::: {.boundary-guidelines}
 
-**Document:**
+**दस्तावेज गर्नुहोस्:**
 
-- Your astrological interpretations and guidance
-- Client's stated goals and feedback
-- Remedies and practices suggested
-- Professional referrals made
-- Safety concerns or red flags
+- तपाईंको ज्योतिषीय व्याख्याहरू र मार्गदर्शन
+- ग्राहकका भनाइ र फिर्ता
+- सिफारिस गरिएका उपचार र अभ्यासहरू
+- व्यावसायिक सन्दर्भहरू
+- सुरक्षा चिन्ताहरू वा रेड फ्ल्यागहरू
 
-**Don't Document:**
+**दस्तावेज नगर्नुहोस्:**
 
-- Personal opinions about clients
-- Gossip about third parties
-- Information outside your scope of practice
-- Unverified claims or suspicions
-- Private details irrelevant to astrological work
+- ग्राहकहरूको बारेमा व्यक्तिगत विचारहरू
+- तेस्रो पक्षहरूको बारेमा गपशप
+- तपाईंको व्यावसायिक दायरा बाहिरको जानकारी
+- प्रमाणित दावीहरू वा शंकाहरू
+- ज्योतिषीय कामसँग सम्बन्धित नभएका व्यक्तिगत विवरणहरू
 
 :::
 
-### **Your Comfort Level and Practice Style**
+### **तपाईंको आराम स्तर र अभ्यास शैली**
 
-Remember: Documentation should serve your practice, not burden it. Some considerations:
+याद राख्नुहोस्: दस्तावेजीकरणले तपाईंको अभ्यासलाई सेवा गर्नुपर्छ, तपाईंलाई बोझ नबनाउन। केही विचारहरू:
 
 ::: {.practice-style-options}
 
-**Minimal Documentation Style:**
+**न्यूनतम दस्तावेजीकरण शैली:**
 
-- Basic birth data and contact info
-- Key chart patterns and current transits
-- Major guidance themes
-- Follow-up timing
+- आधारभूत जन्म डेटा र सम्पर्क जानकारी
+- प्रमुख ग्रह ढाँचाहरू र वर्तमान पारगमनहरू
+- प्रमुख मार्गदर्शन थिमहरू
+- पछिको समय निर्धारण
 
-**Comprehensive Documentation Style:**
+**व्यापक दस्तावेजीकरण शैली:**
 
-- Detailed session notes using DART method
-- Progress tracking over multiple sessions
-- Extensive remedy and timing notes
-- Research potential for anonymized case studies
+- DART विधि प्रयोग गरेर विस्तृत सत्र नोटहरू
+- धेरै सत्रहरूमा प्रगति ट्र्याकिङ
+- उपचार र समयको विस्तृत नोटहरू
+- गुमनाम केस अध्ययनका लागि अनुसन्धान सम्भावना
 
-**Choose what feels sustainable and serves your clients' best interests.**
+**के तपाईंलाई दीर्घकालीन रूपमा टिकाउ र ग्राहकको सर्वोत्तम चासोमा सेवा गर्ने कुरा छान्नुहोस्।**
 
 :::
 
-Documentation is an act of sacred service. When you carefully record the insights shared and guidance given, you're honoring both the wisdom of astrology and the trust your clients place in you. Every note you take, every file you protect, every system you create is a commitment to excellence in spiritual counseling.
+दस्तावेजीकरण एक पवित्र सेवाको कार्य हो। जब तपाईंले साझा गरिएका अन्तर्दृष्टिहरू र प्रदान गरिएका मार्गदर्शनहरूलाई ध्यानपूर्वक रेकर्ड गर्नुहुन्छ, तपाईं ज्योतिषको ज्ञान र तपाईंका ग्राहकहरूले तपाईंमा राखेको विश्वासलाई सम्मान गर्दै हुनुहुन्छ। तपाईंले लिने हरेक नोट, तपाईंले जोगाउने हरेक फाइल, तपाईंले सिर्जना गर्ने हरेक प्रणालीले आध्यात्मिक परामर्शमा उत्कृष्टताको लागि प्रतिबद्धता हो।
 
-**Your clients trusted you with their stories. Honor that trust with every file, every note, every click of the save button.**
+**तपाईंका ग्राहकहरूले तपाईंलाई उनीहरूको कथाहरूमा विश्वास गरे। हरेक फाइल, हरेक नोट, हरेक सुरक्षित बटनको क्लिकले त्यो विश्वासलाई सम्मान गर्नुहोस्।**
