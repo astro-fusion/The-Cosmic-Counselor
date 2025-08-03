@@ -1,10 +1,10 @@
-## नैतिकता का क्रियान्वयन
+## Setting the Stage
 
-<!-- ## मुख्य सामग्री -->
-{{< include chapter-03/index.qmd >}}
+<!-- ## Main Content -->
+{{< include chapter-08/index.qmd >}}
 
-<!-- ## अभ्यास अभ्यास -->
-{{< include chapter-03/practice.qmd >}}
+<!-- ## Practice Exercises -->
+{{< include chapter-08/practice.qmd >}}
 
-<!-- ## ज्ञान जांच -->
-{{< include chapter-03/quiz.qmd >}}
+<!-- ## Knowledge Check   -->
+{{< include chapter-08/quiz.qmd >}}
