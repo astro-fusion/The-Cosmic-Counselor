@@ -1,0 +1,97 @@
+# References {.unnumbered}
+
+## Recommended Reading
+
+::: {.references-container}
+
+### Chapter 3: The Astrologer's Compass: Ethics in Action
+
+#### Confidentiality and Client Privacy
+- American Counseling Association. (2014). *ACA Code of Ethics*. Retrieved from [https://www.counseling.org/resources/aca-code-of-ethics.pdf](https://www.counseling.org/resources/aca-code-of-ethics.pdf)
+- British Association for Counselling and Psychotherapy. (2018). *Ethical Framework for the Counselling Professions*. Retrieved from [https://www.bacp.co.uk/events-and-resources/ethics-and-standards/ethical-framework-for-the-counselling-professions/](https://www.bacp.co.uk/events-and-resources/ethics-and-standards/ethical-framework-for-the-counselling-professions/)
+
+#### Honesty and Transparency
+- International Association for Astrological Research. (2024). *Ethical Guidelines for Astrological Practice*. Retrieved from [https://www.isar-astrology.com/ethics](https://www.isar-astrology.com/ethics)
+- Times of India. (2024). *Stars and Standards: Ethical Considerations in the Practice of Astrology*. Retrieved from [https://timesofindia.indiatimes.com/astrology/others/stars-and-standards-ethical-considerations-in-the-practice-of-astrology/articleshow/108849481.cms](https://timesofindia.indiatimes.com/astrology/others/stars-and-standards-ethical-considerations-in-the-practice-of-astrology/articleshow/108849481.cms)
+
+#### Non-maleficence and Beneficence
+- Study.com. (2024). *Ethics in Counseling | Overview, Guidelines & Issues*. Retrieved from [https://study.com/academy/lesson/the-importance-of-ethics-in-counseling.html](https://study.com/academy/lesson/the-importance-of-ethics-in-counseling.html)
+
+#### Cultural Sensitivity
+- Floyd, R. (2023). *Understanding the Psychological Significance of Astrology in Modern Society*. Retrieved from [https://dsc.duq.edu/cgi/viewcontent.cgi?article=3262&context=etd](https://dsc.duq.edu/cgi/viewcontent.cgi?article=3262&context=etd)
+
+### Chapter 4: Understanding the Mind: Psychology for Astrologers
+
+#### The Power of Belief and Confirmation Bias
+- Simply Psychology. (2019). *Confirmation Bias in Psychology: Definition & Examples*. Retrieved from [https://www.simplypsychology.org/confirmation-bias.html](https://www.simplypsychology.org/confirmation-bias.html)
+- American Management Association. (2019). *The Power of Belief*. Retrieved from [https://www.amanet.org/articles/the-power-of-belief/](https://www.amanet.org/articles/the-power-of-belief/)
+- Snyder, M., & Cantor, N. (1979). Testing hypotheses about other people: The use of historical knowledge. *Journal of Experimental Social Psychology*, 15(4), 330–342.
+
+#### The Impact of Vulnerability and Stress
+- Haddadi, P., & Besharat, M. A. (2010). Resilience, vulnerability and mental health. *Procedia - Social and Behavioral Sciences*, 5, 639-642. [https://www.sciencedirect.com/science/article/pii/S1877042810015314](https://www.sciencedirect.com/science/article/pii/S1877042810015314)
+- National Center for Biotechnology Information. (2008). *Stress and Health: Psychological, Behavioral, and Biological Determinants*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2568977/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2568977/)
+
+### Chapter 5: Ethical Navigation: Charting a Course for Integrity
+
+#### Avoiding Harmful Stereotypes
+- Grant, A. (2024). *We need to talk about astrology*. Retrieved from [https://adamgrant.substack.com/p/we-need-to-talk-about-astrology](https://adamgrant.substack.com/p/we-need-to-talk-about-astrology)
+
+#### Cultural Competency
+- Ruggles, C. (Ed.). (2014). *Handbook of Archaeoastronomy and Ethnoastronomy*. Springer, New York, NY. [https://doi.org/10.1007/978-1-4614-6141-8_16](https://doi.org/10.1007/978-1-4614-6141-8_16)
+
+#### Professional Conduct
+- Organization for Professional Astrology. (2021). *OPA Ethical Guidelines*. Retrieved from [https://opaastrology.org/about-opa/code-of-ethics/](https://opaastrology.org/about-opa/code-of-ethics/)
+
+### Chapter 6: Psychological Well-Being: Knowing When to Refer
+
+#### Bio-Psycho-Social (BPS) Model
+- Physiopedia. (2024). *Biopsychosocial Model*. Retrieved from [https://www.physio-pedia.com/Biopsychosocial_Model](https://www.physio-pedia.com/Biopsychosocial_Model)
+- Tripathi, A., & Das, A. (2019). Biopsychosocial Model in Contemporary Psychiatry: Current Validity and Future Prospects. *Indian Journal of Psychological Medicine*, 41(6), 582-585. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875848/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875848/)
+
+#### Mood and Anxiety Disorders
+- Cleveland Clinic. (2024). *Mood Disorders: What They Are, Symptoms & Treatment*. Retrieved from [https://my.clevelandclinic.org/health/diseases/17843-mood-disorders](https://my.clevelandclinic.org/health/diseases/17843-mood-disorders)
+- World Health Organization. (2023). *Anxiety disorders*. Retrieved from [https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders](https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders)
+
+### Chapter 7: Session to System: Efficient Record Keeping
+
+#### Protected Health Information (PHI)
+- U.S. Department of Health and Human Services. (2024). *HIPAA Privacy Rule and Sharing Information Related to Mental Health*. Retrieved from [https://www.hhs.gov/sites/default/files/hipaa-privacy-rule-and-sharing-info-related-to-mental-health.pdf](https://www.hhs.gov/sites/default/files/hipaa-privacy-rule-and-sharing-info-related-to-mental-health.pdf)
+
+#### Documentation Importance
+- Mentalyc. (2024). *Why is documentation important in Mental health Treatment?* Retrieved from [https://www.mentalyc.com/blog/important-of-documentation-in-mental-health-treatment](https://www.mentalyc.com/blog/important-of-documentation-in-mental-health-treatment)
+
+### Chapter 8: Setting the Stage: Client Empowerment & Sacred Spaces
+
+#### Sacred Space Creation
+- Wright, S. (2023). Making (sacred) space for staff renewal and transformation. *Journal of Holistic Healthcare*, 15(1). Retrieved from [https://bhma.org/making-sacred-space-for-staff-renewal-and-transformation/](https://bhma.org/making-sacred-space-for-staff-renewal-and-transformation/)
+
+#### Safety in Practice
+- NCBI. (2023). *The Functions of Safety in Psychotherapy: An Integrative Theoretical Review*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405669/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405669/)
+
+### Chapter 9: Heart of the Session: Masterful Communication
+
+#### Building Trust and Connection
+- Bradley University Online. (2023). *Building Trust with Counseling Clients*. Retrieved from [https://onlinedegrees.bradley.edu/blog/building-trust-with-counseling-clients/](https://onlinedegrees.bradley.edu/blog/building-trust-with-counseling-clients/)
+- NCBI. (2019). *Trust and respect in the patient-clinician relationship*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6937966/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6937966/)
+
+#### Active Listening Skills
+- Positive Psychology. (2016). *Active Listening: The Art of Empathetic Conversation*. Retrieved from [https://positivepsychology.com/active-listening/](https://positivepsychology.com/active-listening/)
+
+#### Essential Counseling Skills
+- Lesley University. (2023). *6 Critical Skills Every Counselor Should Cultivate*. Retrieved from [https://lesley.edu/article/6-critical-skills-every-counselor-should-cultivate](https://lesley.edu/article/6-critical-skills-every-counselor-should-cultivate)
+
+### Chapter 10: Beyond the Consultation: Research & Elevating the Field
+
+#### Research in Counseling
+- National Center for Biotechnology Information. (2011). *Strategies for Training Counselors in Evidence-Based Treatments*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3120122/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3120122/)
+- British Association for Counselling and Psychotherapy. (2024). *Research Resources*. Retrieved from [https://www.bacp.co.uk/about-us/advancing-the-profession/research/](https://www.bacp.co.uk/about-us/advancing-the-profession/research/)
+
+### Chapter 11: The Astrologer's Reflection: Inner Work, Outer Impact
+
+#### Self-Care and Professional Development
+- Positive Psychology. (2021). *Self-Disclosure in Therapy and Counseling: 7 Examples*. Retrieved from [https://positivepsychology.com/self-disclosure-in-counseling/](https://positivepsychology.com/self-disclosure-in-counseling/)
+
+#### Mindfulness in Practice
+- American Psychological Association. (2023). *Mindfulness meditation: A research-proven way to reduce stress*. Retrieved from [https://www.apa.org/topics/mindfulness/meditation](https://www.apa.org/topics/mindfulness/meditation)
+
+:::

@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: _book/ne
+  output-dir: ../../generated/ne
   resources:
     - ../../scripts/
     - ../../styles/
@@ -111,4 +111,4 @@ website:
 
 publish:
   - provider: gh-pages
-    url: "https://astro-fusion.github.io/The-Cosmic-Counselor/ne" 
+    url: "https://astro-fusion.github.io/The-Cosmic-Counselor/ne"

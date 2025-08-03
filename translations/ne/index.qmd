@@ -1,0 +1,39 @@
+---
+title: "द कस्मिक काउन्सेलर"
+subtitle: "आधुनिक समयमा नैतिक आध्यात्मिक मार्गदर्शन"
+author: "बिशाल घिमिरे"
+format:
+  html:
+    toc: true
+    number-sections: true
+  pdf:
+    toc: true
+    number-sections: true
+    documentclass: book
+    papersize: letter
+    fontsize: 11pt
+    linestretch: 1.2
+---
+
+# प्रस्तावना
+
+"द कस्मिक काउन्सेलर" आध्यात्मिक परामर्शदाताहरूका लागि एक मार्गदर्शक पुस्तक हो। यो पुस्तकले नैतिक अभ्यास, सांस्कृतिक संवेदनशीलता, र आत्म-हेरचाहका लागि आधारभूत सिद्धान्तहरू प्रदान गर्दछ।
+
+## अध्यायहरू
+
+- [अध्याय १: ब्रह्माण्डीय आह्वान](chapters/chapter-01.qmd)
+- [अध्याय २: ताराहरूमा शङ्का](chapters/chapter-02.qmd)
+- [अध्याय ३: नैतिक कार्यहरू](chapters/chapter-03.qmd)
+- [अध्याय ४: नैतिक नेभिगेसन](chapters/chapter-04.qmd)
+- [अध्याय ५: सन्दर्भको समय](chapters/chapter-05.qmd)
+- [अध्याय ६: सत्रदेखि प्रणालीसम्म](chapters/chapter-06.qmd)
+- [अध्याय ७: मञ्च तयार पार्दै](chapters/chapter-07.qmd)
+- [अध्याय ८: परामर्शको परे](chapters/chapter-08.qmd)
+- [अध्याय ९: कुशल सञ्चार](chapters/chapter-09.qmd)
+- [अध्याय १०: परामर्शको परे](chapters/chapter-10.qmd)
+- [अध्याय ११: ज्योतिषीको प्रतिबिम्ब](chapters/chapter-11.qmd)
+- [अध्याय १२: तपाईंको विरासत](chapters/chapter-12.qmd)
+
+## धन्यवाद
+
+यो पुस्तक आध्यात्मिक अभ्यासमा नैतिक मापदण्डहरूलाई उचाइमा पुर्‍याउन काम गर्ने सबैलाई समर्पित छ।

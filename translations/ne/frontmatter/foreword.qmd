@@ -1,0 +1,3 @@
+# Foreword {.unnumbered}
+
+[Content for your foreword goes here - typically written by someone other than the author, introducing the book and author]

@@ -1,0 +1,73 @@
+# About the Author {.unnumbered}
+
+::: {.author-container}
+
+::: {.author-profile}
+
+## Bishal Ghimire
+
+::: {.author-image-placeholder}
+🌟
+:::
+
+::: {.author-bio}
+
+**Bishal Ghimire** is a seasoned software developer with 16 years of professional experience in the field. His technical expertise is complemented by his passion for astrology, which he has been practicing professionally for several years now.
+
+Bishal's journey into astrology was further enriched when he undertook a course in psychosocial counseling. This experience opened his eyes to the significant impact astrologers can have on individuals' mental health and the ethical considerations that come with this responsibility.
+
+During his astrological counseling sessions, Bishal noticed a gap in the ethical considerations followed by most astrologers. Recognizing the importance of mental health and the need for ethical guidance in astrological practice, he decided to write a self-help guidebook for astrologers.
+
+:::
+
+:::
+
+::: {.author-mission}
+
+### **Mission Statement**
+
+This handbook aims to guide astrologers on the importance of mental health and how to adhere to ethical guidelines in their practice. Through this endeavor, Bishal hopes to contribute positively to the field of astrology and ensure it is practiced with the utmost respect for individuals' mental well-being.
+
+:::
+
+::: {.author-expertise}
+
+### **Professional Background**
+
+::: {.expertise-grid}
+
+::: {.expertise-item}
+**Software Development**
+16+ years of professional experience in technical leadership and innovation
+:::
+
+::: {.expertise-item}
+**Astrological Practice**
+Professional astrologer with focus on ethical, empowering consultations
+:::
+
+::: {.expertise-item}
+**Psychosocial Counseling**
+Certified training in counseling principles and mental health awareness
+:::
+
+::: {.expertise-item}
+**Author & Educator**
+Committed to elevating professional standards in astrological practice
+:::
+
+:::
+
+:::
+
+::: {.author-contact}
+
+### **Connect & Contribute**
+
+Bishal continues to practice astrology with the principles outlined in this handbook, mentoring other practitioners and contributing to the elevation of ethical standards in the field. His work bridges the gap between ancient wisdom and modern psychological understanding.
+
+**Publication Date:** Saturday, June 1, 2024
+
+:::
+
+:::
