@@ -511,5 +511,5 @@ _______________
 :::
 :::
 
-<script src="../scripts/quiz-interactions.js"></script>
+<script src="../../../scripts/quiz-interactions.js"></script>
 

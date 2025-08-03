@@ -187,4 +187,4 @@ Can you maintain appropriate relationships with clients?
 - Would I want someone to treat my loved one this way?
 - Am I acting from love or from ego?
 
-<script src="../../scripts/quiz-interactions.js"></script>
+<script src="../../../scripts/quiz-interactions.js"></script>
