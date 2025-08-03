@@ -104,7 +104,7 @@ jobs:
       with:
         name: hindi-translations
         path: |
-          generated/hi/*.pdf
-          generated/hi/_book/
-          generated/hi/*.html
+          translations/hi/_book/hi/*.pdf
+          translations/hi/_book/
+          translations/hi/_book/*.html
         retention-days: 30
