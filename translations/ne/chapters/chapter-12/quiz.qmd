@@ -1,0 +1,157 @@
+## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+**1. What is a crucial step in building a lasting legacy as a cosmic guide?**
+
+A) Focusing solely on gaining a large following  
+B) Documenting and sharing your unique insights and methodologies  
+C) Keeping your practices and techniques secret  
+D) Avoiding collaboration with other astrologers
+
+**2. The most important aspect of your legacy as an astrologer is:**
+
+A) The number of clients you've served  
+B) The accuracy of your predictions  
+C) The positive impact you've had on clients' lives and the field  
+D) The amount of money you've earned
+
+**3. Scenario: You want to ensure that your contributions to astrology are recognized and continue to benefit others after you retire. What steps should you take?**
+
+A) Publish your work in reputable journals and books, and mentor upcoming astrologers  
+B) Keep your knowledge within a small, exclusive group  
+C) Focus on commercializing your techniques for maximum profit  
+D) Retire quietly without making arrangements for your work to continue
+
+**4. The transformation described in this book primarily focuses on:**
+
+A) Learning more astrological techniques  
+B) Developing the soft skills that make astrological knowledge empowering  
+C) Building a larger client base  
+D) Memorizing more chart meanings
+
+**5. Your role as a cosmic guide means you are:**
+
+A) The source of all your clients' answers  
+B) A skilled facilitator helping clients discover their own inner wisdom  
+C) Responsible for making all your clients' decisions  
+D) Required to predict every aspect of their future
+
+**6. The ripple effect of ethical astrological practice contributes to:**
+
+A) Personal profit only  
+B) Individual client satisfaction only  
+C) Elevating the entire field and creating positive change in the world  
+D) Keeping astrological knowledge exclusive
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-B, 2-C, 3-A, 4-B, 5-B, 6-C
+:::
+:::
+
+---
+
+## 📊 Final Self-Assessment: Your Legacy as a Cosmic Guide
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Legacy Building and Mentorship:**
+
+How committed are you to mentoring and supporting the next generation of astrologers?
+
+How willing are you to share knowledge and insights that benefit the field?
+
+How focused are you on creating positive change beyond your individual practice?
+
+**Knowledge Sharing and Documentation:**
+
+How effectively do you document and share your unique insights and methodologies?
+
+How consistently do you contribute to astrological knowledge through writing, teaching, or research?
+
+How well do you balance sharing wisdom with respecting proprietary knowledge?
+
+**Long-term Impact and Vision:**
+
+How focused are you on ensuring your work has a long-term impact on the field of astrology?
+
+How well do you integrate ethical principles with practical astrological work?
+
+How committed are you to elevating professional standards in astrology?
+
+**Personal and Professional Integration:**
+
+How successfully have you integrated the soft skills from this book into your practice?
+
+How well do you balance technical astrological knowledge with human compassion?
+
+How effectively do you empower clients rather than create dependency?
+
+**Continued Growth and Evolution:**
+
+How committed are you to lifelong learning and professional development?
+
+How well do you maintain the balance between confidence and humility in your practice?
+
+How effectively do you contribute to positive change in your community and field?
+
+**Reflection Questions:**
+
+1. What legacy do you want to leave in the field of astrology?
+2. How has your understanding of your role as a cosmic guide evolved through this book?
+3. What specific steps will you take to ensure your positive impact continues?
+
+::: {.writing-space}
+*Space for your final reflections on your journey and future commitments...*
+:::
+
+:::
+
+---
+
+## 🎯 Your Continuing Journey: Action Steps
+
+::: {.action-box}
+
+**Immediate Actions (This Month):**
+
+- [ ] Create a personal mission statement for your astrological practice
+- [ ] Establish regular self-reflection and professional development practices
+- [ ] Connect with or join professional astrological organizations
+- [ ] Begin documenting your unique insights and methodologies
+
+**Short-term Goals (Next 6 Months):**
+
+- [ ] Implement all the soft skills and ethical practices from this book
+- [ ] Seek mentorship or establish peer consultation relationships
+- [ ] Contribute knowledge to the astrological community (writing, teaching, presenting)
+- [ ] Develop a plan for ongoing professional education
+
+**Long-term Vision (Next 1-3 Years):**
+
+- [ ] Mentor emerging astrologers or spiritual counselors
+- [ ] Contribute to research or publications in astrology
+- [ ] Advocate for professional standards and ethical practice
+- [ ] Create systems to ensure your positive impact continues
+
+**Legacy Planning (Ongoing):**
+
+- [ ] Document your unique approaches and insights
+- [ ] Build relationships that support the field's growth
+- [ ] Contribute to positive change in how astrology is perceived and practiced
+- [ ] Ensure your work benefits others beyond your individual practice
+:::
+
+## **Final Reflection**
+
+*You began this journey seeking to improve your astrological practice. You've discovered something far greater: your role as a guide, healer, and wisdom keeper. The stars have been waiting for practitioners like you—those who combine ancient wisdom with modern understanding, technical skill with human compassion, and professional competence with genuine care. Your legacy begins not with grand gestures, but with every ethical choice, every empowered client, every moment of authentic service. The cosmos itself is enriched by your commitment to this sacred work.*
+
+<script src="../scripts/quiz-interactions.js"></script>
+

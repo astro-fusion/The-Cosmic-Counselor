@@ -1,9 +1,184 @@
-## 📝 ज्ञान जांच क्विज़ {.quiz-title}
+## 📝 Knowledge Check Quiz {.quiz-title}
 
 ::: {.quiz-box}
-**1. ज्योतिष में "बार्नम प्रभाव" का मतलब है:**
+**1. The "Barnum Effect" in astrology refers to:**
 
-A) ग्रहों की चाल के बारे में विशिष्ट भविष्यवाणियों पर विश्वास करने की प्रवृत्ति  
-B) अस्पष्ट बयानों को व्यक्तिगत रूप से अर्थपूर्ण मानने की प्रवृत्ति  
-C) बुध वक्री का संचार पर मनोवैज्ञानिक प्रभाव  
-D) पुष्टि पूर्वाग्रह जो सभी ज्योतिषीय रीडिंग को सही बनाता है
+A) The tendency to believe specific predictions about planetary movements  
+B) The inclination to accept vague statements as personally meaningful  
+C) The psychological impact of Mercury retrograde on communication  
+D) The confirmation bias that makes all astrological readings seem accurate
+
+**2. When a client is going through a major life crisis, they become:**
+
+A) More skeptical of astrological guidance  
+B) Better at critically evaluating information  
+C) More susceptible to accepting predictions without question  
+D) Less interested in seeking spiritual guidance
+
+**3. Confirmation bias in astrological consultation means clients will:**
+
+A) Question everything the astrologer says  
+B) Focus on information that confirms their existing beliefs  
+C) Reject all negative predictions  
+D) Only remember positive aspects of their reading
+
+**4. Scenario: A recently divorced client desperately asks, "When will I find love again?" Your most psychologically aware response would be:**
+
+A) Give them a specific timeline based on their Venus transits  
+B) Explore what love and partnership mean to them right now  
+C) Tell them they need to heal before dating again  
+D) Avoid the topic since they're too emotional
+
+**5. The psychological principle behind astrology's therapeutic potential is:**
+
+A) Planets actually control human behavior  
+B) People need to believe in fate to feel secure  
+C) Symbolic frameworks help organize self-understanding  
+D) Ancient wisdom is always more accurate than modern psychology
+
+**6. When a client uses their chart to excuse harmful behavior ("I can't help being jealous—I'm a Scorpio"), you should:**
+
+A) Agree that astrology determines personality completely  
+B) Help them explore healthier expressions of their Scorpio energy  
+C) Tell them astrology doesn't excuse bad behavior  
+D) Suggest they change their birth time to get a better chart
+
+**7. Vulnerability makes clients more likely to:**
+
+A) Think critically about astrological information  
+B) Seek multiple opinions before making decisions  
+C) Accept interpretations that provide comfort or control  
+D) Reject guidance that doesn't match their expectations
+
+**8. The most important psychological skill for astrologers is:**
+
+A) Memorizing all personality traits of zodiac signs  
+B) Recognizing when clients need professional mental health support  
+C) Convincing skeptical clients that astrology is scientifically valid  
+D) Maintaining emotional distance from client problems
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-B, 2-C, 3-B, 4-B, 5-C, 6-B, 7-C, 8-B
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Your Psychological Awareness
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Understanding Psychological Dynamics:**
+
+How well do you recognize confirmation bias in yourself and clients? 
+
+Can you identify when vulnerability is affecting a client's receptiveness? 
+
+Do you understand the difference between astrology and psychology? 
+
+**Handling Client Psychology:**
+
+How comfortable are you recognizing emotional overwhelm during sessions? 
+
+Can you create psychological safety before diving into chart interpretation? 
+
+Do you know when to refer clients to mental health professionals? 
+
+**Managing Your Own Psychology:**
+
+How aware are you of your personal biases affecting readings? 
+
+Can you separate your own emotional state from client sessions? 
+
+Do you practice self-reflection about your psychological patterns? 
+
+**Communication Psychology:**
+
+How skilled are you at delivering challenging information compassionately? 
+
+Can you frame astrological insights as possibilities rather than certainties? 
+
+Do you focus on empowerment rather than prediction? 
+
+**Ethical Psychology Integration:**
+
+How consistently do you consider psychological impact before speaking? 
+
+Can you balance validation with healthy challenge? 
+
+Do you maintain realistic expectations about astrology's scope? 
+
+**Reflection Questions:**
+
+1. Which psychological principle from this chapter surprised you most?
+2. What's your biggest blind spot when it comes to client psychology?
+3. How will you continue developing your psychological awareness?
+
+::: {.writing-space}
+*Your insights about integrating psychology into astrological practice...*
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Complete the bias-spotting exercise with your own horoscope readings
+- [ ] Practice identifying one example of confirmation bias in daily conversations
+- [ ] Create a simple vulnerability checklist for client sessions
+- [ ] Research the difference between counseling and astrological guidance
+
+**Intermediate Level:**
+
+- [ ] Practice the vulnerability case study with a mentor or study group
+- [ ] Audit your own language for prediction vs. possibility framing
+- [ ] Develop template responses for emotionally overwhelmed clients
+- [ ] Study basic active listening techniques
+
+**Advanced Level:**
+
+- [ ] Create a comprehensive psychological assessment protocol for new clients
+- [ ] Develop written guidelines for recognizing when to refer clients
+- [ ] Practice monthly self-reflection on personal bias patterns
+- [ ] Build relationships with local mental health professionals for referrals
+:::
+
+## **Chapter Reflection**
+
+*The intersection of psychology and astrology is where true healing happens. Consider: How has understanding confirmation bias changed your perspective on astrology's effectiveness? What psychological patterns do you recognize in yourself that might influence your readings? How will you use this awareness to serve your clients better?*
+
+## **Key Psychological Insights:**
+
+::: {.takeaway-box}
+
+- **Belief shapes reality** - Client expectations influence their experience of your guidance
+- **Vulnerability increases suggestibility** - Stressed clients need extra care and realistic framing
+- **Confirmation bias is universal** - Everyone filters information to support existing beliefs
+- **Astrology works through psychology** - Symbolic frameworks organize self-understanding
+- **Self-awareness prevents projection** - Your psychology affects every interpretation you give
+- **Empowerment beats prediction** - Growth-oriented guidance creates lasting positive change
+:::
+
+## **Your Psychological Awareness Check:**
+
+*Before each session, ask yourself:*
+
+- How might my current emotional state influence this reading?
+- Is this client showing signs of vulnerability that require extra care?
+- Am I framing insights as possibilities or certainties?
+- Would this guidance empower them or create dependency?
+
+<script src="../scripts/quiz-interactions.js"></script>

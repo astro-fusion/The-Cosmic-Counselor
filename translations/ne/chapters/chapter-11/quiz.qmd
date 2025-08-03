@@ -1,0 +1,148 @@
+## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+**1. Which of the following practices is essential for an astrologer to maintain personal and professional integrity?**
+
+A) Ignoring personal biases and focusing solely on astrological charts  
+B) Regularly engaging in self-reflection and personal growth activities  
+C) Relying exclusively on external validation and feedback  
+D) Keeping personal and professional lives completely separate
+
+**2. The primary purpose of self-care for astrologers is to:**
+
+A) Appear more professional to clients  
+B) Avoid burnout and maintain the ability to serve others effectively  
+C) Save money on therapy costs  
+D) Have more energy for marketing activities
+
+**3. When experiencing countertransference during a session, you should:**
+
+A) Continue the session without acknowledging it  
+B) Immediately end the session  
+C) Notice it mindfully and address it professionally  
+D) Share your personal experience with the client
+
+**4. Scenario: After a challenging session, you realize you may have projected your own anxieties onto the client's reading. How should you address this to ensure it doesn't affect future sessions?**
+
+A) Ignore it and move on  
+B) Reflect on the session, identify your emotional triggers, and seek supervision or support if needed  
+C) Apologize to the client and redo the session for free  
+D) Avoid working with clients on similar issues in the future
+
+**5. The greatest benefit of mindfulness practice for astrologers is:**
+
+A) Impressing clients with spiritual knowledge  
+B) Making sessions shorter and more efficient  
+C) Maintaining present-moment awareness and emotional balance  
+D) Predicting future events more accurately
+
+**6. Professional development for astrologers should primarily focus on:**
+
+A) Learning more astrological techniques only  
+B) Building a larger client base  
+C) Integrating astrological knowledge with counseling skills and personal growth  
+D) Avoiding any non-astrological training
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-B, 2-B, 3-C, 4-B, 5-C, 6-C
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Inner Work & Professional Development
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Commitment to Personal Growth:**
+
+How committed are you to ongoing personal growth and self-reflection as an astrologer?
+
+How consistently do you engage in practices that support your emotional and spiritual wellbeing?
+
+How willing are you to examine difficult aspects of yourself that may affect your work?
+
+**Managing Personal Biases:**
+
+How effectively do you recognize personal biases that may affect your readings?
+
+How well do you distinguish between your own experiences and your clients' situations?
+
+How skillfully do you handle emotional triggers during sessions?
+
+**Self-Care Practices:**
+
+How consistent are you with practices that prevent burnout and emotional exhaustion?
+
+How well do you maintain boundaries between your personal and professional emotional states?
+
+How effectively do you process and release emotions absorbed from client sessions?
+
+**Seeking Feedback and Support:**
+
+How often do you seek feedback and support from peers or mentors to improve your practice?
+
+How open are you to constructive criticism about your work?
+
+How actively do you pursue professional development opportunities?
+
+**Mindfulness and Presence:**
+
+How effectively do you maintain present-moment awareness during sessions?
+
+How well do you manage anxiety or stress when working with challenging clients?
+
+How consistently do you practice mindfulness or meditation to support your work?
+
+**Reflection Questions:**
+
+1. Which area needs the most attention in your personal development?
+2. How has inner work affected your ability to serve clients?
+3. What specific support do you need to maintain your wellbeing as a practitioner?
+
+::: {.writing-space}
+*Space for your reflections...*
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Complete the self-care audit and implement one new practice
+- [ ] Begin a daily 5-minute mindfulness practice
+- [ ] Identify your top 3 emotional triggers in client work
+- [ ] Find one person to talk to about the challenges of your practice
+
+**Intermediate Level:**
+
+- [ ] Establish a regular self-reflection routine (weekly journaling or meditation)
+- [ ] Create specific strategies for managing identified triggers
+- [ ] Seek out professional supervision or peer consultation
+- [ ] Develop pre and post-session rituals for emotional clearing
+
+**Advanced Level:**
+
+- [ ] Design a comprehensive self-care protocol for sustainable practice
+- [ ] Mentor another practitioner in developing self-awareness
+- [ ] Establish ongoing professional development goals and timeline
+- [ ] Create systems for regular assessment of personal and professional growth
+:::
+
+## **Chapter Reflection**
+*Your capacity to serve others is directly related to how well you care for yourself. The inner work you do—the healing, the growth, the self-awareness—becomes the foundation from which all your outer service flows. What commitment will you make today to honor both your role as a healer and your humanity as someone who also needs healing, support, and growth?*
+
+<script src="../scripts/quiz-interactions.js"></script>

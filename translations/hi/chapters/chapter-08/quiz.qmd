@@ -1,0 +1,132 @@
+## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+**1. Which of the following is a key aspect of empowering clients in astrology sessions?**
+
+A) Telling clients exactly what decisions to make  
+B) Encouraging clients to explore their own insights and intuitions  
+C) Focusing only on astrological charts without discussion  
+D) Predicting their future without their input
+
+**2. The most important element of creating sacred space is:**
+
+A) Having expensive furniture and decorations  
+B) Using as many crystals and candles as possible  
+C) Creating an environment where clients feel safe and welcomed  
+D) Making the space look mysterious and otherworldly
+
+**3. When designing your counseling space, seating should be:**
+
+A) Behind a large desk to maintain authority  
+B) At the same height to foster equality and openness  
+C) Positioned so you can look down at the client  
+D) As far apart as possible to maintain boundaries
+
+**4. Scenario: A client comes to you feeling very disempowered and unsure about their life direction. What steps can you take to create an environment that empowers them during your session?**
+
+A) Take control of the session and make decisions for them  
+B) Listen actively and ask questions that encourage self-reflection  
+C) Focus solely on the technical aspects of their astrological chart  
+D) Avoid discussing their feelings and focus on future predictions
+
+**5. In the cautionary tale about Pandit Mishra, the main problem was:**
+
+A) The astrologer was technically incorrect about the chart  
+B) The client shouldn't have consulted an astrologer  
+C) The astrologer's words were misinterpreted and caused harm  
+D) The husband was actually keeping secrets
+
+**6. Which safety measure is most important for astrologers?**
+
+A) Having security cameras in your office  
+B) Only working with clients you already know  
+C) Establishing clear boundaries and professional practices  
+D) Avoiding all difficult or sensitive topics
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+
+::: {.answers-content style="display: none;"}
+**Answer Key:** 1-B, 2-C, 3-B, 4-B, 5-C, 6-C
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Sacred Space & Client Empowerment
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Sacred Space Creation:**
+
+How effectively do you create a welcoming, safe environment for clients?
+
+How well does your space support deep, meaningful conversations?
+
+How professional and calming is your counseling environment?
+
+**Client Empowerment:**
+
+How effectively do you create sessions that empower clients to make their own informed decisions?
+
+How well do you encourage client self-reflection and insight?
+
+How consistently do you use a client-centered approach in your practice?
+
+**Professional Presence:**
+
+How confident and calming is your personal presence during sessions?
+
+How well do you maintain appropriate boundaries while staying warm and accessible?
+
+How effectively do you handle challenging or emotional situations?
+
+**Reflection Questions:**
+
+1. Which area needs the most improvement in your practice?
+2. How does your current space either help or hinder client empowerment?
+3. What specific changes will you make to enhance your professional presence?
+
+::: {.writing-space}
+*Space for your reflections...*
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Assess your current counseling space using the Sanctuary Audit
+- [ ] Practice one grounding technique you can use with clients
+- [ ] Record yourself explaining an astrological concept
+- [ ] Write down 3 ways you can empower rather than direct clients
+
+**Intermediate Level:**
+
+- [ ] Implement 2-3 improvements to your counseling environment
+- [ ] Practice reflective listening techniques with friends or family
+- [ ] Develop scripts for maintaining professional boundaries
+- [ ] Create a pre-session ritual that centers you and your space
+
+**Advanced Level:**
+
+- [ ] Design a comprehensive client empowerment protocol
+- [ ] Establish peer supervision or practice groups
+- [ ] Create safety protocols for challenging client situations
+- [ ] Develop resources for client self-reflection between sessions
+:::
+
+## **Chapter Reflection**
+*Think about the last time you felt truly heard and supported by someone. What did they do that made you feel empowered rather than diminished? How can you bring those qualities into your own practice? Remember: your space and presence are powerful tools for healing—use them consciously.*
+
+<script src="../scripts/quiz-interactions.js"></script>

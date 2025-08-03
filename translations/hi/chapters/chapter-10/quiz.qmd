@@ -1,0 +1,154 @@
+## 📝 Knowledge Check Quiz {.quiz-title}
+
+::: {.quiz-box}
+**1. Which of the following is a best practice for conducting research in astrology?**
+
+A) Relying solely on anecdotal evidence from personal experiences  
+B) Using a mix of qualitative and quantitative research methods  
+C) Ignoring peer-reviewed studies in favor of popular astrology books  
+D) Avoiding collaboration with other researchers
+
+**2. The primary purpose of client-driven research in astrological practice is to:**
+
+A) Make more money from consultations  
+B) Impress clients with scientific credentials  
+C) Systematically observe patterns and contribute to astrological knowledge  
+D) Replace traditional astrological methods entirely
+
+**3. When conducting awareness programs about astrology, the most important goal is to:**
+
+A) Convert skeptics into believers  
+B) Promote your personal practice  
+C) Combat misconceptions and demonstrate ethical applications  
+D) Prove astrology is scientifically valid
+
+**4. Scenario: You have gathered significant data from your astrological consultations and want to contribute to the field. What steps should you take to ensure your research is valuable and credible?**
+
+A) Publish your findings immediately without review  
+B) Analyze the data, ensure it follows scientific methodology, and seek peer review  
+C) Share your findings informally on social media  
+D) Keep the data private and use it solely for personal reference
+
+**5. Professional development for astrologers should include:**
+
+A) Only astrological technique training  
+B) A combination of astrological knowledge, counseling skills, and ethical training  
+C) Focus solely on marketing and business skills  
+D) Avoiding any non-astrological education
+
+**6. The greatest threat to meaningful astrological research is:**
+
+A) Lack of funding  
+B) Client confidentiality requirements  
+C) Confirmation bias and seeing only what we want to see  
+D) Opposition from the scientific community
+
+<button
+  onclick="toggleAnswers()"
+  class="show-answers-btn"
+  aria-expanded="false"
+  aria-controls="chapter10-answers"
+>
+  Show answers
+</button>
+ ...
+::: {.answers-content style="display: none;" #chapter10-answers}
+  aria-expanded="false"
+  aria-controls="chapter10-answers"
+>
+  Show answers
+</button>
+ ...
+::: {.answers-content style="display: none;" #chapter10-answers}
+**Answer Key:** 1-B, 2-C, 3-C, 4-B, 5-B, 6-C
+:::
+:::
+
+---
+
+## 📊 Self-Assessment: Research & Professional Development
+
+::: {.assessment-box}
+
+**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+
+::: {.rating-scale}
+**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+:::
+
+**Research Commitment:**
+
+How committed are you to incorporating research into your astrological practice?
+
+How well do you understand different research methods used in astrological studies?
+
+How actively do you seek opportunities to contribute to the field through research?
+
+**Professional Development:**
+
+How consistently do you pursue continuing education in astrology and related fields?
+
+How well do you maintain professional standards and ethical practices?
+
+How actively do you participate in the astrological community?
+
+**Public Education:**
+
+How comfortable are you explaining astrology to skeptics or newcomers?
+
+How well can you distinguish authentic astrology from harmful misconceptions?
+
+How prepared are you to conduct public awareness programs?
+
+**Leadership and Teaching:**
+
+How confident are you in your ability to teach or mentor other astrologers?
+
+How well do you contribute knowledge and insights to the astrological community?
+
+How effectively do you advocate for professional standards in the field?
+
+**Reflection Questions:**
+
+1. Which area needs the most development in your practice?
+2. How will you contribute to elevating the field of astrology?
+3. What specific research question interests you most?
+
+::: {.writing-space}
+*Space for your reflections...*
+:::
+
+:::
+
+---
+
+## 🎯 Action Steps for This Week
+
+::: {.action-box}
+
+**Beginner Level:**
+
+- [ ] Choose one aspect of your practice to begin systematically observing
+- [ ] Join a professional astrological organization
+- [ ] Identify three misconceptions about astrology you can address
+- [ ] Create a simple data tracking system for your consultations
+
+**Intermediate Level:**
+
+- [ ] Design and launch your mini-research project
+- [ ] Plan a public awareness presentation or workshop
+- [ ] Establish peer review relationships with other astrologers
+- [ ] Develop a professional development plan for the next year
+
+**Advanced Level:**
+
+- [ ] Conduct original research and prepare it for publication or presentation
+- [ ] Organize or lead educational programs for other astrologers
+- [ ] Mentor emerging practitioners in research and professional standards
+- [ ] Contribute to establishing professional standards in your community
+:::
+
+## **Chapter Reflection**
+*Consider the legacy you want to leave in the field of astrology. What contribution will you make to ensure that astrology continues to evolve, gain respect, and serve people authentically? Remember: you are not just practicing astrology—you are helping to shape its future. Every ethical choice, every piece of research, every person you educate contributes to the field's elevation.*
+
+<script src="../scripts/quiz-interactions.js"></script>
