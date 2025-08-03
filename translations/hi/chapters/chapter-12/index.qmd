@@ -1,264 +1,264 @@
-<!-- ## Legacy -->
+<!-- ## विरासत -->
 
 ::: {.pull-quote}
-"Intellectual growth should commence at birth and cease only at death."
+"बौद्धिक विकास जन्म से शुरू होना चाहिए और केवल मृत्यु पर समाप्त होना चाहिए।"
 
-— Albert Einstein
+— अल्बर्ट आइंस्टीन
 :::
 
-By now, you've embarked on a transformative journey. You've delved into ethical principles, explored the intricacies of human psychology, and honed the soft skills that turn astrological knowledge into an empowering force for your clients. The wisdom in these pages isn't just about chart interpretation—it's about understanding the profound responsibility that comes with guiding others through life's celestial tapestry.
+अब तक, आपने एक परिवर्तनकारी यात्रा शुरू की है। आपने नैतिक सिद्धांतों में गहराई से अध्ययन किया है, मानव मनोविज्ञान की जटिलताओं का अन्वेषण किया है, और उन सॉफ्ट स्किल्स को निखारा है जो ज्योतिषीय ज्ञान को आपके ग्राहकों के लिए एक सशक्त बल में बदल देते हैं। इन पृष्ठों में दी गई बुद्धि केवल चार्ट व्याख्या के बारे में नहीं है—यह दूसरों को जीवन के खगोलीय ताने-बाने के माध्यम से मार्गदर्शन करने की गहरी जिम्मेदारी को समझने के बारे में है।
 
-## **The Journey You've Taken**
+## **आपकी ली गई यात्रा**
 
-### **From Knowledge to Wisdom**
+### **ज्ञान से बुद्धि तक**
 
-When you opened this book, you may have been seeking to improve your astrological practice. What you've discovered is something far more profound: the art of sacred service. You've learned that:
+जब आपने इस पुस्तक को खोला, तो आप अपनी ज्योतिषीय प्रैक्टिस को सुधारने की तलाश में हो सकते हैं। लेकिन आपने जो खोजा वह कहीं अधिक गहरा है: पवित्र सेवा की कला। आपने सीखा है कि:
 
 ::: {.highlight-box}
-- Technical skill without compassion creates distance, not connection
-- Predictions without empowerment breed dependency, not growth  
-- Knowledge without wisdom can harm rather than heal
-- Practice without ethics diminishes both astrologer and client
+- तकनीकी कौशल बिना करुणा के दूरी पैदा करता है, न कि संबंध
+- भविष्यवाणियाँ बिना सशक्तिकरण के निर्भरता पैदा करती हैं, न कि विकास
+- ज्ञान बिना बुद्धि के नुकसान पहुँचा सकता है, न कि उपचार
+- अभ्यास बिना नैतिकता के ज्योतिषी और ग्राहक दोनों को कम करता है
 :::
 
-### **The Skills You've Cultivated**
+### **आपके द्वारा विकसित कौशल**
 
-Through each chapter, you've developed capabilities that extend far beyond astrology:
+प्रत्येक अध्याय के माध्यम से, आपने ऐसी क्षमताएँ विकसित की हैं जो ज्योतिष से कहीं आगे तक जाती हैं:
 
 ::: {.skills-grid}
 ::: {.skill-box}
-**Ethical Foundation**
-- Recognizing the weight of your words
-- Honoring client autonomy
-- Maintaining appropriate boundaries
-- Practicing with integrity
+**नैतिक आधार**
+- आपके शब्दों के वजन को पहचानना
+- ग्राहक की स्वायत्तता का सम्मान करना
+- उचित सीमाओं को बनाए रखना
+- ईमानदारी के साथ अभ्यास करना
 :::
 
 ::: {.skill-box}
-**Psychological Awareness**
-- Understanding human development
-- Recognizing mental health needs
-- Navigating crisis situations
-- Supporting growth and healing
+**मनोवैज्ञानिक जागरूकता**
+- मानव विकास को समझना
+- मानसिक स्वास्थ्य आवश्यकताओं को पहचानना
+- संकट स्थितियों को नेविगेट करना
+- विकास और उपचार का समर्थन करना
 :::
 
 ::: {.skill-box}
-**Communication Mastery**
-- Active listening skills
-- Empathetic responding
-- Clear explanation abilities
-- Difficult conversation navigation
+**संचार में महारत**
+- सक्रिय सुनने के कौशल
+- सहानुभूतिपूर्ण प्रतिक्रिया देना
+- स्पष्ट व्याख्या की क्षमताएँ
+- कठिन बातचीत को नेविगेट करना
 :::
 
 ::: {.skill-box}
-**Cultural Competence**
-- Respecting diverse backgrounds
-- Adapting to different contexts
-- Avoiding harmful assumptions
-- Creating inclusive spaces
+**सांस्कृतिक क्षमता**
+- विविध पृष्ठभूमियों का सम्मान करना
+- विभिन्न संदर्भों के अनुकूल होना
+- हानिकारक धारणाओं से बचना
+- समावेशी स्थान बनाना
 :::
 
 ::: {.skill-box}
-**Crisis Management**
-- Recognizing emergency situations
-- Providing appropriate support
-- Making necessary referrals
-- Maintaining professional composure
+**संकट प्रबंधन**
+- आपातकालीन स्थितियों को पहचानना
+- उचित समर्थन प्रदान करना
+- आवश्यक रेफरल करना
+- पेशेवर संयम बनाए रखना
 :::
 
 ::: {.skill-box}
-**Inner Work Commitment**
-- Regular self-reflection
-- Ongoing professional development
-- Personal healing journey
-- Sustainable self-care practices
+**आंतरिक कार्य प्रतिबद्धता**
+- नियमित आत्म-चिंतन
+- सतत पेशेवर विकास
+- व्यक्तिगत उपचार यात्रा
+- स्थायी आत्म-देखभाल प्रथाएँ
 :::
 :::
 
-## **The Ripple Effect of Your Growth**
+## **आपकी वृद्धि का प्रभाव**
 
-### **For Your Clients**
+### **आपके ग्राहकों के लिए**
 
-Your transformation creates waves of positive change:
+आपका परिवर्तन सकारात्मक बदलाव की लहरें पैदा करता है:
 
 ::: {.example-box}
-**Before This Journey:** Clients might leave sessions with interesting information but unclear direction.
+**इस यात्रा से पहले:** ग्राहक सत्रों से दिलचस्प जानकारी के साथ जा सकते हैं लेकिन अस्पष्ट दिशा के साथ।
 
-**After This Journey:** Clients leave feeling heard, understood, empowered, and equipped with practical wisdom for their path forward.
+**इस यात्रा के बाद:** ग्राहक सुने, समझे, सशक्त महसूस करते हैं और अपने आगे के रास्ते के लिए व्यावहारिक बुद्धि से लैस होते हैं।
 :::
 
-**The Sessions You'll Lead Now**
+**अब आप जो सत्र लेंगे**
 
-Imagine walking into your next consultation with this integrated awareness:
+कल्पना करें कि आप अपने अगले परामर्श में इस एकीकृत जागरूकता के साथ प्रवेश कर रहे हैं:
 
 ::: {.key-insight}
-- You hold space with genuine presence and compassion
-- You listen not just to words, but to the heart behind them
-- You interpret charts through the lens of empowerment and possibility
-- You communicate with clarity, sensitivity, and respect
-- You recognize when to speak and when to listen
-- You honor both cosmic wisdom and human complexity
+- आप सच्ची उपस्थिति और करुणा के साथ स्थान रखते हैं
+- आप केवल शब्दों को नहीं सुनते, बल्कि उनके पीछे के दिल को सुनते हैं
+- आप चार्ट की व्याख्या सशक्तिकरण और संभावना के दृष्टिकोण से करते हैं
+- आप स्पष्टता, संवेदनशीलता और सम्मान के साथ संवाद करते हैं
+- आप पहचानते हैं कि कब बोलना है और कब सुनना है
+- आप खगोलीय ज्ञान और मानव जटिलता दोनों का सम्मान करते हैं
 :::
 
-### **For the Field of Astrology**
+### **ज्योतिष के क्षेत्र के लिए**
 
-Your commitment to excellence elevates the entire profession:
+उत्कृष्टता के प्रति आपकी प्रतिबद्धता पूरे पेशे को ऊँचा उठाती है:
 
 ::: {.comparison-box}
-**Individual Practice:**
-- Ethical client interactions
-- Professional competence
-- Continued learning
-- Cultural sensitivity
+**व्यक्तिगत अभ्यास:**
+- नैतिक ग्राहक बातचीत
+- पेशेवर क्षमता
+- सतत शिक्षा
+- सांस्कृतिक संवेदनशीलता
 
-**Collective Impact:**
-- Enhanced public trust
-- Improved field reputation
-- Higher professional standards
-- Greater accessibility and respect
+**सामूहिक प्रभाव:**
+- सार्वजनिक विश्वास में वृद्धि
+- क्षेत्र की प्रतिष्ठा में सुधार
+- उच्च पेशेवर मानक
+- अधिक पहुँच और सम्मान
 :::
 
-## **The Path of Continuous Evolution**
+## **निरंतर विकास का मार्ग**
 
 ::: {.pull-quote}
-"Astrology is just a finger pointing at reality."
+"ज्योतिष केवल वास्तविकता की ओर इशारा करने वाली एक उंगली है।"
 
-— Steven Forrest
+— स्टीवन फॉरेस्ट
 :::
 
-Remember, the astrologer's path is one of constant evolution. The work you've done here is not a destination—it's the beginning of a lifelong journey of growth, service, and discovery.
+याद रखें, ज्योतिषी का मार्ग निरंतर विकास का है। यहाँ आपने जो काम किया है वह एक गंतव्य नहीं है—यह विकास, सेवा और खोज की आजीवन यात्रा की शुरुआत है।
 
-### **Your Ongoing Commitment**
+### **आपकी सतत प्रतिबद्धता**
 
-**To Your Clients**
+**अपने ग्राहकों के प्रति**
 
 ::: {.checklist-box}
-- [ ] I will continue to honor the trust placed in me
-- [ ] I will maintain the highest ethical standards
-- [ ] I will speak with both honesty and compassion
-- [ ] I will empower rather than create dependency
-- [ ] I will refer clients to appropriate resources when needed
-- [ ] I will respect diverse backgrounds and experiences
+- [ ] मैं मुझ पर रखे गए विश्वास का सम्मान करना जारी रखूँगा
+- [ ] मैं उच्चतम नैतिक मानकों को बनाए रखूँगा
+- [ ] मैं ईमानदारी और करुणा दोनों के साथ बोलूँगा
+- [ ] मैं निर्भरता पैदा करने के बजाय सशक्त बनाऊँगा
+- [ ] मैं आवश्यक होने पर ग्राहकों को उचित संसाधनों के लिए संदर्भित करूँगा
+- [ ] मैं विविध पृष्ठभूमियों और अनुभवों का सम्मान करूँगा
 :::
 
-**To Your Professional Development**
+**अपने पेशेवर विकास के प्रति**
 
 ::: {.checklist-box}
-- [ ] I will pursue ongoing education and training
-- [ ] I will seek supervision and peer consultation
-- [ ] I will contribute to the elevation of our field
-- [ ] I will research and share knowledge responsibly
-- [ ] I will maintain professional boundaries and standards
-- [ ] I will advocate for ethical practice within our community
+- [ ] मैं सतत शिक्षा और प्रशिक्षण का अनुसरण करूँगा
+- [ ] मैं पर्यवेक्षण और सहकर्मी परामर्श प्राप्त करूँगा
+- [ ] मैं हमारे क्षेत्र को ऊँचा उठाने में योगदान दूँगा
+- [ ] मैं जिम्मेदारी से ज्ञान का अनुसंधान और साझा करूँगा
+- [ ] मैं पेशेवर सीमाओं और मानकों को बनाए रखूँगा
+- [ ] मैं हमारे समुदाय के भीतर नैतिक अभ्यास की वकालत करूँगा
 :::
 
-**To Your Personal Growth**
+**अपने व्यक्तिगत विकास के प्रति**
 
 ::: {.checklist-box}
-- [ ] I will continue my own healing journey
-- [ ] I will practice regular self-reflection
-- [ ] I will maintain sustainable self-care
-- [ ] I will seek support when I need it
-- [ ] I will remain open to learning and changing
-- [ ] I will honor both my strengths and limitations
+- [ ] मैं अपनी उपचार यात्रा जारी रखूँगा
+- [ ] मैं नियमित आत्म-चिंतन का अभ्यास करूँगा
+- [ ] मैं स्थायी आत्म-देखभाल बनाए रखूँगा
+- [ ] मैं आवश्यकता होने पर समर्थन प्राप्त करूँगा
+- [ ] मैं सीखने और बदलने के लिए खुला रहूँगा
+- [ ] मैं अपनी ताकत और सीमाओं दोनों का सम्मान करूँगा
 :::
 
-## **The Vision You're Creating**
+## **आप जो दृष्टि बना रहे हैं**
 
-### **A New Standard of Practice**
+### **अभ्यास का एक नया मानक**
 
-By embodying these principles, you're helping to create a future where:
+इन सिद्धांतों को अपनाकर, आप एक ऐसा भविष्य बनाने में मदद कर रहे हैं जहाँ:
 
-- Astrology is recognized as a legitimate tool for guidance and growth
-- Spiritual counselors are respected for their competence and ethics
-- Clients receive empowering, culturally sensitive support
-- The field attracts practitioners committed to service over profit
-- Research and evidence-based practice advance astrological knowledge
+- ज्योतिष को मार्गदर्शन और विकास के लिए एक वैध उपकरण के रूप में मान्यता प्राप्त है
+- आध्यात्मिक परामर्शदाताओं को उनकी क्षमता और नैतिकता के लिए सम्मानित किया जाता है
+- ग्राहकों को सशक्त, सांस्कृतिक रूप से संवेदनशील समर्थन प्राप्त होता है
+- क्षेत्र ऐसे चिकित्सकों को आकर्षित करता है जो लाभ से अधिक सेवा के लिए प्रतिबद्ध हैं
+- अनुसंधान और साक्ष्य-आधारित अभ्यास ज्योतिषीय ज्ञान को आगे बढ़ाते हैं
 
-### **Your Unique Contribution**
+### **आपका अनूठा योगदान**
 
-No two astrologers will apply these teachings identically. Your unique background, experiences, and perspectives will shape how you serve. This diversity strengthens our field:
+कोई भी दो ज्योतिषी इन शिक्षाओं को समान रूप से लागू नहीं करेंगे। आपकी अनूठी पृष्ठभूमि, अनुभव और दृष्टिकोण यह आकार देंगे कि आप कैसे सेवा करते हैं। यह विविधता हमारे क्षेत्र को मजबूत बनाती है:
 
 ::: {.highlight-box}
-**Your Legacy:** Every ethical choice you make, every client you empower, every student you teach, every colleague you support contributes to the positive evolution of spiritual counseling and astrology.
+**आपकी विरासत:** हर नैतिक विकल्प जो आप बनाते हैं, हर ग्राहक जिसे आप सशक्त बनाते हैं, हर छात्र जिसे आप पढ़ाते हैं, हर सहयोगी जिसे आप समर्थन करते हैं, आध्यात्मिक परामर्श और ज्योतिष के सकारात्मक विकास में योगदान देता है।
 :::
 
-## **Moving Forward with Purpose**
+## **उद्देश्य के साथ आगे बढ़ना**
 
-### **Take a Deep Breath**
+### **एक गहरी साँस लें**
 
-You've done the hard work—expanding your awareness, challenging old patterns, facing the complexities of client interaction head-on. This growth isn't just for your clients; it's for YOU. You're becoming a more insightful, empathetic, and truly professional astrologer.
+आपने कठिन काम किया है—अपनी जागरूकता का विस्तार करना, पुराने पैटर्न को चुनौती देना, ग्राहक बातचीत की जटिलताओं का सीधे सामना करना। यह विकास केवल आपके ग्राहकों के लिए नहीं है; यह आपके लिए है। आप एक अधिक अंतर्दृष्टिपूर्ण, सहानुभूतिपूर्ण और वास्तव में पेशेवर ज्योतिषी बन रहे हैं।
 
-### **Envision Your Practice**
+### **अपने अभ्यास की कल्पना करें**
 
-See yourself now:
+अब अपने आप को देखें:
 
 ::: {.example-box}
-**You sit with a client, fully present and grounded. Your technical knowledge flows naturally, integrated with deep compassion and practical wisdom. You listen with your whole being, speak with clarity and care, and hold space for their discovery and growth. You are not just reading a chart—you are facilitating a sacred encounter with possibility.**
+**आप एक ग्राहक के साथ बैठते हैं, पूरी तरह से उपस्थित और स्थिर। आपका तकनीकी ज्ञान स्वाभाविक रूप से बहता है, गहरी करुणा और व्यावहारिक बुद्धि के साथ एकीकृत। आप अपने पूरे अस्तित्व के साथ सुनते हैं, स्पष्टता और देखभाल के साथ बोलते हैं, और उनकी खोज और विकास के लिए स्थान रखते हैं। आप केवल एक चार्ट नहीं पढ़ रहे हैं—आप संभावना के साथ एक पवित्र मुठभेड़ की सुविधा प्रदान कर रहे हैं।**
 :::
 
-### **The Catalyst You've Become**
+### **आप जो उत्प्रेरक बन गए हैं**
 
-This book wasn't simply information; it was a catalyst. You're ready to step into your full potential, not just as an astrologer, but as a guide who helps others tap into their own inner wisdom, guided by the celestial map.
+यह पुस्तक केवल जानकारी नहीं थी; यह एक उत्प्रेरक थी। आप अपनी पूरी क्षमता में कदम रखने के लिए तैयार हैं, न केवल एक ज्योतिषी के रूप में, बल्कि एक मार्गदर्शक के रूप में जो दूसरों को अपनी आंतरिक बुद्धि को टैप करने में मदद करता है, जो खगोलीय मानचित्र द्वारा निर्देशित है।
 
-## **A Sacred Responsibility**
+## **एक पवित्र जिम्मेदारी**
 
-### **Honoring the Trust**
+### **विश्वास का सम्मान करना**
 
-Every client who sits across from you is offering a sacred gift: their vulnerability, their questions, their hope for guidance. They trust you with their fears, dreams, and deepest concerns about their life's direction.
+हर ग्राहक जो आपके सामने बैठता है वह एक पवित्र उपहार दे रहा है: उनकी भेद्यता, उनके प्रश्न, मार्गदर्शन की उनकी आशा। वे अपने जीवन की दिशा के बारे में अपने डर, सपनों और गहरी चिंताओं के साथ आप पर भरोसा करते हैं।
 
 ::: {.key-insight}
-**Remember:** You are not the source of their answers—you are a skilled facilitator helping them discover the wisdom that already exists within them, illuminated by the cosmic patterns revealed in their chart.
+**याद रखें:** आप उनके उत्तरों का स्रोत नहीं हैं—आप एक कुशल सुविधा प्रदाता हैं जो उन्हें वह बुद्धि खोजने में मदद कर रहे हैं जो पहले से ही उनके भीतर मौजूद है, उनके चार्ट में प्रकट खगोलीय पैटर्न द्वारा प्रकाशित।
 :::
 
-### **The Lineage You Join**
+### **आप जिस परंपरा में शामिल होते हैं**
 
-You are now part of an ancient lineage of wisdom keepers—those who have always looked to the heavens for guidance and offered that guidance to others. From the astronomer-priests of Babylon to the modern psychological astrologers of today, you carry forward a tradition of service.
+अब आप ज्ञान संरक्षकों की एक प्राचीन परंपरा का हिस्सा हैं—वे जो हमेशा मार्गदर्शन के लिए आकाश की ओर देखते हैं और वह मार्गदर्शन दूसरों को प्रदान करते हैं। बेबीलोन के खगोल-पुरोहितों से लेकर आज के आधुनिक मनोवैज्ञानिक ज्योतिषियों तक, आप सेवा की परंपरा को आगे बढ़ाते हैं।
 
-But you carry it forward with new awareness, enhanced skills, and a deeper commitment to ethical practice than perhaps any generation before you.
+लेकिन आप इसे नई जागरूकता, उन्नत कौशल और शायद किसी भी पीढ़ी से अधिक गहरी नैतिक प्रैक्टिस के प्रति प्रतिबद्धता के साथ आगे बढ़ाते हैं।
 
-## **Your Legacy Begins Now**
+## **आपकी विरासत अब शुरू होती है**
 
-### **The Ripples You Create**
+### **आप जो लहरें बनाते हैं**
 
-Consider the impact of your transformed practice:
+अपने परिवर्तित अभ्यास के प्रभाव पर विचार करें:
 
-- **Client A** leaves feeling truly heard for the first time in years
-- **Client B** gains courage to pursue their authentic path
-- **Client C** finds peace with a difficult life transition
-- **Client D** discovers self-compassion through your modeling
-- **Client E** learns to trust their own inner wisdom
+- **ग्राहक ए** वर्षों में पहली बार वास्तव में सुने जाने का अनुभव करता है
+- **ग्राहक बी** अपने प्रामाणिक पथ को आगे बढ़ाने का साहस प्राप्त करता है
+- **ग्राहक सी** एक कठिन जीवन परिवर्तन के साथ शांति पाता है
+- **ग्राहक डी** आपके मॉडलिंग के माध्यम से आत्म-सहानुभूति की खोज करता है
+- **ग्राहक ई** अपनी आंतरिक बुद्धि पर भरोसा करना सीखता है
 
-Each of these individuals carries your gift of skillful service into their relationships, their communities, their own spheres of influence. The healing you facilitate ripples outward in ways you may never fully know.
+इन व्यक्तियों में से प्रत्येक आपके कुशल सेवा के उपहार को अपने रिश्तों, अपने समुदायों, अपने स्वयं के प्रभाव क्षेत्रों में ले जाता है। आप जो उपचार सुविधा प्रदान करते हैं, वह उन तरीकों से बाहर की ओर लहराता है जिन्हें आप कभी पूरी तरह से नहीं जान सकते।
 
-### **The Field You're Elevating**
+### **आप जो क्षेत्र ऊँचा उठा रहे हैं**
 
-Every session you conduct with integrity, every boundary you maintain with compassion, every referral you make with wisdom—all of this contributes to a larger transformation in how spiritual counseling and astrology are perceived and practiced.
+हर सत्र जो आप ईमानदारी के साथ करते हैं, हर सीमा जो आप करुणा के साथ बनाए रखते हैं, हर रेफरल जो आप बुद्धिमानी से करते हैं—यह सब इस बात में योगदान देता है कि आध्यात्मिक परामर्श और ज्योतिष को कैसे देखा और अभ्यास किया जाता है।
 
-You are helping to create a future where seeking astrological guidance is seen as a sign of wisdom, not superstition; where astrologers are recognized as skilled professionals, not charlatan fortune-tellers; where the ancient wisdom of the stars serves the highest good of human flourishing.
+आप एक ऐसा भविष्य बनाने में मदद कर रहे हैं जहाँ ज्योतिषीय मार्गदर्शन लेना ज्ञान का संकेत माना जाता है, अंधविश्वास का नहीं; जहाँ ज्योतिषियों को कुशल पेशेवरों के रूप में पहचाना जाता है, न कि झूठे भविष्यवक्ताओं के रूप में; जहाँ सितारों की प्राचीन बुद्धि मानव समृद्धि के उच्चतम भले के लिए सेवा करती है।
 
-## **Gratitude and Continuation**
+## **आभार और निरंतरता**
 
-### **Thank You**
+### **धन्यवाद**
 
-Thank you for choosing this book as your companion. Thank you for your commitment to growth, your dedication to ethical practice, and your willingness to do the inner work that makes authentic service possible.
+इस पुस्तक को अपने साथी के रूप में चुनने के लिए धन्यवाद। विकास के प्रति आपकी प्रतिबद्धता, नैतिक प्रैक्टिस के प्रति आपकी समर्पण, और प्रामाणिक सेवा को संभव बनाने वाले आंतरिक कार्य को करने की आपकी इच्छा के लिए धन्यवाद।
 
-Thank you for joining the ranks of those who understand that with great knowledge comes great responsibility, and for choosing to wield that responsibility with wisdom, compassion, and integrity.
+उन लोगों की पंक्तियों में शामिल होने के लिए धन्यवाद जो समझते हैं कि महान ज्ञान के साथ महान जिम्मेदारी आती है, और उस जिम्मेदारी को बुद्धि, करुणा और ईमानदारी के साथ संभालने के लिए चुनने के लिए धन्यवाद।
 
-### **The Journey Continues**
+### **यात्रा जारी है**
 
-May the lessons within these pages continue to resonate and inspire, shaping your astrological practice with integrity, compassion, and an unwavering commitment to empowering your clients.
+इन पृष्ठों के भीतर के पाठों को गूंजते और प्रेरित करते रहने दें, आपकी ज्योतिषीय प्रैक्टिस को ईमानदारी, करुणा और आपके ग्राहकों को सशक्त बनाने की अडिग प्रतिबद्धता के साथ आकार दें।
 
-May you continue to grow, learn, and evolve. May you find support in community, wisdom in experience, and joy in service. May your practice be a source of healing for others and fulfillment for yourself.
+आप बढ़ते रहें, सीखते रहें और विकसित होते रहें। आपको समुदाय में समर्थन मिले, अनुभव में बुद्धि मिले, और सेवा में आनंद मिले। आपकी प्रैक्टिस दूसरों के लिए उपचार और आपके लिए पूर्ति का स्रोत हो।
 
-And may you always remember that the stars themselves are shining a little brighter because of your dedication to this sacred work.
+और हमेशा याद रखें कि सितारे स्वयं थोड़े अधिक चमक रहे हैं क्योंकि आप इस पवित्र कार्य के प्रति समर्पित हैं।
 
-The cosmos has been waiting for guides like you—those who combine ancient wisdom with modern understanding, technical skill with human compassion, and professional competence with genuine care.
+ब्रह्मांड ऐसे मार्गदर्शकों की प्रतीक्षा कर रहा है जैसे आप—जो प्राचीन ज्ञान को आधुनिक समझ, तकनीकी कौशल को मानवीय करुणा, और पेशेवर क्षमता को सच्ची देखभाल के साथ जोड़ते हैं।
 
-Your legacy as a cosmic guide begins now.
+आपकी विरासत एक खगोलीय मार्गदर्शक के रूप में अब शुरू होती है।
 
 ::: {.pull-quote}
-"The stars impel, they do not compel. You are the author of your own story, and astrology is simply one of the tools that can help you write it with greater awareness and intention."
+"सितारे प्रेरित करते हैं, बाध्य नहीं करते। आप अपनी कहानी के लेखक हैं, और ज्योतिष केवल उन उपकरणों में से एक है जो आपको इसे अधिक जागरूकता और इरादे के साथ लिखने में मदद कर सकता है।"
 
-— Your wisdom, integrated and ready to serve
+— आपकी बुद्धि, एकीकृत और सेवा के लिए तैयार
 :::

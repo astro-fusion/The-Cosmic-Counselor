@@ -1,157 +1,43 @@
-## 📝 Knowledge Check Quiz {.quiz-title}
+## 📝 ज्ञान जांच क्विज़ {.quiz-title}
 
 ::: {.quiz-box}
-**1. What is a crucial step in building a lasting legacy as a cosmic guide?**
+**1. एक खगोलीय मार्गदर्शक के रूप में एक स्थायी विरासत बनाने में एक महत्वपूर्ण कदम क्या है?**
 
-A) Focusing solely on gaining a large following  
-B) Documenting and sharing your unique insights and methodologies  
-C) Keeping your practices and techniques secret  
-D) Avoiding collaboration with other astrologers
+A) केवल एक बड़ी फॉलोइंग प्राप्त करने पर ध्यान केंद्रित करना  
+B) अपनी अनूठी अंतर्दृष्टि और कार्यप्रणालियों को दस्तावेज़ित करना और साझा करना  
+C) अपने अभ्यास और तकनीकों को गुप्त रखना  
+D) अन्य ज्योतिषियों के साथ सहयोग से बचना
 
-**2. The most important aspect of your legacy as an astrologer is:**
+**2. एक ज्योतिषी के रूप में आपकी विरासत का सबसे महत्वपूर्ण पहलू है:**
 
-A) The number of clients you've served  
-B) The accuracy of your predictions  
-C) The positive impact you've had on clients' lives and the field  
-D) The amount of money you've earned
+A) आपने जिन ग्राहकों की सेवा की है उनकी संख्या  
+B) आपकी भविष्यवाणियों की सटीकता  
+C) ग्राहकों के जीवन और क्षेत्र पर आपका सकारात्मक प्रभाव  
+D) आपने जो पैसा कमाया है
 
-**3. Scenario: You want to ensure that your contributions to astrology are recognized and continue to benefit others after you retire. What steps should you take?**
+**3. परिदृश्य: आप यह सुनिश्चित करना चाहते हैं कि आपकी ज्योतिष में योगदान को पहचाना जाए और आपकी सेवानिवृत्ति के बाद भी दूसरों को लाभ मिलता रहे। आपको कौन से कदम उठाने चाहिए?**
 
-A) Publish your work in reputable journals and books, and mentor upcoming astrologers  
-B) Keep your knowledge within a small, exclusive group  
-C) Focus on commercializing your techniques for maximum profit  
-D) Retire quietly without making arrangements for your work to continue
+A) अपने काम को प्रतिष्ठित पत्रिकाओं और पुस्तकों में प्रकाशित करें, और आगामी ज्योतिषियों को सलाह दें  
+B) अपने ज्ञान को एक छोटे, विशेष समूह तक सीमित रखें  
+C) अधिकतम लाभ के लिए अपनी तकनीकों का व्यावसायीकरण करने पर ध्यान केंद्रित करें  
+D) बिना किसी व्यवस्था के चुपचाप सेवानिवृत्त हो जाएं
 
-**4. The transformation described in this book primarily focuses on:**
+**4. इस पुस्तक में वर्णित परिवर्तन मुख्य रूप से किस पर केंद्रित है?**
 
-A) Learning more astrological techniques  
-B) Developing the soft skills that make astrological knowledge empowering  
-C) Building a larger client base  
-D) Memorizing more chart meanings
+A) अधिक ज्योतिषीय तकनीकों को सीखना  
+B) उन सॉफ्ट स्किल्स को विकसित करना जो ज्योतिषीय ज्ञान को सशक्त बनाते हैं  
+C) एक बड़ा ग्राहक आधार बनाना  
+D) अधिक चार्ट अर्थों को याद करना
 
-**5. Your role as a cosmic guide means you are:**
+**5. एक खगोलीय मार्गदर्शक के रूप में आपकी भूमिका का अर्थ है कि आप:**
 
-A) The source of all your clients' answers  
-B) A skilled facilitator helping clients discover their own inner wisdom  
-C) Responsible for making all your clients' decisions  
-D) Required to predict every aspect of their future
+A) अपने सभी ग्राहकों के उत्तरों का स्रोत हैं  
+B) एक कुशल सुविधा प्रदाता हैं जो ग्राहकों को उनकी अपनी आंतरिक बुद्धि खोजने में मदद करते हैं  
+C) अपने सभी ग्राहकों के निर्णय लेने के लिए जिम्मेदार हैं  
+D) उनके भविष्य के हर पहलू की भविष्यवाणी करने के लिए बाध्य हैं
 
-**6. The ripple effect of ethical astrological practice contributes to:**
+**6. नैतिक ज्योतिषीय अभ्यास का प्रभाव लहरें पैदा करता है जो योगदान देता है:**
 
-A) Personal profit only  
-B) Individual client satisfaction only  
-C) Elevating the entire field and creating positive change in the world  
-D) Keeping astrological knowledge exclusive
-
-<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
-
-::: {.answers-content style="display: none;"}
-**Answer Key:** 1-B, 2-C, 3-A, 4-B, 5-B, 6-C
-:::
-:::
-
----
-
-## 📊 Final Self-Assessment: Your Legacy as a Cosmic Guide
-
-::: {.assessment-box}
-
-**Rate yourself honestly (1 = Need work, 5 = Very confident):**
-
-::: {.rating-scale}
-**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
-:::
-
-**Legacy Building and Mentorship:**
-
-How committed are you to mentoring and supporting the next generation of astrologers?
-
-How willing are you to share knowledge and insights that benefit the field?
-
-How focused are you on creating positive change beyond your individual practice?
-
-**Knowledge Sharing and Documentation:**
-
-How effectively do you document and share your unique insights and methodologies?
-
-How consistently do you contribute to astrological knowledge through writing, teaching, or research?
-
-How well do you balance sharing wisdom with respecting proprietary knowledge?
-
-**Long-term Impact and Vision:**
-
-How focused are you on ensuring your work has a long-term impact on the field of astrology?
-
-How well do you integrate ethical principles with practical astrological work?
-
-How committed are you to elevating professional standards in astrology?
-
-**Personal and Professional Integration:**
-
-How successfully have you integrated the soft skills from this book into your practice?
-
-How well do you balance technical astrological knowledge with human compassion?
-
-How effectively do you empower clients rather than create dependency?
-
-**Continued Growth and Evolution:**
-
-How committed are you to lifelong learning and professional development?
-
-How well do you maintain the balance between confidence and humility in your practice?
-
-How effectively do you contribute to positive change in your community and field?
-
-**Reflection Questions:**
-
-1. What legacy do you want to leave in the field of astrology?
-2. How has your understanding of your role as a cosmic guide evolved through this book?
-3. What specific steps will you take to ensure your positive impact continues?
-
-::: {.writing-space}
-*Space for your final reflections on your journey and future commitments...*
-:::
-
-:::
-
----
-
-## 🎯 Your Continuing Journey: Action Steps
-
-::: {.action-box}
-
-**Immediate Actions (This Month):**
-
-- [ ] Create a personal mission statement for your astrological practice
-- [ ] Establish regular self-reflection and professional development practices
-- [ ] Connect with or join professional astrological organizations
-- [ ] Begin documenting your unique insights and methodologies
-
-**Short-term Goals (Next 6 Months):**
-
-- [ ] Implement all the soft skills and ethical practices from this book
-- [ ] Seek mentorship or establish peer consultation relationships
-- [ ] Contribute knowledge to the astrological community (writing, teaching, presenting)
-- [ ] Develop a plan for ongoing professional education
-
-**Long-term Vision (Next 1-3 Years):**
-
-- [ ] Mentor emerging astrologers or spiritual counselors
-- [ ] Contribute to research or publications in astrology
-- [ ] Advocate for professional standards and ethical practice
-- [ ] Create systems to ensure your positive impact continues
-
-**Legacy Planning (Ongoing):**
-
-- [ ] Document your unique approaches and insights
-- [ ] Build relationships that support the field's growth
-- [ ] Contribute to positive change in how astrology is perceived and practiced
-- [ ] Ensure your work benefits others beyond your individual practice
-:::
-
-## **Final Reflection**
-
-*You began this journey seeking to improve your astrological practice. You've discovered something far greater: your role as a guide, healer, and wisdom keeper. The stars have been waiting for practitioners like you—those who combine ancient wisdom with modern understanding, technical skill with human compassion, and professional competence with genuine care. Your legacy begins not with grand gestures, but with every ethical choice, every empowered client, every moment of authentic service. The cosmos itself is enriched by your commitment to this sacred work.*
-
-<script src="../scripts/quiz-interactions.js"></script>
+A) केवल व्यक्तिगत लाभ  
+B) केवल व्यक्तिगत ग्राहक संतोष
 
