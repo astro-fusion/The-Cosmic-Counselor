@@ -81,9 +81,8 @@ format:
           \usepackage{amsmath}
           \usepackage{amsfonts}
           \usepackage{amssymb}
-          \usepackage{polyglossia}
-          \setdefaultlanguage{nepali}
-          \setotherlanguage{english}
+          \usepackage{fontspec}
+          \setmainfont{Noto Sans Devanagari}
     
   epub:
     toc: true
