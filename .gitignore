@@ -63,3 +63,6 @@ Thumbs.db
 *.tmp
 *.bak
 *~
+
+# generated files and folder for quarto builds
+generated/
