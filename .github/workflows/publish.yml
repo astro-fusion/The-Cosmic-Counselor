@@ -31,7 +31,7 @@ jobs:
         run: quarto render --to html
 
       - name: Build Hindi version
-        run: quarto render --project translations/hi/_quarto.yml --to html
+        run: cd translations/hi && quarto render --to html
 
       - name: Build Nepali version
         run: quarto render --project translations/ne/_quarto.yml --to html
@@ -73,15 +73,18 @@ jobs:
 
       - name: Build English formats
         run: |
-          quarto render --to pdf,epub
+          quarto render --to pdf
+          quarto render --to epub
 
       - name: Build Hindi formats
         run: |
-          quarto render --project translations/hi/_quarto.yml --to pdf,epub
+          quarto render --project translations/hi/_quarto.yml --to pdf
+          cd translations/hi && quarto render --to epub
 
       - name: Build Nepali formats
         run: |
-          quarto render --project translations/ne/_quarto.yml --to pdf,epub
+          quarto render --project translations/ne/_quarto.yml --to pdf
+          quarto render --project translations/ne/_quarto.yml --to epub
 
       - name: Get current date
         id: date
