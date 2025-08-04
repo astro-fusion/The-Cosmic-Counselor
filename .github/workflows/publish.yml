@@ -31,7 +31,7 @@ jobs:
         run: quarto render --to html
 
       - name: Build Hindi version
-        run: quarto render --project translations/hi/_quarto.yml --to html
+        run: cd translations/hi && quarto render --to html
 
       - name: Build Nepali version
         run: quarto render --project translations/ne/_quarto.yml --to html
@@ -79,7 +79,7 @@ jobs:
       - name: Build Hindi formats
         run: |
           quarto render --project translations/hi/_quarto.yml --to pdf
-          quarto render --project translations/hi/_quarto.yml --to epub
+          cd translations/hi && quarto render --to epub
 
       - name: Build Nepali formats
         run: |
