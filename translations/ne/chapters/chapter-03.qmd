@@ -1,0 +1,10 @@
+## Ethics in Action
+
+<!-- ## Main Content -->
+{{< include chapter-03/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-03/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-03/quiz.qmd >}}

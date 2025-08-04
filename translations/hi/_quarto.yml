@@ -1,0 +1,113 @@
+project:
+  type: book
+  output-dir: _book/hi
+  resources:
+    - ../../scripts/
+    - ../../styles/
+
+# Hindi configuration
+lang: hi
+book:
+  title: "द कॉस्मिक काउंसलर"
+  subtitle: "आधुनिक समय में नैतिक आध्यात्मिक मार्गदर्शन"
+  author: "बिशाल घिमिरे"
+  
+  chapters:
+    # Home page with all frontmatter
+    - index.qmd
+
+    # Frontmatter
+    - part: "प्रारंभिक सामग्री"
+      chapters:
+        - frontmatter/prologue.qmd
+        - frontmatter/foreword.qmd
+        - frontmatter/gratitude.qmd
+        - frontmatter/preface.qmd
+    
+    # Main chapters
+    - part: "अध्याय"
+      chapters:
+        - chapters/chapter-01.qmd
+        - chapters/chapter-02.qmd
+        - chapters/chapter-03.qmd
+        - chapters/chapter-04.qmd
+        - chapters/chapter-05.qmd
+        - chapters/chapter-06.qmd
+        - chapters/chapter-07.qmd
+        - chapters/chapter-08.qmd
+        - chapters/chapter-09.qmd
+        - chapters/chapter-10.qmd
+        - chapters/chapter-11.qmd
+        - chapters/chapter-12.qmd
+    
+    # Backmatter
+    - part: "परिशिष्ट"
+      chapters:
+        - backmatter/references.qmd
+        - backmatter/author.qmd
+        - backmatter/summary.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css:
+      - ../../styles/global.css
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    lang: hi
+    
+  pdf:
+    documentclass: book
+    toc: true
+    number-sections: true
+    keep-tex: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.2in
+      - right=1in
+    fontsize: 11pt
+    linestretch: 1.2
+    bibliography: ../../references.bib
+    csl: https://www.zotero.org/styles/apa
+    cite-method: natbib
+    biblio-style: apalike
+    include-in-header:
+      - text: |
+          \usepackage{enumitem}
+          \usepackage{amsmath}
+          \usepackage{amsfonts}
+          \usepackage{amssymb}
+          \usepackage{fontspec}
+          \setmainfont{Noto Sans Devanagari}
+    
+  epub:
+    toc: true
+    number-sections: true
+    lang: hi
+
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
+
+# Global bibliography settings
+bibliography: ../../references.bib
+
+# GitHub Pages configuration  
+website:
+  site-url: "https://astro-fusion.github.io/The-Cosmic-Counselor/hi"
+  repo-url: "https://github.com/astro-fusion/The-Cosmic-Counselor"
+  title: "द कॉस्मिक काउंसलर"
+  navbar:
+    title: "द कॉस्मिक काउंसलर"
+    right:
+      - icon: github
+        href: https://github.com/astro-fusion/The-Cosmic-Counselor
+
+publish:
+  - provider: gh-pages
+    url: "https://astro-fusion.github.io/The-Cosmic-Counselor/hi" 

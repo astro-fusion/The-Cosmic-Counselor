@@ -1,0 +1,39 @@
+---
+title: "द कॉस्मिक काउंसलर"
+subtitle: "आधुनिक समय में नैतिक आध्यात्मिक मार्गदर्शन"
+author: "बिशाल घिमिरे"
+format:
+  html:
+    toc: true
+    number-sections: true
+  pdf:
+    toc: true
+    number-sections: true
+    documentclass: book
+    papersize: letter
+    fontsize: 11pt
+    linestretch: 1.2
+---
+
+# प्रस्तावना
+
+"द कॉस्मिक काउंसलर" आध्यात्मिक परामर्शदाताओं के लिए एक मार्गदर्शक पुस्तक है। यह पुस्तक नैतिक अभ्यास, सांस्कृतिक संवेदनशीलता, और आत्म-देखभाल के लिए बुनियादी सिद्धांत प्रदान करती है।
+
+## अध्याय
+
+- [अध्याय १: ब्रह्मांडीय आह्वान](chapters/chapter-01.qmd)
+- [अध्याय २: तारों में संदेह](chapters/chapter-02.qmd)
+- [अध्याय ३: नैतिक कार्य](chapters/chapter-03.qmd)
+- [अध्याय ४: नैतिक नेविगेशन](chapters/chapter-04.qmd)
+- [अध्याय ५: संदर्भ का समय](chapters/chapter-05.qmd)
+- [अध्याय ६: सत्र से प्रणाली तक](chapters/chapter-06.qmd)
+- [अध्याय ७: मंच तैयार करना](chapters/chapter-07.qmd)
+- [अध्याय ८: परामर्श से परे](chapters/chapter-08.qmd)
+- [अध्याय ९: कुशल संचार](chapters/chapter-09.qmd)
+- [अध्याय १०: परामर्श से परे](chapters/chapter-10.qmd)
+- [अध्याय ११: ज्योतिषी का प्रतिबिंब](chapters/chapter-11.qmd)
+- [अध्याय १२: आपकी विरासत](chapters/chapter-12.qmd)
+
+## धन्यवाद
+
+यह पुस्तक आध्यात्मिक अभ्यास में नैतिक मानकों को ऊंचा करने के लिए काम करने वाले सभी लोगों को समर्पित है।

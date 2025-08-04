@@ -5,6 +5,22 @@ project:
     - scripts/
     - styles/
 
+# Multilingual configuration
+lang: en
+languages:
+  en:
+    title: "The Cosmic Counselor"
+    subtitle: "Ethical Spiritual Guidance in Modern Times"
+    author: "Bishal Ghimire"
+  hi:
+    title: "द कॉस्मिक काउंसलर"
+    subtitle: "आधुनिक समय में नैतिक आध्यात्मिक मार्गदर्शन"
+    author: "बिशाल घिमिरे"
+  ne:
+    title: "द कस्मिक काउन्सेलर"
+    subtitle: "आधुनिक समयमा नैतिक आध्यात्मिक मार्गदर्शन"
+    author: "बिशाल घिमिरे"
+
 book:
   title: "The Cosmic Counselor"
   subtitle: "Ethical Spiritual Guidance in Modern Times"
@@ -39,7 +55,7 @@ book:
         - chapters/chapter-12.qmd
     
     # Backmatter
-    - part: "Backmatter Matter"
+    - part: "Backmatter"
       chapters:
         - backmatter/references.qmd
         - backmatter/author.qmd
@@ -70,7 +86,7 @@ format:
     linestretch: 1.2
     # Bibliography settings
     bibliography: references.bib
-    csl: https://www.zotero.org/styles/apa  # Use online CSL
+    csl: https://www.zotero.org/styles/apa
     cite-method: natbib
     biblio-style: apalike
     
@@ -86,7 +102,13 @@ format:
     toc: true
     number-sections: true
 
-# Global bibliography settings (remove the duplicate local reference)
+  # Add DOCX for better Scribus compatibility
+  docx:
+    toc: true
+    number-sections: true
+    highlight-style: github
+
+# Global bibliography settings
 bibliography: references.bib
 
 # GitHub Pages configuration  

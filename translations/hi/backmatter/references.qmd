@@ -1,0 +1,97 @@
+# संदर्भ {.unnumbered}
+
+## अनुशंसित पठन
+
+::: {.references-container}
+
+### अध्याय 3: ज्योतिषी का कम्पास: नैतिकता का अनुप्रयोग
+
+#### गोपनीयता और ग्राहक की निजता
+- American Counseling Association. (2014). *ACA Code of Ethics*. Retrieved from [https://www.counseling.org/resources/aca-code-of-ethics.pdf](https://www.counseling.org/resources/aca-code-of-ethics.pdf)
+- British Association for Counselling and Psychotherapy. (2018). *Ethical Framework for the Counselling Professions*. Retrieved from [https://www.bacp.co.uk/events-and-resources/ethics-and-standards/ethical-framework-for-the-counselling-professions/](https://www.bacp.co.uk/events-and-resources/ethics-and-standards/ethical-framework-for-the-counselling-professions/)
+
+#### ईमानदारी और पारदर्शिता
+- International Association for Astrological Research. (2024). *Ethical Guidelines for Astrological Practice*. Retrieved from [https://www.isar-astrology.com/ethics](https://www.isar-astrology.com/ethics)
+- Times of India. (2024). *Stars and Standards: Ethical Considerations in the Practice of Astrology*. Retrieved from [https://timesofindia.indiatimes.com/astrology/others/stars-and-standards-ethical-considerations-in-the-practice-of-astrology/articleshow/108849481.cms](https://timesofindia.indiatimes.com/astrology/others/stars-and-standards-ethical-considerations-in-the-practice-of-astrology/articleshow/108849481.cms)
+
+#### अहित न करना और उपकार करना
+- Study.com. (2024). *Ethics in Counseling | Overview, Guidelines & Issues*. Retrieved from [https://study.com/academy/lesson/the-importance-of-ethics-in-counseling.html](https://study.com/academy/lesson/the-importance-of-ethics-in-counseling.html)
+
+#### सांस्कृतिक संवेदनशीलता
+- Floyd, R. (2023). *Understanding the Psychological Significance of Astrology in Modern Society*. Retrieved from [https://dsc.duq.edu/cgi/viewcontent.cgi?article=3262&context=etd](https://dsc.duq.edu/cgi/viewcontent.cgi?article=3262&context=etd)
+
+### अध्याय 4: मन को समझना: ज्योतिषियों के लिए मनोविज्ञान
+
+#### विश्वास की शक्ति और पुष्टि पूर्वाग्रह
+- Simply Psychology. (2019). *Confirmation Bias in Psychology: Definition & Examples*. Retrieved from [https://www.simplypsychology.org/confirmation-bias.html](https://www.simplypsychology.org/confirmation-bias.html)
+- American Management Association. (2019). *The Power of Belief*. Retrieved from [https://www.amanet.org/articles/the-power-of-belief/](https://www.amanet.org/articles/the-power-of-belief/)
+- Snyder, M., & Cantor, N. (1979). Testing hypotheses about other people: The use of historical knowledge. *Journal of Experimental Social Psychology*, 15(4), 330–342.
+
+#### भेद्यता और तनाव का प्रभाव
+- Haddadi, P., & Besharat, M. A. (2010). Resilience, vulnerability and mental health. *Procedia - Social and Behavioral Sciences*, 5, 639-642. [https://www.sciencedirect.com/science/article/pii/S1877042810015314](https://www.sciencedirect.com/science/article/pii/S1877042810015314)
+- National Center for Biotechnology Information. (2008). *Stress and Health: Psychological, Behavioral, and Biological Determinants*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2568977/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2568977/)
+
+### अध्याय 5: नैतिक नेविगेशन: अखंडता के लिए मार्गदर्शन
+
+#### हानिकारक रूढ़ियों से बचाव
+- Grant, A. (2024). *We need to talk about astrology*. Retrieved from [https://adamgrant.substack.com/p/we-need-to-talk-about-astrology](https://adamgrant.substack.com/p/we-need-to-talk-about-astrology)
+
+#### सांस्कृतिक दक्षता
+- Ruggles, C. (Ed.). (2014). *Handbook of Archaeoastronomy and Ethnoastronomy*. Springer, New York, NY. [https://doi.org/10.1007/978-1-4614-6141-8_16](https://doi.org/10.1007/978-1-4614-6141-8_16)
+
+#### पेशेवर आचरण
+- Organization for Professional Astrology. (2021). *OPA Ethical Guidelines*. Retrieved from [https://opaastrology.org/about-opa/code-of-ethics/](https://opaastrology.org/about-opa/code-of-ethics/)
+
+### अध्याय 6: मनोवैज्ञानिक कल्याण: कब संदर्भित करना है
+
+#### बायो-साइको-सोशल (BPS) मॉडल
+- Physiopedia. (2024). *Biopsychosocial Model*. Retrieved from [https://www.physio-pedia.com/Biopsychosocial_Model](https://www.physio-pedia.com/Biopsychosocial_Model)
+- Tripathi, A., & Das, A. (2019). Biopsychosocial Model in Contemporary Psychiatry: Current Validity and Future Prospects. *Indian Journal of Psychological Medicine*, 41(6), 582-585. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875848/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6875848/)
+
+#### मूड और चिंता विकार
+- Cleveland Clinic. (2024). *Mood Disorders: What They Are, Symptoms & Treatment*. Retrieved from [https://my.clevelandclinic.org/health/diseases/17843-mood-disorders](https://my.clevelandclinic.org/health/diseases/17843-mood-disorders)
+- World Health Organization. (2023). *Anxiety disorders*. Retrieved from [https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders](https://www.who.int/news-room/fact-sheets/detail/anxiety-disorders)
+
+### अध्याय 7: सत्र से प्रणाली: कुशल रिकॉर्ड कीपिंग
+
+#### संरक्षित स्वास्थ्य जानकारी (PHI)
+- U.S. Department of Health and Human Services. (2024). *HIPAA Privacy Rule and Sharing Information Related to Mental Health*. Retrieved from [https://www.hhs.gov/sites/default/files/hipaa-privacy-rule-and-sharing-info-related-to-mental-health.pdf](https://www.hhs.gov/sites/default/files/hipaa-privacy-rule-and-sharing-info-related-to-mental-health.pdf)
+
+#### दस्तावेज़ीकरण का महत्व
+- Mentalyc. (2024). *Why is documentation important in Mental health Treatment?* Retrieved from [https://www.mentalyc.com/blog/important-of-documentation-in-mental-health-treatment](https://www.mentalyc.com/blog/important-of-documentation-in-mental-health-treatment)
+
+### अध्याय 8: मंच तैयार करना: ग्राहक सशक्तिकरण और पवित्र स्थान
+
+#### पवित्र स्थान निर्माण
+- Wright, S. (2023). Making (sacred) space for staff renewal and transformation. *Journal of Holistic Healthcare*, 15(1). Retrieved from [https://bhma.org/making-sacred-space-for-staff-renewal-and-transformation/](https://bhma.org/making-sacred-space-for-staff-renewal-and-transformation/)
+
+#### अभ्यास में सुरक्षा
+- NCBI. (2023). *The Functions of Safety in Psychotherapy: An Integrative Theoretical Review*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405669/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10405669/)
+
+### अध्याय 9: सत्र का दिल: कुशल संचार
+
+#### विश्वास और संबंध बनाना
+- Bradley University Online. (2023). *Building Trust with Counseling Clients*. Retrieved from [https://onlinedegrees.bradley.edu/blog/building-trust-with-counseling-clients/](https://onlinedegrees.bradley.edu/blog/building-trust-with-counseling-clients/)
+- NCBI. (2019). *Trust and respect in the patient-clinician relationship*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6937966/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6937966/)
+
+#### सक्रिय सुनने के कौशल
+- Positive Psychology. (2016). *Active Listening: The Art of Empathetic Conversation*. Retrieved from [https://positivepsychology.com/active-listening/](https://positivepsychology.com/active-listening/)
+
+#### आवश्यक परामर्श कौशल
+- Lesley University. (2023). *6 Critical Skills Every Counselor Should Cultivate*. Retrieved from [https://lesley.edu/article/6-critical-skills-every-counselor-should-cultivate](https://lesley.edu/article/6-critical-skills-every-counselor-should-cultivate)
+
+### अध्याय 10: परामर्श से परे: अनुसंधान और क्षेत्र को ऊंचा करना
+
+#### परामर्श में अनुसंधान
+- National Center for Biotechnology Information. (2011). *Strategies for Training Counselors in Evidence-Based Treatments*. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3120122/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3120122/)
+- British Association for Counselling and Psychotherapy. (2024). *Research Resources*. Retrieved from [https://www.bacp.co.uk/about-us/advancing-the-profession/research/](https://www.bacp.co.uk/about-us/advancing-the-profession/research/)
+
+### अध्याय 11: ज्योतिषी का प्रतिबिंब: आंतरिक कार्य, बाहरी प्रभाव
+
+#### आत्म-देखभाल और पेशेवर विकास
+- Positive Psychology. (2021). *Self-Disclosure in Therapy and Counseling: 7 Examples*. Retrieved from [https://positivepsychology.com/self-disclosure-in-counseling/](https://positivepsychology.com/self-disclosure-in-counseling/)
+
+#### अभ्यास में माइंडफुलनेस
+- American Psychological Association. (2023). *Mindfulness meditation: A research-proven way to reduce stress*. Retrieved from [https://www.apa.org/topics/mindfulness/meditation](https://www.apa.org/topics/mindfulness/meditation)
+
+:::

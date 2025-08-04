@@ -1,0 +1,10 @@
+## नैतिकता का क्रियान्वयन
+
+<!-- ## मुख्य सामग्री -->
+{{< include chapter-05/index.qmd >}}
+
+<!-- ## अभ्यास अभ्यास -->
+{{< include chapter-05/practice.qmd >}}
+
+<!-- ## ज्ञान जांच -->
+{{< include chapter-05/quiz.qmd >}}

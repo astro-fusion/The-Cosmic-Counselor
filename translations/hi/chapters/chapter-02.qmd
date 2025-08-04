@@ -1,0 +1,10 @@
+## संशय से तारों तक
+
+<!-- ## मुख्य सामग्री -->
+{{< include chapter-02/index.qmd >}}
+
+<!-- ## अभ्यास अभ्यास -->
+{{< include chapter-02/practice.qmd >}}
+
+<!-- ## ज्ञान जांच -->
+{{< include chapter-02/quiz.qmd >}} 

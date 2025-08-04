@@ -1,0 +1,10 @@
+## Setting the Stage
+
+<!-- ## Main Content -->
+{{< include chapter-08/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-08/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-08/quiz.qmd >}}

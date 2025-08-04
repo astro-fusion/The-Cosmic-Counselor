@@ -1,0 +1,10 @@
+## Psychology for Astrologers
+
+<!-- ## Main Content -->
+{{< include chapter-04/index.qmd >}}
+
+<!-- ## Practice Exercises -->
+{{< include chapter-04/practice.qmd >}}
+
+<!-- ## Knowledge Check   -->
+{{< include chapter-04/quiz.qmd >}}
