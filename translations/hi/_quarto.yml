@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: _book/hi
+  output-dir: ../../generated/hi
   resources:
     - ../../scripts/
     - ../../styles/
@@ -110,4 +110,4 @@ website:
 
 publish:
   - provider: gh-pages
-    url: "https://astro-fusion.github.io/The-Cosmic-Counselor/hi" 
+    url: "https://astro-fusion.github.io/The-Cosmic-Counselor/hi"
