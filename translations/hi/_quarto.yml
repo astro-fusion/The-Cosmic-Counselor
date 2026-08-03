@@ -81,8 +81,6 @@ format:
           \usepackage{amsmath}
           \usepackage{amsfonts}
           \usepackage{amssymb}
-          \usepackage{fontspec}
-          \setmainfont{Noto Sans Devanagari}
     
   epub:
     toc: true
