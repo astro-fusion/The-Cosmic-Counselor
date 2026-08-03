@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: ../../generated/ne
+  output-dir: ../../_book/ne
   resources:
     - ../../scripts/
     - ../../styles/

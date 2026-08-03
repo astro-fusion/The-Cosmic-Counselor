@@ -31,10 +31,26 @@ jobs:
         run: quarto render --to html
 
       - name: Build Hindi version
-        run: cd translations/hi && quarto render --to html
+        run: quarto render --project translations/hi/_quarto.yml --to html
 
       - name: Build Nepali version
         run: quarto render --project translations/ne/_quarto.yml --to html
+
+      - name: Create language selector index page
+        run: |
+          cat << 'EOF' > _book/index.html
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="refresh" content="0; url=index.html">
+            <title>The Cosmic Counselor</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="index.html">The Cosmic Counselor</a>...</p>
+          </body>
+          </html>
+          EOF
 
       - name: Debug - List generated files
         run: |

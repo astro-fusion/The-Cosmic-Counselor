@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: ../../generated/hi
+  output-dir: ../../_book/hi
   resources:
     - ../../scripts/
     - ../../styles/
