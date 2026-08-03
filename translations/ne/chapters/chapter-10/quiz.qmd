@@ -51,14 +51,7 @@ D) वैज्ञानिक समुदायबाट विरोध
 >
   उत्तरहरू देखाउनुहोस्
 </button>
- ...
-::: {.answers-content style="display: none;" #chapter10-answers}
-  aria-expanded="false"
-  aria-controls="chapter10-answers"
->
-  उत्तरहरू देखाउनुहोस्
-</button>
- ...
+
 ::: {.answers-content style="display: none;" #chapter10-answers}
 **उत्तर कुञ्जी:** १-B, २-C, ३-C, ४-B, ५-B, ६-C
 :::

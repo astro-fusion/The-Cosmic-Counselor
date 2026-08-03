@@ -51,14 +51,7 @@ D) Opposition from the scientific community
 >
   Show answers
 </button>
- ...
-::: {.answers-content style="display: none;" #chapter10-answers}
-  aria-expanded="false"
-  aria-controls="chapter10-answers"
->
-  Show answers
-</button>
- ...
+
 ::: {.answers-content style="display: none;" #chapter10-answers}
 **Answer Key:** 1-B, 2-C, 3-C, 4-B, 5-B, 6-C
 :::
