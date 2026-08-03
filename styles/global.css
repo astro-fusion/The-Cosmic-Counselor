@@ -1168,6 +1168,16 @@ body {
   }
 }
 
+/* EPUB / E-reader Fallback: always display answers if script support is disabled */
+@media print {
+  .answers-content {
+    display: block !important;
+  }
+  .show-answers-btn {
+    display: none !important;
+  }
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .exercise-box,

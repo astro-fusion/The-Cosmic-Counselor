@@ -1,4 +1,4 @@
-## Cosmic Calling
+# Cosmic Calling
 <!-- ## Main Content -->
 {{< include chapter-01/index.qmd >}}
 

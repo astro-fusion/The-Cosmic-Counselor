@@ -1,4 +1,4 @@
-## Skepticism to Stars
+# Skepticism to Stars
 
 <!-- ## Main Content -->
 {{< include chapter-02/index.qmd >}}

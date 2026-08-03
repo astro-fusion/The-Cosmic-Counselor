@@ -1,4 +1,4 @@
-## Psychological Well-Being
+# Psychological Well-Being
 
 <!-- ## Main Content -->
 {{< include chapter-06/index.qmd >}}

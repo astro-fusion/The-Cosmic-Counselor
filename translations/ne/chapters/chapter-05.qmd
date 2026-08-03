@@ -1,4 +1,4 @@
-## Ethical Navigation
+# Ethical Navigation
 
 <!-- ## Main Content -->
 {{< include chapter-05/index.qmd >}}

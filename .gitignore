@@ -66,3 +66,5 @@ Thumbs.db
 
 # generated files and folder for quarto builds
 generated/
+
+**/*.quarto_ipynb

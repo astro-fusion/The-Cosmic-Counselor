@@ -92,16 +92,25 @@ Before contributing, ensure you have:
 - Include proper file paths in code blocks
 - Maintain consistency with existing formatting
 
-**✅ Quarto/Markdown Formatting**
+**✅ Clean & Simple Markdown Guidelines**
+- **Keep files in standard Markdown**: Write content in standard, clean Markdown so non-technical authors and editors can easily read and edit files without encountering complex HTML tags or inline CSS styles.
+- **Avoid Inline HTML/JS**: Do not write embedded `<button>`, `<script>`, or inline `style="..."` attributes inside `.qmd` or `.md` files.
+- **Use Standard Quarto Callouts**: When visual boxes are needed, use native Quarto syntax (e.g. `::: {.callout-note}` or `::: {.highlight-box}`) rather than raw `<div>` or HTML markup.
+- **Heading Hierarchy**:
+  - Main chapter titles in root files use single hash `# Chapter Title` (H1).
+  - Included subsections and headings use double hash `## Section Title` (H2) or triple hash `### Subsection` (H3).
+
 ```markdown
 # Use consistent heading hierarchy
-## Main sections use ##
-### Subsections use ###
+# Main Chapter Title (H1)
+## Main Section Title (H2)
+### Subsection (H3)
 
 # Code blocks should specify language
-````bash
+```bash
 your code here
-`````
+```
+```
 
 ## 📄 License Information
 

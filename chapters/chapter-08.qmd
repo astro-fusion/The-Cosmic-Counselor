@@ -1,4 +1,4 @@
-## Setting the Stage
+# Setting the Stage
 
 <!-- ## Main Content -->
 {{< include chapter-08/index.qmd >}}

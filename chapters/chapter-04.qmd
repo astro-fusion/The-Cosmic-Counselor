@@ -1,4 +1,4 @@
-## Psychology for Astrologers
+# Psychology for Astrologers
 
 <!-- ## Main Content -->
 {{< include chapter-04/index.qmd >}}

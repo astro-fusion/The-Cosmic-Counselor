@@ -18,29 +18,29 @@ NC='\033[0m' # No Color
 build_language() {
     local lang=$1
     local lang_name=$2
-    local config_file=$3
+    local lang_dir=$3
     
     echo -e "${BLUE}📚 Building ${lang_name} version...${NC}"
     
-    if [ -f "$config_file" ]; then
-        quarto render --project "$config_file" --to html,pdf,epub
+    if [ -d "$lang_dir" ]; then
+        (cd "$lang_dir" && quarto render --to html)
         echo -e "${GREEN}✅ ${lang_name} version built successfully!${NC}"
     else
-        echo -e "${RED}❌ Configuration file not found: $config_file${NC}"
+        echo -e "${RED}❌ Directory not found: $lang_dir${NC}"
         return 1
     fi
 }
 
 # Build English version (main project)
 echo -e "${YELLOW}🔤 Building English version...${NC}"
-quarto render --to html,pdf,epub
+quarto render --to html
 echo -e "${GREEN}✅ English version built successfully!${NC}"
 
 # Build Hindi version
-build_language "hi" "Hindi" "translations/hi/_quarto.yml"
+build_language "hi" "Hindi" "translations/hi"
 
 # Build Nepali version
-build_language "ne" "Nepali" "translations/ne/_quarto.yml"
+build_language "ne" "Nepali" "translations/ne"
 
 echo -e "${GREEN}🎉 All language versions built successfully!${NC}"
 echo ""

@@ -1,4 +1,4 @@
-## Astrologer's Reflection
+# Astrologer's Reflection
 
 <!-- ## Main Content -->
 {{< include chapter-11/index.qmd >}}

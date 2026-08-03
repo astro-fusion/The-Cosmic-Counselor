@@ -1,4 +1,4 @@
-## Masterful Communication
+# Masterful Communication
 
 <!-- ## Main Content -->
 {{< include chapter-09/index.qmd >}}
