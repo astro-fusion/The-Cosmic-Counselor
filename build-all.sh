@@ -33,6 +33,7 @@ build_language() {
 
 # Build English version (main project)
 echo -e "${YELLOW}🔤 Building English full version...${NC}"
+mkdir -p _book _book-mainonly
 quarto render --to html
 echo -e "${GREEN}✅ English full version built successfully!${NC}"
 
