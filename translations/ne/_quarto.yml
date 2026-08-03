@@ -27,18 +27,18 @@ book:
     # Main chapters
     - part: "अध्यायहरू"
       chapters:
-        - chapters/chapter-01.qmd
-        - chapters/chapter-02.qmd
-        - chapters/chapter-03.qmd
-        - chapters/chapter-04.qmd
-        - chapters/chapter-05.qmd
-        - chapters/chapter-06.qmd
-        - chapters/chapter-07.qmd
-        - chapters/chapter-08.qmd
-        - chapters/chapter-09.qmd
-        - chapters/chapter-10.qmd
-        - chapters/chapter-11.qmd
-        - chapters/chapter-12.qmd
+        - chapters/chapter-01/index.qmd
+        - chapters/chapter-02/index.qmd
+        - chapters/chapter-03/index.qmd
+        - chapters/chapter-04/index.qmd
+        - chapters/chapter-05/index.qmd
+        - chapters/chapter-06/index.qmd
+        - chapters/chapter-07/index.qmd
+        - chapters/chapter-08/index.qmd
+        - chapters/chapter-09/index.qmd
+        - chapters/chapter-10/index.qmd
+        - chapters/chapter-11/index.qmd
+        - chapters/chapter-12/index.qmd
     
     # Backmatter
     - part: "परिशिष्ट"
