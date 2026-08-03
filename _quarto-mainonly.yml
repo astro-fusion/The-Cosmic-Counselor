@@ -1,0 +1,40 @@
+profile:
+  group:
+    - [main-only]
+
+project:
+  type: book
+  output-dir: _book-mainonly
+
+book:
+  title: "The Cosmic Counselor (Main Content Edition)"
+  subtitle: "Ethical Spiritual Guidance in Modern Times"
+  author: "Bishal Ghimire"
+
+  chapters:
+    - index.qmd
+    - part: "Front Matter"
+      chapters:
+        - frontmatter/prologue.qmd
+        - frontmatter/foreword.qmd
+        - frontmatter/gratitude.qmd
+        - frontmatter/preface.qmd
+    - part: "Chapters"
+      chapters:
+        - chapters/chapter-01/index.qmd
+        - chapters/chapter-02/index.qmd
+        - chapters/chapter-03/index.qmd
+        - chapters/chapter-04/index.qmd
+        - chapters/chapter-05/index.qmd
+        - chapters/chapter-06/index.qmd
+        - chapters/chapter-07/index.qmd
+        - chapters/chapter-08/index.qmd
+        - chapters/chapter-09/index.qmd
+        - chapters/chapter-10/index.qmd
+        - chapters/chapter-11/index.qmd
+        - chapters/chapter-12/index.qmd
+    - part: "Backmatter"
+      chapters:
+        - backmatter/references.qmd
+        - backmatter/author.qmd
+        - backmatter/summary.qmd
