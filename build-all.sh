@@ -33,12 +33,15 @@ build_language() {
 
 # Build English version (main project)
 echo -e "${YELLOW}🔤 Building English full version...${NC}"
-mkdir -p _book _book-mainonly
+rm -rf _book
+mkdir -p _book
 quarto render --to html
 echo -e "${GREEN}✅ English full version built successfully!${NC}"
 
 # Build English main-content-only version (Compact/Print)
 echo -e "${YELLOW}🔤 Building English (Main Content Only) version...${NC}"
+rm -rf _book-mainonly
+mkdir -p _book-mainonly
 quarto render --profile mainonly --to html
 echo -e "${GREEN}✅ English main-content-only version built successfully!${NC}"
 
