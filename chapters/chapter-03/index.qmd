@@ -340,6 +340,27 @@ Every astrologer needs an internal compass that points toward the highest good. 
 **Personal Reflection:** Take a moment to write about your own ethical compass. What values guide your practice? What situations make you feel uncertain about the right approach?
 :::
 
-The stars may guide us, but ethics guide our practice. In the next chapter, we'll explore how to apply these principles when communicating difficult information—because how we say something is often more important than what we say.
+## **Case Vignette: Navigating Client Vulnerability**
+
+::: {.example-box}
+**Scenario:** A client named Marcus, grieving a painful divorce, asked urgently: *"Can you check my ex-wife's natal chart to see if she will realize her mistake and come back to me by October?"*
+
+- **The Unethical / Boundary-Violating Approach:** An reader eager to please might look at the third-party chart without permission and say: *"Her 7th house ruler is retrograding, so yes, she will regret her decision and reach out in October."*  
+  *Result:* Violates third-party privacy, fosters false hope, and prevents the client from moving through grief.
+
+- **The Cosmic Counselor's Approach:** *"I respect your pain, Marcus. However, ethical practice requires that we focus solely on your chart and your emotional journey. Reading an absent person's chart without their consent violates boundaries. Let's look at your chart to understand how you can process this grief and rebuild your inner strength."*  
+  *Result:* Protects third-party privacy, maintains clear professional boundaries, and redirects the client toward personal healing.
+:::
+
+## **3-Minute Practitioner Integration Protocol**
+
+::: {.checklist-box}
+Before concluding an ethical consultation, review these three core checkpoints:
+
+- [ ] **Privacy & Third-Party Check:** Did I refrain from analyzing charts of absent individuals without their explicit consent?
+- [ ] **Autonomy Check:** Did I honor the client's agency and avoid fostering dependency on future readings?
+- [ ] **Self-Care Check:** Did I maintain my emotional boundary so I don't carry the client's unresolved grief into my own evening?
+:::
 
 Remember: You're not just reading charts—you're touching lives. Make sure those touches heal rather than harm.
+
