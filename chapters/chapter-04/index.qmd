@@ -402,23 +402,24 @@ In today's digital era, AI-driven astrology apps, ChatGPT, and automated chart r
 **The Astrologer's AI Rule:** AI tools excel at draft text generation, rapid planetary index summaries, and brainstorming. However, **never rely on AI for exact astronomical calculations or nuanced human empathy.** Always cross-verify AI chart outputs against astronomical ephemerides.
 :::
 
-### **Case Vignette: AI Hallucinations vs. Human Wisdom**
+### **Case Vignette: AI Hallucinations vs. Vedic Astrological Wisdom**
 
 ::: {.example-box}
-**Scenario:** A client named Elena entered a reading visibly terrified. An AI astrology app told her: *"Your Sun-Saturn square in the 8th house guarantees sudden bankruptcy and severe health crisis before your 30th birthday."*
+**Scenario:** A client named Aarav entered a consultation deeply distressed. An AI astrology app had generated a Kundali analysis claiming: *"Your Rahu-Ketu placement in the 7th house creates severe Manglik and Kalasarpa Dosha, guaranteeing catastrophic failure in marriage and family business before your Rahu Dasha ends."*
 
-- **The Unchecked AI Reality:** The AI tool hallucinated a non-existent 8th house placement (her Sun was actually in the 10th house) and combined predictive keywords into a frightening, un-guardrailed statement without human empathy.
-- **The Cosmic Counselor's Approach:** The astrologer calmly reviewed her chart, corrected the AI calculation error, and explained how LLMs synthesize text. The astrologer reframed her actual 10th house placement into a constructive discussion on career discipline.  
-  *Result:* Elena felt instant relief, learned how AI tools generate text, and regained trust in human counseling.
+- **The Unchecked AI Reality:** The AI app hallucinated non-existent planetary positions (his Rahu was actually in the 11th house) and mashed together generic fear-inducing Dosha keywords without calculating actual Dasha timings or Divisional charts (Navamsha).
+- **The Cosmic Counselor's Approach:** The astrologer calmly opened his Janam Kundali using accurate ephemeris calculations, pointed out the AI's calculation errors, and explained how LLMs generate text by predicting common online phrases. The astrologer then discussed his actual 11th house Rahu placement in the context of professional networking and personal growth.  
+  *Result:* Aarav experienced immense relief, understood the mechanics of AI hallucinations, and regained faith in compassionate human Jyotish counseling.
 :::
 
 ## **3-Minute Practitioner Integration Protocol**
 
 ::: {.checklist-box}
-When using or reviewing AI-generated astrological content, apply this 3-point audit:
+When using or reviewing AI-generated Kundali readings, apply this 3-point audit:
 
-- [ ] **Verification Audit:** Did I double-check all AI-generated chart calculations against an accurate ephemeris before accepting its text?
-- [ ] **Hallucination Check:** Am I inspecting AI text for confident fabrications or overly dramatic predictive statements?
-- [ ] **Empathy & Humanity Check:** Did I ensure that human warmth, active listening, and ethical guardrails guide the reading rather than raw AI output?
+- [ ] **Panchanaga & Ephemeris Verification:** Did I double-check all AI-generated Kundali placements, Dasha periods, and planetary degrees against authentic Panchanga/SWEPH calculations before sharing interpretations?
+- [ ] **Dosha Hallucination Check:** Am I auditing AI text to ensure it hasn't fabricated fatalistic "Dosha" warnings or dramatic fear-inducing predictions?
+- [ ] **Dharma & Humanity Check:** Did I ensure that compassionate guidance, cultural respect, and ethical guardrails lead the consultation rather than raw AI text outputs?
 :::
+
 
