@@ -8,6 +8,7 @@
 # Quarto
 .quarto/
 _book/
+_book-mainonly/
 _site/
 site_libs/
 /.quarto/
