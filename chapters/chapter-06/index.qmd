@@ -127,8 +127,6 @@ You don't need to have all the answers. You just need to care enough to help you
 
 **The most powerful guidance we can offer is showing someone the door to another room.**
 
-// ...existing code...
-
 ## **Understanding Mental Health Through the BioPsychoSocial Model**
 
 Before we dive into specific conditions, it's important to understand that mental health isn't just about what's happening in someone's brain. The BioPsychoSocial (BPS) model shows us that mental well-being is influenced by three interconnected areas:
