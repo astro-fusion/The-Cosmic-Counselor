@@ -74,10 +74,6 @@ format:
       - right=1in
     fontsize: 11pt
     linestretch: 1.2
-    bibliography: ../../references.bib
-    csl: https://www.zotero.org/styles/apa
-    cite-method: natbib
-    biblio-style: apalike
     include-in-header:
       - text: |
           \usepackage{enumitem}
@@ -94,9 +90,6 @@ format:
     toc: true
     number-sections: true
     highlight-style: github
-
-# Global bibliography settings
-bibliography: ../../references.bib
 
 # GitHub Pages configuration  
 website:

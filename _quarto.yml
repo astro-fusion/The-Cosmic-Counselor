@@ -86,12 +86,7 @@ format:
       - right=1in
     fontsize: 11pt
     linestretch: 1.2
-    # Bibliography settings
-    bibliography: references.bib
-    csl: https://www.zotero.org/styles/apa
-    cite-method: natbib
-    biblio-style: apalike
-    
+
     # LaTeX packages to include
     include-in-header:
       - text: |
@@ -109,9 +104,6 @@ format:
     toc: true
     number-sections: true
     highlight-style: github
-
-# Global bibliography settings
-bibliography: references.bib
 
 # GitHub Pages configuration  
 website:
