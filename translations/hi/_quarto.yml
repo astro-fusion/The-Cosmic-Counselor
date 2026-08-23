@@ -44,6 +44,7 @@ book:
     - part: "परिशिष्ट"
       chapters:
         - backmatter/references.qmd
+        - backmatter/crisis-resources.qmd
         - backmatter/author.qmd
         - backmatter/summary.qmd
 
