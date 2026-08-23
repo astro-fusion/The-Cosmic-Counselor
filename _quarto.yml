@@ -58,6 +58,7 @@ book:
     - part: "Backmatter"
       chapters:
         - backmatter/references.qmd
+        - backmatter/crisis-resources.qmd
         - backmatter/author.qmd
         - backmatter/summary.qmd
 

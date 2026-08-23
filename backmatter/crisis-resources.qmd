@@ -1,0 +1,52 @@
+# Crisis Support Resources {.unnumbered}
+
+If a client (or you yourself) is in emotional distress or thinking of suicide, immediate professional help exists. Keep this page printed beside your consultation desk—crisis moments are not the time to search the internet.
+
+::: {.warning-box}
+**If someone is in immediate physical danger**, call your local emergency number first (Nepal: 102 for ambulance / 100 for police; India: 112), then stay with them until help arrives.
+:::
+
+## **Nepal**
+
+| Service | Number | Availability |
+|---|---|---|
+| **National Suicide Prevention Helpline** (Mental Hospital, Lagankhel) | **1166** | Toll-free national line |
+| **TUTH Suicide Hotline** (TU Teaching Hospital) | **9840021600** | 24 hours |
+| **Patan Hospital Suicide Hotline** (Dept. of Psychiatry) | **9813476123** | 24 hours |
+| **Mental Health Helpline Nepal** (CMC Nepal) | **16600185080** | Toll-free; hotline **1145** |
+| **TPO Nepal Crisis Hotline** (Transcultural Psychosocial Organization) | **16600102005** | Crisis counseling |
+| **Ambulance / Police / Mobile emergency** | **102 / 100 / 112** | 24 hours |
+
+## **India**
+
+| Service | Number | Availability |
+|---|---|---|
+| **Tele-MANAS** (Govt. of India, 20+ languages) | **14416** or **1-800-891-4416** | 24×7, free |
+| **KIRAN Mental Health Helpline** (Govt. of India) | **1800-599-0019** | 24×7, free |
+| **AASRA** (suicide prevention) | **+91-9820466726** | 24×7 |
+| **iCall Psychosocial Helpline** (TISS) | **+91-9152987821** | Mon–Sat |
+| **Vandrevala Foundation** | **+91-9999666555** | 24×7 |
+| **Emergency (Police/Ambulance/Fire)** | **112** | 24 hours |
+
+## **International**
+
+- **Find A Helpline** — [findahelpline.com](https://findahelpline.com): verified live directory of crisis lines in 130+ countries
+- **Befrienders Worldwide** — [befrienders.org](https://www.befrienders.org): global suicide-prevention center network
+- **United States:** call or text **988** (Suicide & Crisis Lifeline)
+- **United Kingdom & Ireland:** call **116 123** (Samaritans)
+
+## **Build Your Local Referral List**
+
+Crisis lines are the emergency exit; a warm referral relationship is the daily bridge. Before your next session:
+
+::: {.checklist-box}
+- [ ] Identify 2–3 licensed counselors or psychiatrists in your area who accept referrals and respect spiritual worldviews
+- [ ] Note their fees, languages spoken, and booking process
+- [ ] Add your national child-protection and women's helplines (Nepal: Child Helpline **1098**, Women's Cell; India: Childline **1098**, Women Helpline **181**)
+- [ ] Save everything in your phone AND on paper
+- [ ] Re-verify all numbers every six months—helplines change
+:::
+
+::: {.highlight-box}
+**A note of care:** Helpline numbers change over time. Verify against official sources (hospital websites, government health portals) before publishing or sharing this list. If a line doesn't connect, try another—and never let a client in crisis leave without at least one live human contact.
+:::

@@ -385,6 +385,67 @@ Psychotic disorders involve a significant break from reality. These are serious 
 - Any condition that needs medical evaluation
 :::
 
+## **When the Moment Arrives: A Mid-Session Crisis Protocol**
+
+Sometimes it happens without warning. Halfway through a reading, the client's voice changes. They mention not wanting to be here anymore. Or they ask, quietly, whether you think the stars show a way out.
+
+What you do in the next five minutes matters more than everything else you know about charts and transits. Here is the protocol—learn it before you need it:
+
+::: {.checklist-box}
+**The Seven Steps of Crisis Response:**
+
+1. **Ground yourself first.** Take one slow breath. Your calm is contagious; so is your panic.
+2. **Drop the chart.** Turn away from the astrology entirely. In this moment, you are not an astrologer—you are one human being with another.
+3. **Listen without flinching.** Let them speak. Do not interrupt, reassure prematurely, or rush to remedies. Being calmly heard may be the first relief they have felt in weeks.
+4. **Ask directly.** *"Are you having thoughts of ending your life?"* Research consistently shows that asking about suicide does **not** plant the idea—it opens the door to honesty and lowers distress.
+5. **Never promise secrecy.** Say instead: *"I care about you too much to keep this between us. We're going to get you real support."*
+6. **Connect, don't carry.** Offer to sit with them while they call a crisis line or a trusted person. Have the numbers ready (see the **Crisis Support Resources** appendix).
+7. **Close the loop.** Follow up within 24–48 hours. One message—*"I've been thinking of you. How are you today?"*—tells them the door stays open.
+:::
+
+::: {.key-insight}
+**The principle:** In crisis moments, your job is not to interpret the sky—it is to be a steady bridge from pain to professional help.
+:::
+
+## **Scripts for the Hardest Moments**
+
+Under adrenaline, nobody improvises well. Practiced words become lifelines. Adapt these to your own voice—but rehearse them aloud before you ever need them.
+
+### **Opening the Door Gently:**
+
+::: {.referral-script}
+*"You've mentioned feeling like a burden and being exhausted by all of this. Sometimes those feelings go even deeper. Can you tell me more about how heavy things have gotten?"*
+:::
+
+### **Asking About Suicide Directly:**
+
+::: {.referral-script}
+*"I need to ask you something important, because your wellbeing matters more than anything else we discuss today: are you having thoughts of suicide?"*
+:::
+
+### **If the Answer Is Yes—and There Is a Plan or Immediate Danger:**
+
+::: {.referral-script}
+*"Thank you for trusting me with that. It took courage. This is bigger than both of us, and you deserve real, professional support right now. I'd like to stay with you while you call [crisis line / emergency number]. You don't have to do this alone."*
+:::
+
+### **If There Is No Immediate Plan—a Warm Handoff:**
+
+::: {.referral-script}
+*"What you're carrying sounds like depression, and depression is treatable—it's a health matter, not a character flaw or a cosmic sentence. A counselor can help in ways no chart can. Would you like help finding someone? We can look together, right now."*
+:::
+
+### **What NOT to Say—Ever:**
+
+::: {.warning-box}
+- ~~"Don't say such things—it's bad omen."~~ *(shame silences them)*
+- ~~"Your Saturn period ends in March; just hold on till then."~~ *(a date can become a deadline)*
+- ~~"Think positive—others have it worse."~~ *(minimizing deepens isolation)*
+- ~~"Do this remedy for nine Tuesdays and it will pass."~~ *(rituals delay treatment)*
+- ~~"Promise me you won't do anything."~~ *(extracting promises replaces real help)*
+- ~~"I'll pray for you" as the *only* response.~~ *(faith yes; abandonment of duty no)*
+:::
+
 ## **How to Make Compassionate Referrals**
 
 Making a referral doesn't mean you're giving up on someone—it means you care enough to ensure they get the best possible help.
