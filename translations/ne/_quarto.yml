@@ -61,6 +61,8 @@ format:
     lang: ne
     
   pdf:
+    pdf-engine: xelatex
+    mainfont: "Devanagari Sangam MN"
     documentclass: book
     toc: true
     number-sections: true

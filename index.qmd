@@ -1,81 +1,41 @@
-# The Cosmic Counselor: Your Complete Guide to Ethical Spiritual Practice {.unnumbered}
+# About This Book {.unnumbered}
 
-**Transform Ancient Wisdom into Modern Healing Through Compassionate, Professional Spiritual Guidance**
+**The Cosmic Counselor** is a field manual for astrologers, tarot readers, and spiritual guides who want to serve their clients with genuine skill—and genuine responsibility. It bridges what most training leaves out: not more technique, but the ethics, psychology, and human depth that turn a reading into real counsel.
 
----
+This book rests on a simple conviction: our words carry weight. People arrive at a consultation during their most vulnerable moments, and what we say in thirty minutes can echo through their lives. Whether that echo heals or harms depends on preparation most of us were never given. This book is that preparation.
 
-## 🌟 Master the Art of Ethical Spiritual Counseling
-*Become the trusted guide your community needs while maintaining professional integrity and personal boundaries.*
+## Who This Book Is For
 
-Welcome to your comprehensive guide for becoming an ethical and effective spiritual counselor. This book bridges ancient wisdom with modern psychology, teaching you to guide others with compassion, integrity, and professional boundaries.
+- Practicing astrologers and diviners who want to deepen their client work
+- Students preparing to see their first clients
+- Teachers and mentors shaping the next generation of practitioners
+- Anyone who takes seriously the trust a consultation creates
 
-In a world hungry for authentic spiritual guidance, you have the opportunity to serve as a beacon of hope and healing. This guide will equip you with the tools, wisdom, and ethical framework necessary to hold sacred space for others while protecting your own spiritual well-being.
+## What You Will Learn
 
----
+Across twelve chapters, you will learn to communicate without frightening, recognize when a client needs professional mental-health support and how to refer with care, protect sensitive client records, set boundaries that preserve both compassion and clarity, sustain your own well-being as a helper, and speak honestly about what astrology can and cannot claim.
 
-## Multiple Format Support
+## The Journey Ahead
 
-This comprehensive guide is available in multiple formats to suit your learning style:
+- [Chapter 1: The Cosmic Calling](chapters/chapter-01/index.qmd)
+- [Chapter 2: Turning Skepticism into Ethical Star Wisdom](chapters/chapter-02/index.qmd)
+- [Chapter 3: The Astrologer's Compass—Ethics in Action](chapters/chapter-03/index.qmd)
+- [Chapter 4: Understanding the Mind—Psychology for Astrologers](chapters/chapter-04/index.qmd)
+- [Chapter 5: Charting a Course for Integrity](chapters/chapter-05/index.qmd)
+- [Chapter 6: Knowing When to Refer](chapters/chapter-06/index.qmd)
+- [Chapter 7: Session to System—Efficient Record Keeping](chapters/chapter-07/index.qmd)
+- [Chapter 8: Client Empowerment & Sacred Spaces](chapters/chapter-08/index.qmd)
+- [Chapter 9: Heart of the Session—Masterful Communication](chapters/chapter-09/index.qmd)
+- [Chapter 10: Research & Elevating the Field](chapters/chapter-10/index.qmd)
+- [Chapter 11: The Astrologer's Reflection—Inner Work, Outer Impact](chapters/chapter-11/index.qmd)
+- [Chapter 12: A Sacred Responsibility—The Journey Forward](chapters/chapter-12/index.qmd)
 
-### 📱 Digital Formats
-- **HTML** - Interactive web version with responsive design
-- **PDF** - Print-ready format for offline study and meditation
-- **EPUB** - Mobile-friendly ebook format for on-the-go learning
-- **Word** - Editable document for personal notes and reflections
+Each chapter pairs its core teaching with case vignettes, reflection exercises, and self-checks, so the ideas become practice rather than notes.
 
-### 🎨 Theme Variations
-Choose from professional themes that enhance your reading experience:
+## Editions
 
-::: {.panel-tabset}
-
-## Light Theme
-```{=html}
-<div class="theme-preview light-theme">
-  <h4>Sacred Light</h4>
-  <p>Clean, bright design perfect for daytime reading and contemplative study.</p>
-</div>
-```
-
-## Dark Theme  
-```{=html}
-<div class="theme-preview dark-theme">
-  <h4>Meditation Night</h4>
-  <p>Gentle on the eyes for evening study and deep spiritual reflection.</p>
-</div>
-```
-
-## Cosmic Theme
-```{=html}
-<div class="theme-preview cosmic-theme">
-  <h4>Cosmic Guidance</h4>
-  <p>Spiritually-inspired design with celestial elements and calming earth tones.</p>
-</div>
-```
-
-:::
-
-### 📊 Interactive Spiritual Learning Features
-
-**Dynamic Content:**
-- Sacred space self-assessments with instant guidance
-- Interactive spiritual reflection journals
-- Ethical dilemma scenario builders
-- Downloadable meditation guides and ritual templates
-
-**Multimedia Integration:**
-- Guided meditation audio tracks
-- Video demonstrations of counseling techniques
-- Interactive case studies from real spiritual practices
-- Downloadable resource libraries for different traditions
+This book is available in **English**, **Hindi**, and **Nepali**, in HTML, PDF, and EPUB formats. The teaching is universal; choose the language closest to your heart.
 
 ---
 
-## Cross-Platform Sacred Study
-
-````{.code-block}
-# Access your spiritual learning anywhere:
-- 💻 Desktop sanctuary (Chrome, Firefox, Safari, Edge)
-- 📱 Mobile temple (iOS, Android)
-- 📖 Digital altar (Kindle, Kobo)
-- 🖨️ Sacred texts (beautifully formatted print versions)
-````
+*This book is dedicated to every practitioner who chooses integrity over certainty, service over spectacle, and care over convenience.*

@@ -74,6 +74,7 @@ format:
     number-sections: true
     
   pdf:
+    pdf-engine: xelatex
     documentclass: book
     toc: true
     number-sections: true
