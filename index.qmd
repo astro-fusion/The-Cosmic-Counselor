@@ -1,19 +1,24 @@
 # About This Book {.unnumbered}
 
-**The Cosmic Counselor** is a field manual for astrologers, tarot readers, and spiritual guides who want to serve their clients with genuine skill—and genuine responsibility. It bridges what most training leaves out: not more technique, but the ethics, psychology, and human depth that turn a reading into real counsel.
+Every time a client sits across from you and unfolds their life, an unspoken contract is sealed. They arrive carrying not merely their birth charts or curious questions, but their unspoken grief, their private anxieties, and their quiet hopes for the future. In thirty short minutes, an astrologer or spiritual guide can either illuminate an authentic path forward or cast a shadow of fear that lingers for years.
 
-This book rests on a simple conviction: our words carry weight. People arrive at a consultation during their most vulnerable moments, and what we say in thirty minutes can echo through their lives. Whether that echo heals or harms depends on preparation most of us were never given. This book is that preparation.
+Most traditions teach us how to map the heavens. Almost none teach us how to hold the human heart when that map reveals difficult terrain.
+
+**The Cosmic Counselor** is written for the practitioner who recognizes that technical mastery without ethical maturity is dangerous. Drawing together timeless spiritual wisdom and modern counseling psychology, this book is a practical guide to transforming standard consultations into sacred spaces of insight, agency, and genuine healing.
 
 ## Who This Book Is For
 
-- Practicing astrologers and diviners who want to deepen their client work
-- Students preparing to see their first clients
-- Teachers and mentors shaping the next generation of practitioners
-- Anyone who takes seriously the trust a consultation creates
+- **Practicing Astrologers and Diviners** seeking to deepen their emotional intelligence and client impact.
+- **Emerging Guides and Students** preparing to hold their very first client sessions with ethical confidence.
+- **Mentors and Teachers** who want to instill professional standards and counseling boundaries in the next generation.
+- **Anyone in Spiritual Service** who honors the sacred responsibility entrusted to them by another human being.
 
-## What You Will Learn
+## What You Will Discover
 
-Across twelve chapters, you will learn to communicate without frightening, recognize when a client needs professional mental-health support and how to refer with care, protect sensitive client records, set boundaries that preserve both compassion and clarity, sustain your own well-being as a helper, and speak honestly about what astrology can and cannot claim.
+- **The Language of Liberation:** How to interpret complex and difficult placements without resorting to fatalism, fear-mongering, or false certainty.
+- **The Ethical Threshold:** How to recognize the subtle boundary between existential spiritual questioning and acute psychological distress—and exactly how to make a safe, compassionate referral.
+- **Boundaries That Heal:** How to stay fully present and empathetic with clients while protecting your own spirit from exhaustion and vicarious trauma.
+- **The Craft of Integrity:** Practical systems for client confidentiality, clear session agreements, and transparent record-keeping.
 
 ## The Journey Ahead
 
@@ -30,11 +35,11 @@ Across twelve chapters, you will learn to communicate without frightening, recog
 - [Chapter 11: The Astrologer's Reflection—Inner Work, Outer Impact](chapters/chapter-11/index.qmd)
 - [Chapter 12: A Sacred Responsibility—The Journey Forward](chapters/chapter-12/index.qmd)
 
-Each chapter pairs its core teaching with case vignettes, reflection exercises, and self-checks, so the ideas become practice rather than notes.
+Each chapter pairs deep foundational principles with real-world case studies, reflective inquiries, and practical self-checks designed to move these insights from theory directly into your consulting room.
 
 ## Editions
 
-This book is available in **English**, **Hindi**, and **Nepali**, in HTML, PDF, and EPUB formats. The teaching is universal; choose the language closest to your heart.
+This work is published in **English**, **Nepali (नेपाली)**, and **Hindi (हिन्दी)** across HTML, PDF, and EPUB formats. The essential truths of ethical service belong to every culture; explore them in whichever tongue speaks clearest to your mind and heart.
 
 ---
 
