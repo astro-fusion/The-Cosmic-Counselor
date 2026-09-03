@@ -70,3 +70,7 @@ Thumbs.db
 generated/
 
 **/*.quarto_ipynb
+
+# Local agent / IDE plan folders
+.kilo/
+**/.kilo/
