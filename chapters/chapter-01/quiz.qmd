@@ -1,123 +1,108 @@
-## 📝 Knowledge Check Quiz {.quiz-title}
+## 📝 Knowledge Check {.quiz-title}
 
 ::: {.quiz-box}
-**1. What's the main problem with traditional spiritual counseling education?**
+**1. A client in a heightened state of anxiety receives a fatalistic prediction about their career. The most likely psychological consequence is:**
 
-A) It teaches too much theory  
-B) It focuses on techniques but not people skills  
-C) It's too expensive  
-D) It takes too long to complete
+A) They feel motivated to work harder and prove the prediction wrong  
+B) The prediction becomes a self-fulfilling prophecy as their behavior shifts to confirm it  
+C) They forget the reading within a few days  
+D) They immediately seek a second opinion  
 
-**2. When a client asks for a definitive prediction about their marriage, you should:**
+---
 
-A) Give them exactly what they want to hear  
-B) Make a clear prediction based on your reading  
-C) Help them explore their feelings and options instead of giving definitive answers  
-D) Refuse to discuss relationships
+**2. Ancient Vedic texts described astrology as *Vedanga Jyotisha*—the "eyes of the Vedas." The primary purpose of this framing was to:**
 
-**3. The original purpose of spiritual practices like astrology was to:**
+A) Establish astrology as superior to other Vedic sciences  
+B) Grant astrologers authority to issue binding predictions on life events  
+C) Position astrology as a tool for cultivating self-knowledge, spiritual discernment, and conscious action  
+D) Restrict astrological practice to trained Brahmin priests  
 
-A) Predict the future accurately  
-B) Make money from clients  
-C) Guide people toward wisdom and self-understanding  
-D) Replace traditional therapy
+---
 
-**4. Scenario: A client says, "Will I ever find love?" How should you respond?**
+**3. A client presents you with someone else's birth chart—their business partner—without that person's knowledge or consent, asking you to identify whether the partner is untrustworthy. The most ethically appropriate response is:**
 
-A) "Yes, definitely next year"  
-B) "No, your chart shows you'll be alone"  
-C) "Let's explore what love means to you and how you can cultivate it in your life"  
-D) "I can't answer that question"
+A) Proceed with the reading since the client is paying you  
+B) Decline to read the chart without the subject's consent, acknowledge the client's concern, and explore what they themselves are noticing in the relationship  
+C) Read the chart but share only positive information  
+D) Ask the client to get the partner's consent before the next session  
 
-**5. The most important skill for a spiritual counselor is:**
+---
 
-A) Memorizing meanings of symbols  
-B) Making accurate predictions  
-C) Listening with compassion and speaking with wisdom  
-D) Having expensive tools and materials
+**4. Midway through a reading, a client says: "I've been feeling hopeless lately—sometimes I wonder if there is any point in continuing." The most appropriate immediate response is:**
+
+A) Continue the reading and offer uplifting astrological interpretations to cheer them up  
+B) Tell them that a favorable planetary period is coming soon  
+C) Set the chart aside, acknowledge what they have shared with care, and gently explore whether they are having thoughts of harming themselves—then refer to a mental health professional if indicated  
+D) Refer them immediately to a counselor without addressing what they said  
+
+---
+
+**5. The concept of *countertransference* in counseling psychology refers to:**
+
+A) A client projecting their emotions onto the astrologer  
+B) The astrologer's own unresolved emotional experiences being activated during a client session and potentially distorting the reading  
+C) The process of transferring a client's case to another practitioner  
+D) A therapeutic technique for reframing negative chart patterns  
 
 <button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
 
 ::: {.answers-content style="display: none;"}
-**Answer Key:** 1-B, 2-C, 3-C, 4-C, 5-C
+**Answer Key:** 1-B, 2-C, 3-B, 4-C, 5-B
+
+**Explanations:**
+
+1. Vulnerable clients in states of heightened suggestibility often unconsciously align their behavior with authoritative predictions—a well-documented psychological phenomenon.
+2. *Vedanga Jyotisha* was conceived as a sacred instrument for illuminating deeper truths about human life—not as a license for fatalistic pronouncements.
+3. Reading a chart without the subject's consent violates their privacy and autonomy. Redirecting to the client's own observations respects everyone involved.
+4. Expressions of hopelessness require a compassionate, direct response—not a retreat into the chart. Always assess safety first.
+5. Countertransference is the practitioner's own emotional material being triggered by a client, requiring active self-awareness and professional supervision.
 :::
 :::
 
 ---
 
-## 📊 Self-Assessment: Where Am I Now?
+## Self-Assessment: Where Am I Now? {.quiz-title}
 
 ::: {.assessment-box}
 
-**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+**Rate yourself honestly (1 = Rarely, 5 = Consistently):**
 
 ::: {.rating-scale}
-**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+**1** = Rarely | **2** = Occasionally | **3** = Sometimes | **4** = Usually | **5** = Consistently
 :::
 
-**Technical Skills:**
+**Technical Grounding:**
 
-Understanding my spiritual practice
+I can explain difficult chart features in language that invites reflection rather than fear
 
-Interpreting readings accurately
+I can acknowledge the limits of my reading without losing the client's confidence
 
-Explaining complex concepts simply
+I can distinguish between planetary tendency and inevitable outcome
 
-**People Skills:**
+**Counseling Awareness:**
 
-Listening without interrupting
+I notice when a client's distress goes beyond what a reading can address
 
-Responding with compassion
+I can hold silence when a client is emotional, rather than filling it with interpretation
 
-Staying calm when clients are upset
+I can exit a consultation having asked questions rather than only giving answers
 
-Asking helpful questions
+**Professional Conduct:**
 
-**Boundary Skills:**
+I have thought about what I would do if a client expressed a desire to harm themselves
 
-Knowing when to refer clients
+I have a basic referral network of mental health professionals in my region
 
-Maintaining appropriate relationships
-
-Managing my emotions during sessions
+I could articulate the limits of my practice scope to a prospective client
 
 **Reflection Questions:**
 
-1. Which area scored lowest? This is your priority for growth.
-2. Which area scored highest? This is your strength to build on.
-3. What specific step will you take this week to improve?
+1. Which of the nine items above scored lowest? What is one concrete step toward improving it?
+2. Which scored highest? How can that strength support your weaker areas?
+3. After reading this chapter, what is the single most important shift in how you will approach your next session?
 
 ::: {.writing-space}
 *Space for your reflections...*
 :::
 
 :::
----
-
-## 🎯 Action Steps for This Week
-
-::: {.action-box}
-
-**Beginner Level:**
-
-- [ ] Write your personal code of ethics (3-5 sentences)
-- [ ] Practice active listening with one person today
-- [ ] Research one mental health resource in your area
-
-**Intermediate Level:**
-
-- [ ] Role-play difficult client scenarios with a friend
-- [ ] Create a referral list of mental health professionals
-- [ ] Practice giving empowering responses instead of predictions
-
-**Advanced Level:**
-
-- [ ] Develop a client intake form with ethical guidelines
-- [ ] Create boundary scripts for challenging situations
-- [ ] Schedule monthly self-care and supervision practices
-:::
-
-## **Chapter Reflection**
-*Before moving to the next chapter, take a moment to think about your own spiritual practice. What drew you to this path? How do you currently handle the responsibility of guiding others? What areas do you feel you need to strengthen?*
-
-<script src="../scripts/quiz-interactions.js"></script>

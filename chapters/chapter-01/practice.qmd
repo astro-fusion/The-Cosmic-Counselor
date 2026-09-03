@@ -1,185 +1,186 @@
-## 📝 Practice Sections {.practice-header}
+## Practice Exercises {.practice-header}
 
-### 🌟 Exercise: Your Sacred Promise {.exercise-title}
+### Exercise 1: Your Practitioner's Covenant {.exercise-title}
 
 ::: {.exercise-meta}
-**Purpose:** Create a personal ethical foundation that will guide your spiritual counseling practice.
+**Purpose:** Construct a personal code of professional ethics to anchor your consulting practice.
 
-**Time needed:** 15-20 minutes
+**Time needed:** 20–25 minutes
 :::
 
 ::: {.exercise-box}
-
 ::: {.exercise-content}
 ::: {.step-box}
-**Step 1: Reflect on Your Journey**
+**Step 1: Examine Your Entry Point**
 
-- What originally drew you to spiritual counseling?
-- Think of a time when someone's guidance really helped you. What made it special?
-- What kind of spiritual counselor do you want to become?
+Before examining a client's chart, examine yourself. Respond honestly in your practice journal:
+
+- What first drew you to this work? Was it intellectual fascination, a desire to help, a personal healing, or something else?
+- Recall the most meaningful moment of guidance you yourself ever received. What made it transformative rather than merely predictive?
+- What kind of practitioner do you most want to avoid becoming? Be specific.
 :::
 
 ::: {.step-box}
-**Step 2: Identify Your Growth Areas**
+**Step 2: Identify Your Growth Edges**
 
-From this chapter, which skills do you most need to develop? Check all that apply:
+From Chapter 1, which of the following do you recognize as your most underdeveloped capacity? Mark all that apply:
 
 ::: {.practice-assessment-box}
-- Deep listening
-- Compassionate communication
-- Setting healthy boundaries
-- Recognizing when to refer clients elsewhere
-- Managing my own emotions during sessions
-- Cultural sensitivity
-- Other: _______________
+- Listening without already formulating my response
+- Reframing difficult chart features without resorting to fatalism
+- Recognizing when a client may need professional mental health support
+- Sitting with a client's distress without rushing to fix it
+- Maintaining clear session boundaries around time and scope
+- Separating my own emotional state from my client's
 :::
 :::
 
 ::: {.step-box}
-**Step 3: Choose Your Core Values**
+**Step 3: Select Your Ethical Pillars**
 
-Select 3-5 words that represent how you want to practice:
+From the following principles, choose the three that will form the non-negotiable foundation of your practice:
 
 ::: {.values-selection}
-**Available Values:** *Compassionate, Honest, Empowering, Respectful, Humble, Wise, Healing, Non-judgmental, Supportive, Ethical, Patient, Intuitive, Grounded, Authentic, Trustworthy*
+*Non-Harm — Client Autonomy — Honest Uncertainty — Confidentiality — Compassionate Referral — Cultural Humility — Scope Awareness — Emotional Neutrality — Dignity of the Seeker — Continuity of Care*
 
 ::: {.writing-space}
-**Your chosen values:** _______________
+**Your three chosen pillars:** _______________
 :::
 :::
 :::
 
 ::: {.step-box}
-**Step 4: Write Your Sacred Promise**
+**Step 4: Draft Your Practitioner's Covenant**
 
-Complete this statement in your own words:
-
-*"As a spiritual counselor, I promise to..."*
+A covenant is not a mission statement. It is a private promise made to the people who will trust you with their lives. Complete it in your own words:
 
 ::: {.example-box}
-**Example:** *"As a spiritual counselor, I promise to listen with compassion, speak with kindness, respect every person's journey, and always remember that my role is to empower, not control."*
+**Example:** *"I promise to enter every session as a student of the person before me, not merely of their chart. I will not speak of their future as if I own it. When I reach the edge of my knowledge or competence, I will say so—and then help them find better hands."*
 :::
 
-**Your Sacred Promise:**
-
 ::: {.writing-space}
-*Write your personal promise here...*
+*Write your covenant here. Keep it in the first person. Make it specific enough to hold yourself accountable.*
 :::
 :::
 
 ::: {.step-box}
-**Step 5: Make It Real**
+**Step 5: Make It a Living Document**
 
-- Write your promise on a card and keep it where you'll see it daily
-- Read it before each client session
-- Review and update it as you grow
+- Place your covenant somewhere you will read it before every session.
+- Return to it after any session that left you uneasy—and ask: did I honor it?
+- Revise it annually as your understanding deepens.
 :::
 :::
 :::
 
 ---
 
-### 🎯 Practice Exercise: Ethical Scenarios {.exercise-title}
+### Exercise 2: Professional Ethical Scenarios {.exercise-title}
 
 ::: {.exercise-meta}
-**Purpose:** Test your ethical decision-making skills with realistic scenarios.
+**Purpose:** Develop nuanced ethical discernment through realistic, high-stakes consulting situations.
 
-**Time needed:** 10-15 minutes
+**Time needed:** 20–30 minutes
 :::
 
 ::: {.exercise-box}
-
 ::: {.exercise-content}
-**Instructions:** Read each scenario and choose the most ethical response. Consider your Sacred Promise as you decide.
+**Instructions:** Read each scenario carefully. Identify the core ethical tension, then describe what you would actually say and do. There is no single correct answer—the quality of your reasoning matters more than the conclusion.
 
 ::: {.quiz-box}
-**Scenario 1:** A client asks you to predict exactly when they'll get married.
+**Scenario 1: The Death Prediction Request**
 
-A) Give them a specific date based on your reading  
-B) Explain that you can't predict exact timing, but explore what marriage means to them  
-C) Refuse to discuss relationships at all  
-D) Make up a vague timeline to satisfy them  
+A client is managing her elderly mother's estate and insists: *"Just tell me—when will she pass? I need to plan my finances."* Her mother's chart is in front of you, given without the mother's knowledge or consent.
 
-**Scenario 2:** A client wants you to curse their ex-partner.
-
-A) Agree because the client is paying you  
-B) Decline firmly and explain why this goes against ethical practice  
-C) Do a "pretend" curse to make them feel better  
-D) Refer them to someone else who might do it  
-
-**Scenario 3:** A client shares they're having suicidal thoughts.
-
-A) Give them a spiritual reading to cheer them up  
-B) Tell them everything will be fine  
-C) Immediately refer them to mental health professionals  
-D) Share your own similar experiences  
-:::
+Consider: What are the ethical issues here? How do you respond with both honesty and care?
 
 ::: {.writing-space}
-**Your Reflections:** How did your Sacred Promise guide your decisions? What did you learn about your ethical boundaries?
+*Your response:*
+:::
+
+---
+
+**Scenario 2: The Unconsented Third-Party Chart**
+
+A client slides a birth chart across the table: *"This is my business partner. I suspect he's cheating me. Tell me what you see."* The partner has not consented to a reading.
+
+Consider: What are your obligations to the absent person? How do you honor your client's genuine distress while refusing to violate another's privacy?
+
+::: {.writing-space}
+*Your response:*
+:::
+
+---
+
+**Scenario 3: Crisis Beneath the Question**
+
+Midway through a routine reading, a client says quietly: *"I just feel like nothing is going to change. Sometimes I wonder what the point of any of this is. I haven't been able to get out of bed most days."*
+
+Consider: What do you hear in this? What does the situation require of you right now—and what does it forbid?
+
+::: {.writing-space}
+*Your response:*
+:::
 :::
 :::
 :::
 
 ---
 
-### 📋 Weekly Practice Checklist {.exercise-title}
+### Weekly Professional Integration Checklist {.exercise-title}
 
 ::: {.practice-action-box}
 
-**This Week's Goals:**
+**This Week's Commitments:**
 
-**Beginner Level:**
+**Foundation Level:**
 
-- [ ] Write your Sacred Promise and place it somewhere visible
-- [ ] Practice active listening with one person each day
-- [ ] Research one mental health resource in your area
-- [ ] Reflect on a time when spiritual guidance helped you
+- [ ] Write your Practitioner's Covenant and place it at your workspace
+- [ ] Practice reflective listening in one non-professional conversation daily—let the other person finish completely before you speak
+- [ ] Research one licensed counselor, therapist, or crisis line in your city to add to your referral network
 
-**Intermediate Level:**
+**Developing Level:**
 
-- [ ] Role-play the ethical scenarios with a trusted friend
-- [ ] Create a personal referral list of mental health professionals
-- [ ] Practice giving empowering responses instead of predictions
-- [ ] Identify your top 3 growth areas from the assessment
+- [ ] Role-play the three ethical scenarios above with a trusted colleague or peer mentor
+- [ ] Begin a one-sentence session log: after each consultation, note whether you empowered or predicted—and what you would do differently
+- [ ] Identify one habitual phrase in your readings that leans toward fatalism and draft an alternative framing
 
 **Advanced Level:**
 
-- [ ] Develop a client intake form with ethical guidelines
-- [ ] Create boundary scripts for challenging situations
-- [ ] Schedule monthly self-care and supervision practices
-- [ ] Review and refine your Sacred Promise based on new insights
+- [ ] Create a written referral protocol: when you will refer, how you will phrase it, and which local professionals you trust
+- [ ] Draft a simple client intake agreement that makes your scope of practice and its limits explicit
+- [ ] Review your Practitioner's Covenant against the last three sessions you conducted
 :::
 
 ---
 
-### 📊 Weekly Self-Check: How Am I Growing? {.exercise-title}
+### Weekly Self-Assessment {.exercise-title}
 
 ::: {.practice-assessment-box}
 
-**Rate your progress this week (1 = Need more work, 5 = Excellent progress):**
+**Rate your practice this week honestly (1 = Need significant work, 5 = Consistent strength):**
 
 ::: {.rating-scale .no-rating}
-**1** = Need more work | **2** = Some progress | **3** = Good progress | **4** = Strong progress | **5** = Excellent progress
+**1** = Rarely | **2** = Occasionally | **3** = About half the time | **4** = Usually | **5** = Consistently
 :::
 
 **Practice Areas:**
 
-Following my Sacred Promise
+Entering sessions without a predetermined narrative for the client
 
-Setting healthy boundaries with others
+Framing difficult chart features as possibilities rather than certainties
 
-Listening without trying to "fix" everything
+Listening without interrupting or redirecting the client toward the chart
 
-Recognizing when to seek help or refer someone
+Recognizing my own emotional reactions during difficult sessions
 
-Managing my emotions during difficult conversations
+Maintaining clear time and scope boundaries
 
 **Reflection Questions:**
 
-1. Which practice felt most natural to you this week?
-2. What challenged you the most?
-3. How will you continue growing next week?
+1. Which scenario from Exercise 2 challenged you most? Why?
+2. Which area of your Self-Assessment scored lowest? What does that tell you?
+3. What is one concrete change you will make in your next session?
 
 ::: {.writing-space}
 *Space for your weekly reflections...*
