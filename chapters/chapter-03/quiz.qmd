@@ -1,66 +1,77 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
 
 ::: {.quiz-box}
-**1. Which of the following is a core principle of ethical astrology?**
+**1. Which of the following represents the foundational covenant of ethical astrological practice?**
 
-A) Predicting future events with absolute certainty  
-B) Ensuring client confidentiality and privacy  
-C) Charging exorbitant fees for exclusive insights  
-D) Providing clients with guaranteed positive outcomes
+A) Predicting biographical events with absolute certainty  
+B) Safeguarding client confidentiality and sacred privacy  
+C) Charging premium fees for exclusive astrological remedies  
+D) Guaranteeing positive outcomes to soothe seeker anxiety
 
-**2. A client is facing a major life decision and asks you to predict the outcome of two different paths. How should you respond ethically?**
+**2. A seeker is paralyzed by an acute vocational crossroads and implores you to dictate which path they should choose. What is the most ethical response?**
 
-A) Predict the exact outcome of each path based on their chart  
-B) Explain the potential influences and encourage them to make an informed decision  
-C) Tell them which path to take based on your intuition  
-D) Refuse to provide any guidance and suggest they seek advice elsewhere
+A) Predict the exact outcome of each path based on transit geometry and choose for them  
+B) Illuminate the archetypal currents and developmental timing of each path, empowering the seeker to make an informed, sovereign choice  
+C) Advise them to follow your personal intuition rather than their own judgment  
+D) Dismiss their inquiry abruptly and suggest they seek guidance elsewhere
 
-**3. Your client asks you to analyze their ex-partner's chart without that person's consent. What should you do?**
+**3. A seeker requests that you analyze their estranged ex-partner's birth chart without that person's consent. What is your ethical obligation?**
 
-A) Agree since it might help your client heal  
-B) Decline and explain why consent matters  
-C) Do it but don't tell anyone  
-D) Charge extra for the additional chart reading
+A) Agree to examine the chart if you believe it will bring therapeutic closure to your seeker  
+B) Respectfully decline, explaining that analyzing an absent person's chart without consent violates privacy and ethical boundaries  
+C) Analyze the chart privately without documenting the consultation  
+D) Impose an additional fee to justify analyzing third-party coordinates
 
-**4. A client shows you aspects in their chart related to health and asks for medical predictions. Your best response is:**
+**4. A seeker presents challenging sixth and eighth house configurations and asks for specific medical predictions regarding chronic symptoms. Your most responsible response is:**
 
-A) Give detailed health predictions based on the aspects  
-B) Explain that you're not medically trained and suggest they consult healthcare professionals  
-C) Avoid the topic completely  
-D) Research medical astrology before responding
+A) Provide detailed medical diagnoses and prognoses based on planetary aspects  
+B) Explicitly clarify that you are not medically trained and guide them toward licensed healthcare professionals  
+C) Evade the question entirely without addressing their anxiety  
+D) Perform hurried research on medical astrology during the consultation
 
-**5. The phrase "Do no harm, do good" in astrology means:**
+**5. Within transformative astrological counseling, the principle of "Do no harm, promote good" means:**
 
-A) Never share challenging information  
-B) Only give positive predictions  
-C) Present information in empowering, growth-oriented ways  
-D) Avoid difficult clients
+A) Never articulating challenging developmental tensions or difficult transits  
+B) Delivering superficial, unconditionally positive predictions  
+C) Presenting celestial tensions in empowering, growth-oriented ways that awaken conscious agency  
+D) Refusing to work with seekers experiencing emotional distress
 
-**6. When a client desperately asks "Will my marriage definitely get better?", an ethical astrologer should:**
+**6. When a seeker asks in acute distress, "Will my marriage definitely survive?", an ethical counselor should:**
 
-A) Give them hope by saying "yes, definitely"  
-B) Be honest and say "no, it won't"  
-C) Explore relationship patterns and empower them with tools for growth  
-D) Refer them to a marriage counselor immediately
+A) Provide unconditional false comfort by promising marital reconciliation  
+B) Bluntly pronounce that the relationship is doomed to fail  
+C) Explore relationship dynamics, developmental cycles, and practical tools to support conscious communication  
+D) Immediately terminate the session and refer them to marriage counseling
 
-**7. Cultural sensitivity in astrology includes:**
+**7. Cultural humility in astrological counseling requires:**
 
-A) Using the same approach with all clients  
-B) Avoiding clients from different cultures  
-C) Adapting your communication style to respect cultural differences  
-D) Only reading charts from your own cultural background
+A) Applying a standardized Western individualistic interpretation to all seekers  
+B) Avoiding seekers whose cultural or religious backgrounds differ from your own  
+C) Attuning your communicative register and interpretive lens to honor diverse cultural, spiritual, and familial worldviews  
+D) Consulting only with seekers sharing your personal philosophical framework
 
-**8. Scenario: During a reading, your client breaks down crying about family trauma. What's your most ethical response?**
+**8. Clinical Scenario: During a consultation, a seeker experiences an emotional breakdown, weeping over unhealed familial trauma. What is your most ethical response?**
 
-A) Continue with the astrological reading as planned  
-B) Offer psychological advice based on your astrology training  
-C) Listen compassionately and gently suggest professional counseling support  
-D) End the session immediately
+A) Continue delivering the astrological chart analysis as originally scheduled  
+B) Offer amateur psychotherapy based on your general astrological intuition  
+C) Hold the moment with grounded, compassionate presence and gently discuss professional mental health support  
+D) End the consultation abruptly to protect your own schedule
 
 <button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
 
 ::: {.answers-content style="display: none;"}
 **Answer Key:** 1-B, 2-B, 3-B, 4-B, 5-C, 6-C, 7-C, 8-C
+
+**Clinical & Ethical Explanations:**
+
+1. **Confidentiality (B):** The consultation room is a sacred sanctuary. Without absolute client privacy and data security, psychological safety cannot exist.
+2. **Autonomous Sovereignty (B):** The counselor's role is to illuminate celestial weather and developmental potential, never to usurp the seeker's moral autonomy or make life choices on their behalf.
+3. **Third-Party Consent (B):** Analyzing the chart of an unconsenting individual violates personal privacy and transforms the astrologer into an instrument of surveillance.
+4. **Scope of Practice (B):** Astrological counselors must rigorously honor professional boundaries. Medical diagnosis belongs exclusively to licensed medical practitioners; crossing this boundary endangers seeker well-being.
+5. **Growth-Oriented Guidance (C):** Ethical counseling reframes planetary friction as developmental crucibles for character integration rather than fatalistic curses.
+6. **Holding Ambiguity (C):** Seekers in distress require compassionate presence and practical discernment, not false predictive certainties that breed passive helplessness.
+7. **Cultural Humility (C):** An ethical practitioner respects that familial duty, communal ethics, and personal destiny hold profoundly different meanings across diverse traditions.
+8. **Crisis Holding (C):** When acute trauma emerges, ethical counselors provide grounded presence while recognizing clinical limits, facilitating gentle referral to licensed mental health professionals.
 :::
 :::
 
@@ -73,65 +84,65 @@ D) End the session immediately
 **Rate yourself honestly (1 = Need work, 5 = Very confident):**
 
 ::: {.rating-scale}
-**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+**1** = Need substantial growth | **2** = Basic familiarity | **3** = Competent | **4** = Strong | **5** = Exemplary
 :::
 
-**Confidentiality & Privacy:**
+**Confidentiality & Data Privacy:**
 
-How confident are you in maintaining client confidentiality? 
+How confident are you in maintaining absolute client confidentiality across all interactions?
 
-Do you have secure systems for protecting client data? 
+Do you maintain rigorous, encrypted systems for safeguarding client birth data and clinical notes?
 
-Can you resist sharing "anonymous" client stories on social media? 
+Can you resist the urge to share "anonymized" client anecdotes or charts on digital platforms?
 
 **Honesty & Transparency:**
 
-How comfortable are you admitting your limitations? 
+How comfortably and transparently do you acknowledge the boundaries of your competence?
 
-Do you focus on interpretations rather than absolute predictions? 
+Do you frame readings as archetypal possibilities rather than deterministic predictions?
 
-Can you acknowledge your personal biases in readings? 
+Can you identify and bracket your personal biographical biases during consultations?
 
-**Do No Harm Principle:**
+**The "Do No Harm" Principle:**
 
-How well do you deliver challenging information compassionately? 
+How skillfully do you articulate challenging planetary configurations with compassion and dignity?
 
-Can you recognize when clients are emotionally vulnerable? 
+Can you recognize subtle somatic indicators of emotional vulnerability in seekers?
 
-Do you empower rather than create dependency? 
+Do your interpretations fortify personal agency rather than breeding helplessness?
 
 **Respect for Autonomy:**
 
-How consistently do you honor clients' free will? 
+How consistently do you honor the seeker's sovereign free will and decision-making capacity?
 
-Do you avoid making decisions for your clients? 
+Do you refrain from making major life, relationship, or career choices for your clients?
 
-Can you see beyond the birth chart to the whole person? 
+Can you perceive the living human soul beyond the symbolic geometry of the natal chart?
 
-**Cultural Sensitivity:**
+**Cultural Humility:**
 
-How aware are you of your cultural assumptions? 
+How attuned are you to your own unexamined cultural assumptions?
 
-Can you adapt your approach for different backgrounds? 
+Can you adapt your counseling style to respect diverse cultural and religious worldviews?
 
-Do you avoid harmful astrological stereotypes? 
+Do you actively avoid reductive, fatalistic astrological stereotypes?
 
 **Professional Boundaries:**
 
-How clear are your ethical boundaries? 
+How clearly defined are your operational and energetic boundaries?
 
-Do you know when to refer clients to other professionals? 
+Do you maintain a reliable referral network of licensed mental health professionals?
 
-Can you maintain appropriate relationships with clients?
+Can you preserve clear boundaries between clinical service and social friendship?
 
 **Reflection Questions:**
 
-1. Which pillar of ethics needs the most attention in your practice?
-2. What specific ethical boundary do you need to establish this week?
-3. How will you continue developing your ethical foundation?
+1. Which of the six ethical domains above scored lowest in your self-assessment? What concrete step will you take this week to fortify it?
+2. What specific boundary must you establish or tighten immediately in your consulting practice?
+3. How has your understanding of the moral gravity of astrology evolved after completing this chapter?
 
 ::: {.writing-space}
-*Your reflections on building ethical practice...*
+*Space for your reflections on building an incorruptible ethical practice...*
 :::
 
 :::
@@ -142,49 +153,49 @@ Can you maintain appropriate relationships with clients?
 
 ::: {.action-box}
 
-**Beginner Level:**
+**Foundational Level:**
 
-- [ ] Create your "absolutely not" list of topics you won't discuss
-- [ ] Practice reframing one "negative" aspect in an empowering way
-- [ ] Audit your current confidentiality practices using the chapter checklist
-- [ ] Write down three ways to recognize client vulnerability
+- [ ] Codify your personal list of non-negotiable boundaries (Exercise Two)
+- [ ] Practice reframing one challenging planetary configuration daily
+- [ ] Audit your digital and physical confidentiality practices using the chapter checklist
+- [ ] Document three concrete behavioral signs indicating acute client vulnerability
 
 **Intermediate Level:**
 
-- [ ] Role-play the ethical scenarios from the practice section with a colleague
-- [ ] Develop template responses for common boundary situations
-- [ ] Create a cultural sensitivity checklist for diverse clients
-- [ ] Establish secure storage systems for client information
+- [ ] Role-play the complex clinical scenarios with a trusted colleague or mentor
+- [ ] Draft standardized client intake agreements detailing privacy policies and scope of practice
+- [ ] Create a cultural sensitivity checklist tailored to diverse seeker communities
+- [ ] Upgrade client archives with encrypted storage and high-entropy security
 
-**Advanced Level:**
+**Master Practitioner Level:**
 
-- [ ] Design a comprehensive ethical intake process for new clients
-- [ ] Create written policies for handling ethical dilemmas
-- [ ] Develop a monthly ethical reflection practice
-- [ ] Mentor another astrologer in ethical decision-making
+- [ ] Formulate comprehensive clinical intake and crisis referral protocols
+- [ ] Establish written policies for resolving complex third-party chart requests
+- [ ] Institute a formal monthly contemplative review of clinical countertransference
+- [ ] Mentor emerging practitioners in the sacred ethics of pastoral counseling
 :::
 
-## **Chapter Reflection**
+## Chapter Reflection
 
-*Ethics isn't about perfection—it's about consciousness and continuous growth. Consider: What ethical blind spots might you have? How has this chapter changed your perspective on your responsibilities as an astrologer? What one ethical practice will you implement immediately to better serve your clients?*
+*Ethics is not an abstract intellectual code—it is an ongoing awakening of conscience and clinical humility. Consider: What unexamined ethical blind spots might you harbor? In what ways has this chapter reshaped your view of the pastoral responsibility inherent in reading a birth chart? What specific commitment will you make today to ensure your counsel heals rather than harms?*
 
-## **Key Ethical Reminders:**
+## Key Ethical Reminders
 
 ::: {.takeaway-box}
-- **Confidentiality is sacred** - What happens in readings stays in readings
-- **Honesty builds trust** - Be transparent about your qualifications and limitations
-- **Empowerment over dependency** - Help clients find their own answers
-- **Free will is paramount** - The stars suggest, they don't command
-- **Cultural humility matters** - Respect diverse perspectives and experiences
-- **Continuous learning is essential** - Ethics evolve with experience and wisdom
+- **Confidentiality is an Inviolable Covenant** — What is revealed in the consultation sanctuary remains solely within the sanctuary.
+- **Honesty Establishes Sacred Trust** — Transparently honor your qualifications, limitations, and professional scope.
+- **Empowerment Over Helplessness** — Awaken the seeker's sovereign inner agency rather than breeding dependency.
+- **Free Will is Paramount** — The heavens illuminate archetypal currents; they do not issue deterministic commands.
+- **Cultural Humility Grounds Wisdom** — Reverently honor the diverse communal and spiritual worldviews of every seeker.
+- **Ethics is a Living Sadhana** — Moral maturity evolves through continuous self-inquiry, humility, and compassionate service.
 :::
 
-## **Your Ethical Compass Check:**
+## Your Ethical Compass Check
 
-*Before making any ethical decision, ask yourself:*
-- Will this empower or diminish my client?
-- Am I respecting their autonomy and dignity?
-- Would I want someone to treat my loved one this way?
-- Am I acting from love or from ego?
+*Before offering any interpretation, pause and interrogate your conscience:*
+- Will this insight fortify my seeker's agency, or will it cultivate debilitating fear?
+- Am I revering their moral autonomy, or is subtle ego seeking to impress?
+- Would I feel safe entrusting my own beloved family member to this counsel?
+- Am I speaking from clean, compassionate service, or is vanity guiding my voice?
 
-<script src="../../../scripts/quiz-interactions.js"></script>
+<script src="../../scripts/quiz-interactions.js"></script>
