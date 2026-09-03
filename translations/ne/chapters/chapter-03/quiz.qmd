@@ -198,4 +198,4 @@
 - के म अर्को कसैले मेरो आफ्नै प्रियजनलाई यसरी नै परामर्श देओस् भन्ने चाहन्छु?
 - के म साँचो करुणा र सेवाभावले बोल्दैछु कि मेरो अहंकारले?
 
-<script src="../../scripts/quiz-interactions.js"></script>
+<script src="../../../scripts/quiz-interactions.js"></script>

@@ -198,4 +198,4 @@ Can you preserve clear boundaries between clinical service and social friendship
 - Would I feel safe entrusting my own beloved family member to this counsel?
 - Am I speaking from clean, compassionate service, or is vanity guiding my voice?
 
-<script src="../../scripts/quiz-interactions.js"></script>
+<script src="../../../scripts/quiz-interactions.js"></script>
