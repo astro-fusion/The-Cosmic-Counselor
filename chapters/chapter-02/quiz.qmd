@@ -1,148 +1,108 @@
-## 📝 Knowledge Check Quiz {.quiz-title}
+## 📝 Knowledge Check {.quiz-title}
 
 ::: {.quiz-box}
-**1. Which of the following is a common reason people are skeptical about astrology?**
+**1. A client enters your consulting room openly cynical, stating: "I only booked this session because my spouse insisted. Astrology is nothing but medieval superstition." The most ethical and professionally mature response is to:**
 
-A) Lack of scientific evidence  
-B) Negative experiences with unethical astrologers  
-C) Misunderstanding of how astrology works  
-D) All of the above
+A) Defend astrology by citing its ancient historical lineage and scientific correlations  
+B) Politely end the consultation immediately, explaining that charts only work for open-minded clients  
+C) Acknowledge and respect their skepticism, remove predictive dogma, and invite them to explore the chart simply as a symbolic mirror for practical self-reflection  
+D) Point out harsh placements in their chart to demonstrate that astrology works regardless of their belief  
 
-**2. A client asks you to predict their financial future precisely. How should you respond to maintain ethical standards?**
+---
 
-A) Provide a detailed financial forecast  
-B) Offer general guidance on financial tendencies and advise caution  
-C) Refuse to answer and explain that astrology cannot predict exact outcomes  
-D) Ask for more context about their financial situation before answering
+**2. The primary psychological hazard of what the author terms the "Fast-Track Generation" of astrologers is that:**
 
-**3. What was the main problem with the author's early astrological practice?**
+A) They rely on social media rather than word-of-mouth referrals  
+B) They acquire technical calculation skills rapidly while remaining untrained in empathy, ethical containment, and the psychological impact of their words  
+C) They do not memorize enough classical Sanskrit shlokas  
+D) They work exclusively through computerized software instead of manual hand calculations  
 
-A) Lack of technical knowledge  
-B) Focus on being right rather than being helpful  
-C) Not charging enough for readings  
-D) Working with too many clients
+---
 
-**4. The "YouTube Generation Challenge" refers to astrologers who:**
+**3. A client in deep financial distress demands: "Just tell me which gemstone or ritual will overturn my business debt by next month." What is the counselor's highest ethical obligation?**
 
-A) Only practice online  
-B) Learn quickly through modern methods but miss emotional skills  
-C) Are too young to practice astrology  
-D) Don't understand traditional techniques
+A) Prescribe the classical gemstone corresponding to their most afflicted planet to provide immediate comfort  
+B) Recommend an expensive ritual, assuring them that faith can alter planetary energy  
+C) Gently decline to offer a magical shortcut, explain that remedies cannot replace practical financial reality, and reframe the session around disciplined planning and character development  
+D) Tell them their chart shows inevitable bankruptcy and that rituals would be a waste of money  
 
-**5. When sharing potentially difficult predictions, an ethical astrologer should:**
+---
 
-A) Be direct and blunt to show confidence  
-B) Avoid mentioning challenges completely  
-C) Focus on empowerment and guidance rather than doom  
-D) Only share positive predictions
+**4. When a counselor experiences physical exhaustion, insomnia, and persistent anxiety carrying a client's marital or health crisis long after the session has ended, they are most likely suffering from:**
 
-**6. Scenario: A skeptical client says "Astrology is just superstition." How should you respond?**
+A) Lack of spiritual devotion  
+B) Astrological counteraction from a difficult eighth-house transit  
+C) Compassion fatigue and vicarious traumatization resulting from poor emotional boundaries  
+D) An inaccurate birth time provided by the client  
 
-A) Argue with them about astrology's validity  
-B) Share scientific studies that prove astrology  
-C) Acknowledge their perspective and focus on self-discovery benefits  
-D) Refuse to work with skeptical clients
+---
+
+**5. What is the fundamental difference between cynical skepticism and ethical star wisdom?**
+
+A) Cynical skepticism rejects all non-empirical meaning outright, whereas ethical star wisdom combines rigorous inquiry with symbolic depth, honoring both science and human soul  
+B) Cynical skepticism is modern, while ethical star wisdom is strictly ancient  
+C) Ethical star wisdom requires abandoning the scientific method completely  
+D) Cynical skepticism doubts the astrologer, while ethical wisdom doubts the client  
 
 <button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
 
 ::: {.answers-content style="display: none;"}
-**Answer Key:** 1-D, 2-C, 3-B, 4-B, 5-C, 6-C
+**Answer Key:** 1-C, 2-B, 3-C, 4-C, 5-A
+
+**Explanations:**
+
+1. Meeting skepticism with defensiveness or dogmatic claims alienates the client. Disarming dogma and respecting their autonomy establishes a safe, collaborative environment where the client retains full agency.
+2. Modern accelerated courses often impart technical mechanics without cultivating psychological literacy, trauma awareness, or counseling boundaries—turning the practitioner into an intellectual hazard.
+3. Indulging demands for magical cures reinforces superstitious helplessness. Ethical counsel returns responsibility to the seeker, using chart symbolism to illuminate practical character and timing rather than miraculous bypasses.
+4. Uncontained empathy leads directly to emotional enmeshment, compassion fatigue, and vicarious trauma. A sustainable practitioner must maintain clear somatic and professional boundaries to remain effective.
+5. Mature wisdom does not discard skepticism; it refines it. Ethical star wisdom bridges analytical rigor with symbolic resonance, steering clear of both arrogant cynicism and credulous superstition.
 :::
 :::
 
 ---
 
-## 📊 Self-Assessment: Your Ethical Development
+## Self-Assessment: Where Am I Now? {.quiz-title}
 
 ::: {.assessment-box}
 
-**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+**Rate yourself honestly (1 = Rarely, 5 = Consistently):**
 
 ::: {.rating-scale}
-**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+**1** = Rarely | **2** = Occasionally | **3** = Sometimes | **4** = Usually | **5** = Consistently
 :::
 
-**Handling Skepticism:**
+**Handling Skepticism & Intellectual Humility:**
 
-How confident are you in addressing skepticism about astrology professionally? 
+I can welcome client skepticism without feeling defensive or needing to prove my craft
 
-Can you explain astrology's benefits without making unrealistic claims? 
+I present chart insights as reflective hypotheses rather than irrevocable decrees
 
-Do you remain calm when clients question astrology's validity? 
+I distinguish between empirical facts and symbolic correspondences with clarity
 
-**Ethical Practice:**
+**Navigating Expectations & Remedies:**
 
-How well do you understand ethical guidelines for astrologers? 
+I resist client pressure to provide exact dates or deterministic guarantees
 
-Do you prioritize client welfare over impressive predictions? 
+I decline to sell superstitious quick fixes or magical shortcuts to vulnerable seekers
 
-Can you recognize when you're in over your head? 
+I reframe urgent questions toward character development and practical action
 
-**Self-Awareness:**
+**Practitioner Boundaries & Well-Being:**
 
-How often do you apply ethical guidelines with skeptical clients? 
+I maintain clear energetic and emotional boundaries, releasing client distress after sessions
 
-Do you acknowledge the limitations of astrological predictions? 
+I recognize when my own unresolved emotional wounds are being triggered by a client
 
-Can you separate your ego from your practice? 
-
-**Personal Growth:**
-
-How well do you handle your own doubts about astrology? 
-
-Do you continue learning about psychology and counseling? 
-
-Can you admit when you don't know something? 
+I consistently prioritize somatic self-care to prevent burnout and compassion fatigue
 
 **Reflection Questions:**
 
-1. Which area scored lowest? This shows where you need the most growth.
-2. How has your approach to skeptical clients changed after reading this chapter?
-3. What's one specific way you can improve your ethical practice this week?
+1. Which of the nine items above scored lowest? What practical step will you take to address it?
+2. How has your perception of client skepticism shifted after studying this chapter?
+3. What boundary do you need to implement immediately to protect your own nervous system?
 
 ::: {.writing-space}
-*Your reflections on turning skepticism into ethical practice...*
+*Space for your reflections on ethical discernment and sustainable practice...*
 :::
 
 :::
-
----
-
-## 🎯 Action Steps for This Week
-
-::: {.action-box}
-
-**Beginner Level:**
-
-- [ ] Write down three common skeptical questions and practice ethical responses
-- [ ] Reflect on a time you gave a prediction you now regret—what would you do differently?
-- [ ] Practice saying "I don't know" when you genuinely don't have an answer
-
-**Intermediate Level:**
-
-- [ ] Role-play with a friend: one person plays a skeptical client, practice ethical responses
-- [ ] Create a list of astrology's limitations to share with overconfident clients
-- [ ] Develop three ways to shift prediction-seekers toward self-discovery
-
-**Advanced Level:**
-
-- [ ] Design an ethical intake process for new clients that addresses skepticism
-- [ ] Create scripts for redirecting clients from "fortune telling" to "counseling"
-- [ ] Establish a monthly self-reflection practice to review your ethical development
-:::
-
-## **Chapter Reflection**
-
-*Think about your own journey from skepticism to belief. How can your experience help you connect with skeptical clients? What ethical boundaries do you need to strengthen in your practice? How will you balance confidence in astrology with humility about its limitations?*
-
-## **Key Takeaways to Remember:**
-
-::: {.takeaway-box}
-- **Skepticism is healthy** - it leads to better, more ethical practice
-- **Predictions without compassion can harm** - focus on guidance, not fortune-telling  
-- **Your emotional well-being matters** - you can't help others if you're depleted
-- **Ethics aren't optional** - they're the foundation of trustworthy practice
-- **Continuous learning is essential** - both astrological and psychological knowledge matter
-:::
-
-<script src="../scripts/quiz-interactions.js"></script>
