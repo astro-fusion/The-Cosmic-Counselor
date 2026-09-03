@@ -1,3 +1,8 @@
-/.quarto/
-
+.quarto/
+_book/
+_site/
+site_libs/
 **/*.quarto_ipynb
+.DS_Store
+*.log
+*.tmp
