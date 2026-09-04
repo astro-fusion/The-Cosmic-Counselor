@@ -1,99 +1,142 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
 
 ::: {.quiz-box}
-**1. Which of the following is a key aspect of empowering clients in astrology sessions?**
 
-A) Telling clients exactly what decisions to make  
-B) Encouraging clients to explore their own insights and intuitions  
-C) Focusing only on astrological charts without discussion  
-D) Predicting their future without their input
+**1. What is the primary ethical purpose of equalizing seating heights and angling chairs at 45 degrees in an astrological consulting room?**
 
-**2. The most important element of creating sacred space is:**
+A) To allow the astrologer to read the client's facial micro-expressions without being noticed  
+B) To dismantle subconscious power hierarchies, reduce confrontational tension, and foster a collaborative, egalitarian dialogue  
+C) To follow traditional architectural superstition regarding planetary alignment  
+D) To make the consultation room look identical to a corporate boardroom
 
-A) Having expensive furniture and decorations  
-B) Using as many crystals and candles as possible  
-C) Creating an environment where clients feel safe and welcomed  
-D) Making the space look mysterious and otherworldly
+**2. Which of the following decor choices best supports an empowering, non-dogmatic sacred space?**
 
-**3. When designing your counseling space, seating should be:**
+A) Dense occult imagery, human skull replicas, and threatening tantric masks  
+B) Floor-to-ceiling altars displaying exclusive sectarian religious deities that every client must bow to  
+C) Natural elements (living plants, warm wood), clean astronomical charts, and uncluttered surfaces that welcome seekers of all backgrounds  
+D) Completely bare concrete walls with bright fluorescent lighting to ensure clinical sterility
 
-A) Behind a large desk to maintain authority  
-B) At the same height to foster equality and openness  
-C) Positioned so you can look down at the client  
-D) As far apart as possible to maintain boundaries
+**3. In the cautionary case study of the careless astrologer, what caused severe marital damage?**
 
-**4. Scenario: A client comes to you feeling very disempowered and unsure about their life direction. What steps can you take to create an environment that empowers them during your session?**
+A) The astrologer's planetary transit calculations were mathematically inaccurate  
+B) The astrologer made irresponsible, unverified speculative claims about the husband keeping secret affairs, igniting catastrophic domestic paranoia  
+C) The client forgot to perform the recommended gemstone ritual on a Tuesday  
+D) The husband discovered that astrology has no scientific basis
 
-A) Take control of the session and make decisions for them  
-B) Listen actively and ask questions that encourage self-reflection  
-C) Focus solely on the technical aspects of their astrological chart  
-D) Avoid discussing their feelings and focus on future predictions
+**4. When a distressed seeker breaks into tears and laments, "Nothing I do ever works out," what is the most attuned consultative response?**
 
-**5. In the cautionary tale about Pandit Mishra, the main problem was:**
+A) Immediately interrupt to calculate when their Saturn transit ends so they stop crying  
+B) Explain that their past-life karma is demanding suffering in this incarnation  
+C) Offer empathetic reflective attunement that validates their exhaustion before exploring any astrological context  
+D) Change the subject to lighter financial questions to distract them from their emotions
 
-A) The astrologer was technically incorrect about the chart  
-B) The client shouldn't have consulted an astrologer  
-C) The astrologer's words were misinterpreted and caused harm  
-D) The husband was actually keeping secrets
+**5. Why must an ethical astrological counselor refuse to use astrology to "spy" on an absent third party's private motives or suspected affairs?**
 
-**6. Which safety measure is most important for astrologers?**
+A) Because reading third-party charts requires double the standard consultation fee  
+B) Because speculating on absent individuals violates professional boundaries, lacks verified context, and frequently inflicts profound real-world harm  
+C) Because planetary transits only apply to the person who paid for the session  
+D) Because the stars permanently block all ethical practitioners from seeing third-party transits
 
-A) Having security cameras in your office  
-B) Only working with clients you already know  
-C) Establishing clear boundaries and professional practices  
-D) Avoiding all difficult or sensitive topics
+**6. Which sensory calibration is recommended for cultivating somatic nervous system regulation in a consultation room?**
+
+A) Loud ceremonial gongs and strong, heavy chemical perfumes diffused throughout the session  
+B) Soft, diffused warm lighting (2700K–3000K), faint and hypoallergenic natural scents, and acoustic masking for confidentiality  
+C) Complete pitch darkness illuminated only by a single flickering candle  
+D) Bright, buzzing fluorescent lights to keep the seeker alert and awake
+
+**7. In environmental psychology, which color palette is recognized for promoting emotional balance, nervous system regulation, and cognitive spaciousness?**
+
+A) Intense, saturated crimson reds  
+B) Heavy charcoal blacks and deep somber purples  
+C) Soft sage and olive greens paired with muted warm earth tones  
+D) Stark, reflective neon yellows
+
+**8. If a seeker arrives at a consultation in acute psychological crisis, exhibiting persecutory delusions and auditory hallucinations, what is the practitioner's ethical obligation?**
+
+A) Interpret their hallucinations as a sudden opening of psychic clairaudience and explore their 8th house  
+B) Pause technical chart analysis immediately, remain calm and supportive, and facilitate an immediate referral to medical or psychiatric professionals  
+C) Prescribe protective astrological amulets and advise them not to take psychiatric medication  
+D) Tell them to meditate for three hours daily and return next month
+
+**9. What is the fundamental distinction between an astrological reading and an empowering consultation?**
+
+A) A reading dictates a fixed, fatalistic destiny; an empowering consultation uses planetary symbolism to awaken the seeker's autonomous discernment and agency  
+B) A reading takes one hour, while an empowering consultation takes three hours  
+C) An empowering consultation guarantees that only positive events will happen in the future  
+D) An empowering consultation focuses exclusively on past lives rather than present choices
+
+**10. What constitutes proper digital hygiene in the consulting room during an active session?**
+
+A) Keeping smart-speaker recording devices active to transcribe the entire conversation automatically  
+B) Answering text messages periodically as long as you apologize to the seeker first  
+C) Silencing all phones, turning off computer notifications, and disconnecting smart listening devices to guarantee complete privacy  
+D) Live-streaming the chart interpretation to social media followers for educational demonstration
 
 <button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
 
 ::: {.answers-content style="display: none;"}
-**Answer Key:** 1-B, 2-C, 3-B, 4-B, 5-C, 6-C
+
+**Answer Key:** 1-B, 2-C, 3-B, 4-C, 5-B, 6-B, 7-C, 8-B, 9-A, 10-C
+
+**Clinical & Consultative Rationales:**
+
+1. **Spatial Ergonomics & Power Balance (B):** Physical geometry shapes psychological receptivity. Equal chair heights eliminate dominant-submissive dynamics, while a 45-degree angle allows easy collaborative focus without the confrontational tension of direct staring.
+2. **Inclusive Sanctuary Decor (C):** A sacred space must welcome diverse seekers without imposing sectarian dogma or terrifying occult theater. Grounded, natural elements and clean astronomical charts maintain dignity and philosophical openness.
+3. **The Danger of Careless Prognostication (B):** Carelessly diagnosing infidelity or deceit in absent third parties causes profound real-world catastrophe. Astrological symbols indicate archetypal potential, never definitive factual guilt.
+4. **Reflective Attunement vs. Premature Analysis (C):** When a human soul is hurting, rushing to mathematical calculations feels cold and dismissive. Reflective listening validates their emotional reality, establishing safety before applying chart symbolism.
+5. **Third-Party Ethics (B):** Speculating on absent spouses or rivals violates confidentiality, denies the absent person a voice, and fuels destructive domestic paranoia. Ethical practice focuses strictly on the seeker's own psychological response and agency.
+6. **Somatic Nervous System Regulation (B):** Diffused warm illumination, auditory masking, and hypoallergenic scents minimize autonomic stress triggers, creating an optimal physical baseline for deep self-reflection.
+7. **Environmental Color Psychology (C):** Sage greens and muted earth tones soothe the autonomic nervous system, fostering physiological grounding. Saturated reds elevate stress, while stark whites evoke clinical anxiety.
+8. **Psychiatric Triage & Safety (B):** Astrologers are not licensed to treat active psychosis. Misidentifying hallucinations as "spiritual awakening" is a lethal boundary violation. Immediate, compassionate psychiatric referral is mandatory.
+9. **Empowerment vs. Fatalism (A):** The core mission of the cosmic counselor is not to predict an inescapable future, but to empower the seeker to make conscious, courageous, and sovereign choices in harmony with celestial cycles.
+10. **Digital Privacy Hygiene (C):** Smart devices and notification pings violate the sacred container of counseling. Disconnecting recording devices and silencing notifications protects client trust and uninterrupted focus.
+
 :::
 :::
 
 ---
 
-## 📊 Self-Assessment: Sacred Space & Client Empowerment
+## 📊 Self-Assessment: Sacred Space & Consultative Presence
 
 ::: {.assessment-box}
 
-**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+**Rate your consultative practice honestly (1 = Substantial growth required, 5 = Consistently proficient):**
 
 ::: {.rating-scale}
-**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+**1** = Development required | **2** = Emerging awareness | **3** = Adequate competence | **4** = Advanced confidence | **5** = Consistently proficient
 :::
 
-**Sacred Space Creation:**
+**Sanctuary Architecture & Physical Presence:**
 
-How effectively do you create a welcoming, safe environment for clients?
+How well does your seating arrangement foster equality and collaborative dialogue?
 
-How well does your space support deep, meaningful conversations?
+How effective is your physical acoustic isolation in guaranteeing absolute confidentiality?
 
-How professional and calming is your counseling environment?
+How uncluttered, grounded, and welcoming is your consultation space for people of all traditions?
 
-**Client Empowerment:**
+**Interpersonal & Attuned Communication:**
 
-How effectively do you create sessions that empower clients to make their own informed decisions?
+How consistently do you use reflective listening before offering astrological interpretations?
 
-How well do you encourage client self-reflection and insight?
+How effectively do you use deliberate pauses and silence to let insights integrate?
 
-How consistently do you use a client-centered approach in your practice?
+How well-calibrated is your vocal tone and tempo when a seeker enters an emotional state?
 
-**Professional Presence:**
+**Ethical Boundaries & Client Sovereignty:**
 
-How confident and calming is your personal presence during sessions?
+How strictly do you refuse to make fatalistic pronouncements or diagnose third parties?
 
-How well do you maintain appropriate boundaries while staying warm and accessible?
+How clearly do your intake agreements communicate client responsibility and professional scope?
 
-How effectively do you handle challenging or emotional situations?
+How prepared are you to immediately halt a reading and execute an emergency psychiatric referral?
 
-**Reflection Questions:**
-
-1. Which area needs the most improvement in your practice?
-2. How does your current space either help or hinder client empowerment?
-3. What specific changes will you make to enhance your professional presence?
+**Reflection Prompts:**
+1. What specific aspect of your consultation room (furniture, lighting, acoustics, clutter) most undermines its sanctuary quality?
+2. When a seeker asks you to "tell them what will happen," how do you gently reorient them toward their own autonomy?
+3. What concrete change will you implement this week to deepen the feeling of safety and dignity in your practice?
 
 ::: {.writing-space}
-*Space for your reflections...*
+*Space for your self-assessment reflections and commitments...*
 :::
 
 :::
@@ -104,29 +147,29 @@ How effectively do you handle challenging or emotional situations?
 
 ::: {.action-box}
 
-**Beginner Level:**
+**Practical Milestones for Cultivating Sacred Space:**
 
-- [ ] Assess your current counseling space using the Sanctuary Audit
-- [ ] Practice one grounding technique you can use with clients
-- [ ] Record yourself explaining an astrological concept
-- [ ] Write down 3 ways you can empower rather than direct clients
+**Beginner Level:**
+- [ ] Measure and reposition your consulting chairs to equal heights at a collaborative 45-degree angle.
+- [ ] Replace any harsh fluorescent bulbs with soft, warm-spectrum lighting (2700K–3000K).
+- [ ] Remove dogmatic or intimidating occult items from the consultation room.
+- [ ] Draft an explicit client agreement emphasizing personal autonomy and confidentiality.
 
 **Intermediate Level:**
-
-- [ ] Implement 2-3 improvements to your counseling environment
-- [ ] Practice reflective listening techniques with friends or family
-- [ ] Develop scripts for maintaining professional boundaries
-- [ ] Create a pre-session ritual that centers you and your space
+- [ ] Test acoustic privacy by speaking at normal volume and listening outside the closed door; install a white noise machine if needed.
+- [ ] Practice the discipline of reflective listening in your next three consultation sessions.
+- [ ] Establish a firm protocol prohibiting speculative readings on absent third parties.
+- [ ] Create a vetted list of licensed local therapists, crisis centers, and marriage counselors.
 
 **Advanced Level:**
-
-- [ ] Design a comprehensive client empowerment protocol
-- [ ] Establish peer supervision or practice groups
-- [ ] Create safety protocols for challenging client situations
-- [ ] Develop resources for client self-reflection between sessions
+- [ ] Review your consultative language with an experienced peer to identify unconscious fatalistic idioms.
+- [ ] Refine your consultation space with grounding natural elements (living plants, earth tones, clean wood).
+- [ ] Conduct a seasonal boundary audit to ensure you are not fielding unscheduled crisis messages on personal channels.
+- [ ] Revisit your client intake paperwork annually to maintain modern ethical and legal compliance.
 :::
 
-## **Chapter Reflection**
-*Think about the last time you felt truly heard and supported by someone. What did they do that made you feel empowered rather than diminished? How can you bring those qualities into your own practice? Remember: your space and presence are powerful tools for healing—use them consciously.*
+## Chapter Reflection
+
+*Reflect upon the true nature of a sanctuary. A sacred room is not made holy by incense, robes, or ancient titles. It becomes sacred when an honest human being sits across from another with a quiet mind, a compassionate heart, and an unwavering commitment to truth. When you create an environment where power is shared, boundaries are honored, and human autonomy is celebrated, you provide something far rarer than predictions: you offer a sanctuary where the human spirit can heal, remember its wholeness, and choose its future.*
 
 <script src="../scripts/quiz-interactions.js"></script>
