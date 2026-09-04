@@ -1,12 +1,12 @@
 ## 📝 Practice Sections {.practice-header}
 
-### **Your mind is the most important astrological tool you'll ever use.** {.exercise-title}
+### Your Mind Is the Most Important Astrological Tool You'll Ever Use {.exercise-title}
 
-These exercises will help you understand the psychological forces at play in every astrological consultation. Be honest with yourself—recognizing your own biases and vulnerabilities is the first step to helping others navigate theirs.
+These exercises will help you understand the psychological forces at play in every astrological consultation. Be honest with yourself—recognizing your own biases and vulnerabilities is the first step to helping others traverse theirs with clarity.
 
 ---
 
-### **Exercise 1: Spotting the Bias** {.exercise-title}
+### Exercise One: Spotting the Bias {.exercise-title}
 
 ::: {.exercise-meta}
 **Purpose:** Heighten awareness of confirmation bias in yourself and astrological writings.
@@ -81,7 +81,7 @@ _____________________________________________
 
 ---
 
-### **Exercise 2: The Vulnerability Case Study** {.exercise-title}
+### Exercise Two: The Vulnerability Case Study {.exercise-title}
 
 ::: {.exercise-meta}
 **Purpose:** Understand how stress impacts receptiveness to astrological information.
@@ -167,7 +167,7 @@ _____________________________________________
 
 ---
 
-### **Exercise 3: Expectations Audit** {.exercise-title}
+### Exercise Three: Expectations Audit {.exercise-title}
 
 ::: {.exercise-meta}
 **Purpose:** Examine your language for realistic vs. unrealistic client expectations.
@@ -259,7 +259,7 @@ _____________________________________________
 
 ---
 
-### **Exercise 4: The Psychological Mirror** {.exercise-title}
+### Exercise Four: The Psychological Mirror {.exercise-title}
 
 ::: {.exercise-meta}
 **Purpose:** Explore how your own psychological patterns influence your astrological interpretations.
@@ -321,7 +321,7 @@ _____________________________________________
 
 ---
 
-### **Exercise 5: Creating Psychological Safety** {.exercise-title}
+### Exercise Five: Creating Psychological Safety {.exercise-title}
 
 ::: {.exercise-meta}
 **Purpose:** Practice recognizing and responding to client vulnerability.
@@ -370,7 +370,7 @@ Create template responses for vulnerable moments:
 "I can see you're going through something really difficult. Before we look at your chart, let's take a moment to acknowledge how much courage it takes to seek guidance during hard times."
 
 **When someone asks for guarantees:**
-"I understand the need for certainty right now. While astrology can't guarantee specific outcomes, it can offer insights about navigating this period with greater awareness."
+"I understand the need for certainty right now. While astrology cannot guarantee specific outcomes, it can offer insights into holding this period with greater awareness."
 
 **Your personalized templates:**
 
@@ -389,7 +389,7 @@ _____________________________________________
 
 ---
 
-### **📋 Weekly Psychological Awareness Goals**
+### 📋 Weekly Psychological Awareness Goals
 
 ::: {.practice-action-box}
 

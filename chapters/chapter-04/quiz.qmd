@@ -61,6 +61,17 @@ D) Maintaining emotional distance from client problems
 
 ::: {.answers-content style="display: none;"}
 **Answer Key:** 1-B, 2-C, 3-B, 4-B, 5-C, 6-B, 7-C, 8-B
+
+**Clinical & Psychological Explanations:**
+
+1. **The Barnum Effect (B):** Individuals tend to believe that general, universally-applicable personality statements are uniquely specific to themselves. Ethical practitioners guard against exploiting this cognitive bias.
+2. **Crisis Vulnerability (C):** During profound emotional crises, individuals experience heightened suggestibility and may grasp uncritically at any prediction that promises relief or psychological certainty.
+3. **Confirmation Bias (B):** The human mind instinctively highlights data that confirms pre-existing beliefs while discarding contradictory evidence. Astrologers must actively challenge this selective spotlight.
+4. **Empowering Exploration (B):** Instead of making fatalistic timeline predictions about romance, the conscious practitioner explores what love, attachment, and partnership signify in the seeker's current developmental stage.
+5. **Symbolic Therapeutic Framework (C):** Astrology heals not through physical planetary forces, but by providing an archetypal symbolic language that helps clients organize self-understanding, integrate emotional wounds, and build narrative agency.
+6. **Transformative Energy Channeling (B):** Astrological placements never justify toxic behavior. The counselor's responsibility is to help seekers redirect raw archetypal impulses into conscious, constructive channels.
+7. **Comfort Seeking in Vulnerability (C):** High stress impairs analytical scrutiny, predisposing clients to embrace any cosmic reading that restores a semblance of control or emotional equilibrium.
+8. **Clinical Referral Discernment (B):** The paramount ethical responsibility of an astrological counselor is recognizing the boundaries of astrological guidance and promptly referring severe trauma, depression, or clinical distress to licensed mental health professionals.
 :::
 :::
 
@@ -156,11 +167,11 @@ Do you maintain realistic expectations about astrology's scope?
 - [ ] Build relationships with local mental health professionals for referrals
 :::
 
-## **Chapter Reflection**
+## Chapter Reflection
 
 *The intersection of psychology and astrology is where true healing happens. Consider: How has understanding confirmation bias changed your perspective on astrology's effectiveness? What psychological patterns do you recognize in yourself that might influence your readings? How will you use this awareness to serve your clients better?*
 
-## **Key Psychological Insights:**
+## Key Psychological Insights
 
 ::: {.takeaway-box}
 
@@ -172,7 +183,7 @@ Do you maintain realistic expectations about astrology's scope?
 - **Empowerment beats prediction** - Growth-oriented guidance creates lasting positive change
 :::
 
-## **Your Psychological Awareness Check:**
+## Your Psychological Awareness Check
 
 *Before each session, ask yourself:*
 
@@ -181,4 +192,4 @@ Do you maintain realistic expectations about astrology's scope?
 - Am I framing insights as possibilities or certainties?
 - Would this guidance empower them or create dependency?
 
-<script src="../scripts/quiz-interactions.js"></script>
+<script src="../../../scripts/quiz-interactions.js"></script>
