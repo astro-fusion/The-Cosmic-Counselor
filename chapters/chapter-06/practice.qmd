@@ -1,105 +1,127 @@
 ## 📝 Practice Sections {.practice-header}
 
-### 🌟 Exercise 1: Case Study Analysis {.exercise-title}
+### Grounding Clinical Discernment in Consultative Practice {.exercise-title}
+
+These practical exercises will help you translate the clinical principles of Chapter 6 into ethical, life-saving consultative reflexes. Recognizing where spiritual counseling ends and psychiatric or emergency care begins is not an admission of inadequacy; it is the highest expression of compassion and professional integrity.
+
+---
+
+### Exercise 1: Case Study Analysis & Clinical Triage {.exercise-title}
 
 ::: {.exercise-meta}
-**Purpose:** Learn to identify when someone needs more than spiritual guidance and practice making compassionate referrals.
+**Purpose:** Cultivate acute clinical discernment to distinguish between normative life stress and psychiatric warning signs, practicing triage decisions (continue, shift focus, or refer).
 
-**Time needed:** 20-25 minutes
+**Time required:** 25–30 minutes
 :::
 
 ::: {.exercise-box}
 
 ::: {.exercise-content}
 ::: {.step-box}
+**Instructions:** Read each seeker scenario attentively. Identify both situational stressors and explicit clinical red flags.
 
-**Instructions:** Read each client scenario carefully. Look for both everyday stress AND potential warning signs of serious mental health issues.
+For each case, determine your consultative course of action:
+1. **Continue Reading:** Maintain spiritual inquiry with healthy grounding.
+2. **Shift Focus:** Gently re-direct from external fatalism toward inner agency, recommending supportive counseling.
+3. **Formal Referral / Crisis Protocol:** Pause the astrological reading immediately and execute an ethical, warm handoff or crisis intervention.
 
-For each case, decide:
-- Would you continue the reading as normal?
-- Shift the focus gently?
-- Suggest a mental health referral?
-
-**Write your reasoning for each decision.**
+**Document your clinical reasoning and planned response.**
 :::
 
-::: {.case-study-box}
+::: {.step-box}
+**Case Study A — Maya, 28**
 
-**Client A - Maya, 28:** 
+*"I am beside myself with anxiety over this job interview next week. I haven't slept more than two or three hours a night for an entire month. Everything feels completely overwhelming. My partner insists I am being dramatic, but I cannot stop the catastrophic thoughts. Yesterday I broke down sobbing for three hours over absolutely nothing. I feel like an utter failure in every single thing I attempt."*
 
-*"I'm so stressed about this job interview next week. I haven't been sleeping well at all - maybe 2-3 hours a night for the past month. Everything feels overwhelming right now. My boyfriend says I'm being dramatic, but I just can't stop worrying about everything. Yesterday I cried for like 3 hours straight over nothing. I feel like such a failure at everything I try."*
+::: {.writing-space}
+**Clinical Warning Signs Identified:**
+- Severe, protracted sleep latency disturbance (chronic insomnia spanning four weeks)
+- Pervasive cognitive rumination, catastrophic thinking, and severe emotional lability
+- Profound feelings of worthlessness and generalized failure
 
-::: {.analysis-space}
+**Your Action (Continue / Shift Focus / Refer):**
+Shift Focus & Recommend Mental Health Referral (Generalized Anxiety with Major Depressive features).
 
-**Warning signs you notice:**
-
-**Your decision (continue/shift/refer):**
-
-**Your reasoning:**
-
-:::
-:::
-
-::: {.case-study-box}
-
-**Client B - David, 35:**
-*"Things have been weird lately. I know someone's been following me - probably from my old job. They're definitely watching my apartment. I can hear them talking about me through the walls sometimes. My family thinks I'm paranoid, but I know what I'm experiencing. I haven't left my place much in the past few weeks because it's not safe. Can you see in my chart who's doing this to me?"*
-
-::: {.analysis-space}
-
-**Warning signs you notice:**
-
-**Your decision (continue/shift/refer):**
-
-**Your reasoning:**
-
+**Your Script & Reasoning:**
+*"Maya, what you are carrying extends beyond typical interview nerves. Living with weeks of fragmented sleep and constant emotional overwhelm is exhausting. While we can look at what your chart says about your vocational strengths, I want to strongly encourage you to speak with a licensed counselor who can offer specialized tools to help soothe your nervous system."*
 :::
 :::
 
-::: {.case-study-box}
+::: {.step-box}
+**Case Study B — David, 35**
 
-**Client C - Sarah, 42:**
-*"I've been going through a divorce, and it's been really hard. Some days I feel completely hopeless, like nothing will ever get better. I've been drinking wine every night to sleep, and my appetite is gone - I've lost about 15 pounds without trying. My kids are staying with their dad for now because I just... I can't handle taking care of anyone right now. Sometimes I wonder if they'd be better off without me."*
+*"Things have been terrifying lately. I know for a fact someone has been surveilling me—almost certainly operatives from my former workplace. They are monitoring my apartment day and night. At night, I hear their muffled voices through the bedroom walls plotting against me. My family claims I'm paranoid, but I know what I am experiencing. I haven't left my home in three weeks because the street is hostile. Can you look at my eighth house and tell me who is orchestrating this against me?"*
 
-::: {.analysis-space}
+::: {.writing-space}
+**Clinical Warning Signs Identified:**
+- Persecutory and paranoid delusions (unshakable belief of covert workplace surveillance)
+- True auditory hallucinations (hearing voices through walls)
+- Functional paralysis and agoraphobic seclusion driven by psychotic terror
 
-**Warning signs you notice:**
+**Your Action (Continue / Shift Focus / Refer):**
+Immediate Clinical Referral. Do not validate or astrologically confirm persecutory delusions.
 
-**Your decision (continue/shift/refer):**
-
-**Your reasoning:**
-
+**Your Script & Reasoning:**
+*"David, I hear how deeply terrifying and exhausting this environment feels for you right now. But looking at your chart to identify enemies will not bring you the safety you deserve. What you are describing requires immediate medical and psychiatric evaluation to ensure your well-being. Let us step away from the astrology today and focus on connecting you with a qualified medical professional who can support you right now."*
 :::
 :::
 
-::: {.case-study-box}
+::: {.step-box}
+**Case Study C — Sarah, 42**
 
-**Client D - Alex, 24:**
+*"I've been going through an agonizing divorce, and the grief is unrelenting. Some days I wake up in total darkness, convinced that nothing will ever improve. I've been drinking wine every single night just to pass out, and my appetite has vanished—I've lost fifteen pounds without trying. My children are staying with their father because I simply cannot function. Sometimes I look in the mirror and think they would all be so much better off if I were gone."*
 
-*"I need to know if Mercury retrograde is causing all this chaos in my life. Everything's been amazing lately - I haven't needed much sleep, maybe 3 hours a night, but I feel incredible! I've started three new businesses this month and I know they're all going to make me rich. My friends are being so negative about my ideas, but they just don't understand my vision. I can see connections between everything now - the universe is definitely speaking to me directly."*
+::: {.writing-space}
+**Clinical Warning Signs Identified:**
+- Major depressive presentation triggered by severe marital rupture
+- Somatic decompensation (profound unintended weight loss, chronic insomnia)
+- Escalating substance dependence (using alcohol nightly to induce sleep)
+- Passive suicidal ideation and perceived burdensomeness ("better off without me")
 
-::: {.analysis-space}
+**Your Action (Continue / Shift Focus / Refer):**
+Immediate Crisis Intervention Protocol. Explore suicidal intent directly.
 
-**Warning signs you notice:**
-
-**Your decision (continue/shift/refer):**
-
-**Your reasoning:**
+**Your Script & Reasoning:**
+*"Sarah, I hear the profound exhaustion in your words, and I value your life far too much to overlook what you just said. When you say your children would be better off without you, are you having thoughts of ending your life? ... Thank you for being honest with me. This pain is too heavy to carry in isolation. I am going to stay right here with you while we connect with real crisis support."*
 :::
 :::
 
-::: {.case-study-box}
+::: {.step-box}
+**Case Study D — Alex, 24**
 
-**Client E - Jordan, 30:**
-*"I've been feeling really anxious about social situations lately. It started a few months ago when I had a panic attack at work. Now I'm constantly worried it will happen again. I've started avoiding meetings and social events because my heart races and I can't breathe properly. I keep checking my pulse and googling heart attack symptoms. My doctor says my heart is fine, but what if they missed something?"*
+*"I need to know if Mercury retrograde is responsible for this wild surge of cosmic energy! Everything has been electrifying lately—I've barely slept three hours a night all week, yet I have never felt more powerful or enlightened! I have launched four new tech startups in the last ten days and I am certain they will generate millions. My friends keep begging me to slow down, but they simply cannot comprehend my cosmic vision. The universe is speaking directly to me through planetary synchronicities!"*
 
-::: {.analysis-space}
+::: {.writing-space}
+**Clinical Warning Signs Identified:**
+- Bipolar I Manic Episode presentation
+- Markedly decreased need for sleep with hyper-thymic energy
+- Pressured speech, racing thoughts, and expansive grandiosity
+- Impulsive financial/occupational commitments with impaired reality testing
 
-**Warning signs you notice:**
+**Your Action (Continue / Shift Focus / Refer):**
+Prompt Clinical Referral. Involve trusted family or psychiatric resources.
 
-**Your decision (continue/shift/refer):**
+**Your Script & Reasoning:**
+*"Alex, I can feel how intensely fast your mind is moving right now. In astrological counseling, rapid acceleration without rest often signals that the nervous system is running into severe overload. Because euphoria can mask serious physical depletion, I cannot in good conscience conduct a chart reading right now. I strongly urge you to consult with a medical professional or counselor today to help ground your system."*
+:::
+:::
 
-**Your reasoning:**
+::: {.step-box}
+**Case Study E — Jordan, 30**
+
+*"I have been gripped by panic in social situations. It started two months ago when I had a sudden panic attack during an office presentation. Now I live in dread that it will strike again. I have started canceling client meetings and avoiding public transit because my heart starts pounding and my chest constricts. I find myself obsessively checking my pulse and researching heart attack symptoms online. The ER doctor told me my heart is structurally healthy, but what if they missed something fatal?"*
+
+::: {.writing-space}
+**Clinical Warning Signs Identified:**
+- Panic Disorder with anticipatory dread
+- Agoraphobic avoidance behaviors (avoiding meetings and transit)
+- Somatic hyper-vigilance and hypochondriacal health anxiety
+
+**Your Action (Continue / Shift Focus / Refer):**
+Collaborative Mental Health Referral. Normalize anxiety care.
+
+**Your Script & Reasoning:**
+*"Jordan, anticipatory anxiety can turn everyday situations into exhausting ordeals. The medical tests showing your heart is healthy are reassuring, but your nervous system is clearly trapped in a false alarm cycle. While your chart can illuminate your innate sensitivities, evidence-based therapies like CBT are remarkably effective at retraining the body's panic response. Would you be open to exploring therapy alongside our spiritual work?"*
 :::
 :::
 :::
@@ -107,168 +129,134 @@ For each case, decide:
 
 ---
 
-### 🎯 Exercise 2: Referral Roleplay {.exercise-title}
+### Exercise 2: Compassionate Referral Roleplay {.exercise-title}
 
 ::: {.exercise-meta}
+**Purpose:** Rehearse the verbal delivery of delicate referral dialogues aloud to eliminate awkwardness, judgment, and defensiveness.
 
-**Purpose:** Practice making compassionate referrals in realistic scenarios.
-
-**Time needed:** 15-20 minutes per scenario
-
+**Time required:** 20 minutes
 :::
 
 ::: {.exercise-box}
 
 ::: {.exercise-content}
 ::: {.step-box}
-**Setup:** Find a practice partner (another spiritual counselor, friend, or even practice alone using a mirror).
-
-**Instructions:** Take turns playing client and counselor. Use the scenarios below or create your own.
+**Setup:** Partner with an experienced colleague, fellow student, or rehearse aloud before a mirror. Rotate through the three core client temperaments:
 :::
 
-::: {.roleplay-scenarios}
-**Scenario 1: The Overwhelmed Client**
-*Client role:* You're experiencing severe anxiety that's affecting your work and relationships. You mention not being able to leave the house some days and having panic attacks.
+::: {.content-box}
+**Scenario 1: The Overwhelmed Seeker (Severe Anxiety & Exhaustion)**
+- *Client Demeanor:* Agitated, speaking breathlessly, expressing fear that they are "losing their mind."
+- *Counselor Mandate:* Provide a calm, grounding presence; validate emotional pain without confirming pathology; offer a warm handoff to professional psychotherapy.
 
-*Counselor role:* Practice expressing concern and suggesting professional help without making the client feel judged or dismissed.
+**Scenario 2: The Ambushed Crisis (Suicidal Disclosure)**
+- *Client Demeanor:* Flat affect, quiet resignation, stating that astrology is their "last hope before checking out."
+- *Counselor Mandate:* Cease astrology immediately; ask directly about suicide; uphold safety above secrecy; stay on the line/in the room while dialing crisis support.
 
-**Scenario 2: The Crisis Client**
-*Client role:* You're going through a difficult time and mention feeling like "it might be better if I wasn't here anymore."
-
-*Counselor role:* This requires immediate referral. Practice staying calm while prioritizing safety.
-
-**Scenario 3: The Resistant Client**
-*Client role:* You show signs of needing help but resist suggestions about therapy, saying "I just want to know what my chart says."
-
-*Counselor role:* Practice gentle persistence while respecting boundaries.
+**Scenario 3: The Resistant Seeker ("Just Tell Me What the Stars Say")**
+- *Client Demeanor:* Defensive, skeptical of therapy, insisting that planetary remedies or gemstones will fix clinical depression.
+- *Counselor Mandate:* Maintain unwavering ethical boundaries; gently decline to treat medical issues with astrology; frame therapy as an allied discipline.
 :::
 
-::: {.referral-scripts}
-**Practice these compassionate referral phrases:**
-
-::: {.script-box}
-**Expressing Concern:**
-- "I can see you're really struggling with this..."
-- "What you're describing sounds incredibly difficult..."
-- "I'm concerned about how much this is affecting your daily life..."
-:::
-
-::: {.script-box}
-**Suggesting Help:**
-- "While I can offer spiritual guidance, what you're experiencing might benefit from professional counseling as well..."
-- "Have you considered talking to someone who specializes in..."
-- "It sounds like you could use some additional support beyond what I can offer..."
-:::
-
-::: {.script-box}
-**Normalizing Mental Health Care:**
-- "Many people find therapy helpful during challenging times..."
-- "It's actually a sign of strength to reach out for professional support..."
-- "Think of it like any other health issue - you'd see a doctor for a physical problem..."
-:::
-:::
-
-::: {.reflection-space}
-**After each roleplay, discuss:**
-
-1. What felt natural and what felt awkward?
-2. How did the "client" receive the referral suggestion?
-3. What would you do differently next time?
-
-**Your reflections:**
-:::
-:::
-:::
-
----
-
-### 📋 Exercise 3: Self-Check on Sensitive Topics {.exercise-title}
-
-::: {.exercise-meta}
-**Purpose:** Identify your personal triggers and prepare professional responses.
-
-**Time needed:** 15-20 minutes
-:::
-
-::: {.exercise-box}
-
-::: {.exercise-content}
 ::: {.step-box}
-**Step 1: Identify Your Triggers**
+**Verbal Repertoire: Mastering the Language of Referral**
 
-Write down 2-3 topics that would make you deeply uncomfortable due to lack of expertise or personal unease:
+::: {.example-box}
+**Expressing Unconditional Compassion:**
+- *"I see how deeply you are suffering right now, and I want to ensure you receive the most thorough support possible."*
+- *"What you are describing carries immense emotional weight. You do not have to carry this alone."*
+:::
 
-::: {.common-triggers}
+::: {.example-box}
+**Framing the Limitation Without Rejection:**
+- *"Astrology provides profound spiritual and archetypal perspective, but it is not equipped to treat clinical panic or depression."*
+- *"Because I care deeply about your long-term well-being, I cannot offer remedies where medical or psychological care is required."*
+:::
 
-**Common trigger topics:**
-
-- Detailed death predictions
-- Graphic descriptions of trauma
-- Requests for medical diagnosis
-- Severe mental health crises
-- Requests to harm others
-- Explicit sexual content
-- Extreme religious conflicts
-
+::: {.example-box}
+**Normalizing Professional Mental Health Care:**
+- *"Consulting a therapist when your emotional reserves are drained is an act of courage and self-stewardship."*
+- *"Think of this as you would a severe physical fracture—just as you would see an orthopedic doctor, deep psychological wounds merit clinical care."*
+:::
 :::
 
 ::: {.writing-space}
+**Post-Roleplay Reflection:**
+- Which phrases felt natural, and where did you feel internal resistance or hesitation?
+- How did the partner respond when you set firm boundaries around your scope of practice?
+- What adjustments will make your delivery more grounded and compassionate?
+:::
+:::
+:::
 
-**Your personal trigger topics:**
+---
 
-1. _______________
-2. _______________
-3. _______________
+### Exercise 3: Self-Audit on Sensitive Trigger Topics {.exercise-title}
 
+::: {.exercise-meta}
+**Purpose:** Identify personal countertransference triggers, define operational boundaries, and establish predetermined emergency response protocols.
+
+**Time required:** 20 minutes
+:::
+
+::: {.exercise-box}
+
+::: {.exercise-content}
+::: {.step-box}
+**Step 1: Identifying Personal Vulnerabilities**
+
+Reflect honestly on consultations that have triggered acute anxiety or discomfort. Common vulnerability domains include:
+- Requests for definitive death or longevity predictions
+- Graphic disclosures of active abuse or severe trauma
+- Requests to diagnose physical or psychological illnesses
+- Active psychotic presentations or bizarre delusions
+- Seekers expressing romantic or sexual attachment toward the counselor
+
+::: {.writing-space}
+**My Top Three Sensitive Trigger Topics:**
+1. _________________________________________________________________
+2. _________________________________________________________________
+3. _________________________________________________________________
 :::
 :::
 
 ::: {.step-box}
+**Step 2: Designing Response Protocols**
 
-**Step 2: Create Your Response Plans**
+For each identified trigger, formulate both a **Gentle Redirection** and a **Formal Referral Protocol**:
 
-For each trigger topic, prepare two approaches:
+::: {.comparison-box}
+**Example Trigger:** *Seeker pleads for a medical diagnosis or pregnancy timeline.*
 
-**Example Topic:** *Detailed death predictions*
+**Plan A (Gentle Redirection):**
+*"I appreciate how anxious this waiting period is for you. However, my practice focuses strictly on psychological insight and spiritual growth. For questions regarding physical health, fertility, or medical diagnoses, you must consult a licensed medical physician. Let us focus our inquiry on how you can care for your emotional well-being during this transition."*
 
-::: {.plan-comparison}
-
-**Plan A - Gentle Redirection:**
-
-*"I understand you're concerned about timing, but I focus on helping people understand life patterns rather than predicting specific events. Let's look at what your chart suggests about your life purpose and growth opportunities instead."*
-
-**Plan B - Professional Referral:**
-
-*"Questions about mortality often come from deeper concerns about purpose and meaning. While I can offer spiritual insights, these existential questions might be beautifully explored with a counselor who specializes in life transitions and meaning-making."*
-
-:::
+**Plan B (Formal Referral):**
+*"Because physical symptoms require medical evaluation, I cannot interpret these placements from a diagnostic standpoint. I strongly recommend scheduling an appointment with your healthcare provider. If you need assistance finding medical or psychological support in your area, we can identify reputable resources together."*
 :::
 
-::: {.your-plans}
+::: {.step-box}
+**Your Protocol Formulation:**
 
-**Your Topic 1:** _______________
+::: {.writing-space}
+**Trigger Topic 1:** __________________________________________________
 
-::: {.plan-box}
-**Plan A - Gentle Redirection:**
+**Plan A (Redirection):** ___________________________________________
+_________________________________________________________________
 
-**Plan B - Professional Referral:**
+**Plan B (Referral):** ______________________________________________
+_________________________________________________________________
 :::
 
-**Your Topic 2:** _______________
+::: {.writing-space}
+**Trigger Topic 2:** __________________________________________________
 
-::: {.plan-box}
-**Plan A - Gentle Redirection:**
+**Plan A (Redirection):** ___________________________________________
+_________________________________________________________________
 
-**Plan B - Professional Referral:**
+**Plan B (Referral):** ______________________________________________
+_________________________________________________________________
 :::
-
-**Your Topic 3:** _______________
-
-::: {.plan-box}
-**Plan A - Gentle Redirection:**
-
-**Plan B - Professional Referral:**
-
 :::
 :::
 :::
@@ -276,100 +264,102 @@ For each trigger topic, prepare two approaches:
 
 ---
 
-### 📊 Weekly Practice Checklist {.exercise-title}
+### 📋 Weekly Practice Checklist {.exercise-title}
 
 ::: {.practice-action-box}
 
-**This Week's Goals:**
+**Foundational Commitments:**
+- [ ] Complete clinical triage analysis for all five case studies
+- [ ] Memorize the direct suicide inquiry question (*"Are you having thoughts of ending your life?"*)
+- [ ] Rehearse one compassionate referral script aloud until it feels conversational and natural
+- [ ] Post verified emergency crisis numbers within immediate view of your consultation desk
 
-**Beginner Level:**
+**Intermediate Commitments:**
+- [ ] Practice the three referral roleplay scenarios with a peer or mentor
+- [ ] Compile a localized referral directory of licensed psychotherapists, psychiatrists, and crisis clinics
+- [ ] Formulate predetermined boundary scripts for your top personal trigger topics
+- [ ] Audit your client intake agreement to ensure referral boundaries are explicitly stated
 
-- [ ] Complete all case study analyses
-- [ ] Research 3 mental health resources in your area
-- [ ] Practice one referral script out loud
-- [ ] Identify your personal trigger topics
-
-**Intermediate Level:**
-
-- [ ] Practice roleplay scenarios with a partner
-- [ ] Create a referral resource list with contact information
-- [ ] Develop your personal response scripts for sensitive topics
-- [ ] Discuss challenging scenarios with a mentor or peer group
-
-**Advanced Level:**
-
-- [ ] Create intake forms that screen for mental health concerns
-- [ ] Establish relationships with local mental health professionals
-- [ ] Develop a crisis intervention protocol for your practice
-- [ ] Train others in compassionate referral techniques
+**Advanced Commitments:**
+- [ ] Establish professional referral relationships with licensed mental health practitioners in your community
+- [ ] Integrate formal mental health screening questions into your consultative intake workflow
+- [ ] Participate in regular peer supervision to process secondary trauma and consultative countertransference
+- [ ] Complete certified training in Mental Health First Aid (MHFA) or crisis intervention
 :::
 
 ---
 
-### 🎯 Crisis Resource Quick Reference {.exercise-title}
+### 🎯 Emergency Crisis Resources Directory {.exercise-title}
 
-::: {.crisis-resources}
+::: {.warning-box}
+**Immediate Crisis Lines — Available 24/7:**
 
-**Keep these numbers handy:**
+**United States & Canada:**
+- **National Suicide & Crisis Lifeline:** Dial **988** (Call or Text)
+- **The Crisis Text Line:** Text **HOME** to **741741**
+- **The Trevor Project (LGBTQ Youth):** Call **1-866-488-7386** or Text **START** to **678-678**
+- **Emergency Services:** Dial **911**
 
-::: {.emergency-box}
+**Nepal:**
+- **National Mental Health Helpline (Patan Hospital):** Dial **1166** (Toll-Free, 24/7)
+- **TUTH Psych Crisis Hotline (Tribhuvan University Teaching Hospital):** **9840021600**
+- **Nepal Police Emergency:** Dial **100** | **Ambulance:** Dial **102**
 
-**Immediate Crisis:**
-- **Emergency Services:** 911
-- **Crisis Text Line:** Text HOME to 741741
-- **National Suicide Prevention Lifeline:** 988
+**India:**
+- **Tele-MANAS (Government of India 24/7 National Helpline):** Dial **14416** or **1800-891-4416**
+- **Vandrevala Foundation Mental Health Helpline:** Call or WhatsApp **9999 666 555**
+- **KIRAN Mental Health Helpline:** Dial **1800-599-0019**
+- **National Emergency Number:** Dial **112**
+
+**Global & International Directory:**
+- **Befrienders Worldwide:** [befrienders.org](https://www.befrienders.org/)
+- **Find A Helpline (Global Directory):** [findahelpline.com](https://findahelpline.com/)
 :::
 
-::: {.local-resources}
+::: {.action-box}
+**Your Local Practice Referral Network (Complete and keep accessible):**
 
-**Your Local Resources:**
-
-**Mental Health Crisis Center:** _______________
-
-**Local Therapist Referrals:** _______________
-
-**Psychiatric Emergency Services:** _______________
-
-**Community Mental Health Center:** _______________
-:::
+- **Local Psychiatric Emergency Room / Crisis Center:** ________________________
+- **Trusted Licensed Clinical Psychologists / Counselors:** ___________________
+- **Community Mental Health Clinic:** _______________________________________
+- **Substance Recovery & Addiction Center:** ________________________________
 :::
 
 ---
 
-### 📈 Weekly Self-Check: Referral Readiness {.exercise-title}
+### 📊 Referral Readiness Self-Assessment {.exercise-title}
 
 ::: {.practice-assessment-box}
 
-**Rate your confidence this week (1 = Need more work, 5 = Very confident):**
+**Rate your clinical discernment and referral confidence (1 = Substantial growth needed, 5 = Highly proficient):**
 
 ::: {.rating-scale .no-rating}
-**1** = Need more work | **2** = Some confidence | **3** = Moderate confidence | **4** = Good confidence | **5** = Very confident
+**1** = Substantial growth needed | **2** = Developing awareness | **3** = Consistent application | **4** = Advanced confidence | **5** = Exemplary proficiency
 :::
 
-**Assessment Areas:**
+**Competency Evaluation:**
 
-Recognizing signs of serious mental health issues
+Distinguishing between everyday stress and clinical depression or anxiety
 
-Making compassionate referrals without judgment
+Recognizing psychotic decompensation (hallucinations and delusions) without confirming pathology
 
-Handling my own discomfort with sensitive topics
+Asking directly and calmly about suicidal ideation without hesitation or awkwardness
 
-Knowing when to prioritize safety over continuing a reading
+Delivering compassionate referrals without alienating or shaming the seeker
 
-Having appropriate resources readily available
+Managing personal triggers and maintaining strict scope-of-practice boundaries
 
-**Reflection Questions:**
+Maintaining a verified, accessible crisis resource directory during all sessions
 
-1. Which type of mental health concern feels most challenging for you to identify?
-2. What made the referral roleplay easy or difficult?
-3. How will you continue building your confidence in this area?
+**Reflective Inquiries:**
+
+1. What psychological symptom or presentation causes you the greatest personal anxiety during a consultation?
+2. How will you respond when a seeker vigorously resists a mental health referral?
+3. What concrete action will you take this week to fortify your crisis readiness?
 
 ::: {.writing-space}
-
-*Space for your weekly reflections...*
-
+*Practitioner reflections and clinical commitments...*
 :::
 :::
 
 <script src="../scripts/quiz-interactions.js"></script>
-

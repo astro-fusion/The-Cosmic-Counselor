@@ -2,256 +2,228 @@
 
 ::: {.quiz-box}
 
-**1. Which of the following signs might indicate that a client should be referred to a mental health professional?**
+**1. Which of the following presentations represents a clinical red flag requiring a prompt referral to a licensed mental health professional?**
 
-A) Persistent feelings of hopelessness  
-B) A desire to understand their astrological chart better  
-C) Occasional stress about work  
-D) Curiosity about how astrology can help their relationship
+A) Persistent feelings of worthlessness, chronic insomnia, and pervasive hopelessness lasting several weeks  
+B) A seeker requesting deeper insight into the psychological meaning of their Saturn return  
+C) Occasional acute stress related to an upcoming occupational performance review  
+D) Curiosity regarding how astrological synastry can help improve marital communication
 
-**2. According to the BioPsychoSocial model, mental health is influenced by:**
+**2. According to the BioPsychoSocial (BPS) framework, mental health and psychological distress are shaped by:**
 
-A) Only brain chemistry  
-B) Only psychological factors  
-C) Biological, psychological, and social factors working together  
-D) Only social circumstances
+A) Neurochemical and genetic factors exclusively  
+B) Unconscious psychological defense mechanisms and early childhood experiences alone  
+C) The dynamic, continuous interplay of biological, psychological, and systemic social factors  
+D) Environmental and economic circumstances independently of bodily physiology
 
-**3. When someone mentions having thoughts of suicide during a session, you should:**
+**3. If a seeker discloses thoughts of suicide during an astrological consultation, the practitioner's immediate ethical obligation is to:**
 
-A) Continue the reading to distract them  
-B) Give them astrological advice about better times ahead  
-C) Immediately refer them to mental health professionals  
-D) Schedule them for a follow-up reading next week
+A) Continue reading the chart to locate auspicious future Jupiter transits that promise relief  
+B) Gently explain that suicide creates severe karmic consequences in future incarnations  
+C) Pause the chart interpretation immediately, maintain a calm supportive presence, and execute a crisis referral  
+D) Change the subject to lighter topics to distract the seeker from their acute emotional pain
 
-**4. The difference between normal sadness and clinical depression is:**
+**4. What is the fundamental clinical distinction between normal sadness and clinical depression?**
 
-A) Depression lasts longer and significantly impacts daily functioning  
-B) Depression only affects women  
-C) Sadness is always temporary  
-D) There is no real difference
+A) Normal sadness is painful but temporary and situational; clinical depression is persistent, deeply impairing, and disrupts baseline biological functioning  
+B) Clinical depression only occurs in individuals with demanding Saturn or Rahu placements  
+C) Normal sadness requires immediate pharmacological treatment, whereas depression resolves on its own  
+D) There is no objective distinction; both reflect identical emotional states differing only in vocabulary
 
-**5. Scenario: During a consultation, a client reveals they have been experiencing severe depression and have had thoughts of self-harm. How should you respond?**
+**5. Clinical Scenario: During a session, a seeker breaks into tears, discloses severe clinical depression, and admits to recurrent self-harm. How should the ethical counselor respond?**
 
-A) Offer astrological guidance to help them feel better  
-B) Provide general support and recommend they seek help from a mental health professional immediately  
-C) Assure them that their chart shows things will improve soon  
-D) Avoid discussing their feelings and focus on the astrological reading
+A) Offer astrological remedies, gemstones, and planetary mantras to mitigate their emotional distress  
+B) Provide compassionate validation, state your scope of practice clearly, and actively assist in connecting them with a licensed mental health professional  
+C) Assure them that their transits will dramatically improve in six months so they should simply endure the pain  
+D) Avoid acknowledging their emotional disclosure and immediately complete the scheduled astrological reading
 
-**6. Which of these is NOT a sign of a manic episode?**
+**6. Which of the following behaviors is NOT a clinical symptom of a Bipolar I Manic Episode?**
 
-A) Decreased need for sleep (2-3 hours feeling rested)  
-B) Racing thoughts and rapid speech  
-C) Persistent sadness and withdrawal  
-D) Grandiose beliefs about abilities
+A) Markedly decreased need for sleep (feeling fully rested after two or three hours)  
+B) Pressured speech, racing thoughts, and expansive grandiosity  
+C) Chronic psychomotor slowing, persistent lethargy, and profound social withdrawal  
+D) Reckless financial investments or impulsive, uncharacteristic risk-taking
 
-**7. A client describes hearing voices that others can't hear. This is an example of:**
+**7. A seeker reports hearing muffled voices through their walls plotting against them and believes coworkers are monitoring their thoughts. This presentation indicates:**
 
-A) Normal stress response  
-B) Hallucination requiring immediate professional help  
-C) Spiritual awakening  
-D) Temporary anxiety
+A) An awakening of heightened clairaudient or psychic sensitivity  
+B) Auditory hallucinations and persecutory delusions requiring immediate psychiatric evaluation  
+C) A temporary, harmless stress reaction that can be resolved with meditation  
+D) A standard manifestation of Mercury retrograde influencing technological perception
 
-**8. The most compassionate way to make a mental health referral is to:**
+**8. The most effective, non-stigmatizing method for initiating a professional mental health referral is to:**
 
-A) Tell them they're too sick for spiritual guidance  
-B) Express concern and explain how professional help can work alongside spiritual guidance  
-C) Refuse to continue any sessions  
-D) Give them a business card and end the session
+A) Inform the seeker that their issues are far too severe for spiritual guidance and terminate the session  
+B) Express sincere care, validate their suffering, and explain how psychotherapy works synergistically with spiritual self-understanding  
+C) Give them a referral business card without explanation and ask them to leave  
+D) Threaten to cancel all future appointments unless they agree to see a psychiatrist
 
-**9. Generalized Anxiety Disorder is characterized by:**
+**9. Generalized Anxiety Disorder (GAD) is clinically distinguished by:**
 
-A) Fear of specific objects only  
-B) Occasional worry about normal life events  
-C) Excessive, uncontrollable worry about many things that impairs daily life  
-D) Only physical symptoms like headaches
+A) A phobic terror restricted exclusively to specific animals or high places  
+B) Occasional worry regarding genuine, realistic life problems that subsides once the problem is resolved  
+C) Pervasive, excessive, and uncontrollable worry spanning months that significantly impairs daily functioning  
+D) Transient panic attacks that occur exclusively during social gatherings
 
-**10. As a spiritual counselor, your role when encountering mental health issues is to:**
+**10. When encountering acute mental health conditions, the professional role of the cosmic counselor is to:**
 
-A) Diagnose and treat the condition yourself  
-B) Ignore mental health signs and focus only on spiritual guidance  
-C) Recognize signs and compassionately refer to appropriate professionals  
-D) Tell clients to just think positively
+A) Formulate clinical diagnoses and prescribe psychological therapeutic regimens  
+B) Disregard psychological symptoms and focus strictly on deterministic planetary interpretations  
+C) Recognize clinical boundaries, hold compassionate space, and facilitate a warm handoff to qualified professionals  
+D) Instruct seekers to adopt positive thinking and perform remedial rituals instead of seeking therapy
 
 <button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
 
 ::: {.answers-content style="display: none;"}
 
-**Answer Key:** 
+**Answer Key:** 1-A, 2-C, 3-C, 4-A, 5-B, 6-C, 7-B, 8-B, 9-C, 10-C
 
-1. **A** - Persistent feelings of hopelessness (This is a key sign of depression requiring professional help)
-2. **C** - Biological, psychological, and social factors working together
-3. **C** - Immediately refer them to mental health professionals (Safety is always the priority)
-4. **A** - Depression lasts longer and significantly impacts daily functioning
-5. **B** - Provide general support and recommend they seek help from a mental health professional immediately
-6. **C** - Persistent sadness and withdrawal (This is a sign of depression, not mania)
-7. **B** - Hallucination requiring immediate professional help
-8. **B** - Express concern and explain how professional help can work alongside spiritual guidance
-9. **C** - Excessive, uncontrollable worry about many things that impairs daily life
-10. **C** - Recognize signs and compassionately refer to appropriate professionals
+**Clinical & Ethical Rationales:**
 
-**If you missed more than 2 questions:** Review the chapter sections on warning signs and referral guidelines.
+1. **Clinical Red Flags (A):** Persistent worthlessness, chronic insomnia, and pervasive hopelessness across weeks represent hallmark symptoms of a major depressive episode requiring professional clinical diagnosis and evidence-based care, rather than mere astrological reassurance.
+2. **The BioPsychoSocial Model (C):** Contemporary mental healthcare recognizes that psychological well-being is never monocausal. It emerges from the reciprocal interactions between neurobiology, cognitive-emotional coping patterns, and environmental/social relationships.
+3. **Acute Crisis Response Protocol (C):** In the presence of suicidal ideation, client safety overrides all consultative agendas. Ethical practitioners immediately step away from technical astrological analysis, remain grounded, and connect the seeker directly to emergency resources.
+4. **Clinical Depression vs. Normal Sadness (A):** While situational sadness is a natural human response that ebbs as circumstances adjust, clinical depression represents an incapacitating syndrome characterized by neurovegetative shifts (sleep, appetite, psychomotor agitation) and severe functional collapse.
+5. **Ethical Scope & Warm Handoff (B):** Spiritual counselors are neither licensed diagnosticians nor medical providers. Recommending psychiatric or psychotherapeutic intervention while offering a warm, non-judgmental presence honors professional boundaries and protects seeker life.
+6. **Bipolar Manic Presentations (C):** Chronic psychomotor slowing, lethargy, and social withdrawal are characteristics of unipolar or bipolar depression. Mania, by contrast, presents with hyper-arousal, reduced sleep need, grandiosity, and impulsivity.
+7. **Psychotic Symptoms & Safety (B):** Hearing voices without auditory stimuli and entertaining fixed persecutory beliefs reflect reality-testing failure (hallucinations and delusions). Labeling psychosis as "psychic awakening" is a dangerous boundary violation that delays critical psychiatric stabilization.
+8. **Collaborative De-Stigmatization (B):** Seekers often experience shame surrounding mental healthcare. Framing therapy as an allied, honorable modality that complements existential self-discovery lowers psychological defense mechanisms and fosters compliance.
+9. **Generalized Anxiety Disorder Criteria (C):** GAD involves chronic, diffuse, and uncontrollable worry across multiple life spheres persisting for at least six months, accompanied by somatic tension, sleep latency disturbance, and executive fatigue.
+10. **The Cosmic Counselor's Mandate (C):** The highest ethical ideal of the cosmic counselor is recognizing where symbolic interpretation ends and clinical duty begins. Being a steady, compassionate bridge to qualified professional healthcare preserves the dignity of both client and counselor.
 
 :::
 :::
 
 ---
 
-## 📊 Self-Assessment: Mental Health Awareness
+## 📊 Self-Assessment: Clinical Discernment & Referral Competency
 
 ::: {.assessment-box}
 
-**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+**Rate your clinical readiness honestly (1 = Substantial growth required, 5 = Highly confident):**
 
 ::: {.rating-scale}
-**1** = Need lots of work | **2** = Some knowledge | **3** = Adequate understanding | **4** = Good awareness | **5** = Very confident
+**1** = Substantial growth required | **2** = Basic familiarity | **3** = Adequate competence | **4** = Advanced confidence | **5** = Highly proficient
 :::
 
-**Recognition Skills:**
+**Diagnostic Discernment:**
 
-How confident are you in recognizing when a client's issues may be beyond the scope of astrology and require professional mental health support?
+How confident are you in distinguishing between ordinary emotional distress and major depressive disorder?
 
-How well can you distinguish between normal stress and serious mental health concerns?
+How readily can you detect manic or hypomanic symptoms masked as "spiritual inspiration"?
 
-How comfortable are you identifying signs of depression, anxiety, or psychotic symptoms?
+How comfortable are you recognizing psychotic de-compensation, hallucinations, and delusions?
 
-**Referral Skills:**
+**Referral Execution:**
 
-How comfortable are you with referring clients to mental health professionals when necessary?
+How comfortable are you initiating a referral without inducing shame or feelings of rejection in the seeker?
 
-How confident are you in making referrals without clients feeling rejected or judged?
+How prepared are you to maintain firm boundaries when a seeker resists therapy and demands astrological fixes?
 
-How well can you maintain your therapeutic relationship while encouraging professional help?
+How skilled are you in articulating the complementary relationship between psychotherapy and spiritual counseling?
 
-**Resource Knowledge:**
+**Crisis Readiness:**
 
-How well do you understand the mental health resources available for referral in your community?
+How prepared are you to ask directly and calmly about suicidal thoughts during a session?
 
-How prepared are you to handle crisis situations (suicidal thoughts, severe symptoms)?
+How familiar are you with emergency crisis hotlines and local mental health resources?
 
-How knowledgeable are you about different types of mental health professionals and their specialties?
+How well do you manage your own nervous system when a seeker enters acute emotional crisis?
 
 **Professional Boundaries:**
 
-How clear are you about what you can and cannot address as a spiritual counselor?
+How clearly do you maintain the line between spiritual reflection and psychiatric intervention?
 
-How comfortable are you with saying "This is beyond my expertise"?
+How comfortable are you saying aloud: "This issue lies outside my professional expertise"?
 
-How well do you balance spiritual guidance with mental health awareness?
+How rigorously do you document crisis referrals and boundary-setting conversations?
 
 ::: {.scoring-guide}
+**Scoring Benchmarks:**
 
-**Your Score Guide:**
-
-- **48-60:** Excellent mental health awareness
-- **36-47:** Good foundation, some areas to strengthen  
-- **24-35:** Adequate knowledge, focus on weak areas
-- **12-23:** Significant learning needed
-- **Below 12:** Prioritize mental health education immediately
-
+- **48–60:** Exemplary clinical awareness and ethical boundary integration
+- **36–47:** Solid foundational awareness; continue refining crisis dialogue and roleplay
+- **24–35:** Moderate understanding; prioritize focused study on warning signs and referral scripts
+- **12–23:** Significant vulnerability; suspend high-stakes consulting until completing crisis training
+- **Below 12:** Immediate ethical remediation required; enroll in a certified Mental Health First Aid course
 :::
 
-**Reflection Questions:**
-
-1. Which area scored lowest? This needs immediate attention for client safety.
-2. What specific mental health topic do you need to learn more about?
-3. What will you do this week to improve your mental health awareness?
-
 ::: {.writing-space}
-
-*Space for your reflections...*
-
+*Personal reflections on clinical strengths, vulnerabilities, and continuing education goals...*
 :::
 :::
 
 ---
 
-## 🎯 Action Steps Based on Your Assessment
+## 🎯 Targeted Action Plan Based on Your Assessment
 
 ::: {.action-box}
 
-**If you scored 12-23 (Immediate Priority):**
+**If your score falls between 12–23 (Immediate Remediation):**
+- [ ] Complete an accredited Mental Health First Aid (MHFA) or Applied Suicide Intervention Skills Training (ASIST) course
+- [ ] Connect with a licensed clinical supervisor or mental health mentor for consultative guidance
+- [ ] Compile a comprehensive, verified crisis directory before conducting further consultations
+- [ ] Draft an explicit Informed Consent document stating your non-clinical scope of practice
 
-- [ ] Take a Mental Health First Aid course
-- [ ] Shadow a mental health professional or counselor
-- [ ] Create a crisis intervention plan for your practice
-- [ ] Build a comprehensive referral network immediately
+**If your score falls between 24–35 (Skill Consolidation):**
+- [ ] Review the diagnostic criteria and warning signs detailed in Chapter 6
+- [ ] Rehearse the referral roleplays with an experienced colleague to overcome conversational hesitation
+- [ ] Research and visit local community mental health clinics to build personal professional referral relationships
+- [ ] Establish pre-written crisis management protocols for your office and online sessions
 
-**If you scored 24-35 (Focus Areas):**
+**If your score falls between 36–47 (Advanced Refinement):**
+- [ ] Incorporate standardized mental health screening inquiries into your pre-session client intake forms
+- [ ] Deepen your understanding of trauma-informed care and somatic grounding techniques
+- [ ] Formulate clear boundary scripts for handling persistent resistance to clinical care
+- [ ] Engage in quarterly peer supervision to review complex consultative dynamics
 
-- [ ] Study the specific mental health topics you missed in the quiz
-- [ ] Practice referral conversations with a mentor
-- [ ] Research local mental health resources and create contact list
-- [ ] Attend workshops on trauma-informed care
-
-**If you scored 36-47 (Strengthen Skills):**
-
-- [ ] Role-play challenging referral scenarios
-- [ ] Develop intake forms that screen for mental health concerns
-- [ ] Create boundary scripts for different situations
-- [ ] Establish professional relationships with therapists
-
-**If you scored 48-60 (Maintain Excellence):**
-
-- [ ] Mentor other spiritual counselors in mental health awareness
-- [ ] Stay updated on mental health research and best practices
-- [ ] Develop training materials for your community
-- [ ] Consider becoming a Mental Health First Aid instructor
+**If your score falls between 48–60 (Mastery & Leadership):**
+- [ ] Mentor emerging spiritual counselors in clinical triage, ethical boundaries, and referral protocols
+- [ ] Present workshops on ethical spiritual practice and mental health literacy in your community
+- [ ] Maintain ongoing collaborative relationships with integrative therapists and psychiatrists
+- [ ] Publish reflective resources advocating for ethical standards in the broader astrological community
 :::
 
 ---
 
-## 🚨 Emergency Resource Checklist
+## 🚨 Essential Emergency Crisis Protocol
 
-::: {.crisis-resources}
+::: {.warning-box}
+**Immediate Crisis Lines — Available 24 Hours, 7 Days a Week:**
 
-**Print this out and keep it accessible during all sessions:**
+**United States & Canada:**
+- **Suicide & Crisis Lifeline:** Call or Text **988**
+- **Crisis Text Line:** Text **HOME** to **741741**
+- **The Trevor Project (LGBTQ Youth):** Call **1-866-488-7386** | Text **START** to **678-678**
+- **Emergency Services:** **911**
 
-::: {.emergency-box}
+**Nepal:**
+- **National Mental Health Helpline (Patan Hospital):** **1166** (Toll-Free, 24/7)
+- **TUTH Psych Crisis Line (Tribhuvan University Teaching Hospital):** **9840021600**
+- **Nepal Police Emergency:** **100** | **Ambulance Service:** **102**
 
-**Crisis Situations - Call Immediately:**
+**India:**
+- **Tele-MANAS (Govt. of India 24/7 National Helpline):** **14416** or **1800-891-4416**
+- **Vandrevala Foundation Mental Health Support:** **9999 666 555**
+- **KIRAN Mental Health Line:** **1800-599-0019**
+- **National Emergency Assistance:** **112**
 
-- **Emergency Services:** 911
-- **Crisis Text Line:** Text HOME to 741741
-- **National Suicide Prevention Lifeline:** 988
-- **Crisis Chat:** suicidepreventionlifeline.org/chat
+**Global Crisis Directory:**
+- **Befrienders Worldwide:** [befrienders.org](https://www.befrienders.org/)
+- **Find A Helpline (Worldwide Directory):** [findahelpline.com](https://findahelpline.com/)
 :::
 
-::: {.warning-signs-box}
-
-**Immediate Referral Required When Client Shows:**
-
-- [ ] Thoughts of suicide or self-harm
-- [ ] Plans to hurt others
-- [ ] Severe hallucinations or delusions
-- [ ] Complete break from reality
-- [ ] Inability to care for basic needs
-- [ ] Substance abuse with mental health symptoms
-
+::: {.action-box}
+**Mandatory Referral Triggers — Initiate Immediate Warm Handoff If a Seeker Shows:**
+- [ ] Direct or veiled threats of suicide, self-harm, or active preparation
+- [ ] Intent or threats to inflict physical harm or violence upon others
+- [ ] Severe persecutory delusions, command hallucinations, or acute paranoia
+- [ ] Complete cognitive disorganization and inability to preserve physical safety
+- [ ] Severe substance dependence coupled with acute psychiatric distress
 :::
 
-::: {.local-resources}
+## Chapter Reflection
 
-**Your Local Resources (Fill in now):**
-
-**Mental Health Crisis Center:** _______________
-
-**24-Hour Crisis Hotline:** _______________
-
-**Local Hospital Emergency Room:** _______________
-
-**Community Mental Health Center:** _______________
-
-**Trusted Therapist Referrals:** 
-
-1. _______________
-2. _______________
-3. _______________
-
-:::
-:::
-
-## **Chapter Reflection**
-
-*Think about a time when you or someone you know needed mental health support. How did it feel to ask for help? How can this experience inform how you approach referrals with your clients? Remember: referring someone for mental health support is an act of love, not failure.*
+*Reflect upon an encounter in your life when you or someone close to you faced profound psychological pain. What made it difficult to ask for help? What qualities in another person made seeking support feel dignified rather than shameful? As cosmic counselors, how can we embody that same safe, grounded presence for those who place their trust in us? Remember: guiding a seeker to specialized clinical care is an act of deep reverence and love, never an admission of failure.*
 
 <script src="../scripts/quiz-interactions.js"></script>
