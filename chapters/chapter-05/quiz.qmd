@@ -1,260 +1,143 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
 
-::: {.quiz-intro}
-Test your understanding of ethical principles in spiritual counseling. Choose the best answer for each question, then reflect on your current practice.
-:::
-
----
-
-### 🎯 Multiple Choice Questions {.quiz-section}
-
 ::: {.quiz-box}
-**Question 1:** Which of the following is NOT an ethical principle typically emphasized in astrological practice?
+**1. Which of the following represents the foundational ethical mandate of astrological counseling?**
 
-::: {.quiz-options}
-A) Confidentiality  
-B) Honesty  
-C) Predicting exact future events  
-D) Non-judgmental attitude  
-:::
+A) Pronouncing unalterable future events with mathematical certainty  
+B) Illuminating archetypal patterns and inner resources to strengthen seeker autonomy  
+C) Charging premium fees for exclusive planetary remediation rituals  
+D) Offering unconditional comforting predictions to soothe seeker anxiety
 
-::: {.quiz-explanation .hidden}
-**Correct Answer: C**
+**2. A distressed seeker sits before you and pleads: "Tell me whether I should leave my husband today. I will do whatever you say." What is the most ethical response?**
 
-Predicting exact future events goes against ethical astrological practice because it promotes determinism and removes client agency. Ethical astrology focuses on potential patterns and empowering clients to make informed choices, not on making definitive predictions about what will happen.
-:::
-:::
+A) Analyze seventh-house transits and give a definitive verdict on whether she should leave  
+B) Acknowledge her acute distress, decline to make the decision for her, and explore what her own inner wisdom and values indicate  
+C) Advise her that divorce is karmically forbidden under her current planetary period  
+D) Terminate the session immediately without offering any grounding support or referral
 
-::: {.quiz-box}
-**Question 2:** A client asks you to definitively predict when they'll get married. What's the most ethical response?
+**3. In astrological practice, reducing a seeker to stereotypical traits based solely on their Sun sign (e.g., "Scorpios are manipulative," "Geminis cannot commit") is considered:**
 
-::: {.quiz-options}
-A) Give them a specific date based on transits  
-B) Explain you can't predict exact timing, but explore relationship patterns in their chart  
-C) Refuse to discuss relationships at all  
-D) Make a vague prediction to satisfy them  
-:::
+A) An acceptable shorthand for rapid technical decipherment  
+B) An ethical failure that ignores the multidimensional complexity of the whole person  
+C) A necessary pedagogical technique to keep readings simple  
+D) Harmless entertainment that seekers rarely take seriously
 
-::: {.quiz-explanation .hidden}
-**Correct Answer: B**
+**4. When communicating demanding planetary transits (such as Saturn or Pluto aspects), an empowering practitioner:**
 
-The ethical approach acknowledges the client's desire for information while redirecting toward empowering insights. This maintains honesty about astrology's limitations while still providing valuable guidance about relationship patterns and tendencies.
-:::
-:::
+A) Uses catastrophic language to ensure the seeker prepares for the worst  
+B) Avoids mentioning the transit entirely to prevent unnecessary worry  
+C) Frames the transit as a developmental crucible that exposes areas requiring conscious restructuring and resilience  
+D) Promises that purchasing specific gemstones or mantras will eliminate the planetary tension
 
-::: {.quiz-box}
-**Question 3:** A long-term client asks you to share details of another client's chart because they believe it may contain information relevant to their own situation. How should you respond?
+**5. Which of the following constitutes an absolute, non-negotiable boundary breach in spiritual counseling?**
 
-::: {.quiz-options}
-A) Share only the relevant parts of the other client's chart  
-B) Politely refuse and explain the importance of confidentiality  
-C) Ask the other client for permission to share their chart details  
-D) Ignore the request and change the subject  
-:::
+A) Referring a seeker to a licensed psychotherapist for clinical depression  
+B) Entering into a romantic, sexual, or financial dual relationship with a seeker  
+C) Transparently outlining session fees and cancellation policies in advance  
+D) Acknowledging unfamiliarity with a seeker's cultural traditions and asking for clarification
 
-::: {.quiz-explanation .hidden}
-**Correct Answer: B**
+**6. Cultural sensitivity in astrological counseling requires the practitioner to:**
 
-Confidentiality is absolute in ethical practice. Even with permission from another client, sharing chart details violates professional boundaries. The ethical response is to clearly explain why confidentiality matters and suggest the client focus on their own chart for insights.
-:::
-:::
+A) Impose Western individualistic autonomy onto seekers from collectivistic family systems  
+B) Recognize how cultural frameworks, family duties, and sacred observances shape a seeker's worldview and decision-making  
+C) Insist that all clients adopt the counselor's personal spiritual philosophy  
+D) Treat every seeker identically by ignoring cultural, ethnic, and socioeconomic differences
 
-::: {.quiz-box}
-**Question 4:** Which approach best demonstrates cultural sensitivity in spiritual counseling?
+**7. Informed consent in ethical astrological practice means:**
 
-::: {.quiz-options}
-A) Treating all clients exactly the same regardless of background  
-B) Making assumptions about clients based on their ethnicity  
-C) Asking clients about their cultural background and adapting your approach accordingly  
-D) Avoiding any mention of cultural differences  
-:::
+A) Having the client sign a bureaucratic liability waiver before reading their chart  
+B) Ensuring the seeker understands the symbolic nature, boundaries, benefits, and limitations of astrology, as well as their right to decline inquiries  
+C) Requiring the seeker to consent to whatever remedies the astrologer prescribes  
+D) Promising complete confidentiality even when immediate physical danger to life is disclosed
 
-::: {.quiz-explanation .hidden}
-**Correct Answer: C**
+**8. Clinical Scenario: During a consultation, a seeker reveals active suicidal intent and states they have purchased lethal means. What is your ethical obligation?**
 
-Cultural sensitivity requires actively learning about and adapting to each client's unique background. This shows respect for their values and worldview while ensuring your guidance is relevant and appropriate to their context.
-:::
-:::
-
-::: {.quiz-box}
-**Question 5:** When should you refer a client to another professional?
-
-::: {.quiz-options}
-A) Only when they specifically ask for a referral  
-B) When they mention any emotional difficulties  
-C) When they present issues requiring medical, legal, or therapeutic expertise  
-D) Never - you should handle all spiritual concerns yourself  
-:::
-
-::: {.quiz-explanation .hidden}
-**Correct Answer: C**
-
-Ethical practice requires recognizing the limits of your expertise. While spiritual counselors can address many life concerns, issues requiring specialized medical, legal, or therapeutic intervention should be referred to qualified professionals.
-:::
-:::
+A) Preserve absolute confidentiality and keep reading the chart to find positive transits  
+B) Recognize that safety supersedes confidentiality, pause the reading, and immediately connect the seeker with emergency crisis resources  
+C) Advise them that suicide will create severe negative karma in their next incarnation  
+D) Tell them to consult a therapist next week and finish the remaining consultation time
 
 <button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
 
 ::: {.answers-content style="display: none;"}
-**Answer Key:** 1-C, 2-B, 3-B, 4-C, 5-C
+**Answer Key:** 1-B, 2-B, 3-B, 4-C, 5-B, 6-B, 7-B, 8-B
+
+**Clinical & Ethical Explanations:**
+
+1. **Autonomy vs. Determinism (B):** The ethical counselor illuminates symbolic weather and latent inner strengths, empowering the seeker to make conscious, sovereign choices rather than cultivating passive fatalism.
+2. **Refusing the Role of Oracle (B):** Seekers in acute crisis frequently attempt to surrender their authority to the counselor. The ethical practitioner holds the space with compassion while firmly refusing to dictate life decisions.
+3. **The Whole Person (B):** Human beings are living syntheses of their complete natal charts, cultural environments, trauma, and conscious volition. Reducing anyone to sign caricatures blinds the counselor to their real lived experience.
+4. **Growth-Oriented Framing (C):** Astrological counseling reframes planetary friction as developmental invitations to build character, maturity, and self-awareness rather than inescapable curses.
+5. **Zero Tolerance on Dual Relationships (B):** The power differential between counselor and seeker is profound. Any romantic, sexual, or exploitative dual entanglement constitutes a catastrophic breach of professional trust.
+6. **Cultural Humility (B):** An ethical counselor recognizes that individual autonomy, familial duty, and spiritual timing hold diverse meanings across cultures. Counseling must attune to the seeker's authentic context.
+7. **Informed Consent (B):** Transparent communication regarding what astrology can and cannot deliver establishes psychological safety and reinforces the seeker's sovereign right to self-determination.
+8. **Safety Supersedes Confidentiality (B):** When imminent risk of self-harm or violence exists, preservation of human life overrides confidentiality. The counselor must immediately activate crisis intervention protocols.
+:::
 :::
 
 ---
 
-## 📊 Self-Assessment: Where Am I Now?
+## 📊 Self-Assessment: Your Ethical Foundation
 
 ::: {.assessment-box}
 
-**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+**Evaluate your current consultative practice (1 = Need work, 5 = Consistently embodied):**
 
 ::: {.rating-scale .no-rating}
-**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+**1** = Need substantial work | **2** = Developing awareness | **3** = Consistent adherence | **4** = Advanced integration | **5** = Exemplary integrity
 :::
 
-**Ethical Practice Skills:**
+**Ethical Competencies:**
 
-Maintaining client confidentiality in my practice
+Refraining from fatalistic predictions and actively empowering client choice
 
-Ensuring honest and transparent communication with clients
+Maintaining absolute client confidentiality and rigorous data protection
 
-Practicing a non-judgmental approach in interpretations
+Upholding zero tolerance on romantic, sexual, or financial dual relationships
 
-Avoiding harmful stereotypes in my readings
+Recognizing clinical boundaries and executing timely mental health referrals
 
-Empowering clients rather than creating dependency
+Practicing cultural humility and honoring diverse familial and spiritual frameworks
 
-Recognizing when to refer clients to other professionals
+Operating with complete financial transparency without selling fear-based remedies
 
-**Cultural Sensitivity:**
+**Reflective Questions:**
 
-Adapting my approach to different cultural backgrounds
-
-Asking respectfully about clients' values and beliefs
-
-Avoiding assumptions based on appearance or accent
-
-**Professional Boundaries:**
-
-Keeping sessions focused on spiritual guidance
-
-Maintaining appropriate relationships with clients
-
-Managing my own emotions during difficult sessions
-
-**Reflection Questions:**
-
-1. Which area scored lowest? This is your priority for growth.
-2. Which area scored highest? This is your strength to build on.
-3. What specific step will you take this week to improve your ethical practice?
+1. Which ethical boundary do you find most challenging to maintain when a seeker is in acute distress?
+2. How do you respond internally when a seeker flatters your ego by treating you as an all-knowing oracle?
+3. What specific adjustments will you make to your client intake protocol to ensure informed consent?
 
 ::: {.writing-space}
-*Space for your reflections...*
+*Space for your personal reflections and ethical commitments...*
 :::
 
 :::
 
 ---
 
-### 🎭 Scenario Analysis {.quiz-section}
+## Chapter Reflection
 
-::: {.scenario-practice}
-**Practice Scenario:** A client says, "My Scorpio ex was so manipulative and secretive. I'm never dating another Scorpio again. Can you tell me what signs I should avoid?"
+*True integrity is tested not in moments of calm, but in moments of ambiguity—when a seeker begs for certainty, when a placement reveals crisis, or when our own ego seeks validation. Reflect: How will you hold the sacred space of counseling as a sanctuary of safety, empowerment, and moral clarity?*
 
-::: {.scenario-response}
-**What's problematic about this request?**
+## Key Ethical Insights
 
-::: {.writing-space}
-*Your analysis:*
+::: {.takeaway-box}
+
+- **The stars incline, they do not compel** — Planetary geometry illuminates potential; free will remains sovereign.
+- **Beware the trap of playing God** — Relinquish the need to be an oracle; awaken the seeker's own discernment.
+- **Honor the whole person** — See beyond sun-sign stereotypes to the living complexity of human experience.
+- **Language creates reality** — Replace fatalistic declarations with invitational, growth-oriented dialogue.
+- **Boundaries hold the sacred container** — Strict demarcation of personal, romantic, and professional realms protects both seeker and counselor.
+- **Safety overrides confidentiality** — In acute psychiatric or physical danger, life preservation is paramount.
 :::
 
-**How would you respond ethically?**
+## Your Pre-Session Ethical Check
 
-::: {.writing-space}
-*Your response:*
-:::
+*Before every reading, pause and ask yourself:*
 
-**What does this teach about stereotypes?**
+- Am I speaking from humble discernment or from my ego's need to feel powerful?
+- Does my interpretation empower this seeker to act, or does it breed anxious dependency?
+- Am I respecting their complete autonomy and right to choose their own path?
+- If I were sitting in their seat, carrying their grief, would this guidance honor my dignity?
 
-::: {.writing-space}
-*Your insights:*
-:::
-:::
-:::
-
----
-
-## 🎯 Action Steps for This Week
-
-::: {.action-box}
-
-**Beginner Level:**
-
-- [ ] Complete the stereotype-challenging exercise for one zodiac sign
-- [ ] Write down your top 3 professional boundaries
-- [ ] Research one local mental health professional for referrals
-- [ ] Practice one empowering response to a deterministic statement
-
-**Intermediate Level:**
-
-- [ ] Complete all four exercises in the practice section
-- [ ] Role-play challenging scenarios with a friend or colleague
-- [ ] Draft your professional boundaries statement
-- [ ] Create a referral resource list for your area
-
-**Advanced Level:**
-
-- [ ] Develop scripts for difficult boundary conversations
-- [ ] Create an intake form that sets ethical expectations
-- [ ] Practice cultural sensitivity with diverse practice partners
-- [ ] Schedule regular supervision or peer consultation sessions
-:::
-
----
-
-### 📈 Your Ethical Growth Plan {.quiz-section}
-
-::: {.growth-plan-box}
-Based on your quiz results and self-assessment:
-
-::: {.plan-section}
-**Areas where I'm strongest:**
-
-::: {.writing-space}
-:::
-:::
-
-::: {.plan-section}
-**Areas needing improvement:**
-
-::: {.writing-space}
-:::
-:::
-
-::: {.plan-section}
-**Specific actions I'll take this month:**
-
-::: {.action-list}
-1. _______________
-2. _______________
-3. _______________
-:::
-:::
-
-::: {.plan-section}
-**Resources I need (training, books, mentorship):**
-
-::: {.writing-space}
-:::
-:::
-:::
-
----
-
-## **Chapter Reflection**
-*Before moving to the next chapter, reflect on your current ethical practice. What ethical principles do you already follow well? Where do you feel uncertain? How will you commit to growing in integrity as you serve others?*
-
-::: {.quiz-footer}
-**Remember:** Ethical practice is a journey, not a destination. Regular self-assessment and commitment to growth are what make us trustworthy spiritual counselors.
-:::
-
-<script src="../scripts/quiz-interactions.js"></script>
+<script src="../../../scripts/quiz-interactions.js"></script>
