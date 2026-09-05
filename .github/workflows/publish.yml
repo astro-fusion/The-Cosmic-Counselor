@@ -36,22 +36,6 @@ jobs:
       - name: Build Nepali version
         run: quarto render translations/ne --to html
 
-      - name: Create language selector index page
-        run: |
-          cat << 'EOF' > _book/index.html
-          <!DOCTYPE html>
-          <html lang="en">
-          <head>
-            <meta charset="UTF-8">
-            <meta http-equiv="refresh" content="0; url=index.html">
-            <title>The Cosmic Counselor</title>
-          </head>
-          <body>
-            <p>Redirecting to <a href="index.html">The Cosmic Counselor</a>...</p>
-          </body>
-          </html>
-          EOF
-
       - name: Debug - List generated files
         run: |
           echo "Contents of _book directory:"
