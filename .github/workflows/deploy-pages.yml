@@ -41,11 +41,11 @@ jobs:
 
     - name: Render Hindi site
       run: |
-        quarto render --project translations/hi/_quarto.yml --to html
+        quarto render translations/hi --to html
 
     - name: Render Nepali site
       run: |
-        quarto render --project translations/ne/_quarto.yml --to html
+        quarto render translations/ne --to html
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
