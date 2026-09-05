@@ -1,157 +1,187 @@
 ## 📝 Knowledge Check Quiz {.quiz-title}
 
 ::: {.quiz-box}
-**1. What is a crucial step in building a lasting legacy as a cosmic guide?**
 
-A) Focusing solely on gaining a large following  
-B) Documenting and sharing your unique insights and methodologies  
-C) Keeping your practices and techniques secret  
-D) Avoiding collaboration with other astrologers
+**1. What constitutes the foundational definition of an authentic practitioner's legacy in astrological counseling?**
 
-**2. The most important aspect of your legacy as an astrologer is:**
+A) Amassing a multimillion-dollar commercial brand with automated horoscope subscriptions  
+B) Cultivating lasting human autonomy, healing intergenerational wounds, and upholding incorruptible ethical standards that elevate the entire discipline  
+C) Accurately predicting the exact dates of political elections and geopolitical wars  
+D) Authoring voluminous textbooks filled with archaic Sanskrit jargon without clinical counseling application
 
-A) The number of clients you've served  
-B) The accuracy of your predictions  
-C) The positive impact you've had on clients' lives and the field  
-D) The amount of money you've earned
+**2. Which clause of *The Cosmic Counselor's Ethical Covenant* directly addresses the historical misuse of astrological determinism?**
 
-**3. Scenario: You want to ensure that your contributions to astrology are recognized and continue to benefit others after you retire. What steps should you take?**
+A) Inviolable Confidentiality  
+B) Lifelong Inner Cultivation  
+C) Sanctity of Human Sovereignty: affirming that the chart impels rather than compels, and that human consciousness remains sovereign above planetary placements  
+D) Commercial Advertising Standards
 
-A) Publish your work in reputable journals and books, and mentor upcoming astrologers  
-B) Keep your knowledge within a small, exclusive group  
-C) Focus on commercializing your techniques for maximum profit  
-D) Retire quietly without making arrangements for your work to continue
+**3. Scenario: An astrological counselor is offered a lucrative sponsorship deal to promote an unverified "miracle planetary gem" that promises to cure severe clinical depression and guarantee instant wealth. How should the ethical counselor respond?**
 
-**4. The transformation described in this book primarily focuses on:**
+A) Accept the deal immediately, since clients appreciate buying tangible physical remedies  
+B) Decline the sponsorship firmly, adhering to the covenant's mandates on clinical scope, non-exploitation of vulnerability, and non-substitution of astrology for evidence-based psychiatric care  
+C) Accept the deal but donate 10% of proceeds to a mental health charity  
+D) Suggest the company market the gem only to vulnerable seekers who are experiencing Saturn transits
 
-A) Learning more astrological techniques  
-B) Developing the soft skills that make astrological knowledge empowering  
-C) Building a larger client base  
-D) Memorizing more chart meanings
+**4. How does the paradigm of the "Integrated Cosmic Counselor" handle client suffering compared to the archaic "Fatalistic Fortune-Teller"?**
 
-**5. Your role as a cosmic guide means you are:**
+A) The fortune-teller offers empathy, while the cosmic counselor commands silence  
+B) The fortune-teller blames planetary punishment and promotes fatalistic helplessness, whereas the cosmic counselor holds somatic space, explores deeper soul meaning, affirms client resilience, and makes ethical referrals when indicated  
+C) Both approaches rely strictly on prescribing fasts and rituals to appease planetary deities  
+D) The cosmic counselor guarantees that suffering can be eliminated within 48 hours through chart recalculation
 
-A) The source of all your clients' answers  
-B) A skilled facilitator helping clients discover their own inner wisdom  
-C) Responsible for making all your clients' decisions  
-D) Required to predict every aspect of their future
+**5. In what way does an astrological counselor create a positive "Intergenerational Ripple Effect"?**
 
-**6. The ripple effect of ethical astrological practice contributes to:**
+A) By offering family discounts on yearly horoscope charts  
+B) By helping parents understand their children's archetypal needs with compassion rather than control, thereby interrupting multi-generational patterns of emotional trauma and rejection  
+C) By predicting the career choices of unborn descendants  
+D) By convincing whole families to abandon conventional medicine
 
-A) Personal profit only  
-B) Individual client satisfaction only  
-C) Elevating the entire field and creating positive change in the world  
-D) Keeping astrological knowledge exclusive
+**6. Scenario: A seeker who has attended weekly consultations for three years expresses intense anxiety whenever the counselor takes a holiday: *"I cannot make any life decisions without you looking at my transit chart first."* What ethical failure has occurred, and what corrective action is required?**
 
-<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers</button>
+A) The counselor has successfully built a loyal client base; no corrective action is needed  
+B) The counselor has failed to foster client autonomy, breeding unhealthy dependency; the counselor must address this dynamic honestly, implement gradual weaning, and support the client in trusting their own internal decision-making capacity  
+C) The counselor should increase prices to discourage the client from booking  
+D) The counselor should assign an apprentice to handle the client's weekly questions
+
+**7. Why does *The Cosmic Counselor's Covenant* mandate regular clinical peer supervision even for senior practitioners with decades of experience?**
+
+A) Senior practitioners must inspect the financial accounting books of junior practitioners  
+B) Experience alone does not provide immunity from unconscious countertransference, cognitive confirmation bias, or ethical blind spots; peer accountability is a permanent clinical necessity  
+C) To satisfy annual government tax requirements for commercial sole proprietorships  
+D) To organize collaborative promotional campaigns for upcoming astrology conferences
+
+**8. What does "Diagnostic Humility" signify in the daily practice of an ethical cosmic counselor?**
+
+A) Pretending to know nothing so the client feels superior  
+B) Acknowledging the inherent limits of symbolic interpretation, respecting the mystery of human consciousness, and willingly logging failed interpretive forecasts  
+C) Avoiding the use of houses and signs in consultation  
+D) Never charging fees for consultations
+
+**9. When reflecting upon the closing message of this 12-chapter curriculum, what is the ultimate purpose of the birth chart in the hands of a skilled counselor?**
+
+A) To lock the client into a predetermined karmic prison from which there is no escape  
+B) To act as a sacred mirror that awakens the client's latent psychological strengths, personal agency, and deep capacity for authentic healing  
+C) To prove that human free will is an illusion created by the mind  
+D) To serve as an intellectual toy for spiritual debates
+
+**10. Complete this culminating authorial insight from Bishal Ghimire: *"The cosmos does not require your defense; it requires your living embodiment of its harmony. Go now, and let your presence be a..."***
+
+A) "...warning to skeptics."  
+B) "...commercial brand."  
+C) "...sanctuary."  
+D) "...miracle."
+
+<button onclick="toggleAnswers()" class="show-answers-btn">Show Answers & Explanations</button>
 
 ::: {.answers-content style="display: none;"}
-**Answer Key:** 1-B, 2-C, 3-A, 4-B, 5-B, 6-C
+
+### Answer Key & Detailed Educational Rationales
+
+1. **B — Cultivating lasting human autonomy, healing intergenerational wounds, and upholding incorruptible ethical standards that elevate the entire discipline**  
+   *Rationale:* A true legacy is defined by the lasting transformation, healing, and ethical dignity left behind in the human lives served, not by superficial fame, wealth, or predictive showmanship.
+
+2. **C — Sanctity of Human Sovereignty: affirming that the chart impels rather than compels, and that human consciousness remains sovereign above planetary placements**  
+   *Rationale:* The covenant explicitly repudiates fatalistic subjugation, placing human agency, divine free will, and conscious decision-making above rigid planetary determinism.
+
+3. **B — Decline the sponsorship firmly, adhering to the covenant's mandates on clinical scope, non-exploitation of vulnerability, and non-substitution of astrology for evidence-based psychiatric care**  
+   *Rationale:* Ethical practitioners reject deceptive marketing and fear-based commercial exploitation, protecting vulnerable clients from unscientific health claims and upholding clinical integrity.
+
+4. **B — The fortune-teller blames planetary punishment and promotes fatalistic helplessness, whereas the cosmic counselor holds somatic space, explores deeper soul meaning, affirms client resilience, and makes ethical referrals when indicated**  
+   *Rationale:* The transformative paradigm shift bridges celestial archetypes with psychological maturity, transforming the consultation into a collaborative space for healing and meaning-making.
+
+5. **B — By helping parents understand their children's archetypal needs with compassion rather than control, thereby interrupting multi-generational patterns of emotional trauma and rejection**  
+   *Rationale:* Compassionate reframing in parenting alters emotional environments, healing childhood wounds before they can be transmitted to succeeding generations.
+
+6. **B — The counselor has failed to foster client autonomy, breeding unhealthy dependency; the counselor must address this dynamic honestly, implement gradual weaning, and support the client in trusting their own internal decision-making capacity**  
+   *Rationale:* When consultations foster chronic helplessness, the ethical objective has been violated. True counseling systematically empowers the client to stand independently.
+
+7. **B — Experience alone does not provide immunity from unconscious countertransference, cognitive confirmation bias, or ethical blind spots; peer accountability is a permanent clinical necessity**  
+   *Rationale:* Regardless of years in practice, the human psyche remains susceptible to inflation, shadow projection, and fatigue. Supervision is an enduring ethical safeguard.
+
+8. **B — Acknowledging the inherent limits of symbolic interpretation, respects the mystery of human consciousness, and willingly logging failed interpretive forecasts**  
+   *Rationale:* Diagnostic humility replaces dogmatic certainty with intellectual honesty, honoring the infinite complexity of human life and acknowledging the boundaries of our interpretive craft.
+
+9. **B — To act as a sacred mirror that awakens the client's latent psychological strengths, personal agency, and deep capacity for authentic healing**  
+   *Rationale:* The chart is not a life sentence, but a map of archetypal potential designed to guide the soul toward conscious wholeness and empowered self-realization.
+
+10. **C — "...sanctuary."**  
+    *Rationale:* Bishal Ghimire's culminating benediction reminds counselors that their regulated, compassionate, and integrated presence is itself the primary vessel of healing.
+
 :::
+
 :::
 
 ---
 
-## 📊 Final Self-Assessment: Your Legacy as a Cosmic Guide
+## 📊 Capstone Self-Assessment: Consecrating Your Practice
 
 ::: {.assessment-box}
 
-**Rate yourself honestly (1 = Need work, 5 = Very confident):**
+**Rate your integration of the Cosmic Counselor's Core Competencies (1 to 5):**
 
 ::: {.rating-scale}
-**1** = Need lots of work | **2** = Some experience | **3** = Adequate | **4** = Good | **5** = Very confident
+**1** = Fundamental revision required | **2** = Conceptual understanding | **3** = Consistent clinical application | **4** = Advanced somatic integration | **5** = Consecrated lifelong mastery
 :::
 
-**Legacy Building and Mentorship:**
+**Ethical Covenant & Sovereign Practice:**
+- Complete adherence to *Primum Non Nocere* (never predicting death, calamity, or helplessness) `[  ]`
+- Total commitment to client autonomy and prevention of consultative dependency `[  ]`
+- Inviolate client confidentiality and secure data storage protocols `[  ]`
 
-How committed are you to mentoring and supporting the next generation of astrologers?
+**Psychological & Relational Mastery:**
+- Clear recognition of clinical scope and seamless psychiatric/crisis referrals `[  ]`
+- Real-time somatic tracking of countertransference during live consultations `[  ]`
+- Active somatic grounding and post-session restorative discharge `[  ]`
 
-How willing are you to share knowledge and insights that benefit the field?
+**Lineage Stewardship & Field Elevation:**
+- Regular participation in clinical peer supervision and case consultation `[  ]`
+- Commitment to diagnostic humility, empirical recording, and probability awareness `[  ]`
+- Rejection of commercial sensationalism and exploitative spiritual capitalism `[  ]`
 
-How focused are you on creating positive change beyond your individual practice?
-
-**Knowledge Sharing and Documentation:**
-
-How effectively do you document and share your unique insights and methodologies?
-
-How consistently do you contribute to astrological knowledge through writing, teaching, or research?
-
-How well do you balance sharing wisdom with respecting proprietary knowledge?
-
-**Long-term Impact and Vision:**
-
-How focused are you on ensuring your work has a long-term impact on the field of astrology?
-
-How well do you integrate ethical principles with practical astrological work?
-
-How committed are you to elevating professional standards in astrology?
-
-**Personal and Professional Integration:**
-
-How successfully have you integrated the soft skills from this book into your practice?
-
-How well do you balance technical astrological knowledge with human compassion?
-
-How effectively do you empower clients rather than create dependency?
-
-**Continued Growth and Evolution:**
-
-How committed are you to lifelong learning and professional development?
-
-How well do you maintain the balance between confidence and humility in your practice?
-
-How effectively do you contribute to positive change in your community and field?
-
-**Reflection Questions:**
-
-1. What legacy do you want to leave in the field of astrology?
-2. How has your understanding of your role as a cosmic guide evolved through this book?
-3. What specific steps will you take to ensure your positive impact continues?
+**Capstone Reflective Covenant:**
 
 ::: {.writing-space}
-*Space for your final reflections on your journey and future commitments...*
+1. *What is the central vow that will anchor my astrological counseling practice for the next ten years?*  
+_______________
+
+2. *How will my consultative presence serve as an emotional and spiritual sanctuary for those who are in acute distress?*  
+_______________
+
+3. *When I conclude my counseling career, what enduring impact do I wish to leave upon the human souls I have touched?*  
+_______________
 :::
 
 :::
 
 ---
 
-## 🎯 Your Continuing Journey: Action Steps
+## 🎯 The Cosmic Counselor's Lifetime Action Plan
 
 ::: {.action-box}
 
-**Immediate Actions (This Month):**
+**Foundational Commitments (Months 1–6):**
+- [ ] Sign and print *The Cosmic Counselor's Ethical Covenant*, framing it in your consultation space.
+- [ ] Implement standardized written informed consent, client intake policies, and emergency referral protocols.
+- [ ] Establish strict daily consultation caseload caps (≤ 3–4 clients) with mandatory 20-minute buffers.
+- [ ] Form or join a bi-weekly peer-supervision triad.
 
-- [ ] Create a personal mission statement for your astrological practice
-- [ ] Establish regular self-reflection and professional development practices
-- [ ] Connect with or join professional astrological organizations
-- [ ] Begin documenting your unique insights and methodologies
+**Deepening Stewardship (Years 1–3):**
+- [ ] Pursue formal continuing education in counseling psychology, trauma-informed care, or somatic therapy.
+- [ ] Maintain an active "Interpretive Miss Log" to study non-correlations and refine predictive humility.
+- [ ] Publish educational essays or lead workshops demystifying fear-based astrological fatalism in your community.
+- [ ] Take a mandatory 4-week annual counseling sabbatic for nervous system restoration and personal sadhana.
 
-**Short-term Goals (Next 6 Months):**
+**Enduring Lineage (Years 5 and Beyond):**
+- [ ] Mentor emerging ethical astrological counselors in psychological sensitivity and countertransference.
+- [ ] Conduct rigorous, de-identified clinical research that contributes to the scholarly validation of archetypal psychology.
+- [ ] Cultivate an unshakeable consultative presence characterized by silence, spaciousness, and sacred compassion.
+- [ ] Live as an authentic embodiment of cosmic harmony, inspiring everyone you meet toward greater dignity and self-trust.
 
-- [ ] Implement all the soft skills and ethical practices from this book
-- [ ] Seek mentorship or establish peer consultation relationships
-- [ ] Contribute knowledge to the astrological community (writing, teaching, presenting)
-- [ ] Develop a plan for ongoing professional education
-
-**Long-term Vision (Next 1-3 Years):**
-
-- [ ] Mentor emerging astrologers or spiritual counselors
-- [ ] Contribute to research or publications in astrology
-- [ ] Advocate for professional standards and ethical practice
-- [ ] Create systems to ensure your positive impact continues
-
-**Legacy Planning (Ongoing):**
-
-- [ ] Document your unique approaches and insights
-- [ ] Build relationships that support the field's growth
-- [ ] Contribute to positive change in how astrology is perceived and practiced
-- [ ] Ensure your work benefits others beyond your individual practice
 :::
 
-## **Final Reflection**
+## Culminating Benediction
 
-*You began this journey seeking to improve your astrological practice. You've discovered something far greater: your role as a guide, healer, and wisdom keeper. The stars have been waiting for practitioners like you—those who combine ancient wisdom with modern understanding, technical skill with human compassion, and professional competence with genuine care. Your legacy begins not with grand gestures, but with every ethical choice, every empowered client, every moment of authentic service. The cosmos itself is enriched by your commitment to this sacred work.*
+*May your eyes see through the chart into the holy mystery of the human soul. May your words be gentle balms that soothe ancestral wounds and awaken dormant courage. May your silence be deep enough to receive another's grief without fear. And may your entire journey as a Cosmic Counselor be guided by the unchanging celestial light of humility, truth, and universal love.*
 
 <script src="../scripts/quiz-interactions.js"></script>
-
