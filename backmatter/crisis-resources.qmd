@@ -6,7 +6,7 @@ If a client (or you yourself) is in emotional distress or thinking of suicide, i
 **If someone is in immediate physical danger**, call your local emergency number first (Nepal: 102 for ambulance / 100 for police; India: 112), then stay with them until help arrives.
 :::
 
-## **Nepal**
+## Nepal
 
 | Service | Number | Availability |
 |---|---|---|
@@ -17,7 +17,7 @@ If a client (or you yourself) is in emotional distress or thinking of suicide, i
 | **TPO Nepal Crisis Hotline** (Transcultural Psychosocial Organization) | **16600102005** | Crisis counseling |
 | **Ambulance / Police / Mobile emergency** | **102 / 100 / 112** | 24 hours |
 
-## **India**
+## India
 
 | Service | Number | Availability |
 |---|---|---|
@@ -28,14 +28,14 @@ If a client (or you yourself) is in emotional distress or thinking of suicide, i
 | **Vandrevala Foundation** | **+91-9999666555** | 24×7 |
 | **Emergency (Police/Ambulance/Fire)** | **112** | 24 hours |
 
-## **International**
+## International
 
 - **Find A Helpline** — [findahelpline.com](https://findahelpline.com): verified live directory of crisis lines in 130+ countries
 - **Befrienders Worldwide** — [befrienders.org](https://www.befrienders.org): global suicide-prevention center network
 - **United States:** call or text **988** (Suicide & Crisis Lifeline)
 - **United Kingdom & Ireland:** call **116 123** (Samaritans)
 
-## **Build Your Local Referral List**
+## Build Your Local Referral List
 
 Crisis lines are the emergency exit; a warm referral relationship is the daily bridge. Before your next session:
 
@@ -43,10 +43,7 @@ Crisis lines are the emergency exit; a warm referral relationship is the daily b
 - [ ] Identify 2–3 licensed counselors or psychiatrists in your area who accept referrals and respect spiritual worldviews
 - [ ] Note their fees, languages spoken, and booking process
 - [ ] Add your national child-protection and women's helplines (Nepal: Child Helpline **1098**, Women's Cell; India: Childline **1098**, Women Helpline **181**)
-- [ ] Save everything in your phone AND on paper
-- [ ] Re-verify all numbers every six months—helplines change
+- [ ] Write these contacts onto a laminated card kept in your consultation space
 :::
 
-::: {.highlight-box}
-**A note of care:** Helpline numbers change over time. Verify against official sources (hospital websites, government health portals) before publishing or sharing this list. If a line doesn't connect, try another—and never let a client in crisis leave without at least one live human contact.
-:::
+Remember: making a referral is not a failure of astrological wisdom. It is the highest expression of it.
