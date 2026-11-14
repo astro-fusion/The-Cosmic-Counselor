@@ -64,22 +64,40 @@ format:
     pdf-engine: xelatex
     mainfont: "Devanagari Sangam MN"
     documentclass: book
+    classoption:
+      - 11pt
+      - twoside
+      - openright
     toc: true
     number-sections: true
     keep-tex: false
     geometry:
-      - top=1in
-      - bottom=1in
-      - left=1.2in
-      - right=1in
+      - top=0.9in
+      - bottom=0.9in
+      - inner=1.15in
+      - outer=0.85in
+      - bindingoffset=0.2in
     fontsize: 11pt
-    linestretch: 1.2
+    linestretch: 1.25
     include-in-header:
       - text: |
           \usepackage{enumitem}
           \usepackage{amsmath}
           \usepackage{amsfonts}
           \usepackage{amssymb}
+          \usepackage{scrlayer-scrpage}
+          \clearpairofpagestyles
+          \makeatletter
+          \if@twoside
+            \lehead{\small\upshape\pagemark\quad\rule[-0.2ex]{0.4pt}{1em}\quad\itshape\headmark}
+            \rohead{\small\itshape\headmark\quad\rule[-0.2ex]{0.4pt}{1em}\quad\upshape\pagemark}
+            \cfoot[\small\upshape\pagemark]{}
+          \else
+            \chead{\small\itshape\headmark}
+            \cfoot{\small\upshape\pagemark}
+          \fi
+          \makeatother
+          \pagestyle{scrheadings}
     
   epub:
     toc: true
