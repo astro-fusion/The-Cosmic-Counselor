@@ -273,6 +273,37 @@ Before any consultation commences, seekers must clearly understand the exact nat
 - **Client Sovereignty:** The seeker retains the absolute right to decline any inquiry, withhold private information, and pause or terminate the consultation at any point.
 :::
 
+## Know the Law Where You Practice
+
+Ethics codes describe what a good practitioner should do; the law describes what any practitioner must not do. The
+two overlap but are not the same, and the law differs from place to place. The examples below show the kinds of
+rules that apply. They are not legal advice: check the current law where you and your clients live, especially if
+you work online across borders.
+
+::: {.highlight-box}
+**Four areas where the law most often reaches astrological practice:**
+
+- **Fraud and consumer protection.** Charging for a service while making false or misleading claims can break
+  general consumer law. In the UK, the Fraudulent Mediums Act 1951 was repealed in 2008, and psychics, mediums and
+  similar services now fall under the Consumer Protection from Unfair Trading Regulations 2008 [@ukcpr2008].
+  Some US jurisdictions still have specific laws: in New York, fortune telling for a fee is a misdemeanor unless it
+  is clearly offered for entertainment only [@nypenal16535]. Bills to repeal or replace that law were in committee
+  in 2026.
+- **Health claims.** Never claim that a remedy, gemstone, mantra or ritual will cure, diagnose or prevent an
+  illness. In India, advertising a talisman, mantra, amulet or other "magic remedy" for the diseases listed in the
+  Drugs and Magic Remedies (Objectionable Advertisements) Act 1954 is an offence [@indiadmr1954]; several Indian
+  states also have anti-superstition laws. Elsewhere, the same claim can breach medical or advertising rules.
+- **Money and investment.** Telling a client which shares, currencies or property to buy is personal financial
+  advice, which in many countries only licensed advisers may give for payment. Speak about timing and attitude to
+  risk if you must; refer specific financial decisions to a qualified adviser.
+- **Minors and consent.** Reading for anyone under the age of majority needs a parent's or guardian's consent in
+  most places, and some subjects (health, sexuality, family conflict) need particular care. Records about clients
+  are personal data and are covered by data-protection law in many countries (for example GDPR in Europe).
+
+A simple rule covers most of it: describe what you offer honestly, make no promises about health or money, keep
+records securely, and put your terms in writing before the first session.
+:::
+
 ## When Safety Supersedes Confidentiality
 
 While seeker privacy is a professional trust, rare crisis situations arise where the preservation of human life and safety must override absolute confidentiality [@aca2014; @bacp2026]:
