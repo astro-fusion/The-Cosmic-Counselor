@@ -41,7 +41,7 @@ D) Avoid acknowledging their emotional disclosure and immediately complete the s
 
 A) Markedly decreased need for sleep (feeling fully rested after two or three hours)  
 B) Pressured speech, racing thoughts, and expansive grandiosity  
-C) Chronic psychomotor slowing, persistent lethargy, and profound social withdrawal  
+C) Chronic psychomotor slowing, persistent lethargy, and social withdrawal  
 D) Reckless financial investments or impulsive, uncharacteristic risk-taking
 
 **7. A seeker reports hearing muffled voices through their walls plotting against them and believes coworkers are monitoring their thoughts. This presentation indicates:**
@@ -65,7 +65,7 @@ B) Occasional worry regarding genuine, realistic life problems that subsides onc
 C) Pervasive, excessive, and uncontrollable worry spanning months that significantly impairs daily functioning  
 D) Transient panic attacks that occur exclusively during social gatherings
 
-**10. When encountering acute mental health conditions, the professional role of the cosmic counselor is to:**
+**10. When encountering acute mental health conditions, the professional role of the counselor is to:**
 
 A) Formulate clinical diagnoses and prescribe psychological therapeutic regimens  
 B) Disregard psychological symptoms and focus strictly on deterministic planetary interpretations  
@@ -89,7 +89,7 @@ D) Instruct seekers to adopt positive thinking and perform remedial rituals inst
 7. **Psychotic Symptoms & Safety (B):** Hearing voices without auditory stimuli and entertaining fixed persecutory beliefs reflect reality-testing failure (hallucinations and delusions). Labeling psychosis as "psychic awakening" is a dangerous boundary violation that delays critical psychiatric stabilization.
 8. **Collaborative De-Stigmatization (B):** Seekers often experience shame surrounding mental healthcare. Framing therapy as an allied, honorable modality that complements existential self-discovery lowers psychological defense mechanisms and fosters compliance.
 9. **Generalized Anxiety Disorder Criteria (C):** GAD involves chronic, diffuse, and uncontrollable worry across multiple life spheres persisting for at least six months, accompanied by somatic tension, sleep latency disturbance, and executive fatigue.
-10. **The Cosmic Counselor's Mandate (C):** The highest ethical ideal of the cosmic counselor is recognizing where symbolic interpretation ends and clinical duty begins. Being a steady, compassionate bridge to qualified professional healthcare preserves the dignity of both client and counselor.
+10. **The Counselor's Mandate (C):** The highest ethical ideal of the counselor is recognizing where symbolic interpretation ends and clinical duty begins. Being a steady, compassionate bridge to qualified professional healthcare preserves the dignity of both client and counselor.
 
 :::
 :::
@@ -224,6 +224,6 @@ How rigorously do you document crisis referrals and boundary-setting conversatio
 
 ## Chapter Reflection
 
-*Reflect upon an encounter in your life when you or someone close to you faced profound psychological pain. What made it difficult to ask for help? What qualities in another person made seeking support feel dignified rather than shameful? As cosmic counselors, how can we embody that same safe, grounded presence for those who place their trust in us? Remember: guiding a seeker to specialized clinical care is an act of deep reverence and love, never an admission of failure.*
+*Reflect upon an encounter in your life when you or someone close to you faced psychological pain. What made it difficult to ask for help? What qualities in another person made seeking support feel dignified rather than shameful? As counselors, how can we embody that same safe, grounded presence for those who place their trust in us? Remember: guiding a seeker to specialized clinical care is an act of deep reverence and love, never an admission of failure.*
 
 <script src="../scripts/quiz-interactions.js"></script>

@@ -2,11 +2,11 @@
 
 ::: {.quiz-box}
 
-**1. What is the fundamental ethical distinction between administrative paperwork and sacred client documentation in astrological counseling?**
+**1. What is the fundamental ethical distinction between administrative paperwork and client documentation in astrological counseling?**
 
-A) Administrative paperwork focuses on billing, whereas sacred documentation creates an unedited verbatim transcript of every private confession  
-B) Sacred documentation is a pastoral discipline that honors client vulnerability, ensures continuity of care, and protects confidentiality through rigorous security  
-C) Sacred documentation allows the astrologer to share anonymous birth charts freely on social media platforms for educational illustration  
+A) Administrative paperwork focuses on billing, whereas documentation creates an unedited verbatim transcript of every private confession  
+B) Documentation is a pastoral discipline that honors client vulnerability, ensures continuity of care, and protects confidentiality through rigorous security  
+C) Documentation allows the astrologer to share anonymous birth charts freely on social media platforms for educational illustration  
 D) There is no ethical distinction; both represent bureaucratic burdens that detract from intuitive spiritual practice
 
 **2. In the DART documentation framework, what does the "A" (Assessment) section specifically encompass?**
@@ -80,7 +80,7 @@ D) Storing physical records in an unlocked garage or storage unit until they nat
 
 **Clinical & Ethical Rationales:**
 
-1. **Sacred Ledger vs. Bureaucracy (B):** Professional documentation is a pastoral discipline. It honors seeker vulnerability by recording meaningful insights and maintaining continuity, while protecting their dignity through robust security and ethical confidentiality.
+1. **Documentation vs. Bureaucracy (B):** Professional documentation is a pastoral discipline. It honors seeker vulnerability by recording meaningful insights and maintaining continuity, while protecting their dignity through robust security and ethical confidentiality.
 2. **The Nature of Assessment (C):** Assessment is an objective synthesis of psychological dynamics and astrological timing. It explicitly rejects fatalistic proclamations or subjective moral judgments, focusing instead on developmental themes and elemental balance.
 3. **Ethical Boundaries in Documentation (B):** Client records are professional instruments. Documenting unsubstantiated gossip, accusations against third parties, or personal moral judgments violates ethical boundaries and creates legal liability.
 4. **Retention Discipline (C):** Ethical custodianship requires retaining adult records for the duration of the consultative relationship plus seven years post-termination, balancing continuity of care with responsible data minimization.
@@ -88,7 +88,7 @@ D) Storing physical records in an unlocked garage or storage unit until they nat
 6. **Robust Digital Security (B):** Combining full-disk encryption with zero-knowledge cloud storage and strong credential hygiene protects client records against hardware theft, remote breaches, and unauthorized third-party access.
 7. **Immediate Breach Containment (B):** The first 24 hours of an incident response require rapid containment—isolating compromised systems, changing credentials, and executing remote wipes—prior to assessing the scope and notifying affected seekers.
 8. **Informed Consent & Scope (B):** A comprehensive informed consent agreement establishes clear expectations, protects seeker autonomy, and confirms that spiritual counseling operates alongside, rather than in place of, professional medical and mental healthcare.
-9. **Empowering Response (A):** The Response section captures the therapeutic dialogue, documenting how cosmic symbolism was translated into psychological agency, empowering the seeker to make their own discerning choices.
+9. **Empowering Response (A):** The Response section captures the therapeutic dialogue, documenting how astrological symbolism was translated into psychological agency, empowering the seeker to make their own discerning choices.
 10. **Certified Physical Destruction (C):** Cross-cut or micro-cut shredding ensures physical papers cannot be reassembled or read, fulfilling the counselor's duty of care through the final phase of the record lifecycle.
 
 :::
@@ -176,6 +176,6 @@ How secure and verified is your procedure for the permanent, irreversible destru
 
 ## Chapter Reflection
 
-*Take a quiet moment to reflect upon the sacred ledger of your practice. The individuals who enter your consultation room entrust you with their deepest longings, their familial fractures, and their quietest fears. When you protect their words behind encrypted drives and locked cabinets, you are demonstrating the highest form of spiritual reverence. True mastery in spiritual counsel is not measured solely by interpretive brilliance, but by the quiet integrity with which you safeguard the sacred sanctuary of human vulnerability.*
+*Take a quiet moment to reflect upon the record of your practice. The individuals who enter your consultation room entrust you with their deepest longings, their familial fractures, and their quietest fears. When you protect their words behind encrypted drives and locked cabinets, you are demonstrating the highest form of spiritual reverence. True mastery in spiritual counsel is not measured solely by interpretive brilliance, but by the quiet integrity with which you safeguard the refuge of human vulnerability.*
 
 <script src="../scripts/quiz-interactions.js"></script>

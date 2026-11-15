@@ -10,11 +10,11 @@
 
 My encounter with astrology began not in reverence, but in deep suspicion. 
 
-As an engineer, my worldview was anchored in logic, measurable data, and reproducible cause and effect. The celestial sphere was astronomy—orbital mechanics and nuclear fusion—not a cosmic script for human fate. The claim that planetary positions at birth could mirror the nuances of personality or the timing of personal crises struck me as medieval superstition.
+As an engineer, my worldview was anchored in logic, measurable data, and reproducible cause and effect. The celestial sphere was astronomy—orbital mechanics and nuclear fusion—not a script for human fate. The claim that planetary positions at birth could mirror the nuances of personality or the timing of personal crises struck me as medieval superstition.
 
 Then I examined my own birth chart. 
 
-Drawn by an analytical desire to debunk the system, I examined the geometric configurations between signs, houses, and planetary periods. What I discovered was profoundly unsettling: a precise symbolic mapping of my past turning points, internal struggles, and familial dynamics that no stranger could have guessed. My engineering training had conditioned me to recognize patterns, but this was an intricate architecture my textbooks had never prepared me to explain.
+Drawn by an analytical desire to debunk the system, I examined the geometric configurations between signs, houses, and planetary periods. What I discovered was unsettling: a precise symbolic mapping of my past turning points, internal struggles, and familial dynamics that no stranger could have guessed. My engineering training had conditioned me to recognize patterns, but this was an intricate architecture my textbooks had never prepared me to explain.
 
 ::: {.question-box}
 **Do planetary alignments govern human destiny, or do they mirror a hidden, synchronistic order?**
@@ -40,7 +40,7 @@ Because I approached astrology with an engineer’s mindset, I treated the birth
 
 In classical traditions, astrological education was an arduous, decade-long apprenticeship. A student sat beside a mentor, absorbing not only mathematical formulas and shlokas, but the temperament required to hold human grief. They learned when to speak, when to withhold a difficult truth, and how to assess a seeker’s emotional resilience.
 
-Today, that sacred container has shattered.
+Today, that container has shattered.
 
 Many modern practitioners enter the field through:
 
@@ -71,7 +71,7 @@ They arrive bearing urgent, categorical questions:
 - "What ritual will overturn my business loss?"
 :::
 
-When an astrologer indulges these demands, astrology ceases to be a sacred science and degenerates into superstition. We encourage the delusion that an external ritual or predictive date can bypass the necessary inner work of personal character, discipline, and conscious choice.
+When an astrologer indulges these demands, astrology ceases to be a science and degenerates into superstition. We encourage the delusion that an external ritual or predictive date can bypass the necessary inner work of personal character, discipline, and conscious choice.
 
 ::: {.pull-quote}
 "Astrology is a language. If you understand this language, the sky speaks to you."
@@ -122,7 +122,7 @@ Our task is never to "prove" astrology or defeat a skeptic's intellect. Our task
   The practitioner bristles, eager to defend their art: *"Astrology is a five-thousand-year-old Vedic science! Your tenth-house Rahu indicates your current startup model will collapse unless you heed my warnings and perform the prescribed remedies."*  
   *Psychological Impact:* David's skepticism hardens into contempt. He feels patronized by dogmatic fatalism, confirms his suspicion that astrologers are manipulative charlatans, and shuts down emotionally for the remainder of the hour.
 
-- **The Cosmic Counselor's Approach:**  
+- **The Counselor's Approach:**  
   The counselor smiles gently, completely unthreatened, and leans back: *"I respect your skepticism, David. In fact, if I were in your shoes, I would probably feel the same way. You don't need to believe in magic or surrender your critical faculties here. Let's set destiny aside entirely. Consider this chart simply as an ancient visual model—a symbolic diagnostic of your cognitive habits, blind spots, and timing cycles. You are the builder and the sole executive of your business. If something we discuss resonates with your practical experience, use it. If not, discard it freely."*  
   *Psychological Impact:* Hearing his intellect honored rather than attacked, David's shoulders drop. He unfolds his arms. Because the practitioner dismantled the hierarchy and refused to sell dogma, David engages in a candid, productive audit of his leadership habits and strategic timing.
 :::

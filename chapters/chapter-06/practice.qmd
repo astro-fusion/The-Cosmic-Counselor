@@ -37,7 +37,7 @@ For each case, determine your consultative course of action:
 **Clinical Warning Signs Identified:**
 - Severe, protracted sleep latency disturbance (chronic insomnia spanning four weeks)
 - Pervasive cognitive rumination, catastrophic thinking, and severe emotional lability
-- Profound feelings of worthlessness and generalized failure
+- Pervasive feelings of worthlessness and generalized failure
 
 **Your Action (Continue / Shift Focus / Refer):**
 Shift Focus & Recommend Mental Health Referral (Generalized Anxiety with Major Depressive features).
@@ -74,7 +74,7 @@ Immediate Clinical Referral. Do not validate or astrologically confirm persecuto
 ::: {.writing-space}
 **Clinical Warning Signs Identified:**
 - Major depressive presentation triggered by severe marital rupture
-- Somatic decompensation (profound unintended weight loss, chronic insomnia)
+- Somatic decompensation (unintended weight loss, chronic insomnia)
 - Escalating substance dependence (using alcohol nightly to induce sleep)
 - Passive suicidal ideation and perceived burdensomeness ("better off without me")
 
@@ -82,14 +82,14 @@ Immediate Clinical Referral. Do not validate or astrologically confirm persecuto
 Immediate Crisis Intervention Protocol. Explore suicidal intent directly.
 
 **Your Script & Reasoning:**
-*"Sarah, I hear the profound exhaustion in your words, and I value your life far too much to overlook what you just said. When you say your children would be better off without you, are you having thoughts of ending your life? ... Thank you for being honest with me. This pain is too heavy to carry in isolation. I am going to stay right here with you while we connect with real crisis support."*
+*"Sarah, I hear the exhaustion in your words, and I value your life far too much to overlook what you just said. When you say your children would be better off without you, are you having thoughts of ending your life? ... Thank you for being honest with me. This pain is too heavy to carry in isolation. I am going to stay right here with you while we connect with real crisis support."*
 :::
 :::
 
 ::: {.step-box}
 **Case Study D — Alex, 24**
 
-*"I need to know if Mercury retrograde is responsible for this wild surge of cosmic energy! Everything has been electrifying lately—I've barely slept three hours a night all week, yet I have never felt more powerful or enlightened! I have launched four new tech startups in the last ten days and I am certain they will generate millions. My friends keep begging me to slow down, but they simply cannot comprehend my cosmic vision. The universe is speaking directly to me through planetary synchronicities!"*
+*"I need to know if Mercury retrograde is responsible for this wild surge of energy! Everything has been electrifying lately—I've barely slept three hours a night all week, yet I have never felt more powerful or enlightened! I have launched four new tech startups in the last ten days and I am certain they will generate millions. My friends keep begging me to slow down, but they simply cannot comprehend my vision. The universe is speaking directly to me through planetary synchronicities!"*
 
 ::: {.writing-space}
 **Clinical Warning Signs Identified:**
@@ -169,7 +169,7 @@ Collaborative Mental Health Referral. Normalize anxiety care.
 
 ::: {.example-box}
 **Framing the Limitation Without Rejection:**
-- *"Astrology provides profound spiritual and archetypal perspective, but it is not equipped to treat clinical panic or depression."*
+- *"Astrology provides spiritual and archetypal perspective, but it is not equipped to treat clinical panic or depression."*
 - *"Because I care deeply about your long-term well-being, I cannot offer remedies where medical or psychological care is required."*
 :::
 

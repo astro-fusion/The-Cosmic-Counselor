@@ -9,7 +9,7 @@ B) To dismantle subconscious power hierarchies, reduce confrontational tension, 
 C) To follow traditional architectural superstition regarding planetary alignment  
 D) To make the consultation room look identical to a corporate boardroom
 
-**2. Which of the following decor choices best supports an empowering, non-dogmatic sacred space?**
+**2. Which of the following decor choices best supports an empowering, non-dogmatic space?**
 
 A) Dense occult imagery, human skull replicas, and threatening tantric masks  
 B) Floor-to-ceiling altars displaying exclusive sectarian religious deities that every client must bow to  
@@ -33,7 +33,7 @@ D) Change the subject to lighter financial questions to distract them from their
 **5. Why must an ethical astrological counselor refuse to use astrology to "spy" on an absent third party's private motives or suspected affairs?**
 
 A) Because reading third-party charts requires double the standard consultation fee  
-B) Because speculating on absent individuals violates professional boundaries, lacks verified context, and frequently inflicts profound real-world harm  
+B) Because speculating on absent individuals violates professional boundaries, lacks verified context, and frequently inflicts real-world harm  
 C) Because planetary transits only apply to the person who paid for the session  
 D) Because the stars permanently block all ethical practitioners from seeing third-party transits
 
@@ -81,15 +81,15 @@ D) Live-streaming the chart interpretation to social media followers for educati
 **Clinical & Consultative Rationales:**
 
 1. **Spatial Ergonomics & Power Balance (B):** Physical geometry shapes psychological receptivity. Equal chair heights eliminate dominant-submissive dynamics, while a 45-degree angle allows easy collaborative focus without the confrontational tension of direct staring.
-2. **Inclusive Sanctuary Decor (C):** A sacred space must welcome diverse seekers without imposing sectarian dogma or terrifying occult theater. Grounded, natural elements and clean astronomical charts maintain dignity and philosophical openness.
-3. **The Danger of Careless Prognostication (B):** Carelessly diagnosing infidelity or deceit in absent third parties causes profound real-world catastrophe. Astrological symbols indicate archetypal potential, never definitive factual guilt.
+2. **Inclusive Sanctuary Decor (C):** A consulting space must welcome diverse seekers without imposing sectarian dogma or terrifying occult theater. Grounded, natural elements and clean astronomical charts maintain dignity and philosophical openness.
+3. **The Danger of Careless Prognostication (B):** Carelessly diagnosing infidelity or deceit in absent third parties causes real-world catastrophe. Astrological symbols indicate archetypal potential, never definitive factual guilt.
 4. **Reflective Attunement vs. Premature Analysis (C):** When a human soul is hurting, rushing to mathematical calculations feels cold and dismissive. Reflective listening validates their emotional reality, establishing safety before applying chart symbolism.
 5. **Third-Party Ethics (B):** Speculating on absent spouses or rivals violates confidentiality, denies the absent person a voice, and fuels destructive domestic paranoia. Ethical practice focuses strictly on the seeker's own psychological response and agency.
 6. **Somatic Nervous System Regulation (B):** Diffused warm illumination, auditory masking, and hypoallergenic scents minimize autonomic stress triggers, creating an optimal physical baseline for deep self-reflection.
 7. **Environmental Color Psychology (C):** Sage greens and muted earth tones soothe the autonomic nervous system, fostering physiological grounding. Saturated reds elevate stress, while stark whites evoke clinical anxiety.
 8. **Psychiatric Triage & Safety (B):** Astrologers are not licensed to treat active psychosis. Misidentifying hallucinations as "spiritual awakening" is a lethal boundary violation. Immediate, compassionate psychiatric referral is mandatory.
-9. **Empowerment vs. Fatalism (A):** The core mission of the cosmic counselor is not to predict an inescapable future, but to empower the seeker to make conscious, courageous, and sovereign choices in harmony with celestial cycles.
-10. **Digital Privacy Hygiene (C):** Smart devices and notification pings violate the sacred container of counseling. Disconnecting recording devices and silencing notifications protects client trust and uninterrupted focus.
+9. **Empowerment vs. Fatalism (A):** The core mission of the counselor is not to predict an inescapable future, but to empower the seeker to make conscious, courageous, and sovereign choices in harmony with celestial cycles.
+10. **Digital Privacy Hygiene (C):** Smart devices and notification pings violate the container of counseling. Disconnecting recording devices and silencing notifications protects client trust and uninterrupted focus.
 
 :::
 :::
@@ -147,7 +147,7 @@ How prepared are you to immediately halt a reading and execute an emergency psyc
 
 ::: {.action-box}
 
-**Practical Milestones for Cultivating Sacred Space:**
+**Practical Milestones for Cultivating a Safe Space:**
 
 **Beginner Level:**
 - [ ] Measure and reposition your consulting chairs to equal heights at a collaborative 45-degree angle.
@@ -170,6 +170,6 @@ How prepared are you to immediately halt a reading and execute an emergency psyc
 
 ## Chapter Reflection
 
-*Reflect upon the true nature of a sanctuary. A sacred room is not made holy by incense, robes, or ancient titles. It becomes sacred when an honest human being sits across from another with a quiet mind, a compassionate heart, and an unwavering commitment to truth. When you create an environment where power is shared, boundaries are honored, and human autonomy is celebrated, you provide something far rarer than predictions: you offer a sanctuary where the human spirit can heal, remember its wholeness, and choose its future.*
+*Reflect upon the true nature of a sanctuary. A room is not made holy by incense, robes, or ancient titles. It becomes a place of trust when an honest human being sits across from another with a quiet mind, a compassionate heart, and an unwavering commitment to truth. When you create an environment where power is shared, boundaries are honored, and human autonomy is celebrated, you provide something far rarer than predictions: you offer a sanctuary where the human spirit can heal, remember its wholeness, and choose its future.*
 
 <script src="../scripts/quiz-interactions.js"></script>

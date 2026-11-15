@@ -198,7 +198,7 @@ We all feel sad sometimes, but clinical depression is fundamentally different fr
 **Physical Signs:**
 - Significant sleep disruption (insomnia or hypersomnia)
 - Marked appetite shifts accompanied by unintended weight changes
-- Chronic fatigue and profound lethargy
+- Chronic fatigue and lethargy
 - Unexplained somatic aches resisting conventional medical cause
 
 **Cognitive Signs:**
@@ -333,7 +333,7 @@ Psychotic disorders involve a significant break from reality. These are serious 
 
 **Delusions (Fixed, False Beliefs Impervious to Evidence):**
 - Paranoid and persecutory delusions (conviction that one is being targeted, poisoned, or surveilled)
-- Grandiose delusions (conviction of possessing divine astrological powers, cosmic omnipotence, or chosen messianic status)
+- Grandiose delusions (conviction of possessing divine astrological powers, omnipotence, or chosen messianic status)
 - Somatic or bizarre delusions defying physical reality
 
 **Disorganized Thinking and Speech:**
@@ -457,7 +457,7 @@ Making a referral doesn't mean you're giving up on someone—it means you care e
 ### Normalizing Mental Health Care
 
 ::: {.highlight-box}
-- *"Seeking therapy during turbulent life chapters is a profound act of self-stewardship and courage."*
+- *"Seeking therapy during turbulent life chapters is an act of self-stewardship and courage."*
 - *"Just as you would consult an orthopedic surgeon for a fracture, psychiatric distress merits skilled medical care."*
 - *"Therapy and spiritual inquiry are not mutually exclusive—they reinforce and strengthen one another."*
 - *"Many of the most resilient people I know work actively with a therapist to sustain their mental balance."*
@@ -497,6 +497,6 @@ Navigating acute distress alongside seekers demands emotional equilibrium and ri
 **The Core Tenet:** The ultimate mark of mastery is knowing where your scope ends—and possessing the humility and love to guide a seeker to the hands that can save them.
 :::
 
-Mental health literacy does not turn an astrologer into a clinician. Rather, it refines us into conscientious, grounded cosmic counselors who honor the sacred vulnerability of those who enter our care. 
+Mental health literacy does not turn an astrologer into a clinician. Rather, it refines us into conscientious, grounded counselors who honor the vulnerability of those who enter our care. 
 
-Yet when a crisis is de-escalated and a safe referral is set in motion, a vital ethical responsibility remains: ensuring that every detail, disclosure, and referral step is securely, accurately, and confidentially documented. In our next chapter, **Chapter 7: "Session to System: Efficient Record Keeping,"** we explore how to build airtight, ethical record-keeping systems that protect client privacy and uphold the integrity of your sacred practice.
+Yet when a crisis is de-escalated and a safe referral is set in motion, a vital ethical responsibility remains: ensuring that every detail, disclosure, and referral step is securely, accurately, and confidentially documented. In our next chapter, **Chapter 7: "Session to System: Efficient Record Keeping,"** we explore how to build airtight, ethical record-keeping systems that protect client privacy and uphold the integrity of your practice.

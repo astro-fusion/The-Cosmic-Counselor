@@ -4,7 +4,7 @@
 
 **1. What physiological phenomenon explains why astrological counselors often experience sudden physical exhaustion, chest tightness, or rapid breathing during intense sessions with traumatized clients?**
 
-A) Cosmic radiation passing directly through planetary aspect orbs  
+A) Radiation passing directly through planetary aspect orbs  
 B) Neuroception and mirror-neuron activation inducing involuntary somatic resonance and secondary sympathetic arousal  
 C) A misalignment in the astrological ephemeris software  
 D) The natural physiological consequence of looking at a computer screen for more than twenty minutes
@@ -182,6 +182,6 @@ _______________
 
 ## Chapter Reflection
 
-*To hold the birth chart of another human being is to stand upon holy ground. We honor that sacred ground not by claiming omniscience or escaping into abstract celestial geometry, but by tending to our own nervous system, bowing before our unexamined shadows, and maintaining the quiet, incorruptible discipline of daily inner work. The quality of our counsel can never exceed the depth of our self-honesty; when we heal the instrument of the self, our presence alone becomes an invitation for others to step into their own sovereign light.*
+*To hold the birth chart of another human being is to stand upon holy ground. We honor that ground not by claiming omniscience or escaping into abstract celestial geometry, but by tending to our own nervous system, bowing before our unexamined shadows, and maintaining the quiet, incorruptible discipline of daily inner work. The quality of our counsel can never exceed the depth of our self-honesty; when we heal the instrument of the self, our presence alone becomes an invitation for others to step into their own sovereign light.*
 
 <script src="../scripts/quiz-interactions.js"></script>

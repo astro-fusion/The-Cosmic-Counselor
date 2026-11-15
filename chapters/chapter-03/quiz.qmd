@@ -4,7 +4,7 @@
 **1. Which of the following represents the foundational covenant of ethical astrological practice?**
 
 A) Predicting biographical events with absolute certainty  
-B) Safeguarding client confidentiality and sacred privacy  
+B) Safeguarding client confidentiality and privacy  
 C) Charging premium fees for exclusive astrological remedies  
 D) Guaranteeing positive outcomes to soothe seeker anxiety
 
@@ -64,13 +64,13 @@ D) End the consultation abruptly to protect your own schedule
 
 **Clinical & Ethical Explanations:**
 
-1. **Confidentiality (B):** The consultation room is a sacred sanctuary. Without absolute client privacy and data security, psychological safety cannot exist.
+1. **Confidentiality (B):** The consultation room is a refuge. Without absolute client privacy and data security, psychological safety cannot exist.
 2. **Autonomous Sovereignty (B):** The counselor's role is to illuminate celestial weather and developmental potential, never to usurp the seeker's moral autonomy or make life choices on their behalf.
 3. **Third-Party Consent (B):** Analyzing the chart of an unconsenting individual violates personal privacy and transforms the astrologer into an instrument of surveillance.
 4. **Scope of Practice (B):** Astrological counselors must rigorously honor professional boundaries. Medical diagnosis belongs exclusively to licensed medical practitioners; crossing this boundary endangers seeker well-being.
 5. **Growth-Oriented Guidance (C):** Ethical counseling reframes planetary friction as developmental crucibles for character integration rather than fatalistic curses.
 6. **Holding Ambiguity (C):** Seekers in distress require compassionate presence and practical discernment, not false predictive certainties that breed passive helplessness.
-7. **Cultural Humility (C):** An ethical practitioner respects that familial duty, communal ethics, and personal destiny hold profoundly different meanings across diverse traditions.
+7. **Cultural Humility (C):** An ethical practitioner respects that familial duty, communal ethics, and personal destiny hold different meanings across diverse traditions.
 8. **Crisis Holding (C):** When acute trauma emerges, ethical counselors provide grounded presence while recognizing clinical limits, facilitating gentle referral to licensed mental health professionals.
 :::
 :::
@@ -172,7 +172,7 @@ Can you preserve clear boundaries between clinical service and social friendship
 - [ ] Formulate comprehensive clinical intake and crisis referral protocols
 - [ ] Establish written policies for resolving complex third-party chart requests
 - [ ] Institute a formal monthly contemplative review of clinical countertransference
-- [ ] Mentor emerging practitioners in the sacred ethics of pastoral counseling
+- [ ] Mentor emerging practitioners in the ethics of pastoral counseling
 :::
 
 ## Chapter Reflection
@@ -183,7 +183,7 @@ Can you preserve clear boundaries between clinical service and social friendship
 
 ::: {.takeaway-box}
 - **Confidentiality is an Inviolable Covenant** — What is revealed in the consultation sanctuary remains solely within the sanctuary.
-- **Honesty Establishes Sacred Trust** — Transparently honor your qualifications, limitations, and professional scope.
+- **Honesty Establishes Trust** — Transparently honor your qualifications, limitations, and professional scope.
 - **Empowerment Over Helplessness** — Awaken the seeker's sovereign inner agency rather than breeding dependency.
 - **Free Will is Paramount** — The heavens illuminate archetypal currents; they do not issue deterministic commands.
 - **Cultural Humility Grounds Wisdom** — Reverently honor the diverse communal and spiritual worldviews of every seeker.

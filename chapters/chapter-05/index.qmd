@@ -17,7 +17,7 @@ When someone sits across from you seeking guidance, they are not merely curious 
 - Weighing the dissolution of a marriage
 - Enduring the turmoil of a sudden career transition
 - Wrestling with heavy, consequential life decisions
-- Feeling profoundly lost and grasping for an anchor
+- Feeling lost and grasping for an anchor
 
 ::: {.warning-box}
 **Your words in these moments can:**
@@ -135,7 +135,7 @@ Ethical practice demands an unyielding clarity regarding the boundaries of our c
 
 - Active suicidal ideation, gestures of self-harm, or despair
 - Disclosures of ongoing domestic abuse, assault, or violence
-- Symptoms of clinical psychosis, severe mania, or profound dissociation
+- Symptoms of clinical psychosis, severe mania, or dissociation
 - Overt substance dependency or addiction crises
 - Medical diagnosis queries or physical symptom interpretations
 - Complex relational trauma requiring specialized clinical therapy
@@ -209,12 +209,12 @@ The true efficacy of counseling lies not in authoritative pronouncements, but in
 
 ## Professional Boundaries: The Invisible Container
 
-Uncompromising professional boundaries constitute the invisible container that holds the sacred precinct of our work. They protect both counselor and seeker, creating psychological safety for the vulnerable disclosures inherent in spiritual guidance.
+Uncompromising professional boundaries constitute the invisible container that holds the precinct of our work. They protect both counselor and seeker, creating psychological safety for the vulnerable disclosures inherent in spiritual guidance.
 
 ::: {.warning-box}
 **Foundational boundaries required of every practitioner:**
 
-- **Absolute Prohibition on Romantic or Sexual Dual Relationships:** This is a zero-tolerance boundary. The power differential between counselor and seeker is profound, making any romantic or sexual entanglement an exploitative breach of trust.
+- **Absolute Prohibition on Romantic or Sexual Dual Relationships:** This is a zero-tolerance boundary. The power differential between counselor and seeker is deep, making any romantic or sexual entanglement an exploitative breach of trust.
 - **Strict Adherence to Scope of Practice:** Maintain absolute clarity regarding your specific modalities. Never dispense psychotherapeutic, medical, or legal counsel without formal licensure and credentials.
 - **Rigorous Financial Transparency:** State all consultation fees clearly in advance. Never introduce hidden charges, manipulate a seeker's anxiety to sell remediation rituals, or pressure them into recurring sessions.
 - **Clear Personal and Digital Demarcation:** Preserve strict separation between your personal life and professional practice, particularly across social media and informal messaging channels.
@@ -226,7 +226,7 @@ Seekers arrive from widely divergent cultural landscapes, each carrying distinct
 
 ::: {.skills-grid}
 ::: {.skill-box}
-**Dietary & Sacred Observances**
+**Dietary & Religious Observances**
 
 Dietary restrictions, vows (*vratas*), and ritual calendars fundamentally shape how seekers relate to symbolic remedies and physical discipline.
 :::
@@ -275,7 +275,7 @@ Before any consultation commences, seekers must clearly understand the exact nat
 
 ## When Safety Supersedes Confidentiality
 
-While seeker privacy is a sacred professional trust, rare crisis situations arise where the preservation of human life and safety must override absolute confidentiality:
+While seeker privacy is a professional trust, rare crisis situations arise where the preservation of human life and safety must override absolute confidentiality:
 
 ::: {.warning-box}
 **Acute emergency thresholds requiring immediate intervention:**
@@ -296,6 +296,6 @@ When we practice with rigorous integrity, we do far more than serve an individua
 **The Core Truth:** Your standing as a counselor is established not by the obscurity of your astrological knowledge, but by the safety, humility, and moral integrity with which you hold the trust placed in your care.
 :::
 
-Every consultation offers an opportunity to prove that sacred inquiry and professional responsibility reinforce one another, cultivating transformative healing that honors celestial wisdom and human dignity alike.
+Every consultation offers an opportunity to prove that inquiry and professional responsibility reinforce one another, cultivating transformative healing that honors celestial wisdom and human dignity alike.
 
 In the next chapter, "Knowing When to Refer," we examine the precise clinical boundaries between spiritual counseling and psychological crisis—providing the assessment tools and referral protocols necessary to safeguard seekers when their needs exceed our scope.

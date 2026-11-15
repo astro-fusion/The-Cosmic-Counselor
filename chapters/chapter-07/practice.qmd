@@ -2,7 +2,7 @@
 
 ### Grounding Ethical Record Keeping in Consultative Practice {.exercise-title}
 
-These structured exercises will guide you in translating the ethical data protection principles and DART documentation framework of Chapter 7 into concrete, lifelong consultative habits. Treating client records as a sacred trust is not merely a legal precaution; it is an indispensable pillar of professional integrity and compassionate pastoral care.
+These structured exercises will guide you in translating the ethical data protection principles and DART documentation framework of Chapter 7 into concrete, lifelong consultative habits. Treating client records as a trust is not merely a legal precaution; it is an indispensable pillar of professional integrity and compassionate pastoral care.
 
 ---
 
@@ -134,7 +134,7 @@ Review the following consultative intake summary:
 
 ::: {.highlight-box}
 **Case Scenario — Elena, 38**  
-*Elena presents seeking guidance regarding profound vocational exhaustion and emotional numbness. She has worked for fifteen years as a senior corporate litigation attorney. She reports feeling chronically depleted, unable to concentrate, and disconnected from her sense of purpose. Natal chart: Scorpio Ascendant with Mars in 8th house Gemini, Saturn in 10th house Leo square natal Sun in 7th house Taurus, Moon in 12th house Libra conjunct Pluto. She is currently undergoing her Rahu-Saturn dasha period while transit Saturn squares her natal Midheaven.*
+*Elena presents seeking guidance regarding vocational exhaustion and emotional numbness. She has worked for fifteen years as a senior corporate litigation attorney. She reports feeling chronically depleted, unable to concentrate, and disconnected from her sense of purpose. Natal chart: Scorpio Ascendant with Mars in 8th house Gemini, Saturn in 10th house Leo square natal Sun in 7th house Taurus, Moon in 12th house Libra conjunct Pluto. She is currently undergoing her Rahu-Saturn dasha period while transit Saturn squares her natal Midheaven.*
 :::
 :::
 
@@ -158,7 +158,7 @@ Synthesize the psychological dynamics with astrological symbolism without fatali
 
 ::: {.writing-space}
 **Astrological & Psychological Synthesis:**  
-*"The 12th house Moon-Pluto conjunction indicates profound unconscious emotional absorption and high susceptibility to somatic exhaustion in combative environments. The 10th house Saturn square Sun creates rigid perfectionism and an entrenched belief that rest equals moral failure. The current Saturn transit to Midheaven reflects a mandatory structural reckoning with outgrown vocational duties rather than irreversible professional failure."*
+*"The 12th house Moon-Pluto conjunction indicates unconscious emotional absorption and high susceptibility to somatic exhaustion in combative environments. The 10th house Saturn square Sun creates rigid perfectionism and an entrenched belief that rest equals moral failure. The current Saturn transit to Midheaven reflects a mandatory structural reckoning with outgrown vocational duties rather than irreversible professional failure."*
 :::
 :::
 
@@ -297,7 +297,7 @@ Enforcing responsible retention and certified permanent disposal of client data:
 **Reflection Prompts:**
 1. Which dimension of your current record-keeping workflow feels most vulnerable to exposure or disorganization?
 2. How does shifting from informal notes to the structured DART framework elevate your consultative presence?
-3. What concrete privacy safeguard will you finalize this week to honor the sacred trust of your seekers?
+3. What concrete privacy safeguard will you finalize this week to honor the trust of your seekers?
 
 ::: {.writing-space}
 *Space for your weekly reflections and commitments...*

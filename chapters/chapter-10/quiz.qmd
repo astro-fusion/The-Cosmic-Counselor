@@ -37,7 +37,7 @@ B) Even a predictive signature with 95% accuracy will produce far more False Pos
 C) Astrological transits permanently override statistical mathematics  
 D) It proves that all difficult transits must manifest as external tragedies
 
-**6. A client who has suffered through four consecutive difficult Saturn and Rahu periods asks: *"Does the cosmic law of averages guarantee that my next transit must bring extraordinary luck?"* Which cognitive distortion is this client exhibiting?**
+**6. A client who has suffered through four consecutive difficult Saturn and Rahu periods asks: *"Does the law of averages guarantee that my next transit must bring extraordinary luck?"* Which cognitive distortion is this client exhibiting?**
 
 A) The Gambler's Fallacy  
 B) The Confirmation Trap  
@@ -94,7 +94,7 @@ D) Restricting astrological knowledge exclusively to secret esoteric societies
    *Rationale:* When an outcome is extremely rare, the small percentage of false alarms across the massive healthy majority overwhelmingly outnumbers the tiny handful of true positive cases.
 
 6. **A — The Gambler's Fallacy**  
-   *Rationale:* The Gambler's Fallacy is the erroneous belief that past independent events influence the probability of future random occurrences. Cosmic cycles are not transactional moral debts that guarantee automatic "luck" after suffering.
+   *Rationale:* The Gambler's Fallacy is the erroneous belief that past independent events influence the probability of future random occurrences. Planetary cycles are not transactional moral debts that guarantee automatic "luck" after suffering.
 
 7. **C — Demystify the fear by explaining how sensationalism exploits human anxiety for engagement, reframing the eclipse as an internal threshold of psychological reflection, and reaffirming seeker autonomy**  
    *Rationale:* Ethical leadership in astrology de-escalates hysteria, exposes fear-based commercial exploitation, and restores dignity and psychological agency to the public.
@@ -183,6 +183,6 @@ _______________
 
 ## Chapter Reflection
 
-*To practice astrology with integrity is to honor both the timeless brilliance of celestial geometry and the sacred vulnerability of the human heart. We elevate our craft not by clinging to archaic fatalism, but by subjecting our methods to empirical humility, guarding our seekers' privacy, acknowledging our limitations, and holding ourselves accountable within a community of peers. In doing so, we ensure that astrology remains a radiant sanctuary of wisdom, ethical discernment, and authentic healing for generations to come.*
+*To practice astrology with integrity is to honor both the timeless brilliance of celestial geometry and the vulnerability of the human heart. We elevate our craft not by clinging to archaic fatalism, but by subjecting our methods to empirical humility, guarding our seekers' privacy, acknowledging our limitations, and holding ourselves accountable within a community of peers. In doing so, we ensure that astrology remains a radiant sanctuary of wisdom, ethical discernment, and authentic healing for generations to come.*
 
 <script src="../scripts/quiz-interactions.js"></script>
