@@ -47,7 +47,7 @@ Bridging clinical consulting with scholarly inquiry requires an uncompromising e
 
 ### Guarding Against Confirmation Bias and Astrological Hubris
 
-The greatest impediment to authentic astrological knowledge is **confirmation bias**—the tendency to celebrate and remember the handful of predictions that seemingly came true, while ignoring, rationalizing, or burying the dozens that failed.
+The greatest impediment to authentic astrological knowledge is **confirmation bias**—the tendency to celebrate and remember the handful of predictions that seemingly came true, while ignoring, rationalizing, or burying the dozens that failed [@nickerson1998].
 
 ::: {.warning-box}
 **The Peril of Retrospective Rationalization:** When an expected event fails to materialize, astrologers frequently scramble across endless harmonic charts, minor asteroids, or obscure divisional placements until they find a symbol that matches what occurred. This is not research; it is cognitive self-deception that damages the discipline's credibility.
@@ -175,7 +175,7 @@ No counselor can maintain clinical integrity in isolation. Professional longevit
 
 ::: {.skill-box}
 **Continuing Education & Skill Expansion**
-- Undertake formal training in counseling ethics, trauma-informed care, and basic psychopathology.
+- Undertake formal training in counseling ethics, trauma-informed care [@samhsa2014], and basic psychopathology.
 - Stay informed about modern counseling modalities (somatic experiencing, internal family systems, narrative therapy).
 - Continuously refine chart calculation, astronomical mechanics, and rectifying techniques.
 :::

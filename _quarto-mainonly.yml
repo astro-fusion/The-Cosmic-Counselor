@@ -16,7 +16,6 @@ book:
     - part: "Front Matter"
       chapters:
         - frontmatter/prologue.qmd
-        - frontmatter/foreword.qmd
         - frontmatter/gratitude.qmd
         - frontmatter/preface.qmd
     - part: "Chapters"

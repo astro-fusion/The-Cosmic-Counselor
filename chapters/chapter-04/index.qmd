@@ -53,7 +53,7 @@ Just as sugar pills can trigger real healing when patients believe in them, astr
 
 **Seeking What Fits**
 
-Your clients' minds are sophisticated filtering systems, unconsciously highlighting information that confirms their existing beliefs while downplaying contradictory evidence.
+Your clients' minds are sophisticated filtering systems, unconsciously highlighting information that confirms their existing beliefs while downplaying contradictory evidence [@nickerson1998].
 
 ::: {.warning-box}
 **The Selective Spotlight Effect:**
@@ -65,7 +65,7 @@ Your clients' minds are sophisticated filtering systems, unconsciously highlight
 
 **The Barnum Effect in Action**
 
-Named after circus showman P.T. Barnum, this psychological phenomenon explains why general statements feel personally meaningful. Consider these classic examples:
+Named after circus showman P.T. Barnum, this psychological phenomenon explains why general statements feel personally meaningful [@forer1949; @furnham1987]. Consider these classic examples:
 
 ::: {.client-questions}
 **Statements that feel specific but apply broadly:**
@@ -166,7 +166,7 @@ One of astrology's most beautiful offerings is permission to be uniquely yoursel
 
 A book about ethics owes its readers one more thing: honesty about our own field.
 
-Here is the uncomfortable truth, stated plainly. When astrology's predictive claims have been tested under controlled conditions, they have consistently failed. The most famous attempt was Shawn Carlson's double-blind study published in *Nature* (1985), in which astrologers could not match birth charts to personality profiles better than chance. Decades of sun-sign studies have produced the same null result. We should say this clearly: **astrology, as a system of prediction, has no scientific validation.**
+Here is the uncomfortable truth, stated plainly. When astrology's predictive claims have been tested under controlled conditions, they have consistently failed. The most famous attempt was Shawn Carlson's double-blind study published in *Nature* [@carlson1985], in which astrologers could not match birth charts to personality profiles better than chance. Decades of sun-sign studies have produced the same null result, and a review of more than forty controlled studies found astrologers performing no better than chance [@dean_kelly2003]. We should say this clearly: **astrology, as a system of prediction, has no scientific validation.**
 
 Pretending otherwise would make us exactly what this book warns against—people selling certainty we do not possess.
 
@@ -175,8 +175,8 @@ But honesty cuts both ways, and it does not end where the studies end. Science h
 ::: {.comparison-box}
 **What research confirms about the experience:**
 
-- **The Barnum Effect:** Vague, universally-flattering personality statements feel uniquely personal (Furnham & Schofield, 1987). Every serious practitioner must guard against writing "precise" readings that are actually Barnum statements.
-- **Apophenia and meaning-making:** Human minds are pattern-finding engines; we construct coherent stories from symbols (NCBI, 2008). This is not a defect—it is how humans build narrative identity.
+- **The Barnum Effect:** Vague, universally-flattering personality statements feel uniquely personal [@furnham1987]. Every serious practitioner must guard against writing "precise" readings that are actually Barnum statements.
+- **Apophenia and meaning-making:** Human minds are pattern-finding engines; we construct coherent stories from symbols. This is not a defect—it is how humans build narrative identity.
 - **Projection as insight:** A chart functions like a projective surface—what clients "see" in it often reveals their own priorities and conflicts, much as a mirror or a poem can.
 - **Expectation and ritual:** Structured, symbolically-rich conversations genuinely reduce anxiety and increase sense of agency—effects documented across counseling and placebo research.
 :::

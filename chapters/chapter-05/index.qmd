@@ -128,7 +128,7 @@ The words we utter shape our seekers' inner realities. Subtle shifts in vocabula
 
 ## Recognizing When We Are Out of Our Depth
 
-Ethical practice demands an unyielding clarity regarding the boundaries of our competence. We are spiritual counselors—we are not licensed psychotherapists, psychiatrists, physicians, or attorneys. Frequently, the highest service we can render a seeker is an immediate, skilled referral to an appropriate professional.
+Ethical practice demands an unyielding clarity regarding the boundaries of our competence. We are spiritual counselors—we are not licensed psychotherapists, psychiatrists, physicians, or attorneys. Frequently, the highest service we can render a seeker is an immediate, skilled referral to an appropriate professional [@aca2014; @bacp2026].
 
 ::: {.warning-box}
 **Clinical conditions requiring immediate professional referral:**
@@ -275,7 +275,7 @@ Before any consultation commences, seekers must clearly understand the exact nat
 
 ## When Safety Supersedes Confidentiality
 
-While seeker privacy is a professional trust, rare crisis situations arise where the preservation of human life and safety must override absolute confidentiality:
+While seeker privacy is a professional trust, rare crisis situations arise where the preservation of human life and safety must override absolute confidentiality [@aca2014; @bacp2026]:
 
 ::: {.warning-box}
 **Acute emergency thresholds requiring immediate intervention:**

@@ -1,5 +1,10 @@
 # References {.unnumbered}
 
+## Works Cited
+
+::: {#refs}
+:::
+
 ## Recommended Reading
 
 ::: {.references-container}
@@ -8,14 +13,10 @@
 
 #### Confidentiality and Client Privacy
 - American Counseling Association. (2014). *ACA Code of Ethics*. Retrieved from [https://www.counseling.org/resources/aca-code-of-ethics.pdf](https://www.counseling.org/resources/aca-code-of-ethics.pdf)
-- British Association for Counselling and Psychotherapy. (2018). *Ethical Framework for the Counselling Professions*. Retrieved from [https://www.bacp.co.uk/events-and-resources/ethics-and-standards/ethical-framework-for-the-counselling-professions/](https://www.bacp.co.uk/events-and-resources/ethics-and-standards/ethical-framework-for-the-counselling-professions/)
+- British Association for Counselling and Psychotherapy. (2026). *Ethical Framework for the Counselling Professions*. Retrieved from [https://www.bacp.co.uk/ethical-framework](https://www.bacp.co.uk/ethical-framework)
 
 #### Honesty and Transparency
-- International Association for Astrological Research. (2024). *Ethical Guidelines for Astrological Practice*. Retrieved from [https://www.isar-astrology.com/ethics](https://www.isar-astrology.com/ethics)
-- Times of India. (2024). *Stars and Standards: Ethical Considerations in the Practice of Astrology*. Retrieved from [https://timesofindia.indiatimes.com/astrology/others/stars-and-standards-ethical-considerations-in-the-practice-of-astrology/articleshow/108849481.cms](https://timesofindia.indiatimes.com/astrology/others/stars-and-standards-ethical-considerations-in-the-practice-of-astrology/articleshow/108849481.cms)
-
-#### Non-maleficence and Beneficence
-- Study.com. (2024). *Ethics in Counseling | Overview, Guidelines & Issues*. Retrieved from [https://study.com/academy/lesson/the-importance-of-ethics-in-counseling.html](https://study.com/academy/lesson/the-importance-of-ethics-in-counseling.html)
+- International Society for Astrological Research. (2003). *Ethical Standards and Guidelines* (originally 2001, revised July 2003). Members should consult the society's own website for the current text.
 
 #### Cultural Sensitivity
 - Floyd, R. (2023). *Understanding the Psychological Significance of Astrology in Modern Society*. Retrieved from [https://dsc.duq.edu/cgi/viewcontent.cgi?article=3262&context=etd](https://dsc.duq.edu/cgi/viewcontent.cgi?article=3262&context=etd)

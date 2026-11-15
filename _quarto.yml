@@ -21,6 +21,8 @@ languages:
     subtitle: "आधुनिक समयमा नैतिक आध्यात्मिक मार्गदर्शन"
     author: "बिशाल घिमिरे"
 
+bibliography: references.bib
+
 book:
   title: "The Cosmic Counselor"
   subtitle: "Ethical Spiritual Guidance in Modern Times"
@@ -34,7 +36,6 @@ book:
     - part: "Front Matter"
       chapters:
         - frontmatter/prologue.qmd
-        - frontmatter/foreword.qmd
         - frontmatter/gratitude.qmd
         - frontmatter/preface.qmd
     
