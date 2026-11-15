@@ -1,3 +1,5 @@
 # Foreword {.unnumbered}
 
-[Content for your foreword goes here - typically written by someone other than the author, introducing the book and author]
+<!-- A real foreword is wanted here, written by a psychotherapist or a respected astrologer.
+     It is left out of the book (see _quarto.yml) until someone has actually written it.
+     When it exists, put the text here and add frontmatter/foreword.qmd back to the Front Matter list. -->
